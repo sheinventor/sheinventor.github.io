@@ -26,11 +26,13 @@
           <nav>
             <a href="{{ site.baseurl }}/fr/">Blog</a>
             <a href="{{ site.baseurl }}/fr/about">À propos de moi</a>
+            
             <!-- Links para cambiar de idioma -->
             <div class="language-switcher">
-              <a href="{{ site.baseurl }}/en{{ page.url }}">EN</a> |
-              <a href="{{ site.baseurl }}/fr{{ page.url }}" class="active">FR</a> |
-              <a href="{{ site.baseurl }}/es{{ page.url }}">ES</a>
+              {% assign current_path = page.url | remove: '/fr' | remove: '/es' | remove: '/en' %}
+              <a href="{{ site.baseurl }}/en{{ current_path }}">EN</a> |
+              <a href="{{ site.baseurl }}/fr{{ current_path }}" class="active">FR</a> |
+              <a href="{{ site.baseurl }}/es{{ current_path }}">ES</a>
             </div>
           </nav>
         </header>
