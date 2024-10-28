@@ -18,3 +18,5 @@ permalink: /es/
     {% endif %}
   {% endfor %}
 </div> 
+
+Este es el indice en español
