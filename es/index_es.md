@@ -20,3 +20,11 @@ permalink: /es/
 </div> 
 
 Este es el indice en español
+
+No era ciencia, era magia. 
+
+images/Emanuel-2.png
+
+Magia que hoy llevo conmigo. (En los cursos de ciencia que doy a niñas y niños)
+
+![Persona enseñando ciencia a niños]({{ site.baseurl }}/images/Emanuel-4.png)
