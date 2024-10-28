@@ -1,19 +1,20 @@
 ---
 layout: default_es  
-title: "Blog en espagnol"
+title: "Blog en español"
 lang: "es"
 permalink: /es/
 ---
+
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:5 %}
     {% if post.lang == page.lang %}
       <article class="post">
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         <div class="entry">
           {{ post.excerpt }}
         </div>
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer mas</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer más</a>
       </article>
     {% endif %}
   {% endfor %}
-</div>
+</div> 
