@@ -3,7 +3,7 @@ layout: post
 title: "Título del Post en Español"
 date: 2024-10-28 14:00:00 +0200
 categories: comics
-lang: es
+lang: en
 ---
 
 ## ¡Bienvenido a mi nuevo cómic!
