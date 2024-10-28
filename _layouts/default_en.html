@@ -28,9 +28,10 @@
             <a href="{{ site.baseurl }}/en/about">About</a>
             <!-- Links para cambiar de idioma -->
             <div class="language-switcher">
-              <a href="{{ site.baseurl }}/en{{ page.url }}" class="active">EN</a> |
-              <a href="{{ site.baseurl }}/fr{{ page.url }}">FR</a> |
-              <a href="{{ site.baseurl }}/es{{ page.url }}">ES</a>
+                {% assign current_path = page.url | remove: '/fr' | remove: '/es' | remove: '/en' %}
+                <a href="{{ site.baseurl }}/en{{ current_path }}" class="active">EN</a> |
+                <a href="{{ site.baseurl }}/fr{{ current_path }}">FR</a> |
+                <a href="{{ site.baseurl }}/es{{ current_path }}">ES</a>
             </div>
           </nav>
         </header>
