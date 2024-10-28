@@ -1,5 +1,5 @@
 ---
-layout: default_fr  # Usa el layout correspondiente en francés
+layout: default_es  
 title: "Blog en espagnol"
 lang: "es"
 permalink: /es/
