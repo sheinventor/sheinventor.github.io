@@ -22,3 +22,5 @@ permalink: /fr/
 ## ¡Bienvenido a mi nuevo cómic!
 
 Este es el primer cómic en español. Aquí puedes hablar sobre el contenido del cómic, los temas o algún contexto divertido.
+
+
