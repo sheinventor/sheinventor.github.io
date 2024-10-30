@@ -1,9 +1,4 @@
----
-layout: default_es
-title: "Blog en español"
-lang: "es"
-permalink: /es/
----
+
 
 <!DOCTYPE html>
 <html lang="es">
@@ -57,7 +52,7 @@ permalink: /es/
     <div class="container">
         <h1>{{ page.title }}</h1>
         <p>Texto descriptivo con la fuente Titillium Web en el centro de la interfaz.</p>
-        <img src="/images/Emanuel-1.png" alt="Descripción de la imagen" class="image">
+        <img src="/..images/Emanuel-1.png" alt="Descripción de la imagen" class="image">
     </div>
 </body>
 </html>
