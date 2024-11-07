@@ -11,6 +11,11 @@ css: ../css/styles.css  # Ruta al archivo CSS
 # Tutoriales Básicos 
 
 - ![3D Printing](../../images/Emanuel1.png)  
-  **Basic 3D Print**  
+  **[TutorialImpresion](tutorial1.qmd)**    
   Este es el primer tutorial básico
+
+  **[TutorialImpresion](tutorial2.qmd)**   
+
+  **[TutorialImpresion](tutorial3.qmd)**   
+
 

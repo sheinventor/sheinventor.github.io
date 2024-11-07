@@ -1,0 +1,24 @@
+---
+title: "Incrustar Tablero de Pinterest"
+format: html
+---
+
+## Ejemplo de Incrustación de un Tablero de Pinterest
+
+Puedes incrustar un tablero de Pinterest en tu página de Quarto utilizando un iframe de la siguiente manera:
+
+```{=html}
+<iframe src="https://petracoding.github.io/pinterest/board.html?link=paovazbar/memes/&hideHeader=0&transparent=0" 
+        width="1080" 
+        height="1000" 
+        style="border: none;"></iframe>
+
+
+```html
+```{=html}
+<iframe src="https://petracoding.github.io/pinterest/board.html?link=paovazbar/memes/&hideHeader=0&transparent=0" 
+        width="600" 
+        height="400" 
+        style="border: none;"></iframe>
+
+

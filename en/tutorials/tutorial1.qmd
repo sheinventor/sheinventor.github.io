@@ -14,6 +14,13 @@ La impresión 3D se utiliza en muchas áreas: desde el diseño de moda, hasta la
 
 - **Imagen**: /images.png (Un collage de objetos impresos en 3D, como joyería, decoraciones y prototipos médicos, que muestran la versatilidad de la tecnología).
 
+
+
+<iframe src="https://petracoding.github.io/pinterest/board.html?link=paovazbar/3d-ideas/&hideHeader=0&transparent=0" 
+        width="1080" 
+        height="1000" 
+        style="border: none;"></iframe>
+
 ---
 
 ## Claves de la Impresión 3D
