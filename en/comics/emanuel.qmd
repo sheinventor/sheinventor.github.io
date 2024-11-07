@@ -1,0 +1,38 @@
+---
+title: "Memories that Mark Lives"
+author: "SheInventor"
+image: "../../images/Emanuel1.png"
+description: "This is the first comic in the series."
+date: "2024-11-01"
+format: 
+  html:
+    self-contained: true
+css: ../../css/styles.css
+lang: en
+---
+
+# Emanuel
+
+---
+
+## There are memories that mark lives.
+
+![At age 6, with a bowl haircut.](../../images/Emanuel1.png)
+
+---
+
+## Doing science experiments with my cousin was one of them.
+
+![A piece of waxed string burning](../../images/Emanuel2.png)
+
+---
+
+## For me, it wasn’t “science”; it was magic.
+
+![Emanuel, always with his vest](../../images/Emanuel3.png)
+
+---
+
+## Magic that I carry with me today.
+
+![Paola, doing science workshops since age 26](../../images/Emanuel4.png)

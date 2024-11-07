@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "SheInventor"
+  favicon: images/icono.png
+  site-url: https://sheinventor.github.io/
+
+  navbar:
+    logo: images/logo.gif
+    left:
+      - text: Home
+        href: index.qmd
+
+    right:
+      - text: "Español"
+        menu:
+        - text: "Introducción"
+          href: es/index.qmd
+        - text: "Tutoriales"
+          href: es/tutoriels/tutorial1.qmd
+        - text: "Comics"
+          href: es\comics\index.qmd
+      - text: "English"
+        menu:
+        - text: "Introduccion"
+          href: en/index.qmd
+        - text: "Tutorials"
+          href: en/tutoriels/tutorial1.qmd
+        - text: "comics"
+          href: en\comics\index.qmd
+      - text: "Français"
+        menu:
+        - text: "Introduction"
+          href: fr/index.qmd
+        - text: "Tutoriels"
+          href: fr/tutoriels/tutorial1.qmd
+        - text: "Bandes desinées"
+          href: fr\comics\index.qmd
+
+css: css/styles.css
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Mi Sitio Web"
+  description: "Bienvenido a mi sitio web creado con Quarto."
+  navbar:
+    left:
+      - text: "Inicio"
+        href: "index.qmd"
+      - text: "Acerca de"
+        href: "about.qmd"
+    right:
+      - text: "English"
+        href: "../en/index.qmd"
+      - text: "Español"
+        href: "../es/index.qmd"

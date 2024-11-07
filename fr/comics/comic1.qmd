@@ -1,0 +1,39 @@
+---
+title: "Souvenirs qui Marquent des Vies"
+author: "SheInventor"
+image: "../../images/Emanuel1.png"
+description: "C'est le premier comic de la série."
+date: "2024-11-01"
+format: 
+  html:
+    self-contained: true
+css: ../../css/styles.css  # Ruta al archivo CSS
+---
+
+
+# Emanuel
+
+---
+
+## Il y a des souvenirs qui marquent des vies.
+
+![À mes 6 ans, avec une coupe au bol.](../../images/Emanuel1.png)
+
+---
+
+## Faire des expériences scientifiques avec mon cousin en était un.
+
+![Un morceau de fil avec de la cire en feu](../../images/Emanuel2.png)
+
+---
+
+## Pour moi, ce n'était pas de la « science », c'était de la magie.
+
+![Emanuel, toujours avec son gilet](../../images/Emanuel3.png)
+
+---
+
+## Une magie que je porte avec moi aujourd'hui.
+
+![Paola, depuis ses 26 ans, animant des ateliers scientifiques](../../images/Emanuel4.png)
+

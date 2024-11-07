@@ -1,0 +1,18 @@
+---
+title: "Facing My Fears on Ice"
+format: 
+  html: 
+    toc: true
+    number-sections: true
+css: ../../css/styles.css  # Ruta al archivo CSS
+---
+
+## Overcoming My Fear of Ice Skating
+
+A long time ago, I had a serious fall while ice skating that left me injured and shaken. The fear of getting back on the ice was overwhelming, but I found the courage and strength to return. 
+
+I didn’t do it alone. I was supported by loving and caring people who encouraged me every step of the way. Their presence made all the difference and helped me regain my confidence.
+
+Watch this video to see my journey back to ice skating! 
+
+[![Watch the video](https://img.youtube.com/vi/nZUdfFajxtQ/0.jpg)](https://youtube.com/shorts/nZUdfFajxtQ?si=Qj7rH9skY32ktDiX)

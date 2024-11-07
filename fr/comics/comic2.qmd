@@ -1,0 +1,12 @@
+---
+title: "Recuerdos que Marcan Vidas 2 "
+author: "SheInventor"
+image: "../../images/Emanuel1.png"
+description: "Este es el primer cómic de la serie."
+date: "2024-11-01"
+format: 
+  html:
+    self-contained: true
+css: ../../css/styles.css  # Ruta al archivo CSS
+---
+

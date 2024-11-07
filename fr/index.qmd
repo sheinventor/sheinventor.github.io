@@ -1,0 +1,21 @@
+---
+title: "Bienvenue sur mon site"
+format: 
+  html: 
+    toc: true
+    number-sections: true
+css: ../css/styles.css  # Ruta al archivo CSS
+---
+
+# Bienvenue
+
+Bienvenue sur notre site web ! Ici, vous trouverez des informations sur :
+
+- [Comics](comics/comic1.html)
+- [Tutoriels](tutorials/tutorial1.html)
+- [À Propos](about.html)
+
+## Sélectionnez votre langue
+
+- [English](../en/index.html)
+- [Español](../es/index.html)

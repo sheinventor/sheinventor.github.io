@@ -1,0 +1,23 @@
+---
+title: "Comics"
+format: 
+  html: 
+    toc: true
+    number-sections: true
+css: ../../css/styles.css  # Ensure this path is correct
+---
+
+
+# Cómics Recientes en Francés
+
+- ![Comic 1](../../images/Emanuel1.png)  
+  **[Cómic 1](Ice.qmd)**  
+  Este es el primer cómic de la serie.
+
+## Watch My Ice Skating Journey
+
+Here's a video about my journey back to ice skating after my fall. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nZUdfFajxtQ" frameborder="0" allowfullscreen></iframe>
+
+ **[Prueba](prueba.qmd)** 

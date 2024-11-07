@@ -1,0 +1,19 @@
+---
+title: "À Propos"
+format: 
+  html: 
+    toc: true
+    number-sections: true
+---
+
+# À Propos
+
+Bienvenue sur mon site web ! Ici, vous trouverez des ressources sur divers sujets, notamment des comics et des tutoriels.
+
+## Notre Mission
+
+Notre mission est de rendre la science accessible à tous en utilisant des ressources visuelles et interactives.
+
+## Contact
+
+Pour toute question ou suggestion, n'hésitez pas à nous contacter à l'adresse suivante : info@monsite.com.

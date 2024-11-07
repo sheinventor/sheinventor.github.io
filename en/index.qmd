@@ -1,0 +1,23 @@
+# Welcome 
+
+---
+title: "Welcome to the website"
+format: 
+  html: 
+    toc: true
+    number-sections: true
+css: ../css/styles.css  # Ruta al archivo CSS
+---
+
+
+In progess Site Web 
+
+- [Comics](comics/index.qmd)
+- [Tutoriels](tutorials/tutorial1.html)
+- [À Propos](about.html)
+
+## Sélectionnez votre langue
+
+- [English](../en/index.html)
+- [Español](../es/index.html)
+
