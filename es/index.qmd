@@ -10,8 +10,8 @@ Index en español
 
 
 
-- [Comics](comics/emanuel.html)
-- [Tutoriels](tutoriels/)
+- [Comics](comics/emanuel.qmd)
+- [Tutorials](tutorials/)
 
 - [Français](../fr/index.qmd)
 - [English](../en/index.qmd)

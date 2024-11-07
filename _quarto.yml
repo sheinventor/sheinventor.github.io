@@ -17,25 +17,25 @@ website:
       - text: "Español"
         menu:
         - text: "Introducción"
-          href: es/index.qmd
+          href: es\index.qmd
         - text: "Tutoriales"
-          href: es/tutoriels/tutorial1.qmd
+          href: es\tutorials\tutorial1.qmd
         - text: "Comics"
           href: es\comics\index.qmd
       - text: "English"
         menu:
         - text: "Introduccion"
-          href: en/index.qmd
+          href: en\index.qmd
         - text: "Tutorials"
-          href: en/tutoriels/tutorial1.qmd
+          href: en\tutorials\tutorial1.qmd
         - text: "comics"
           href: en\comics\index.qmd
       - text: "Français"
         menu:
         - text: "Introduction"
-          href: fr/index.qmd
+          href: fr\index.qmd
         - text: "Tutoriels"
-          href: fr/tutoriels/tutorial1.qmd
+          href: fr\tutorials\tutorial1.qmd
         - text: "Bandes desinées"
           href: fr\comics\index.qmd
 

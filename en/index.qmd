@@ -18,6 +18,6 @@ In progess Site Web
 
 ## Sélectionnez votre langue
 
-- [English](../en/index.html)
-- [Español](../es/index.html)
+- [English](../en/index.qmd)
+- [Español](../es/index.qmd)
 

@@ -14,39 +14,81 @@
     "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   },
   {
-    "objectID": "fr/comics/index.html",
-    "href": "fr/comics/index.html",
-    "title": "Comics",
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "Bienvenue sur mon site",
     "section": "",
-    "text": "1 Cómics Recientes en Francés\n\n\nCómic 1\nEste es el primer cómic de la serie."
+    "text": "Bienvenue sur notre site web ! Ici, vous trouverez des informations sur :\n\nComics\nTutorials\nÀ Propos\n\n\n\n\nEnglish\nEspañol"
   },
   {
-    "objectID": "fr/about.html",
-    "href": "fr/about.html",
-    "title": "À Propos",
+    "objectID": "fr/index.html#sélectionnez-votre-langue",
+    "href": "fr/index.html#sélectionnez-votre-langue",
+    "title": "Bienvenue sur mon site",
     "section": "",
-    "text": "Bienvenue sur mon site web ! Ici, vous trouverez des ressources sur divers sujets, notamment des comics et des tutoriels.\n\n\nNotre mission est de rendre la science accessible à tous en utilisant des ressources visuelles et interactives.\n\n\n\nPour toute question ou suggestion, n’hésitez pas à nous contacter à l’adresse suivante : info@monsite.com."
+    "text": "English\nEspañol"
   },
   {
-    "objectID": "fr/about.html#notre-mission",
-    "href": "fr/about.html#notre-mission",
-    "title": "À Propos",
+    "objectID": "fr/comics/comic1.html",
+    "href": "fr/comics/comic1.html",
+    "title": "Souvenirs qui Marquent des Vies",
     "section": "",
-    "text": "Notre mission est de rendre la science accessible à tous en utilisant des ressources visuelles et interactives."
+    "text": "À mes 6 ans, avec une coupe au bol.\n\n\n\n\n\n\n\n\n\nUn morceau de fil avec de la cire en feu\n\n\n\n\n\n\n\n\n\nEmanuel, toujours avec son gilet\n\n\n\n\n\n\n\n\n\nPaola, depuis ses 26 ans, animant des ateliers scientifiques"
   },
   {
-    "objectID": "fr/about.html#contact",
-    "href": "fr/about.html#contact",
-    "title": "À Propos",
+    "objectID": "fr/comics/comic1.html#il-y-a-des-souvenirs-qui-marquent-des-vies.",
+    "href": "fr/comics/comic1.html#il-y-a-des-souvenirs-qui-marquent-des-vies.",
+    "title": "Souvenirs qui Marquent des Vies",
     "section": "",
-    "text": "Pour toute question ou suggestion, n’hésitez pas à nous contacter à l’adresse suivante : info@monsite.com."
+    "text": "À mes 6 ans, avec une coupe au bol."
+  },
+  {
+    "objectID": "fr/comics/comic1.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "href": "fr/comics/comic1.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "",
+    "text": "Un morceau de fil avec de la cire en feu"
+  },
+  {
+    "objectID": "fr/comics/comic1.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "href": "fr/comics/comic1.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "",
+    "text": "Emanuel, toujours avec son gilet"
+  },
+  {
+    "objectID": "fr/comics/comic1.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "href": "fr/comics/comic1.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "",
+    "text": "Paola, depuis ses 26 ans, animant des ateliers scientifiques"
   },
   {
     "objectID": "es/index.html",
     "href": "es/index.html",
     "title": "Bienvenida a SheInventor !",
     "section": "",
-    "text": "Index en español\n\nComics\nTutoriels\nFrançais\nEnglish"
+    "text": "Index en español\n\nComics\nTutorials\nFrançais\nEnglish"
+  },
+  {
+    "objectID": "en/tutorials/tutorial1.html",
+    "href": "en/tutorials/tutorial1.html",
+    "title": "Introducción a la Impresión 3D para Principiantes",
+    "section": "",
+    "text": "Este post está diseñado para quienes desean explorar el mundo de la impresión 3D, especialmente para chicas de 17 años. Descubre los conceptos básicos y algunas claves para empezar.\n\n\n\n\nLa impresión 3D es una tecnología que crea objetos físicos a partir de diseños digitales. Imagina que puedes hacer realidad tus propias ideas y diseños, desde un accesorio hasta una figura decorativa.\n\nImagen: /images.png (Una impresora 3D imprimiendo un objeto pequeño, como una figura decorativa. Mostrar de cerca cómo se crea el objeto capa por capa).\n\n\n\n\nLa impresión 3D se utiliza en muchas áreas: desde el diseño de moda, hasta la medicina y el arte. ¡Incluso puedes crear tus propios accesorios o piezas únicas para decorar tu espacio!\n\nImagen: /images.png (Un collage de objetos impresos en 3D, como joyería, decoraciones y prototipos médicos, que muestran la versatilidad de la tecnología).\n\n\n\n\n\n\n\n\n\n\n\nFDM: La más común para principiantes, ideal para objetos de uso diario.\nSLA: Ofrece mayor detalle, pero es más compleja y generalmente se usa para objetos pequeños y precisos.\nImagen: /images.png (Foto comparativa de una impresora FDM y una SLA con breves etiquetas sobre sus características).\n\n\n\n\n\nElige una impresora con el volumen adecuado según el tipo de proyectos que quieras realizar.\n\n\n\n\n\nCada material tiene características distintas; aquí los más comunes: - PLA: Fácil de usar, biodegradable y perfecto para principiantes. - ABS: Más resistente, pero necesita una cama caliente para evitar deformaciones. - PETG: Resistente y duradero, fácil de usar y adecuado para proyectos más avanzados.\n\nImagen: /images.png (Muestra de los diferentes tipos de filamento con etiquetas sobre sus características: PLA, ABS, PETG).\n\n\n\n\n\n\n\nUsa programas como Tinkercad (muy fácil de usar) o FreeCAD para diseñar tus modelos en 3D.\n\n\n\n\n\nAsegúrate de exportar tu diseño en STL u OBJ, los formatos más comunes para impresión 3D.\nImagen: /images.png (Captura de pantalla de Tinkercad mostrando un diseño básico en 3D, como un llavero o una pequeña figura).\n\n\n\n\n\n\n\n\nConvierte el modelo 3D en instrucciones para la impresora usando programas como Cura o PrusaSlicer.\n\n\n\n\n\nAjusta la altura de capa, velocidad, relleno y temperatura según el material y el objeto.\nImagen: /images.png (Interfaz de un programa de corte mostrando un modelo preparado para impresión, con parámetros de altura de capa y velocidad visibles).\n\n\n\n\n\n\n\n\nAsegúrate de que la impresora esté calibrada, especialmente en la altura de la boquilla y nivelación de la cama para una mejor adhesión.\n\n\n\n\n\nEsto es crucial para que la impresión no falle en las primeras capas.\nImagen: /images.png (Imagen de una impresora en proceso de calibración, con énfasis en el ajuste de la cama y la boquilla).\n\n\n\n\n\n\nUtiliza cinta adhesiva, spray de adhesión, o superficies especiales para mejorar la adherencia del primer nivel y evitar problemas.\nImagen: /images.png (Foto de una cama de impresión cubierta con cinta o spray, mostrando cómo se prepara para la impresión).\n\n\n\n\n\nObserva el proceso, especialmente en las primeras capas para detectar problemas.\nAsegúrate de que la temperatura del extrusor y la cama sean las adecuadas.\nImagen: /images.png (Foto de una impresión en proceso, con una persona observando de cerca la primera capa).\n\n\n\n\n\n\n\nSi tu modelo requiere soportes, retíralos con cuidado al finalizar la impresión.\n\n\n\n\n\nLija las piezas para suavizarlas y puedes pintarlas para un acabado profesional.\nImagen: /images.png (Foto de un modelo recién impreso con soportes y herramientas de post-procesamiento, como lija y pinceles).\n\n\n\n\n\n\nNo temas experimentar. Prueba con configuraciones diferentes y aprende de los errores. La práctica te permitirá mejorar con el tiempo.\nImagen: /images.png (Collage de diferentes resultados impresos en 3D, mostrando tanto éxitos como algunos errores comunes).\n\n\n\n\n\nÚnete a foros y grupos en línea para compartir experiencias y obtener ayuda de otros aficionados y expertos en impresión 3D.\nImagen: /images.png (Captura de pantalla de un foro en línea sobre impresión 3D, con usuarios compartiendo consejos y resultados).\n\n\n\n\n\nLa impresión 3D es una herramienta poderosa y accesible. ¡Anímate a explorar y crea tus propios proyectos!\n\nCon esta guía, puedes comenzar a entender y experimentar con la impresión 3D. ¿Listas para empezar?"
+  },
+  {
+    "objectID": "en/tutorials/tutorial1.html#explora-el-mundo-de-la-impresión-3d",
+    "href": "en/tutorials/tutorial1.html#explora-el-mundo-de-la-impresión-3d",
+    "title": "Introducción a la Impresión 3D para Principiantes",
+    "section": "",
+    "text": "La impresión 3D es una tecnología que crea objetos físicos a partir de diseños digitales. Imagina que puedes hacer realidad tus propias ideas y diseños, desde un accesorio hasta una figura decorativa.\n\nImagen: /images.png (Una impresora 3D imprimiendo un objeto pequeño, como una figura decorativa. Mostrar de cerca cómo se crea el objeto capa por capa).\n\n\n\n\nLa impresión 3D se utiliza en muchas áreas: desde el diseño de moda, hasta la medicina y el arte. ¡Incluso puedes crear tus propios accesorios o piezas únicas para decorar tu espacio!\n\nImagen: /images.png (Un collage de objetos impresos en 3D, como joyería, decoraciones y prototipos médicos, que muestran la versatilidad de la tecnología)."
+  },
+  {
+    "objectID": "en/tutorials/tutorial1.html#claves-de-la-impresión-3d",
+    "href": "en/tutorials/tutorial1.html#claves-de-la-impresión-3d",
+    "title": "Introducción a la Impresión 3D para Principiantes",
+    "section": "",
+    "text": "FDM: La más común para principiantes, ideal para objetos de uso diario.\nSLA: Ofrece mayor detalle, pero es más compleja y generalmente se usa para objetos pequeños y precisos.\nImagen: /images.png (Foto comparativa de una impresora FDM y una SLA con breves etiquetas sobre sus características).\n\n\n\n\n\nElige una impresora con el volumen adecuado según el tipo de proyectos que quieras realizar.\n\n\n\n\n\nCada material tiene características distintas; aquí los más comunes: - PLA: Fácil de usar, biodegradable y perfecto para principiantes. - ABS: Más resistente, pero necesita una cama caliente para evitar deformaciones. - PETG: Resistente y duradero, fácil de usar y adecuado para proyectos más avanzados.\n\nImagen: /images.png (Muestra de los diferentes tipos de filamento con etiquetas sobre sus características: PLA, ABS, PETG).\n\n\n\n\n\n\n\nUsa programas como Tinkercad (muy fácil de usar) o FreeCAD para diseñar tus modelos en 3D.\n\n\n\n\n\nAsegúrate de exportar tu diseño en STL u OBJ, los formatos más comunes para impresión 3D.\nImagen: /images.png (Captura de pantalla de Tinkercad mostrando un diseño básico en 3D, como un llavero o una pequeña figura).\n\n\n\n\n\n\n\n\nConvierte el modelo 3D en instrucciones para la impresora usando programas como Cura o PrusaSlicer.\n\n\n\n\n\nAjusta la altura de capa, velocidad, relleno y temperatura según el material y el objeto.\nImagen: /images.png (Interfaz de un programa de corte mostrando un modelo preparado para impresión, con parámetros de altura de capa y velocidad visibles).\n\n\n\n\n\n\n\n\nAsegúrate de que la impresora esté calibrada, especialmente en la altura de la boquilla y nivelación de la cama para una mejor adhesión.\n\n\n\n\n\nEsto es crucial para que la impresión no falle en las primeras capas.\nImagen: /images.png (Imagen de una impresora en proceso de calibración, con énfasis en el ajuste de la cama y la boquilla).\n\n\n\n\n\n\nUtiliza cinta adhesiva, spray de adhesión, o superficies especiales para mejorar la adherencia del primer nivel y evitar problemas.\nImagen: /images.png (Foto de una cama de impresión cubierta con cinta o spray, mostrando cómo se prepara para la impresión).\n\n\n\n\n\nObserva el proceso, especialmente en las primeras capas para detectar problemas.\nAsegúrate de que la temperatura del extrusor y la cama sean las adecuadas.\nImagen: /images.png (Foto de una impresión en proceso, con una persona observando de cerca la primera capa).\n\n\n\n\n\n\n\nSi tu modelo requiere soportes, retíralos con cuidado al finalizar la impresión.\n\n\n\n\n\nLija las piezas para suavizarlas y puedes pintarlas para un acabado profesional.\nImagen: /images.png (Foto de un modelo recién impreso con soportes y herramientas de post-procesamiento, como lija y pinceles).\n\n\n\n\n\n\nNo temas experimentar. Prueba con configuraciones diferentes y aprende de los errores. La práctica te permitirá mejorar con el tiempo.\nImagen: /images.png (Collage de diferentes resultados impresos en 3D, mostrando tanto éxitos como algunos errores comunes).\n\n\n\n\n\nÚnete a foros y grupos en línea para compartir experiencias y obtener ayuda de otros aficionados y expertos en impresión 3D.\nImagen: /images.png (Captura de pantalla de un foro en línea sobre impresión 3D, con usuarios compartiendo consejos y resultados).\n\n\n\n\n\nLa impresión 3D es una herramienta poderosa y accesible. ¡Anímate a explorar y crea tus propios proyectos!\n\nCon esta guía, puedes comenzar a entender y experimentar con la impresión 3D. ¿Listas para empezar?"
   },
   {
     "objectID": "en/index.html",
@@ -161,6 +203,13 @@
     "text": "Descripción de la imagen 1\nDescripción de la imagen 2\nDescripción de la imagen 3\nDescripción de la imagen 4\nDescripción de la imagen 5\nDescripción de la imagen 6\n\n\n\n\n\n\n\n\n\n\nDescripción de la imagen 7\nDescripción de la imagen 8\nDescripción de la imagen 9\nDescripción de la imagen 10\nDescripción de la imagen 11\nDescripción de la imagen 12"
   },
   {
+    "objectID": "en/tutorials/index.html",
+    "href": "en/tutorials/index.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "1 Tutoriales Básicos\n\n\nBasic 3D Print\nEste es el primer tutorial básico"
+  },
+  {
     "objectID": "es/comics/emanuel.html",
     "href": "es/comics/emanuel.html",
     "title": "Recuerdos que Marcan Vidas",
@@ -196,53 +245,46 @@
     "text": "Paola, desde los 26 años haciendo talleres de ciencia"
   },
   {
-    "objectID": "fr/comics/comic1.html",
-    "href": "fr/comics/comic1.html",
-    "title": "Souvenirs qui Marquent des Vies",
+    "objectID": "es/tutorials/index.html",
+    "href": "es/tutorials/index.html",
+    "title": "Tutoriales",
     "section": "",
-    "text": "À mes 6 ans, avec une coupe au bol.\n\n\n\n\n\n\n\n\n\nUn morceau de fil avec de la cire en feu\n\n\n\n\n\n\n\n\n\nEmanuel, toujours avec son gilet\n\n\n\n\n\n\n\n\n\nPaola, depuis ses 26 ans, animant des ateliers scientifiques"
+    "text": "1 Tutoriales Básicos\n\n\nTutorialImpresion\nEste es el primer tutorial básico"
   },
   {
-    "objectID": "fr/comics/comic1.html#il-y-a-des-souvenirs-qui-marquent-des-vies.",
-    "href": "fr/comics/comic1.html#il-y-a-des-souvenirs-qui-marquent-des-vies.",
-    "title": "Souvenirs qui Marquent des Vies",
+    "objectID": "fr/about.html",
+    "href": "fr/about.html",
+    "title": "À Propos",
     "section": "",
-    "text": "À mes 6 ans, avec une coupe au bol."
+    "text": "Bienvenue sur mon site web ! Ici, vous trouverez des ressources sur divers sujets, notamment des comics et des tutoriels.\n\n\nNotre mission est de rendre la science accessible à tous en utilisant des ressources visuelles et interactives.\n\n\n\nPour toute question ou suggestion, n’hésitez pas à nous contacter à l’adresse suivante : info@monsite.com."
   },
   {
-    "objectID": "fr/comics/comic1.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
-    "href": "fr/comics/comic1.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
-    "title": "Souvenirs qui Marquent des Vies",
+    "objectID": "fr/about.html#notre-mission",
+    "href": "fr/about.html#notre-mission",
+    "title": "À Propos",
     "section": "",
-    "text": "Un morceau de fil avec de la cire en feu"
+    "text": "Notre mission est de rendre la science accessible à tous en utilisant des ressources visuelles et interactives."
   },
   {
-    "objectID": "fr/comics/comic1.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
-    "href": "fr/comics/comic1.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
-    "title": "Souvenirs qui Marquent des Vies",
+    "objectID": "fr/about.html#contact",
+    "href": "fr/about.html#contact",
+    "title": "À Propos",
     "section": "",
-    "text": "Emanuel, toujours avec son gilet"
+    "text": "Pour toute question ou suggestion, n’hésitez pas à nous contacter à l’adresse suivante : info@monsite.com."
   },
   {
-    "objectID": "fr/comics/comic1.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
-    "href": "fr/comics/comic1.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
-    "title": "Souvenirs qui Marquent des Vies",
+    "objectID": "fr/comics/index.html",
+    "href": "fr/comics/index.html",
+    "title": "Comics",
     "section": "",
-    "text": "Paola, depuis ses 26 ans, animant des ateliers scientifiques"
+    "text": "1 Cómics Recientes en Francés\n\n\nCómic 1\nEste es el primer cómic de la serie."
   },
   {
-    "objectID": "fr/index.html",
-    "href": "fr/index.html",
-    "title": "Bienvenue sur mon site",
+    "objectID": "fr/tutorials/index.html",
+    "href": "fr/tutorials/index.html",
+    "title": "Tutoriales",
     "section": "",
-    "text": "Bienvenue sur notre site web ! Ici, vous trouverez des informations sur :\n\nComics\nTutoriels\nÀ Propos\n\n\n\n\nEnglish\nEspañol"
-  },
-  {
-    "objectID": "fr/index.html#sélectionnez-votre-langue",
-    "href": "fr/index.html#sélectionnez-votre-langue",
-    "title": "Bienvenue sur mon site",
-    "section": "",
-    "text": "English\nEspañol"
+    "text": "1 Tutoriales Básicos\n\n\nTutorialImpresion\nEste es el primer tutorial básico"
   },
   {
     "objectID": "index.html",

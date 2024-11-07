@@ -1,0 +1,16 @@
+---
+title: "Tutoriales"
+format: 
+  html: 
+    toc: true
+    number-sections: true
+css: ../css/styles.css  # Ruta al archivo CSS
+---
+
+
+# Tutoriales Básicos 
+
+- ![Impresón 3D ](../../images/Emanuel1.png)  
+  **[TutorialImpresion](tutorial1.qmd)**  
+  Este es el primer tutorial básico
+
