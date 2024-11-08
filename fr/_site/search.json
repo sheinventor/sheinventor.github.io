@@ -19,5 +19,110 @@
     "title": "Mi Sitio Web",
     "section": "",
     "text": "Introduction à l’Impression 3D pour Débutants\nCe post est conçu pour ceux qui souhaitent explorer le monde de l’impression 3D, notamment pour les jeunes filles de 17 ans. Découvrez les bases et quelques clés pour débuter. Explorez le Monde de l’Impression 3D 1. Qu’est-ce que l’Impression 3D ?\nL’impression 3D est une technologie qui crée des objets physiques à partir de conceptions numériques. Imaginez pouvoir réaliser vos propres idées et conceptions, d’un accessoire à une figure décorative.\nImage: /images.png (Une imprimante 3D imprimant un petit objet, comme une figurine décorative. Gros plan montrant comment l'objet est créé couche par couche).\n\nApplications Réelles : À Quoi Sert l’Impression 3D ?\n\nL’impression 3D est utilisée dans de nombreux domaines : de la mode à la médecine et à l’art. Vous pouvez même créer vos propres accessoires ou pièces uniques pour décorer votre espace !\nImage: /images.png (Un collage d'objets imprimés en 3D, tels que des bijoux, des décorations et des prototypes médicaux, montrant la polyvalence de la technologie).\n\n\nClés de l’Impression 3D 3. Choisir une Imprimante Types d’Imprimantes :\nFDM : La plus courante pour les débutants, idéale pour les objets du quotidien.\n\nSLA : Offre plus de détails, mais est plus complexe et généralement utilisée pour des objets petits et précis.\n\nImage : /images.png (Photo comparative d'une imprimante FDM et d'une SLA avec des étiquettes brèves de leurs caractéristiques).\nTaille d’Impression :\nChoisissez une imprimante avec le volume adapté selon le type de projets que vous souhaitez réaliser.\n\nMatériaux d’Impression\n\nChaque matériau a des caractéristiques différentes ; voici les plus courants :\nPLA : Facile à utiliser, biodégradable, et parfait pour les débutants.\n\nABS : Plus résistant, mais nécessite un lit chauffant pour éviter les déformations.\n\nPETG : Solide et durable, facile à utiliser, adapté aux projets plus avancés.\n\nImage : /images.png (Exemples des différents types de filaments avec des étiquettes pour leurs caractéristiques : PLA, ABS, PETG).\n\nPréparation du Fichier Modélisation 3D :\nUtilisez des programmes comme Tinkercad (très facile à utiliser) ou FreeCAD pour concevoir vos modèles en 3D.\n\nExportation :\nAssurez-vous d'exporter votre conception en STL ou OBJ, les formats les plus courants pour l'impression 3D.\n\nImage : /images.png (Capture d'écran de Tinkercad montrant une conception 3D de base, comme un porte-clés ou une petite figurine).\n\nDécoupe (Slicing) Logiciel de Découpe :\nConvertissez le modèle 3D en instructions pour l’imprimante avec des programmes comme Cura ou PrusaSlicer.\n\nConfiguration :\nAjustez la hauteur de couche, la vitesse, le remplissage et la température selon le matériau et l'objet.\n\nImage : /images.png (Interface d'un programme de découpe montrant un modèle prêt à être imprimé, avec des paramètres de hauteur de couche et de vitesse visibles).\n\nConfiguration de l’Imprimante Calibration :\nAssurez-vous que l’imprimante est calibrée, en particulier la hauteur de la buse et le nivellement du lit pour une meilleure adhésion"
+  },
+  {
+    "objectID": "comics/comic2.html",
+    "href": "comics/comic2.html",
+    "title": "Découvrez le Lorraine Fab Living Lab !",
+    "section": "",
+    "text": "Les trois ères et la partie DIY"
+  },
+  {
+    "objectID": "comics/comic2.html#exemples-et-espaces",
+    "href": "comics/comic2.html#exemples-et-espaces",
+    "title": "Découvrez le Lorraine Fab Living Lab !",
+    "section": "Exemples et Espaces",
+    "text": "Exemples et Espaces\n\n\n![Les trois ères et la partie DIY](../../images/LF2L.png ) \n\n\nUn exemple de cette approche est la création d’espaces appelés FabLabs, où les gens peuvent accéder à des outils de fabrication avancés et collaborer sur des projets."
+  },
+  {
+    "objectID": "comics/comic2.html#le-lorraine-fab-living-lab-1",
+    "href": "comics/comic2.html#le-lorraine-fab-living-lab-1",
+    "title": "Découvrez le Lorraine Fab Living Lab !",
+    "section": "",
+    "text": "Le Lorraine Fab Living Lab (LF2L) prend place dans ce contexte, en combinant deux types d’espaces ayant des objectifs différents : le FabLab et le Living Lab. Cet espace a été créé par l’Équipe de Recherche sur les Processus Innovatifs (Laboratoire ERPI) et l’École Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI) pour faciliter la création et l’évaluation de projets innovants.\n\n\n![LF2L et objectifs](LF2L.png)"
+  },
+  {
+    "objectID": "comics/comic2.html#quest-ce-quun-living-lab",
+    "href": "comics/comic2.html#quest-ce-quun-living-lab",
+    "title": "Découvrez le Lorraine Fab Living Lab !",
+    "section": "Qu’est-ce qu’un Living Lab ?",
+    "text": "Qu’est-ce qu’un Living Lab ?\n\n\nQu’est-ce qu’un Living Lab ?\n\n\nUn Living Lab est un espace de création qui accorde la priorité à l’utilisateur final, en prenant en compte ses besoins et son contexte. Dans un Living Lab, les produits et services sont développés avec la participation active des personnes qui vont les utiliser, depuis la phase de conception jusqu’à l’évaluation finale. Le rôle du consommateur est donc transformé, passant de simple utilisateur à collaborateur clé dans le processus d'innovation.\n\n\n![Les trois ères et la partie DIY](../../images/LF2L.png )"
+  },
+  {
+    "objectID": "comics/comic2.html#quest-ce-quun-fablab",
+    "href": "comics/comic2.html#quest-ce-quun-fablab",
+    "title": "Découvrez le Lorraine Fab Living Lab !",
+    "section": "Qu’est-ce qu’un FabLab ?",
+    "text": "Qu’est-ce qu’un FabLab ?\n\n\nQu’est-ce qu’un FabLab ?\n\n\nUn FabLab n’est pas seulement un espace doté d’outils de fabrication comme des imprimantes 3D ou des découpeuses laser. Il est guidé par des principes de collaboration, d’accessibilité et d’éducation, avec pour objectif de démocratiser l’accès à la fabrication numérique et de promouvoir une culture de l'innovation partagée.\n\n\n![Les trois ères et la partie DIY](../../images/LF2L.png )"
+  },
+  {
+    "objectID": "comics/comic2.html#caractéristiques-du-lorraine-fab-living-lab",
+    "href": "comics/comic2.html#caractéristiques-du-lorraine-fab-living-lab",
+    "title": "Découvrez le Lorraine Fab Living Lab !",
+    "section": "Caractéristiques du Lorraine Fab Living Lab",
+    "text": "Caractéristiques du Lorraine Fab Living Lab\n\nQu’est-ce qui caractérise le Lorraine Fab Living Lab ?\n\n\nLe Lorraine Fab Living Lab se distingue par son accompagnement de membres de la communauté aux profils divers pour collaborer dans la création de solutions à des problèmes réels. Dans cet espace, les idées ou concepts abstraits (2D) sont transformés en prototypes virtuels ou physiques (3D), puis évalués en fonction de leur développement et de leur applicabilité dans le temps (4D).\n\n\n\n![Les trois ères et la partie DIY](../../images/LF2L.png )  \n**Concept 2D**  \nTransformation des idées en concepts abstraits.\n\n\n![Les trois ères et la partie DIY](../../images/LF2L.png )   \n**Prototype 3D**  \nRéalisation de prototypes virtuels ou physiques.\n\n\n![Les trois ères et la partie DIY](../../images/LF2L.png ) \n**Évaluation 4D**  \nÉvaluation temporelle pour l'applicabilité dans la durée."
+  },
+  {
+    "objectID": "comics/comic2.html#bibliographie",
+    "href": "comics/comic2.html#bibliographie",
+    "title": "Découvrez le Lorraine Fab Living Lab !",
+    "section": "Bibliographie",
+    "text": "Bibliographie\n\nDupont, Laurent & Morel, Laure & Lhoste, Pascal. (2016). The Lorraine Fab Living Lab: the 4th dimension of innovation - Le Lorraine Fab Living Lab : la 4ème dimension de l’innovation. 10.13140/RG.2.1.2030.4242.\nMorel, Laure & Dupont, Laurent & Marie Reine, Boudarel. (2018). Espace d’innovation : de nouveaux lieux pour l’intelligence collective ?. Technologie et innovation. 3. 10.21494/ISTE.OP.2018.0236."
+  },
+  {
+    "objectID": "comics/comic2.html#quest-ce-que-le-lorraine-fab-living-lab",
+    "href": "comics/comic2.html#quest-ce-que-le-lorraine-fab-living-lab",
+    "title": "Découvrez le Lorraine Fab Living Lab !",
+    "section": "",
+    "text": "Le Lorraine Fab Living Lab, un éspace de cocréation et partage\n\n\n\n\nLe Lorraine Fab Living Lab (LF2L) est un espace unique qui combine l’esprit du FabLab et du Living Lab. Créé par le laboratoire ERPI et l’ENSGSI, sa mission est de vous aider à transformer vos idées en projets innovants."
+  },
+  {
+    "objectID": "comics/comic2.html#que-pouvez-vous-faire-au-lorraine-fab-living-lab",
+    "href": "comics/comic2.html#que-pouvez-vous-faire-au-lorraine-fab-living-lab",
+    "title": "Découvrez le Lorraine Fab Living Lab !",
+    "section": "",
+    "text": "Transformez vos idées en prototypes réels. Au LF2L, vous pouvez travailler en équipe pour développer des solutions à des problèmes concrets. Passez d’un concept en 2D à un prototype en 3D, et évaluez comment il fonctionnerait dans le temps.\n\n\n\n\n\nReprésentation du processus de travail au LF2L, avec les phases 2D, 3D et 4D (concept, prototype et évaluation)."
+  },
+  {
+    "objectID": "comics/comic2.html#avantages-dutiliser-le-lf2l",
+    "href": "comics/comic2.html#avantages-dutiliser-le-lf2l",
+    "title": "Découvrez le Lorraine Fab Living Lab !",
+    "section": "",
+    "text": "Illustration d’étudiants et de professionnels travaillant ensemble, mettant en valeur la technologie et la collaboration.\n\n\n\n\n\nTransformez des idées en projets concrets\nAccès à des technologies avancées\nRéseau de collaborateurs de divers domaines\nSoutien d’experts en innovation de l’ERPI et de l’ENSGSI"
+  },
+  {
+    "objectID": "comics/comic2.html#appel-à-laction",
+    "href": "comics/comic2.html#appel-à-laction",
+    "title": "Découvrez le Lorraine Fab Living Lab !",
+    "section": "",
+    "text": "Pour les Doctorants de l’ERPI : Donnez vie à vos recherches dans un espace où l’innovation prend forme.\nPour les Étudiants de l’ENSGSI : Connectez-vous à des professionnels et à des ressources uniques, et donnez vie à vos idées pour résoudre des problèmes concrets.\n\n\n\n\n\n\nBoutons ou liens invitant à planifier une visite ou à obtenir plus d’informations, comme “Venez nous voir !” ou “Découvrez le LF2L !”"
+  },
+  {
+    "objectID": "comics/comic2.html#quest-ce-quun-living-lab-1",
+    "href": "comics/comic2.html#quest-ce-quun-living-lab-1",
+    "title": "Découvrez le Lorraine Fab Living Lab !",
+    "section": "",
+    "text": "Un Living Lab est un espace de création qui met l’utilisateur final au cœur du processus : ici, vous pouvez développer des produits et des services adaptés aux besoins réels des personnes. Les utilisateurs participent activement à chaque étape, de la création à l’évaluation finale, devenant ainsi des collaborateurs de l’innovation.\n\n\n\n\n\nDiagramme montrant un flux de travail collaboratif, de l’idée au prototype final, avec l’utilisateur au centre du processus."
+  },
+  {
+    "objectID": "comics/comic2.html#quest-ce-quun-fablab-1",
+    "href": "comics/comic2.html#quest-ce-quun-fablab-1",
+    "title": "Découvrez le Lorraine Fab Living Lab !",
+    "section": "",
+    "text": "Icônes des principaux outils du FabLab (imprimante 3D, découpeuse laser, etc.) et personnes collaborant.\n\n\n\n\nUn FabLab est un atelier équipé de technologies avancées, où vous pouvez accéder à des outils comme les imprimantes 3D ou les découpeuses laser pour réaliser des prototypes. De plus, il promeut le travail en équipe, l’accessibilité et l’éducation pour une culture de l’innovation partagée."
+  },
+  {
+    "objectID": "comics/comic2.html#le-lorraine-fab-living-lab-2",
+    "href": "comics/comic2.html#le-lorraine-fab-living-lab-2",
+    "title": "Découvrez le Lorraine Fab Living Lab !",
+    "section": "Le Lorraine Fab Living Lab",
+    "text": "Le Lorraine Fab Living Lab\n\n\nLe Lorraine Fab Living Lab (LF2L) prend place dans ce contexte, en combinant deux types d’espaces ayant des objectifs différents : le FabLab et le Living Lab. Cet espace a été créé par l’Équipe de Recherche sur les Processus Innovatifs (Laboratoire ERPI) et l’École Nationale Supérieure en Génie des Systèmes et de l’Innovation (ENSGSI) pour faciliter la création et l’évaluation de projets innovants.\n\n\n![Les trois ères et la partie DIY](../../images/LF2L.png )"
+  },
+  {
+    "objectID": "comics/index.html",
+    "href": "comics/index.html",
+    "title": "Comics",
+    "section": "",
+    "text": "1 Cómics Recientes en Francés\n\n\nCómic 1\nEste es el primer cómic de la serie.\nCómic 2"
   }
 ]

@@ -4,7 +4,7 @@ format:
   html: 
     toc: true
     number-sections: true
-css: ../css/styles.css  # Ruta al archivo CSS
+css: ../../css/styles.css  # Ruta al archivo CSS
 ---
 
 
@@ -13,4 +13,5 @@ css: ../css/styles.css  # Ruta al archivo CSS
 - ![Comic 1](../../images/Emanuel1.png)  
   **[Cómic 1](comic1.qmd)**  
   Este es el primer cómic de la serie.
-
+  
+  **[Cómic 2](comic2.qmd)**  

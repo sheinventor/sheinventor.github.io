@@ -61,3 +61,43 @@ a:hover {
 
 
 
+/* Centrado y ajuste de las imágenes */
+img {
+    max-width: 100%; /* Asegura que las imágenes no excedan el contenedor */
+    height: auto;
+    margin: 0 auto; /* Centra las imágenes */
+  }
+  
+  /* Alineación de secciones en dos columnas */
+  .two-columns {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  /* Ajuste de ancho para imágenes y texto en dos columnas */
+  .two-columns img {
+    width: 40%; /* Ajusta el tamaño según sea necesario */
+  }
+  
+  .two-columns div {
+    flex: 1; /* Permite que el texto ocupe el espacio restante */
+  }
+  
+  /* Formato para las secciones en tres partes */
+  .three-columns {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    text-align: center;
+  }
+  
+  .three-columns div {
+    width: 30%; /* Ajusta el tamaño según sea necesario */
+  }
+  
+  /* Centrando el contenido */
+  .centered {
+    text-align: center;
+    font-weight: bold;
+  }
