@@ -121,8 +121,15 @@
   {
     "objectID": "comics/index.html",
     "href": "comics/index.html",
-    "title": "Comics",
+    "title": "Bandes Desinées",
     "section": "",
-    "text": "1 Cómics Recientes en Francés\n\n\nCómic 1\nEste es el primer cómic de la serie.\nCómic 2"
+    "text": "1 Bandes Dessinées Récentes en Français\n\n\nBande Dessinée 1\nCeci est la première bande dessinée de la série.\nBande Dessinée 2 Bande Dessinée 3 Bande Dessinée 4"
+  },
+  {
+    "objectID": "tutorials/index.html",
+    "href": "tutorials/index.html",
+    "title": "Tutorieles",
+    "section": "",
+    "text": "1 Tutoriels de Base\n\n\nTutoriel Impression\nCeci est le premier tutoriel de base. Tutoriel Impression 2\nTutoriel Impression 3"
   }
 ]

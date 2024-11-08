@@ -41,7 +41,7 @@ css: css/styles.css  # Ruta al archivo CSS
 </div>
 
 
-
+<div style="display: flex; align-items: center;" >
 <iframe width="1080" height="720" 
         src="https://www.youtube-nocookie.com/embed/AtbkIG598gs?si=1LlSuWTZGc4GRigs&amp;start=24" 
         title="YouTube video player" 
@@ -50,3 +50,4 @@ css: css/styles.css  # Ruta al archivo CSS
         referrerpolicy="strict-origin-when-cross-origin" 
         allowfullscreen>
 </iframe>
+</div> 

@@ -1,16 +1,15 @@
 ---
-title: "Tutoriales"
+title: "Tutorieles"
 format: 
   html: 
     toc: true
     number-sections: true
 css: ../css/styles.css  # Ruta al archivo CSS
 ---
+# Tutoriels de Base
 
-
-# Tutoriales Básicos 
-
-- ![Impresón 3D ](../../images/Emanuel1.png)  
-  **[TutorialImpresion](tutorial1.qmd)**  
-  Este es el primer tutorial básico
-
+- ![Impression 3D](../../images/Emanuel1.png)  
+  **[Tutoriel Impression](tutorial1.qmd)**  
+  Ceci est le premier tutoriel de base.
+  **[Tutoriel Impression 2](tutorial2.qmd)**  
+  **[Tutoriel Impression 3](tutorial3.qmd)**  

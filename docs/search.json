@@ -277,7 +277,7 @@
     "href": "es/tutorials/index.html",
     "title": "Tutoriales",
     "section": "",
-    "text": "1 Tutoriales Básicos\n\n\nTutorialImpresion\nEste es el primer tutorial básico"
+    "text": "1 Basic Tutorials\n\n\n3D Printing Tutorial\nThis is the first basic tutorial.\n\nTutorial 2 Tutorial 3"
   },
   {
     "objectID": "fr/about.html",
@@ -303,16 +303,16 @@
   {
     "objectID": "fr/comics/index.html",
     "href": "fr/comics/index.html",
-    "title": "Comics",
+    "title": "Bandes Desinées",
     "section": "",
-    "text": "1 Cómics Recientes en Francés\n\n\nCómic 1\nEste es el primer cómic de la serie.\nCómic 2"
+    "text": "1 Bandes Dessinées Récentes en Français\n\n\nBande Dessinée 1\nCeci est la première bande dessinée de la série.\nBande Dessinée 2 Bande Dessinée 3 Bande Dessinée 4"
   },
   {
     "objectID": "fr/tutorials/index.html",
     "href": "fr/tutorials/index.html",
-    "title": "Tutoriales",
+    "title": "Tutorieles",
     "section": "",
-    "text": "1 Tutoriales Básicos\n\n\nTutorialImpresion\nEste es el primer tutorial básico"
+    "text": "1 Tutoriels de Base\n\n\nTutoriel Impression\nCeci est le premier tutoriel de base. Tutoriel Impression 2\nTutoriel Impression 3"
   },
   {
     "objectID": "index.html",
