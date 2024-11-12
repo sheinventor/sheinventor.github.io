@@ -1,0 +1,16 @@
+---
+title: "Portafolio antiguo"
+author: "SheInventor"
+image: "../../images/Emanuel1.png"
+description: "Este es el primer cómic de la serie."
+date: "2024-11-01"
+format: 
+  html:
+    self-contained: true
+css: ../../css/styles.css  # Ruta al archivo CSS
+lang: es  # Especifica el idioma
+---
+
+![Descripción de la ilustración 1](ruta/a/tu/imagen1.jpg){width=33%}
+![Descripción de la ilustración 2](ruta/a/tu/imagen2.jpg){width=33%}
+![Descripción de la ilustración 3](ruta/a/tu/imagen3.jpg){width=33%}
