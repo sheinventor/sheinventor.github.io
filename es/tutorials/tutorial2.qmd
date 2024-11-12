@@ -20,7 +20,7 @@ Dans ce tutoriel, nous allons vous guider à travers les étapes nécessaires po
 
 ---
 
-### Étape 1 : Créer le dessin
+### Étape 1 : Créer le dessins
 
 1. **Matériel et outils** : Utilisez du papier et un crayon pour dessiner, ou une tablette graphique avec un logiciel comme Photoshop ou Procreate.
 2. **Conseils** : Assurez-vous que le dessin soit simple, car plus il est détaillé, plus la vectorisation peut devenir compliquée.
