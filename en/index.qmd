@@ -1,23 +1,132 @@
-# Welcome 
-
 ---
-title: "Welcome to the website"
+title: "Welcome to SheInventor!"
 format: 
   html: 
     toc: true
-    number-sections: true
-css: ../css/styles.css  # Ruta al archivo CSS
+    css: ../../css/styles.css  # Path to the CSS file
 ---
 
+**SheInventor** was created with the purpose of breaking gender barriers in technology, combining art, science, and innovation to empower women with the skills necessary for future jobs. Since I was young, my goal has been to use my design and teaching skills to help people understand the world around us. This project is my contribution to creating an inclusive space with accessible knowledge for all, regardless of stereotypes or limitations we may face.
 
-In progess Site Web 
+<div class="grid-container">
 
+<div class="grid-item">
+
+### [Tutorials](#tutorials)
+**Step-by-step guides and quick tutorials** on integrated technology and design projects.
+
+</div>
+
+<div class="grid-item">
+
+### [Science Comics](#science-comics)
+**Visual stories** explaining scientific concepts and showcasing women inventors.
+
+</div>
+
+<div class="grid-item">
+
+### [Mediation Videos](#mediation-videos)
+**Educational videos** on science, technology, and skills for future jobs.
+
+</div>
+
+<div class="grid-item">
+
+### [About Me: My Life as an Inventor](#about-me)
+**My personal journey**, challenges overcome, and projects as an inventor and science communicator.
+
+</div>
+
+<div class="grid-item">
+
+### [Resources and Educational Materials](#resources-and-educational-materials)
+**Downloadable materials**, guides, and reading recommendations on science and technology.
+
+</div>
+
+<div class="grid-item">
+
+### [Events and Workshops](#events-and-workshops)
+**Upcoming workshops calendar** and an archive of previous events with testimonials.
+
+</div>
+
+<div class="grid-item">
+
+### [Contact and Community](#contact-and-community)
+**Connect, collaborate, and share** your experience at SheInventor.
+
+</div>
+
+</div>
+
+### <a id="tutorials"></a>Tutorials
+In this section, you can access practical guides that will teach you to create technology projects from start to finish, as well as quick tutorials for solving specific problems. Examples:
+
+- [Tutorials](tutorials/index.qmd)
+- **Comprehensive Projects**
+- **Quick Tutorials**
+
+### <a id="science-comics"></a>Science Comics
+Explore visual stories that address scientific topics and highlight women inventors. Discover:
+- **Scientific Explorations**
+- **Inventor Stories**
+
+### <a id="mediation-videos"></a>Mediation Videos
+A collection of videos that address science and technology in an accessible and visual way. Topics covered:
+- **Scientific and Technological Concepts**
+- **New Technologies and Future Jobs**
+
+### <a id="about-me"></a>About Me: My Life as an Inventor
+Here, I share my experience, achievements, and the challenges I've overcome as an inventor. Explore:
+- **My Journey**
 - [Comics](comics/index.qmd)
-- [Tutoriels](tutorials/tutorial1.html)
-- [À Propos](about.html)
+- **Challenges and Achievements**
+- **Personal Projects**
 
-## Sélectionnez votre langue
+### <a id="resources-and-educational-materials"></a>Resources and Educational Materials
+Downloadable resources and recommended readings to deepen the topics. Includes:
+- **Downloadable Materials**
+- **Reading Recommendations**
+- **Frequently Asked Questions**
 
-- [English](../en/index.qmd)
-- [Español](../es/index.qmd)
+### <a id="events-and-workshops"></a>Events and Workshops
+Check out upcoming workshops and review past events, with testimonials and summaries:
+- **Upcoming Workshops**
+- **Workshop Archive**
 
+### <a id="contact-and-community"></a>Contact and Community
+A space to connect and collaborate with the SheInventor community:
+- **Social Media**
+- **Collaborations**
+- **Testimonials and Community**
+
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+.grid-item {
+  padding: 20px;
+  background-color: #3B163B;
+  border: 2px solid #FFFFFF;
+  border-radius: 10px;
+  text-align: center;
+  color: #FFFFFF; /* Default white text */
+}
+
+.grid-item h2, .grid-item h3, .grid-item p, .grid-item a {
+  color: #FFFFFF !important; /* Force white color for all titles, paragraphs, and links */
+}
+
+.grid-item h2 a, .grid-item h3 a {
+  text-decoration: none;
+  color: #FFFFFF !important; /* Force white color for title links */
+}
+
+.grid-item h2 a:hover, .grid-item h3 a:hover {
+  color: #FFFFFF; /* Keep white color on hover */
+}
+</style>

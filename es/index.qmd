@@ -1,98 +1,133 @@
 ---
-title: "Bienvenida a SheInventor !"
+title: "Bienvenida a SheInventor!"
 format: 
   html: 
     toc: true
     css: ../../css/styles.css  # Ruta al archivo CSS
 ---
 
-### Bienvenida a SheInventor
 
-**SheInventor** es un proyecto con el objetivo de derribar barreras de género en el ámbito de la tecnología y la ciencia. A través de una combinación de arte, ciencia y tecnología, buscamos empoderar a las mujeres con habilidades y competencias para los trabajos del futuro.
+**SheInventor** nace con el propósito de romper barreras de género en la tecnología, combinando arte, ciencia e innovación para capacitar a las mujeres en las competencias necesarias para los empleos del futuro. Desde pequeña, mi objetivo ha sido utilizar mis habilidades en diseño y enseñanza para ayudar a las personas a comprender el mundo que nos rodea. Este proyecto es mi contribución a la creación de un espacio inclusivo y de acceso al conocimiento para todos, sin importar los estereotipos o las limitaciones que enfrentemos.
 
-Desde pequeña, he trabajado para encontrar la manera de utilizar mis competencias en diseño, enseñanza y análisis del mundo que nos rodea para crear un impacto positivo en las personas. A lo largo de mi vida, he encontrado obstáculos para acceder al conocimiento debido a estereotipos de género, y es por eso que este proyecto nace como un espacio inclusivo. Con **SheInventor**, busco romper esos estereotipos, compartiendo mi amor por el conocimiento y la ciencia sin importar las herramientas ni los roles de género que muchas veces limitan las oportunidades de creación.
+<div class="grid-container">
 
-### Índice
+<div class="grid-item">
 
-1. [Inicio](#bienvenida-a-sheinventor)
-2. [Tutoriales](#tutoriales)  
-   - [Proyectos Integrales](#proyectos-integrales)
-   - [Tutoriales Rápidos](#tutoriales-rápidos)
+### [Tutoriales](#tutoriales)
+**Guías paso a paso y tutoriales rápidos** sobre proyectos integrales de tecnología y diseño.
 
-3. [Cómics de Ciencia](#cómics-de-ciencia)  
-   - [Exploraciones Científicas](#exploraciones-científicas)
-   - [Historias de Inventoras](#historias-de-inventoras)
+</div>
 
-4. [Videos de Mediación](#videos-de-mediación)  
-   - [Conceptos Científicos y Tecnológicos](#conceptos-científicos-y-tecnológicos)
-   - [Nuevas Tecnologías y Empleos del Futuro](#nuevas-tecnologías-y-empleos-del-futuro)
+<div class="grid-item">
 
-5. [Sobre Mí: Mi Vida como Inventora](#sobre-mí-mi-vida-como-inventora)  
-   - [Mi Trayectoria](#mi-trayectoria)
-   - [Desafíos y Logros](#desafíos-y-logros)
-   - [Proyectos Personales](#proyectos-personales)
+### [Cómics de Ciencia](#comics-de-ciencia)
+**Historias visuales** que explican conceptos científicos y muestran a mujeres inventoras.
 
-6. [Recursos y Material Didáctico](#recursos-y-material-didáctico)  
-   - [Material Descargable](#material-descargable)
-   - [Recomendaciones de Lectura](#recomendaciones-de-lectura)
-   - [Preguntas Frecuentes](#preguntas-frecuentes)
+</div>
 
-7. [Eventos y Talleres](#eventos-y-talleres)  
-   - [Próximos Talleres](#próximos-talleres)
-   - [Archivo de Talleres](#archivo-de-talleres)
+<div class="grid-item">
 
-8. [Contacto y Comunidad](#contacto-y-comunidad)  
-   - [Redes Sociales](#redes-sociales)
-   - [Colaboraciones](#colaboraciones)
-   - [Testimonios y Comunidad](#testimonios-y-comunidad)
+### [Videos de Mediación](#videos-de-mediacion)
+**Videos educativos** sobre ciencia, tecnología y habilidades para los empleos del futuro.
 
----
+</div>
 
-### Secciones Principales
+<div class="grid-item">
 
-#### [Tutoriales](#tutoriales)
-Una serie de tutoriales orientados a proyectos integrales y soluciones rápidas, que proveen a las usuarias de habilidades tecnológicas prácticas. Aquí, encontrarán:
+### [Sobre Mí: Mi Vida como Inventora](#sobre-mi)
+**Mi trayectoria personal**, desafíos superados y proyectos como inventora y divulgadora.
 
-- **[Proyectos Integrales](#proyectos-integrales)**: Guías paso a paso para realizar proyectos completos.
-- **[Tutoriales Rápidos](#tutoriales-rápidos)**: Recursos y lecciones cortas para tareas específicas o problemas puntuales.
+</div>
 
-#### [Cómics de Ciencia](#cómics-de-ciencia)
-Cómics que explican conceptos científicos de forma accesible y entretenida, acercando la ciencia a todas las personas. Divididos en:
+<div class="grid-item">
 
-- **[Exploraciones Científicas](#exploraciones-científicas)**: Historias y explicaciones de temas científicos variados.
-- **[Historias de Inventoras](#historias-de-inventoras)**: Relatos de mujeres en ciencia, para inspirar y visibilizar sus aportes.
+### [Recursos y Material Didáctico](#recursos-y-material-didactico)
+**Material descargable**, guías y recomendaciones de lectura sobre ciencia y tecnología.
 
-#### [Videos de Mediación](#videos-de-mediación)
-Una colección de videos educativos que cubren temas de ciencia y tecnología, además de competencias necesarias para los empleos del futuro. Estos videos están orientados a:
+</div>
 
-- **[Conceptos Científicos y Tecnológicos](#conceptos-científicos-y-tecnológicos)**: Explicaciones de temas científicos complejos.
-- **[Nuevas Tecnologías y Empleos del Futuro](#nuevas-tecnologías-y-empleos-del-futuro)**: Enfoque en tendencias y habilidades emergentes.
+<div class="grid-item">
 
-#### [Sobre Mí: Mi Vida como Inventora](#sobre-mí-mi-vida-como-inventora)
-Una sección donde comparto mi trayectoria, experiencias, y aprendizajes personales como inventora y creadora. Incluye:
+### [Eventos y Talleres](#eventos-y-talleres)
+**Calendario de próximos talleres** y un archivo de eventos anteriores con testimonios.
 
-- **[Mi Trayectoria](#mi-trayectoria)**: Un recorrido por mi camino como inventora y divulgadora de ciencia.
-- **[Desafíos y Logros](#desafíos-y-logros)**: Reflexiones sobre obstáculos superados y logros alcanzados.
-- **[Proyectos Personales](#proyectos-personales)**: Espacio donde muestro proyectos personales, ideas y procesos creativos.
+</div>
 
-#### [Recursos y Material Didáctico](#recursos-y-material-didáctico)
-Un repositorio de recursos complementarios para quienes quieran profundizar en los temas tratados. En esta sección encontrarás:
+<div class="grid-item">
 
-- **[Material Descargable](#material-descargable)**: Plantillas, guías y otros recursos gratuitos.
-- **[Recomendaciones de Lectura](#recomendaciones-de-lectura)**: Sugerencias de libros y artículos para quienes deseen seguir aprendiendo.
-- **[Preguntas Frecuentes](#preguntas-frecuentes)**: Respuestas a dudas comunes sobre SheInventor y los temas abordados.
+### [Contacto y Comunidad](#contacto-y-comunidad)
+**Conéctate, colabora y comparte** tu experiencia en SheInventor.
 
-#### [Eventos y Talleres](#eventos-y-talleres)
-Un calendario de próximos talleres y eventos organizados por SheInventor, con acceso tanto presencial como en línea. También cuenta con:
+</div>
 
-- **[Próximos Talleres](#próximos-talleres)**: Información sobre próximos eventos y talleres.
-- **[Archivo de Talleres](#archivo-de-talleres)**: Registro de eventos pasados, con resúmenes y testimonios.
+</div>
 
-#### [Contacto y Comunidad](#contacto-y-comunidad)
-Esta sección invita a la comunidad a interactuar, participar y colaborar en SheInventor:
+### <a id="tutoriales"></a>Tutoriales
+En esta sección, podrás acceder a guías prácticas que te enseñarán a crear proyectos tecnológicos de principio a fin, así como tutoriales rápidos para resolver problemas específicos. Ejemplos:
 
-- **[Redes Sociales](#redes-sociales)**: Enlaces a nuestras redes sociales para mantenerse al día.
-- **[Colaboraciones](#colaboraciones)**: Para quienes deseen colaborar o participar en el proyecto.
-- **[Testimonios y Comunidad](#testimonios-y-comunidad)**: Comentarios, fotos y experiencias de quienes han participado en SheInventor.
+- [Tutoriels](tutorials/index.qmd) 
+- **Proyectos Integrales**
+- **Tutoriales Rápidos**
 
----
+### <a id="comics-de-ciencia"></a>Cómics de Ciencia
+Explora historias visuales que abordan temas científicos y ponen en valor a mujeres inventoras. Descubre:
+- **Exploraciones Científicas**
+- **Historias de Inventoras**
+
+### <a id="videos-de-mediacion"></a>Videos de Mediación
+Una colección de videos que abordan ciencia y tecnología de forma accesible y visual. Temas cubiertos:
+- **Conceptos Científicos y Tecnológicos**
+- **Nuevas Tecnologías y Empleos del Futuro**
+
+### <a id="sobre-mi"></a>Sobre Mí: Mi Vida como Inventora
+Aquí comparto mi experiencia, logros y los desafíos que he superado como inventora. Explora:
+- **Mi Trayectoria** 
+- [Comics](comics/index.qmd)
+- **Desafíos y Logros**
+- **Proyectos Personales**
+
+### <a id="recursos-y-material-didactico"></a>Recursos y Material Didáctico
+Recursos descargables y lecturas recomendadas para profundizar en los temas. Incluye:
+- **Material Descargable**
+- **Recomendaciones de Lectura**
+- **Preguntas Frecuentes**
+
+### <a id="eventos-y-talleres"></a>Eventos y Talleres
+Consulta los próximos talleres y revisa los eventos pasados, con testimonios y resúmenes:
+- **Próximos Talleres**
+- **Archivo de Talleres**
+
+### <a id="contacto-y-comunidad"></a>Contacto y Comunidad
+Un espacio para conectarse y colaborar con la comunidad de SheInventor:
+- **Redes Sociales**
+- **Colaboraciones**
+- **Testimonios y Comunidad**
+
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+.grid-item {
+  padding: 20px;
+  background-color: #3B163B;
+  border: 2px solid #FFFFFF;
+  border-radius: 10px;
+  text-align: center;
+  color: #FFFFFF; /* Texto en blanco por defecto */
+}
+
+.grid-item h2, .grid-item h3, .grid-item p, .grid-item a {
+  color: #FFFFFF !important; /* Forzar el color blanco en todos los títulos, párrafos y enlaces */
+}
+
+.grid-item h2 a, .grid-item h3 a {
+  text-decoration: none;
+  color: #FFFFFF !important; /* Forzar el color blanco en los enlaces de títulos */
+}
+
+.grid-item h2 a:hover, .grid-item h3 a:hover {
+  color: #FFFFFF; /* Mantener el color blanco en hover */
+}
+</style>
