@@ -1,17 +1,98 @@
 ---
-title: "Bienvenida a SheInventor ! "
+title: "Bienvenida a SheInventor !"
 format: 
   html: 
     toc: true
     css: ../../css/styles.css  # Ruta al archivo CSS
 ---
 
-Index en español 
+### Bienvenida a SheInventor
 
+**SheInventor** es un proyecto con el objetivo de derribar barreras de género en el ámbito de la tecnología y la ciencia. A través de una combinación de arte, ciencia y tecnología, buscamos empoderar a las mujeres con habilidades y competencias para los trabajos del futuro.
 
+Desde pequeña, he trabajado para encontrar la manera de utilizar mis competencias en diseño, enseñanza y análisis del mundo que nos rodea para crear un impacto positivo en las personas. A lo largo de mi vida, he encontrado obstáculos para acceder al conocimiento debido a estereotipos de género, y es por eso que este proyecto nace como un espacio inclusivo. Con **SheInventor**, busco romper esos estereotipos, compartiendo mi amor por el conocimiento y la ciencia sin importar las herramientas ni los roles de género que muchas veces limitan las oportunidades de creación.
 
-- [Comics](comics/emanuel.qmd)
-- [Tutorials](tutorials/index.qmd)
+### Índice
 
-- [Français](../fr/index.qmd)
-- [English](../en/index.qmd)
+1. [Inicio](#bienvenida-a-sheinventor)
+2. [Tutoriales](#tutoriales)  
+   - [Proyectos Integrales](#proyectos-integrales)
+   - [Tutoriales Rápidos](#tutoriales-rápidos)
+
+3. [Cómics de Ciencia](#cómics-de-ciencia)  
+   - [Exploraciones Científicas](#exploraciones-científicas)
+   - [Historias de Inventoras](#historias-de-inventoras)
+
+4. [Videos de Mediación](#videos-de-mediación)  
+   - [Conceptos Científicos y Tecnológicos](#conceptos-científicos-y-tecnológicos)
+   - [Nuevas Tecnologías y Empleos del Futuro](#nuevas-tecnologías-y-empleos-del-futuro)
+
+5. [Sobre Mí: Mi Vida como Inventora](#sobre-mí-mi-vida-como-inventora)  
+   - [Mi Trayectoria](#mi-trayectoria)
+   - [Desafíos y Logros](#desafíos-y-logros)
+   - [Proyectos Personales](#proyectos-personales)
+
+6. [Recursos y Material Didáctico](#recursos-y-material-didáctico)  
+   - [Material Descargable](#material-descargable)
+   - [Recomendaciones de Lectura](#recomendaciones-de-lectura)
+   - [Preguntas Frecuentes](#preguntas-frecuentes)
+
+7. [Eventos y Talleres](#eventos-y-talleres)  
+   - [Próximos Talleres](#próximos-talleres)
+   - [Archivo de Talleres](#archivo-de-talleres)
+
+8. [Contacto y Comunidad](#contacto-y-comunidad)  
+   - [Redes Sociales](#redes-sociales)
+   - [Colaboraciones](#colaboraciones)
+   - [Testimonios y Comunidad](#testimonios-y-comunidad)
+
+---
+
+### Secciones Principales
+
+#### [Tutoriales](#tutoriales)
+Una serie de tutoriales orientados a proyectos integrales y soluciones rápidas, que proveen a las usuarias de habilidades tecnológicas prácticas. Aquí, encontrarán:
+
+- **[Proyectos Integrales](#proyectos-integrales)**: Guías paso a paso para realizar proyectos completos.
+- **[Tutoriales Rápidos](#tutoriales-rápidos)**: Recursos y lecciones cortas para tareas específicas o problemas puntuales.
+
+#### [Cómics de Ciencia](#cómics-de-ciencia)
+Cómics que explican conceptos científicos de forma accesible y entretenida, acercando la ciencia a todas las personas. Divididos en:
+
+- **[Exploraciones Científicas](#exploraciones-científicas)**: Historias y explicaciones de temas científicos variados.
+- **[Historias de Inventoras](#historias-de-inventoras)**: Relatos de mujeres en ciencia, para inspirar y visibilizar sus aportes.
+
+#### [Videos de Mediación](#videos-de-mediación)
+Una colección de videos educativos que cubren temas de ciencia y tecnología, además de competencias necesarias para los empleos del futuro. Estos videos están orientados a:
+
+- **[Conceptos Científicos y Tecnológicos](#conceptos-científicos-y-tecnológicos)**: Explicaciones de temas científicos complejos.
+- **[Nuevas Tecnologías y Empleos del Futuro](#nuevas-tecnologías-y-empleos-del-futuro)**: Enfoque en tendencias y habilidades emergentes.
+
+#### [Sobre Mí: Mi Vida como Inventora](#sobre-mí-mi-vida-como-inventora)
+Una sección donde comparto mi trayectoria, experiencias, y aprendizajes personales como inventora y creadora. Incluye:
+
+- **[Mi Trayectoria](#mi-trayectoria)**: Un recorrido por mi camino como inventora y divulgadora de ciencia.
+- **[Desafíos y Logros](#desafíos-y-logros)**: Reflexiones sobre obstáculos superados y logros alcanzados.
+- **[Proyectos Personales](#proyectos-personales)**: Espacio donde muestro proyectos personales, ideas y procesos creativos.
+
+#### [Recursos y Material Didáctico](#recursos-y-material-didáctico)
+Un repositorio de recursos complementarios para quienes quieran profundizar en los temas tratados. En esta sección encontrarás:
+
+- **[Material Descargable](#material-descargable)**: Plantillas, guías y otros recursos gratuitos.
+- **[Recomendaciones de Lectura](#recomendaciones-de-lectura)**: Sugerencias de libros y artículos para quienes deseen seguir aprendiendo.
+- **[Preguntas Frecuentes](#preguntas-frecuentes)**: Respuestas a dudas comunes sobre SheInventor y los temas abordados.
+
+#### [Eventos y Talleres](#eventos-y-talleres)
+Un calendario de próximos talleres y eventos organizados por SheInventor, con acceso tanto presencial como en línea. También cuenta con:
+
+- **[Próximos Talleres](#próximos-talleres)**: Información sobre próximos eventos y talleres.
+- **[Archivo de Talleres](#archivo-de-talleres)**: Registro de eventos pasados, con resúmenes y testimonios.
+
+#### [Contacto y Comunidad](#contacto-y-comunidad)
+Esta sección invita a la comunidad a interactuar, participar y colaborar en SheInventor:
+
+- **[Redes Sociales](#redes-sociales)**: Enlaces a nuestras redes sociales para mantenerse al día.
+- **[Colaboraciones](#colaboraciones)**: Para quienes deseen colaborar o participar en el proyecto.
+- **[Testimonios y Comunidad](#testimonios-y-comunidad)**: Comentarios, fotos y experiencias de quienes han participado en SheInventor.
+
+---

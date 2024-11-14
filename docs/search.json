@@ -95,147 +95,7 @@
     "href": "es/index.html",
     "title": "Bienvenida a SheInventor !",
     "section": "",
-    "text": "Index en español\n\nComics\nTutorials\nFrançais\nEnglish"
-  },
-  {
-    "objectID": "en/tutorials/tutorial1.html",
-    "href": "en/tutorials/tutorial1.html",
-    "title": "SheInventor",
-    "section": "",
-    "text": "Introduction to 3D Printing for Beginners\nThis post is designed for those who want to explore the world of 3D printing, especially 17-year-old girls. Discover the basics and some key points to get started. Explore the World of 3D Printing 1. What is 3D Printing?\n3D printing is a technology that creates physical objects from digital designs. Imagine bringing your ideas and designs to life, from an accessory to a decorative figure.\nImage: /images.png (A 3D printer printing a small object, like a decorative figure. Close-up showing how the object is created layer by layer).\n\nReal Applications: What is 3D Printing Used For?\n\n3D printing is used in many areas: from fashion design to medicine and art. You can even create your own accessories or unique pieces to decorate your space!\nImage: /images.png (A collage of 3D printed objects, like jewelry, decorations, and medical prototypes, showing the versatility of the technology).\n\n\nKey Points of 3D Printing 3. Choosing a Printer Types of Printers:\nFDM: The most common for beginners, ideal for everyday objects.\n\nSLA: Offers more detail but is more complex and usually used for small, precise objects.\n\nImage: /images.png (Comparative photo of an FDM and an SLA printer with brief labels of their characteristics).\nPrinting Size:\nChoose a printer with the appropriate volume according to the type of projects you want to do.\n\nPrinting Materials\n\nEach material has different characteristics; here are the most common:\nPLA: Easy to use, biodegradable, and perfect for beginners.\n\nABS: More durable but requires a heated bed to prevent warping.\n\nPETG: Strong and durable, easy to use, suitable for more advanced projects.\n\nImage: /images.png (Examples of different filament types with labels for their characteristics: PLA, ABS, PETG).\n\nFile Preparation 3D Modeling:\nUse programs like Tinkercad (very easy to use) or FreeCAD to design your 3D models.\n\nExport:\nMake sure to export your design in STL or OBJ, the most common formats for 3D printing.\n\nImage: /images.png (Screenshot of Tinkercad showing a basic 3D design, like a keychain or a small figure).\n\nSlicing Slicing Software:\nConvert the 3D model into instructions for the printer using programs like Cura or PrusaSlicer.\n\nSettings:\nAdjust layer height, speed, infill, and temperature depending on the material and object.\n\nImage: /images.png (Interface of a slicing program showing a model prepared for printing, with layer height and speed parameters visible).\n\nPrinter Setup Calibration:\nMake sure the printer is calibrated, especially nozzle height and bed leveling, for better adhesion.\n\nBed Leveling:\nThis is crucial to avoid print failure on the first layers.\n\nImage: /images.png (Image of a printer in the calibration process, focusing on bed and nozzle adjustment).\n\nBed Adhesion\nUse tape, adhesive spray, or special surfaces to improve the first layer’s adhesion and avoid issues.\nImage: /images.png (Photo of a printing bed covered with tape or spray, showing how it’s prepared for printing).\nMonitoring the Print\nObserve the process, especially on the first layers, to catch problems.\nEnsure the extruder and bed temperature are correct.\nImage: /images.png (Photo of a print in process, with a person closely observing the first layer).\nPost-Processing Removing Supports:\nCarefully remove supports if your model requires them once printing is done.\n\nSanding and Painting:\nSand the pieces to smooth them and optionally paint them for a professional finish.\n\nImage: /images.png (Photo of a freshly printed model with supports and post-processing tools, like sandpaper and brushes).\n\nExperimentation and Learning\nDon’t be afraid to experiment. Try different settings and learn from mistakes. Practice will help you improve over time.\nImage: /images.png (Collage of different 3D printed results, showing both successes and common errors).\nResources and Community\nJoin online forums and groups to share experiences and get help from other 3D printing enthusiasts and experts.\nImage: /images.png (Screenshot of an online forum about 3D printing, with users sharing tips and results).\n\nWould you like to delve deeper into any of these points?\n3D printing is a powerful and accessible tool. Start exploring and create your own projects!\nWith this guide, you can start understanding and experimenting with 3D printing. Ready to begin?"
-  },
-  {
-    "objectID": "en/index.html",
-    "href": "en/index.html",
-    "title": "Welcome to the website",
-    "section": "",
-    "text": "In progess Site Web\n\nComics\nTutoriels\nÀ Propos\n\n\n\n\nEnglish\nEspañol"
-  },
-  {
-    "objectID": "en/index.html#sélectionnez-votre-langue",
-    "href": "en/index.html#sélectionnez-votre-langue",
-    "title": "Welcome to the website",
-    "section": "",
-    "text": "English\nEspañol"
-  },
-  {
-    "objectID": "en/comics/index.html",
-    "href": "en/comics/index.html",
-    "title": "Comics",
-    "section": "",
-    "text": "Cómic 1\nEste es el primer cómic de la serie.\n\n\n\nHere’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
-  },
-  {
-    "objectID": "en/comics/index.html#watch-my-ice-skating-journey",
-    "href": "en/comics/index.html#watch-my-ice-skating-journey",
-    "title": "Comics",
-    "section": "",
-    "text": "Here’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
-  },
-  {
-    "objectID": "en/comics/emanuel.html",
-    "href": "en/comics/emanuel.html",
-    "title": "Memories that Mark Lives",
-    "section": "",
-    "text": "At age 6, with a bowl haircut.\n\n\n\n\n\n\n\n\n\nA piece of waxed string burning\n\n\n\n\n\n\n\n\n\nEmanuel, always with his vest\n\n\n\n\n\n\n\n\n\nPaola, doing science workshops since age 26"
-  },
-  {
-    "objectID": "en/comics/emanuel.html#there-are-memories-that-mark-lives.",
-    "href": "en/comics/emanuel.html#there-are-memories-that-mark-lives.",
-    "title": "Memories that Mark Lives",
-    "section": "",
-    "text": "At age 6, with a bowl haircut."
-  },
-  {
-    "objectID": "en/comics/emanuel.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
-    "href": "en/comics/emanuel.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
-    "title": "Memories that Mark Lives",
-    "section": "",
-    "text": "A piece of waxed string burning"
-  },
-  {
-    "objectID": "en/comics/emanuel.html#for-me-it-wasnt-science-it-was-magic.",
-    "href": "en/comics/emanuel.html#for-me-it-wasnt-science-it-was-magic.",
-    "title": "Memories that Mark Lives",
-    "section": "",
-    "text": "Emanuel, always with his vest"
-  },
-  {
-    "objectID": "en/comics/emanuel.html#magic-that-i-carry-with-me-today.",
-    "href": "en/comics/emanuel.html#magic-that-i-carry-with-me-today.",
-    "title": "Memories that Mark Lives",
-    "section": "",
-    "text": "Paola, doing science workshops since age 26"
-  },
-  {
-    "objectID": "en/about.html",
-    "href": "en/about.html",
-    "title": "About",
-    "section": "",
-    "text": "Welcome to my website! Here, you will find resources on various topics, including comics and tutorials.\n\n\nOur mission is to make science accessible to everyone by using visual and interactive resources.\n\n\n\nFor any questions or suggestions, feel free to contact us at: info@monsite.com."
-  },
-  {
-    "objectID": "en/about.html#our-mission",
-    "href": "en/about.html#our-mission",
-    "title": "About",
-    "section": "",
-    "text": "Our mission is to make science accessible to everyone by using visual and interactive resources."
-  },
-  {
-    "objectID": "en/about.html#contact",
-    "href": "en/about.html#contact",
-    "title": "About",
-    "section": "",
-    "text": "For any questions or suggestions, feel free to contact us at: info@monsite.com."
-  },
-  {
-    "objectID": "en/comics/Ice.html",
-    "href": "en/comics/Ice.html",
-    "title": "Facing My Fears on Ice",
-    "section": "",
-    "text": "A long time ago, I had a serious fall while ice skating that left me injured and shaken. The fear of getting back on the ice was overwhelming, but I found the courage and strength to return.\nI didn’t do it alone. I was supported by loving and caring people who encouraged me every step of the way. Their presence made all the difference and helped me regain my confidence.\nWatch this video to see my journey back to ice skating!\n\n\n\nWatch the video"
-  },
-  {
-    "objectID": "en/comics/Ice.html#overcoming-my-fear-of-ice-skating",
-    "href": "en/comics/Ice.html#overcoming-my-fear-of-ice-skating",
-    "title": "Facing My Fears on Ice",
-    "section": "",
-    "text": "A long time ago, I had a serious fall while ice skating that left me injured and shaken. The fear of getting back on the ice was overwhelming, but I found the courage and strength to return.\nI didn’t do it alone. I was supported by loving and caring people who encouraged me every step of the way. Their presence made all the difference and helped me regain my confidence.\nWatch this video to see my journey back to ice skating!\n\n\n\nWatch the video"
-  },
-  {
-    "objectID": "en/comics/prueba.html",
-    "href": "en/comics/prueba.html",
-    "title": "Cuadrícula de Fotografías",
-    "section": "",
-    "text": "Descripción de la imagen 1\nDescripción de la imagen 2\nDescripción de la imagen 3\nDescripción de la imagen 4\nDescripción de la imagen 5\nDescripción de la imagen 6\n\n\n\n\n\n\n\n\n\n\nDescripción de la imagen 7\nDescripción de la imagen 8\nDescripción de la imagen 9\nDescripción de la imagen 10\nDescripción de la imagen 11\nDescripción de la imagen 12"
-  },
-  {
-    "objectID": "en/comics/prueba.html#cuadrícula-de-fotografías",
-    "href": "en/comics/prueba.html#cuadrícula-de-fotografías",
-    "title": "Cuadrícula de Fotografías",
-    "section": "",
-    "text": "Descripción de la imagen 1\nDescripción de la imagen 2\nDescripción de la imagen 3\nDescripción de la imagen 4\nDescripción de la imagen 5\nDescripción de la imagen 6\n\n\n\n\n\n\n\n\n\n\nDescripción de la imagen 7\nDescripción de la imagen 8\nDescripción de la imagen 9\nDescripción de la imagen 10\nDescripción de la imagen 11\nDescripción de la imagen 12"
-  },
-  {
-    "objectID": "en/tutorials/index.html",
-    "href": "en/tutorials/index.html",
-    "title": "Tutorials",
-    "section": "",
-    "text": "1 Tutoriales Básicos\n\n\nTutorialImpresion\nEste es el primer tutorial básico\nTutorialImpresion\nTutorialImpresion"
-  },
-  {
-    "objectID": "en/tutorials/tutorial2.html",
-    "href": "en/tutorials/tutorial2.html",
-    "title": "Incrustar Tablero de Pinterest",
-    "section": "",
-    "text": "Puedes incrustar un tablero de Pinterest en tu página de Quarto utilizando un iframe de la siguiente manera:\n\n\nhtml"
-  },
-  {
-    "objectID": "en/tutorials/tutorial2.html#ejemplo-de-incrustación-de-un-tablero-de-pinterest",
-    "href": "en/tutorials/tutorial2.html#ejemplo-de-incrustación-de-un-tablero-de-pinterest",
-    "title": "Incrustar Tablero de Pinterest",
-    "section": "",
-    "text": "Puedes incrustar un tablero de Pinterest en tu página de Quarto utilizando un iframe de la siguiente manera:\n\n\nhtml"
+    "text": "Bienvenida a SheInventor\nSheInventor es un proyecto con el objetivo de derribar barreras de género en el ámbito de la tecnología y la ciencia. A través de una combinación de arte, ciencia y tecnología, buscamos empoderar a las mujeres con habilidades y competencias para los trabajos del futuro.\nDesde pequeña, he trabajado para encontrar la manera de utilizar mis competencias en diseño, enseñanza y análisis del mundo que nos rodea para crear un impacto positivo en las personas. A lo largo de mi vida, he encontrado obstáculos para acceder al conocimiento debido a estereotipos de género, y es por eso que este proyecto nace como un espacio inclusivo. Con SheInventor, busco romper esos estereotipos, compartiendo mi amor por el conocimiento y la ciencia sin importar las herramientas ni los roles de género que muchas veces limitan las oportunidades de creación.\n\n\nÍndice\n\nInicio\nTutoriales\n\nProyectos Integrales\nTutoriales Rápidos\n\nCómics de Ciencia\n\nExploraciones Científicas\nHistorias de Inventoras\n\nVideos de Mediación\n\nConceptos Científicos y Tecnológicos\nNuevas Tecnologías y Empleos del Futuro\n\nSobre Mí: Mi Vida como Inventora\n\nMi Trayectoria\nDesafíos y Logros\nProyectos Personales\n\nRecursos y Material Didáctico\n\nMaterial Descargable\nRecomendaciones de Lectura\nPreguntas Frecuentes\n\nEventos y Talleres\n\nPróximos Talleres\nArchivo de Talleres\n\nContacto y Comunidad\n\nRedes Sociales\nColaboraciones\nTestimonios y Comunidad\n\n\n\n\n\nSecciones Principales\n\nTutoriales\nUna serie de tutoriales orientados a proyectos integrales y soluciones rápidas, que proveen a las usuarias de habilidades tecnológicas prácticas. Aquí, encontrarán:\n\nProyectos Integrales: Guías paso a paso para realizar proyectos completos.\nTutoriales Rápidos: Recursos y lecciones cortas para tareas específicas o problemas puntuales.\n\n\n\nCómics de Ciencia\nCómics que explican conceptos científicos de forma accesible y entretenida, acercando la ciencia a todas las personas. Divididos en:\n\nExploraciones Científicas: Historias y explicaciones de temas científicos variados.\nHistorias de Inventoras: Relatos de mujeres en ciencia, para inspirar y visibilizar sus aportes.\n\n\n\nVideos de Mediación\nUna colección de videos educativos que cubren temas de ciencia y tecnología, además de competencias necesarias para los empleos del futuro. Estos videos están orientados a:\n\nConceptos Científicos y Tecnológicos: Explicaciones de temas científicos complejos.\nNuevas Tecnologías y Empleos del Futuro: Enfoque en tendencias y habilidades emergentes.\n\n\n\nSobre Mí: Mi Vida como Inventora\nUna sección donde comparto mi trayectoria, experiencias, y aprendizajes personales como inventora y creadora. Incluye:\n\nMi Trayectoria: Un recorrido por mi camino como inventora y divulgadora de ciencia.\nDesafíos y Logros: Reflexiones sobre obstáculos superados y logros alcanzados.\nProyectos Personales: Espacio donde muestro proyectos personales, ideas y procesos creativos.\n\n\n\nRecursos y Material Didáctico\nUn repositorio de recursos complementarios para quienes quieran profundizar en los temas tratados. En esta sección encontrarás:\n\nMaterial Descargable: Plantillas, guías y otros recursos gratuitos.\nRecomendaciones de Lectura: Sugerencias de libros y artículos para quienes deseen seguir aprendiendo.\nPreguntas Frecuentes: Respuestas a dudas comunes sobre SheInventor y los temas abordados.\n\n\n\nEventos y Talleres\nUn calendario de próximos talleres y eventos organizados por SheInventor, con acceso tanto presencial como en línea. También cuenta con:\n\nPróximos Talleres: Información sobre próximos eventos y talleres.\nArchivo de Talleres: Registro de eventos pasados, con resúmenes y testimonios.\n\n\n\nContacto y Comunidad\nEsta sección invita a la comunidad a interactuar, participar y colaborar en SheInventor:\n\nRedes Sociales: Enlaces a nuestras redes sociales para mantenerse al día.\nColaboraciones: Para quienes deseen colaborar o participar en el proyecto.\nTestimonios y Comunidad: Comentarios, fotos y experiencias de quienes han participado en SheInventor."
   },
   {
     "objectID": "es/comics/emanuel.html",
@@ -273,11 +133,158 @@
     "text": "Paola, desde los 26 años haciendo talleres de ciencia"
   },
   {
+    "objectID": "en/tutorials/tutorial2.html",
+    "href": "en/tutorials/tutorial2.html",
+    "title": "Incrustar Tablero de Pinterest",
+    "section": "",
+    "text": "Puedes incrustar un tablero de Pinterest en tu página de Quarto utilizando un iframe de la siguiente manera:\n\n\nhtml"
+  },
+  {
+    "objectID": "en/tutorials/tutorial2.html#ejemplo-de-incrustación-de-un-tablero-de-pinterest",
+    "href": "en/tutorials/tutorial2.html#ejemplo-de-incrustación-de-un-tablero-de-pinterest",
+    "title": "Incrustar Tablero de Pinterest",
+    "section": "",
+    "text": "Puedes incrustar un tablero de Pinterest en tu página de Quarto utilizando un iframe de la siguiente manera:\n\n\nhtml"
+  },
+  {
+    "objectID": "en/tutorials/index.html",
+    "href": "en/tutorials/index.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "1 Tutoriales Básicos\n\n\nTutorialImpresion\nEste es el primer tutorial básico\nTutorialImpresion\nTutorialImpresion"
+  },
+  {
+    "objectID": "en/comics/prueba.html",
+    "href": "en/comics/prueba.html",
+    "title": "Cuadrícula de Fotografías",
+    "section": "",
+    "text": "Descripción de la imagen 1\nDescripción de la imagen 2\nDescripción de la imagen 3\nDescripción de la imagen 4\nDescripción de la imagen 5\nDescripción de la imagen 6\n\n\n\n\n\n\n\n\n\n\nDescripción de la imagen 7\nDescripción de la imagen 8\nDescripción de la imagen 9\nDescripción de la imagen 10\nDescripción de la imagen 11\nDescripción de la imagen 12"
+  },
+  {
+    "objectID": "en/comics/prueba.html#cuadrícula-de-fotografías",
+    "href": "en/comics/prueba.html#cuadrícula-de-fotografías",
+    "title": "Cuadrícula de Fotografías",
+    "section": "",
+    "text": "Descripción de la imagen 1\nDescripción de la imagen 2\nDescripción de la imagen 3\nDescripción de la imagen 4\nDescripción de la imagen 5\nDescripción de la imagen 6\n\n\n\n\n\n\n\n\n\n\nDescripción de la imagen 7\nDescripción de la imagen 8\nDescripción de la imagen 9\nDescripción de la imagen 10\nDescripción de la imagen 11\nDescripción de la imagen 12"
+  },
+  {
+    "objectID": "en/comics/Ice.html",
+    "href": "en/comics/Ice.html",
+    "title": "Facing My Fears on Ice",
+    "section": "",
+    "text": "A long time ago, I had a serious fall while ice skating that left me injured and shaken. The fear of getting back on the ice was overwhelming, but I found the courage and strength to return.\nI didn’t do it alone. I was supported by loving and caring people who encouraged me every step of the way. Their presence made all the difference and helped me regain my confidence.\nWatch this video to see my journey back to ice skating!\n\n\n\nWatch the video"
+  },
+  {
+    "objectID": "en/comics/Ice.html#overcoming-my-fear-of-ice-skating",
+    "href": "en/comics/Ice.html#overcoming-my-fear-of-ice-skating",
+    "title": "Facing My Fears on Ice",
+    "section": "",
+    "text": "A long time ago, I had a serious fall while ice skating that left me injured and shaken. The fear of getting back on the ice was overwhelming, but I found the courage and strength to return.\nI didn’t do it alone. I was supported by loving and caring people who encouraged me every step of the way. Their presence made all the difference and helped me regain my confidence.\nWatch this video to see my journey back to ice skating!\n\n\n\nWatch the video"
+  },
+  {
+    "objectID": "en/about.html",
+    "href": "en/about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to my website! Here, you will find resources on various topics, including comics and tutorials.\n\n\nOur mission is to make science accessible to everyone by using visual and interactive resources.\n\n\n\nFor any questions or suggestions, feel free to contact us at: info@monsite.com."
+  },
+  {
+    "objectID": "en/about.html#our-mission",
+    "href": "en/about.html#our-mission",
+    "title": "About",
+    "section": "",
+    "text": "Our mission is to make science accessible to everyone by using visual and interactive resources."
+  },
+  {
+    "objectID": "en/about.html#contact",
+    "href": "en/about.html#contact",
+    "title": "About",
+    "section": "",
+    "text": "For any questions or suggestions, feel free to contact us at: info@monsite.com."
+  },
+  {
+    "objectID": "en/comics/emanuel.html",
+    "href": "en/comics/emanuel.html",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "At age 6, with a bowl haircut.\n\n\n\n\n\n\n\n\n\nA piece of waxed string burning\n\n\n\n\n\n\n\n\n\nEmanuel, always with his vest\n\n\n\n\n\n\n\n\n\nPaola, doing science workshops since age 26"
+  },
+  {
+    "objectID": "en/comics/emanuel.html#there-are-memories-that-mark-lives.",
+    "href": "en/comics/emanuel.html#there-are-memories-that-mark-lives.",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "At age 6, with a bowl haircut."
+  },
+  {
+    "objectID": "en/comics/emanuel.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
+    "href": "en/comics/emanuel.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "A piece of waxed string burning"
+  },
+  {
+    "objectID": "en/comics/emanuel.html#for-me-it-wasnt-science-it-was-magic.",
+    "href": "en/comics/emanuel.html#for-me-it-wasnt-science-it-was-magic.",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "Emanuel, always with his vest"
+  },
+  {
+    "objectID": "en/comics/emanuel.html#magic-that-i-carry-with-me-today.",
+    "href": "en/comics/emanuel.html#magic-that-i-carry-with-me-today.",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "Paola, doing science workshops since age 26"
+  },
+  {
+    "objectID": "en/comics/index.html",
+    "href": "en/comics/index.html",
+    "title": "Comics",
+    "section": "",
+    "text": "Cómic 1\nEste es el primer cómic de la serie.\n\n\n\nHere’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
+  },
+  {
+    "objectID": "en/comics/index.html#watch-my-ice-skating-journey",
+    "href": "en/comics/index.html#watch-my-ice-skating-journey",
+    "title": "Comics",
+    "section": "",
+    "text": "Here’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
+  },
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "Welcome to the website",
+    "section": "",
+    "text": "In progess Site Web\n\nComics\nTutoriels\nÀ Propos\n\n\n\n\nEnglish\nEspañol"
+  },
+  {
+    "objectID": "en/index.html#sélectionnez-votre-langue",
+    "href": "en/index.html#sélectionnez-votre-langue",
+    "title": "Welcome to the website",
+    "section": "",
+    "text": "English\nEspañol"
+  },
+  {
+    "objectID": "en/tutorials/tutorial1.html",
+    "href": "en/tutorials/tutorial1.html",
+    "title": "SheInventor",
+    "section": "",
+    "text": "Introduction to 3D Printing for Beginners\nThis post is designed for those who want to explore the world of 3D printing, especially 17-year-old girls. Discover the basics and some key points to get started. Explore the World of 3D Printing 1. What is 3D Printing?\n3D printing is a technology that creates physical objects from digital designs. Imagine bringing your ideas and designs to life, from an accessory to a decorative figure.\nImage: /images.png (A 3D printer printing a small object, like a decorative figure. Close-up showing how the object is created layer by layer).\n\nReal Applications: What is 3D Printing Used For?\n\n3D printing is used in many areas: from fashion design to medicine and art. You can even create your own accessories or unique pieces to decorate your space!\nImage: /images.png (A collage of 3D printed objects, like jewelry, decorations, and medical prototypes, showing the versatility of the technology).\n\n\nKey Points of 3D Printing 3. Choosing a Printer Types of Printers:\nFDM: The most common for beginners, ideal for everyday objects.\n\nSLA: Offers more detail but is more complex and usually used for small, precise objects.\n\nImage: /images.png (Comparative photo of an FDM and an SLA printer with brief labels of their characteristics).\nPrinting Size:\nChoose a printer with the appropriate volume according to the type of projects you want to do.\n\nPrinting Materials\n\nEach material has different characteristics; here are the most common:\nPLA: Easy to use, biodegradable, and perfect for beginners.\n\nABS: More durable but requires a heated bed to prevent warping.\n\nPETG: Strong and durable, easy to use, suitable for more advanced projects.\n\nImage: /images.png (Examples of different filament types with labels for their characteristics: PLA, ABS, PETG).\n\nFile Preparation 3D Modeling:\nUse programs like Tinkercad (very easy to use) or FreeCAD to design your 3D models.\n\nExport:\nMake sure to export your design in STL or OBJ, the most common formats for 3D printing.\n\nImage: /images.png (Screenshot of Tinkercad showing a basic 3D design, like a keychain or a small figure).\n\nSlicing Slicing Software:\nConvert the 3D model into instructions for the printer using programs like Cura or PrusaSlicer.\n\nSettings:\nAdjust layer height, speed, infill, and temperature depending on the material and object.\n\nImage: /images.png (Interface of a slicing program showing a model prepared for printing, with layer height and speed parameters visible).\n\nPrinter Setup Calibration:\nMake sure the printer is calibrated, especially nozzle height and bed leveling, for better adhesion.\n\nBed Leveling:\nThis is crucial to avoid print failure on the first layers.\n\nImage: /images.png (Image of a printer in the calibration process, focusing on bed and nozzle adjustment).\n\nBed Adhesion\nUse tape, adhesive spray, or special surfaces to improve the first layer’s adhesion and avoid issues.\nImage: /images.png (Photo of a printing bed covered with tape or spray, showing how it’s prepared for printing).\nMonitoring the Print\nObserve the process, especially on the first layers, to catch problems.\nEnsure the extruder and bed temperature are correct.\nImage: /images.png (Photo of a print in process, with a person closely observing the first layer).\nPost-Processing Removing Supports:\nCarefully remove supports if your model requires them once printing is done.\n\nSanding and Painting:\nSand the pieces to smooth them and optionally paint them for a professional finish.\n\nImage: /images.png (Photo of a freshly printed model with supports and post-processing tools, like sandpaper and brushes).\n\nExperimentation and Learning\nDon’t be afraid to experiment. Try different settings and learn from mistakes. Practice will help you improve over time.\nImage: /images.png (Collage of different 3D printed results, showing both successes and common errors).\nResources and Community\nJoin online forums and groups to share experiences and get help from other 3D printing enthusiasts and experts.\nImage: /images.png (Screenshot of an online forum about 3D printing, with users sharing tips and results).\n\nWould you like to delve deeper into any of these points?\n3D printing is a powerful and accessible tool. Start exploring and create your own projects!\nWith this guide, you can start understanding and experimenting with 3D printing. Ready to begin?"
+  },
+  {
     "objectID": "es/tutorials/index.html",
     "href": "es/tutorials/index.html",
     "title": "Tutoriales",
     "section": "",
     "text": "1 Basic Tutorials\n\n\n3D Printing Tutorial\nThis is the first basic tutorial.\n\nTutorial 2 Tutorial 3"
+  },
+  {
+    "objectID": "es/tutorials/tutorial2.html",
+    "href": "es/tutorials/tutorial2.html",
+    "title": "Tutoriel : Créer, vectoriser et imprimer en 3D avec la Creality CR-10",
+    "section": "",
+    "text": "Tutoriel : Créer, vectoriser et imprimer en 3D avec la Creality CR-10\nAuteur : SheInventor\n\n\n\nImage de la Creality CR-10\n\n\nDans ce tutoriel, nous allons vous guider à travers les étapes nécessaires pour créer un dessin, le vectoriser, puis l’imprimer en 3D à l’aide de l’imprimante Creality CR-10. Vous apprendrez à utiliser des outils de conception pour obtenir un modèle imprimable et à préparer l’imprimante pour l’impression 3D.\n\n\nÉtape 1 : Créer le dessins\n\nMatériel et outils : Utilisez du papier et un crayon pour dessiner, ou une tablette graphique avec un logiciel comme Photoshop ou Procreate.\nConseils : Assurez-vous que le dessin soit simple, car plus il est détaillé, plus la vectorisation peut devenir compliquée.\n\n\n\n\nÉtape 2 : Numériser le dessin\n\nScanner ou photographier le dessin : Si vous avez utilisé du papier, numérisez-le ou prenez une photo de haute qualité.\nAjuster l’image : Utilisez un logiciel pour améliorer la qualité de l’image si nécessaire.\n\n\n\n\nÉtape 3 : Vectoriser le dessin\n\nOuvrir dans un logiciel de vectorisation : Utilisez Adobe Illustrator ou Inkscape.\nVectorisation automatique :\n\nDans Illustrator : Allez dans Fenêtre &gt; Image Trace et ajustez les paramètres pour tracer les contours du dessin.\nDans Inkscape : Utilisez Chemin &gt; Vectoriser l’image pour transformer le dessin en lignes vectorielles.\n\nNettoyer et finaliser : Éliminez les détails inutiles et assurez-vous que le dessin est bien défini.\n\n\n\n\nÉtape 4 : Préparer le fichier pour l’impression 3D\n\nConvertir en format compatible : Exporte le fichier vectorisé en STL ou OBJ, formats utilisés pour l’impression 3D.\nUtiliser un logiciel de modélisation 3D : Importez le fichier vectorisé dans un logiciel comme Tinkercad ou Fusion 360 pour lui donner de la profondeur et le convertir en modèle 3D.\nVérifier les dimensions : Assurez-vous que le modèle 3D correspond aux dimensions de l’imprimante et ajustez sa taille si nécessaire.\n\n\n\n\nÉtape 5 : Préparer le fichier pour l’imprimante 3D\n\nImporter dans un logiciel de tranchage : Utilisez Cura pour préparer le fichier 3D en G-code, un format compréhensible par l’imprimante.\nAjuster les paramètres : Sélectionnez les paramètres d’impression, comme la température, le matériau (PLA, ABS), et la vitesse d’impression.\nGénérer le G-code : Une fois prêt, exportez le fichier G-code sur une carte SD ou une clé USB.\n\n\n\n\nÉtape 6 : Imprimer avec la Creality CR-10\n\nPréparer l’imprimante : Vérifiez que l’imprimante est prête à imprimer (niveau du lit d’impression, présence de filament).\nInsérer la carte SD : Placez la carte SD dans l’imprimante.\nLancer l’impression : Sélectionnez le fichier sur l’écran tactile et démarrez l’impression.\nSuivre l’impression : Surveillez l’impression pour vous assurer qu’il n’y a pas de problèmes, comme un mauvais alignement ou un filament qui ne sort pas correctement.\n\n\n\n\nÉtape 7 : Post-traitement\n\nRetirer l’objet : Une fois l’impression terminée, attendez que l’objet refroidisse avant de le retirer du lit d’impression.\nPonçage et finition : Si nécessaire, vous pouvez poncer les bords ou appliquer une finition pour un meilleur rendu.\n\n\nNous espérons que ce tutoriel vous a été utile ! N’hésitez pas à partager vos impressions et à poser des questions si vous en avez. Bonnes impressions !"
   },
   {
     "objectID": "fr/about.html",
@@ -315,17 +322,17 @@
     "text": "1 Tutoriels de Base\n\n\nTutoriel Impression\nCeci est le premier tutoriel de base. Tutoriel Impression 2\nTutoriel Impression 3"
   },
   {
+    "objectID": "fr/tutorials/tutorial2.html",
+    "href": "fr/tutorials/tutorial2.html",
+    "title": "Tutoriel : Créer, vectoriser et imprimer en 3D avec la Creality CR-10",
+    "section": "",
+    "text": "Tutoriel : Créer, vectoriser et imprimer en 3D avec la Creality CR-10\nAuteur : SheInventor\n\n\n\nImage de la Creality CR-10\n\n\nDans ce tutoriel, nous allons vous guider à travers les étapes nécessaires pour créer un dessin, le vectoriser, puis l’imprimer en 3D à l’aide de l’imprimante Creality CR-10. Vous apprendrez à utiliser des outils de conception pour obtenir un modèle imprimable et à préparer l’imprimante pour l’impression 3D.\n\n\nÉtape 1 : Créer le dessins\n\nMatériel et outils : Utilisez du papier et un crayon pour dessiner, ou une tablette graphique avec un logiciel comme Photoshop ou Procreate.\nConseils : Assurez-vous que le dessin soit simple, car plus il est détaillé, plus la vectorisation peut devenir compliquée.\n\n\n\n\nÉtape 2 : Numériser le dessin\n\nScanner ou photographier le dessin : Si vous avez utilisé du papier, numérisez-le ou prenez une photo de haute qualité.\nAjuster l’image : Utilisez un logiciel pour améliorer la qualité de l’image si nécessaire.\n\n\n\n\nÉtape 3 : Vectoriser le dessin\n\nOuvrir dans un logiciel de vectorisation : Utilisez Adobe Illustrator ou Inkscape.\nVectorisation automatique :\n\nDans Illustrator : Allez dans Fenêtre &gt; Image Trace et ajustez les paramètres pour tracer les contours du dessin.\nDans Inkscape : Utilisez Chemin &gt; Vectoriser l’image pour transformer le dessin en lignes vectorielles.\n\nNettoyer et finaliser : Éliminez les détails inutiles et assurez-vous que le dessin est bien défini.\n\n\n\n\nÉtape 4 : Préparer le fichier pour l’impression 3D\n\nConvertir en format compatible : Exporte le fichier vectorisé en STL ou OBJ, formats utilisés pour l’impression 3D.\nUtiliser un logiciel de modélisation 3D : Importez le fichier vectorisé dans un logiciel comme Tinkercad ou Fusion 360 pour lui donner de la profondeur et le convertir en modèle 3D.\nVérifier les dimensions : Assurez-vous que le modèle 3D correspond aux dimensions de l’imprimante et ajustez sa taille si nécessaire.\n\n\n\n\nÉtape 5 : Préparer le fichier pour l’imprimante 3D\n\nImporter dans un logiciel de tranchage : Utilisez Cura pour préparer le fichier 3D en G-code, un format compréhensible par l’imprimante.\nAjuster les paramètres : Sélectionnez les paramètres d’impression, comme la température, le matériau (PLA, ABS), et la vitesse d’impression.\nGénérer le G-code : Une fois prêt, exportez le fichier G-code sur une carte SD ou une clé USB.\n\n\n\n\nÉtape 6 : Imprimer avec la Creality CR-10\n\nPréparer l’imprimante : Vérifiez que l’imprimante est prête à imprimer (niveau du lit d’impression, présence de filament).\nInsérer la carte SD : Placez la carte SD dans l’imprimante.\nLancer l’impression : Sélectionnez le fichier sur l’écran tactile et démarrez l’impression.\nSuivre l’impression : Surveillez l’impression pour vous assurer qu’il n’y a pas de problèmes, comme un mauvais alignement ou un filament qui ne sort pas correctement.\n\n\n\n\nÉtape 7 : Post-traitement\n\nRetirer l’objet : Une fois l’impression terminée, attendez que l’objet refroidisse avant de le retirer du lit d’impression.\nPonçage et finition : Si nécessaire, vous pouvez poncer les bords ou appliquer une finition pour un meilleur rendu.\n\n\nNous espérons que ce tutoriel vous a été utile ! N’hésitez pas à partager vos impressions et à poser des questions si vous en avez. Bonnes impressions !"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Bienvenida a Sheinventor",
     "section": "",
     "text": "Selecciona tu idioma\n\nEnglish Español Français"
-  },
-  {
-    "objectID": "es/tutorials/tutorial2.html",
-    "href": "es/tutorials/tutorial2.html",
-    "title": "Tutoriel : Créer, vectoriser et imprimer en 3D avec la Creality CR-10",
-    "section": "",
-    "text": "Tutoriel : Créer, vectoriser et imprimer en 3D avec la Creality CR-10\nAuteur : SheInventor\n\n\n\nImage de la Creality CR-10\n\n\nDans ce tutoriel, nous allons vous guider à travers les étapes nécessaires pour créer un dessin, le vectoriser, puis l’imprimer en 3D à l’aide de l’imprimante Creality CR-10. Vous apprendrez à utiliser des outils de conception pour obtenir un modèle imprimable et à préparer l’imprimante pour l’impression 3D.\n\n\nÉtape 1 : Créer le dessin\n\nMatériel et outils : Utilisez du papier et un crayon pour dessiner, ou une tablette graphique avec un logiciel comme Photoshop ou Procreate.\nConseils : Assurez-vous que le dessin soit simple, car plus il est détaillé, plus la vectorisation peut devenir compliquée.\n\n\n\n\nÉtape 2 : Numériser le dessin\n\nScanner ou photographier le dessin : Si vous avez utilisé du papier, numérisez-le ou prenez une photo de haute qualité.\nAjuster l’image : Utilisez un logiciel pour améliorer la qualité de l’image si nécessaire.\n\n\n\n\nÉtape 3 : Vectoriser le dessin\n\nOuvrir dans un logiciel de vectorisation : Utilisez Adobe Illustrator ou Inkscape.\nVectorisation automatique :\n\nDans Illustrator : Allez dans Fenêtre &gt; Image Trace et ajustez les paramètres pour tracer les contours du dessin.\nDans Inkscape : Utilisez Chemin &gt; Vectoriser l’image pour transformer le dessin en lignes vectorielles.\n\nNettoyer et finaliser : Éliminez les détails inutiles et assurez-vous que le dessin est bien défini.\n\n\n\n\nÉtape 4 : Préparer le fichier pour l’impression 3D\n\nConvertir en format compatible : Exporte le fichier vectorisé en STL ou OBJ, formats utilisés pour l’impression 3D.\nUtiliser un logiciel de modélisation 3D : Importez le fichier vectorisé dans un logiciel comme Tinkercad ou Fusion 360 pour lui donner de la profondeur et le convertir en modèle 3D.\nVérifier les dimensions : Assurez-vous que le modèle 3D correspond aux dimensions de l’imprimante et ajustez sa taille si nécessaire.\n\n\n\n\nÉtape 5 : Préparer le fichier pour l’imprimante 3D\n\nImporter dans un logiciel de tranchage : Utilisez Cura pour préparer le fichier 3D en G-code, un format compréhensible par l’imprimante.\nAjuster les paramètres : Sélectionnez les paramètres d’impression, comme la température, le matériau (PLA, ABS), et la vitesse d’impression.\nGénérer le G-code : Une fois prêt, exportez le fichier G-code sur une carte SD ou une clé USB.\n\n\n\n\nÉtape 6 : Imprimer avec la Creality CR-10\n\nPréparer l’imprimante : Vérifiez que l’imprimante est prête à imprimer (niveau du lit d’impression, présence de filament).\nInsérer la carte SD : Placez la carte SD dans l’imprimante.\nLancer l’impression : Sélectionnez le fichier sur l’écran tactile et démarrez l’impression.\nSuivre l’impression : Surveillez l’impression pour vous assurer qu’il n’y a pas de problèmes, comme un mauvais alignement ou un filament qui ne sort pas correctement.\n\n\n\n\nÉtape 7 : Post-traitement\n\nRetirer l’objet : Une fois l’impression terminée, attendez que l’objet refroidisse avant de le retirer du lit d’impression.\nPonçage et finition : Si nécessaire, vous pouvez poncer les bords ou appliquer une finition pour un meilleur rendu.\n\n\nNous espérons que ce tutoriel vous a été utile ! N’hésitez pas à partager vos impressions et à poser des questions si vous en avez. Bonnes impressions !"
   }
 ]
