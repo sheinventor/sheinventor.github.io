@@ -113,3 +113,16 @@ Un espace pour se connecter et collaborer avec la communauté de SheInventor :
   background-color: #3B163B;
   border: 2px solid #FFFFFF;
   border-radius: 
+.grid-item h2, .grid-item h3, .grid-item p, .grid-item a {
+  color: #FFFFFF !important; /* Forzar el color blanco en todos los títulos, párrafos y enlaces */
+}
+
+.grid-item h2 a, .grid-item h3 a {
+  text-decoration: none;
+  color: #FFFFFF !important; /* Forzar el color blanco en los enlaces de títulos */
+}
+
+.grid-item h2 a:hover, .grid-item h3 a:hover {
+  color: #FFFFFF; /* Mantener el color blanco en hover */
+}
+</style>
