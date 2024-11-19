@@ -1,0 +1,74 @@
+---
+title: "Recuerdos que Marcan Vidas"
+author: "SheInventor"
+image: "../../images/Emanuel1.png"
+description: "Este es el primer cómic de la serie."
+date: "2024-11-01"
+format:
+  revealjs:
+    self-contained: true
+    theme: "solarized"  # Ejemplo de un tema, puedes cambiarlo por otro
+    slideNumber: true  # Muestra el número de diapositiva
+    transition: "fade"  # Opción para transiciones
+    revealOptions:
+      controls: true     # Muestra los controles de navegación (anterior/siguiente)
+      progress: true     # Muestra la barra de progreso
+      overview: true     # Muestra la vista general de todas las diapositivas
+      history: true      # Activa la funcionalidad de historial de navegación
+      center: true       # Centra las diapositivas
+    css: ../../css/styles.css  # Ruta al archivo CSS
+lang: es  # Especifica el idioma
+---
+
+## Fui al museo Pompidou Metz
+
+Visité el museo Pompidou Metz, un lugar fascinante de arte contemporáneo. Vi una exposición de gomas de mascar en la banqueta, algunas me gustaron, pero me pareció un tanto inverosímil que estuvieran en un museo.
+
+![Exposición de gomas de mascar](../../images/Metz1.webp)
+
+---
+
+## El cuadro con ampolletas
+
+Alguien recogió ampolletas de viejos televisores y las transformó en un cuadro gigante con resina epoxi. Le tomé una foto con la intención de crear un wallpaper.
+
+![Cuadro con ampolletas](../../images/Metz1.webp)
+
+---
+
+## Cortina con ojitos cocidos
+
+Había una cortina con ojitos cocidos, de diferentes colores. Fue una de esas piezas extrañas que me dejó pensando, sobre todo en la falta de contexto.
+
+![Cortina con ojitos cocidos](../../images/Metz1.webp)
+
+---
+
+## Repeticiones y el morado
+
+En una sala llamada "Repeticiones", observé cuadros morados, y me tomé una foto que hoy es mi actual foto de perfil de WhatsApp.
+
+![Cuadro morado](../../images/Metz1.webp)
+
+---
+
+## La sala oscura y las sombras
+
+Me encantó una sala oscura donde el artista había colocado objetos que giraban, iluminados por focos. Me hizo recordar un juguete de mi infancia y la historia de la cueva de Platón.
+
+![Sala oscura y sombras](../../images/Metz1.webp)
+
+---
+
+## Reflexión personal
+
+He estado reflexionando mucho sobre mi existencia y a dónde voy. Esta exposición me permitió tener conversaciones conmigo misma que no habría tenido si hubiera estado acompañada. Me siento sola en mis pensamientos, y a veces tengo la sensación de estar atrapada en un ciclo de lecciones repetidas.
+
+---
+
+
+<script>
+  document.addEventListener('contextmenu', function(e) {
+    e.preventDefault();
+  });
+</script>

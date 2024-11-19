@@ -8,7 +8,9 @@ format:
 
 
 **SheInventor** nace con el propósito de romper barreras de género en la tecnología, combinando arte, ciencia e innovación para capacitar a las mujeres en las competencias necesarias para los empleos del futuro. Desde pequeña, mi objetivo ha sido utilizar mis habilidades en diseño y enseñanza para ayudar a las personas a comprender el mundo que nos rodea. Este proyecto es mi contribución a la creación de un espacio inclusivo y de acceso al conocimiento para todos, sin importar los estereotipos o las limitaciones que enfrentemos.
+[Tutorial sobre Reveal.js](tutorials/tutorial.html)
 
+[Tutorial2 ](tutorials/tutorial4.qmd)
 <div class="grid-container">
 
 <div class="grid-item">

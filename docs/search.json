@@ -14,6 +14,62 @@
     "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   },
   {
+    "objectID": "revealjs/examples/markdown.html",
+    "href": "revealjs/examples/markdown.html",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "Content 1.1\nNote: This will only appear in the speaker notes window.\n\n\n\nContent 1.2\n\n\n\nContent 2.1\n\n\n\nContent 3.1\n\n\n\nContent 3.2\n\n\n\n\n\n\nExternal Image\n\n\n\n\n\n\\[ J(\\theta_0,\\theta_1) = \\sum_{i=0} \\]"
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html#external-1.1",
+    "href": "revealjs/examples/markdown.html#external-1.1",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "Content 1.1\nNote: This will only appear in the speaker notes window."
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html#external-1.2",
+    "href": "revealjs/examples/markdown.html#external-1.2",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "Content 1.2"
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html#external-2",
+    "href": "revealjs/examples/markdown.html#external-2",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "Content 2.1"
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html#external-3.1",
+    "href": "revealjs/examples/markdown.html#external-3.1",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "Content 3.1"
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html#external-3.2",
+    "href": "revealjs/examples/markdown.html#external-3.2",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "Content 3.2"
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html#external-3.3-image",
+    "href": "revealjs/examples/markdown.html#external-3.3-image",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "External Image"
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html#external-3.4-math",
+    "href": "revealjs/examples/markdown.html#external-3.4-math",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "\\[ J(\\theta_0,\\theta_1) = \\sum_{i=0} \\]"
+  },
+  {
     "objectID": "fr/tutorials/tutorial1.html",
     "href": "fr/tutorials/tutorial1.html",
     "title": "SheInventor",
@@ -88,7 +144,7 @@
     "href": "es/index.html",
     "title": "Bienvenida a SheInventor!",
     "section": "",
-    "text": "SheInventor nace con el propósito de romper barreras de género en la tecnología, combinando arte, ciencia e innovación para capacitar a las mujeres en las competencias necesarias para los empleos del futuro. Desde pequeña, mi objetivo ha sido utilizar mis habilidades en diseño y enseñanza para ayudar a las personas a comprender el mundo que nos rodea. Este proyecto es mi contribución a la creación de un espacio inclusivo y de acceso al conocimiento para todos, sin importar los estereotipos o las limitaciones que enfrentemos.\n\n\nTutoriales\nGuías paso a paso y tutoriales rápidos sobre proyectos integrales de tecnología y diseño.\n\n\nCómics de Ciencia\nHistorias visuales que explican conceptos científicos y muestran a mujeres inventoras.\n\n\nVideos de Mediación\nVideos educativos sobre ciencia, tecnología y habilidades para los empleos del futuro.\n\n\nSobre Mí: Mi Vida como Inventora\nMi trayectoria personal, desafíos superados y proyectos como inventora y divulgadora.\n\n\nRecursos y Material Didáctico\nMaterial descargable, guías y recomendaciones de lectura sobre ciencia y tecnología.\n\n\nEventos y Talleres\nCalendario de próximos talleres y un archivo de eventos anteriores con testimonios.\n\n\nContacto y Comunidad\nConéctate, colabora y comparte tu experiencia en SheInventor.\n\n\n\nTutoriales\nEn esta sección, podrás acceder a guías prácticas que te enseñarán a crear proyectos tecnológicos de principio a fin, así como tutoriales rápidos para resolver problemas específicos. Ejemplos:\n\nTutoriels\nProyectos Integrales\nTutoriales Rápidos\n\n\n\nCómics de Ciencia\nExplora historias visuales que abordan temas científicos y ponen en valor a mujeres inventoras. Descubre: - Exploraciones Científicas - Historias de Inventoras\n\n\nVideos de Mediación\nUna colección de videos que abordan ciencia y tecnología de forma accesible y visual. Temas cubiertos: - Conceptos Científicos y Tecnológicos - Nuevas Tecnologías y Empleos del Futuro\n\n\nSobre Mí: Mi Vida como Inventora\nAquí comparto mi experiencia, logros y los desafíos que he superado como inventora. Explora: - Mi Trayectoria - Comics - Desafíos y Logros - Proyectos Personales\n\n\nRecursos y Material Didáctico\nRecursos descargables y lecturas recomendadas para profundizar en los temas. Incluye: - Material Descargable - Recomendaciones de Lectura - Preguntas Frecuentes\n\n\nEventos y Talleres\nConsulta los próximos talleres y revisa los eventos pasados, con testimonios y resúmenes: - Próximos Talleres - Archivo de Talleres\n\n\nContacto y Comunidad\nUn espacio para conectarse y colaborar con la comunidad de SheInventor: - Redes Sociales - Colaboraciones - Testimonios y Comunidad"
+    "text": "SheInventor nace con el propósito de romper barreras de género en la tecnología, combinando arte, ciencia e innovación para capacitar a las mujeres en las competencias necesarias para los empleos del futuro. Desde pequeña, mi objetivo ha sido utilizar mis habilidades en diseño y enseñanza para ayudar a las personas a comprender el mundo que nos rodea. Este proyecto es mi contribución a la creación de un espacio inclusivo y de acceso al conocimiento para todos, sin importar los estereotipos o las limitaciones que enfrentemos. Tutorial sobre Reveal.js\nTutorial2\n\n\nTutoriales\nGuías paso a paso y tutoriales rápidos sobre proyectos integrales de tecnología y diseño.\n\n\nCómics de Ciencia\nHistorias visuales que explican conceptos científicos y muestran a mujeres inventoras.\n\n\nVideos de Mediación\nVideos educativos sobre ciencia, tecnología y habilidades para los empleos del futuro.\n\n\nSobre Mí: Mi Vida como Inventora\nMi trayectoria personal, desafíos superados y proyectos como inventora y divulgadora.\n\n\nRecursos y Material Didáctico\nMaterial descargable, guías y recomendaciones de lectura sobre ciencia y tecnología.\n\n\nEventos y Talleres\nCalendario de próximos talleres y un archivo de eventos anteriores con testimonios.\n\n\nContacto y Comunidad\nConéctate, colabora y comparte tu experiencia en SheInventor.\n\n\n\nTutoriales\nEn esta sección, podrás acceder a guías prácticas que te enseñarán a crear proyectos tecnológicos de principio a fin, así como tutoriales rápidos para resolver problemas específicos. Ejemplos:\n\nTutoriels\nProyectos Integrales\nTutoriales Rápidos\n\n\n\nCómics de Ciencia\nExplora historias visuales que abordan temas científicos y ponen en valor a mujeres inventoras. Descubre: - Exploraciones Científicas - Historias de Inventoras\n\n\nVideos de Mediación\nUna colección de videos que abordan ciencia y tecnología de forma accesible y visual. Temas cubiertos: - Conceptos Científicos y Tecnológicos - Nuevas Tecnologías y Empleos del Futuro\n\n\nSobre Mí: Mi Vida como Inventora\nAquí comparto mi experiencia, logros y los desafíos que he superado como inventora. Explora: - Mi Trayectoria - Comics - Desafíos y Logros - Proyectos Personales\n\n\nRecursos y Material Didáctico\nRecursos descargables y lecturas recomendadas para profundizar en los temas. Incluye: - Material Descargable - Recomendaciones de Lectura - Preguntas Frecuentes\n\n\nEventos y Talleres\nConsulta los próximos talleres y revisa los eventos pasados, con testimonios y resúmenes: - Próximos Talleres - Archivo de Talleres\n\n\nContacto y Comunidad\nUn espacio para conectarse y colaborar con la comunidad de SheInventor: - Redes Sociales - Colaboraciones - Testimonios y Comunidad"
   },
   {
     "objectID": "es/comics/index.html",
@@ -334,5 +390,131 @@
     "title": "Bienvenida a Sheinventor",
     "section": "",
     "text": "Selecciona tu idioma\n\nEnglish Español Français"
+  },
+  {
+    "objectID": "revealjs/test/simple.html",
+    "href": "revealjs/test/simple.html",
+    "title": "SheInventor",
+    "section": "",
+    "text": "var a = 1;"
+  },
+  {
+    "objectID": "revealjs/test/simple.html#slide-1.1",
+    "href": "revealjs/test/simple.html#slide-1.1",
+    "title": "SheInventor",
+    "section": "",
+    "text": "var a = 1;"
+  },
+  {
+    "objectID": "revealjs/test/simple.html#slide-1.2",
+    "href": "revealjs/test/simple.html#slide-1.2",
+    "title": "SheInventor",
+    "section": "Slide 1.2",
+    "text": "Slide 1.2"
+  },
+  {
+    "objectID": "revealjs/test/simple.html#slide-2",
+    "href": "revealjs/test/simple.html#slide-2",
+    "title": "SheInventor",
+    "section": "Slide 2",
+    "text": "Slide 2"
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#diapositiva-1",
+    "href": "es/tutorials/tutorial3.html#diapositiva-1",
+    "title": "Mi Presentación",
+    "section": "Diapositiva 1",
+    "text": "Diapositiva 1\nEste es el contenido de la primera diapositiva."
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#diapositiva-2",
+    "href": "es/tutorials/tutorial3.html#diapositiva-2",
+    "title": "Mi Presentación",
+    "section": "Diapositiva 2",
+    "text": "Diapositiva 2\nAquí va el contenido de la segunda diapositiva."
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#diapositiva-3",
+    "href": "es/tutorials/tutorial3.html#diapositiva-3",
+    "title": "Mi Presentación",
+    "section": "Diapositiva 3",
+    "text": "Diapositiva 3\n¡Y aquí va la tercera diapositiva!"
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#fui-al-museo-pompidou-metz",
+    "href": "es/tutorials/tutorial3.html#fui-al-museo-pompidou-metz",
+    "title": "Recuerdos que Marcan Vidas",
+    "section": "Fui al museo Pompidou Metz",
+    "text": "Fui al museo Pompidou Metz\nVisité el museo Pompidou Metz, un lugar fascinante de arte contemporáneo. Vi una exposición de gomas de mascar en la banqueta, algunas me gustaron, pero me pareció un tanto inverosímil que estuvieran en un museo.\n\nExposición de gomas de mascar"
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#el-cuadro-con-ampolletas",
+    "href": "es/tutorials/tutorial3.html#el-cuadro-con-ampolletas",
+    "title": "Recuerdos que Marcan Vidas",
+    "section": "El cuadro con ampolletas",
+    "text": "El cuadro con ampolletas\nAlguien recogió ampolletas de viejos televisores y las transformó en un cuadro gigante con resina epoxi. Le tomé una foto con la intención de crear un wallpaper.\n\nCuadro con ampolletas"
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#cortina-con-ojitos-cocidos",
+    "href": "es/tutorials/tutorial3.html#cortina-con-ojitos-cocidos",
+    "title": "Recuerdos que Marcan Vidas",
+    "section": "Cortina con ojitos cocidos",
+    "text": "Cortina con ojitos cocidos\nHabía una cortina con ojitos cocidos, de diferentes colores. Fue una de esas piezas extrañas que me dejó pensando, sobre todo en la falta de contexto.\n\nCortina con ojitos cocidos"
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#repeticiones-y-el-morado",
+    "href": "es/tutorials/tutorial3.html#repeticiones-y-el-morado",
+    "title": "Recuerdos que Marcan Vidas",
+    "section": "Repeticiones y el morado",
+    "text": "Repeticiones y el morado\nEn una sala llamada “Repeticiones”, observé cuadros morados, y me tomé una foto que hoy es mi actual foto de perfil de WhatsApp.\n\nCuadro morado"
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#la-sala-oscura-y-las-sombras",
+    "href": "es/tutorials/tutorial3.html#la-sala-oscura-y-las-sombras",
+    "title": "Recuerdos que Marcan Vidas",
+    "section": "La sala oscura y las sombras",
+    "text": "La sala oscura y las sombras\nMe encantó una sala oscura donde el artista había colocado objetos que giraban, iluminados por focos. Me hizo recordar un juguete de mi infancia y la historia de la cueva de Platón.\n\nSala oscura y sombras"
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#reflexión-personal",
+    "href": "es/tutorials/tutorial3.html#reflexión-personal",
+    "title": "Recuerdos que Marcan Vidas",
+    "section": "Reflexión personal",
+    "text": "Reflexión personal\nHe estado reflexionando mucho sobre mi existencia y a dónde voy. Esta exposición me permitió tener conversaciones conmigo misma que no habría tenido si hubiera estado acompañada. Me siento sola en mis pensamientos, y a veces tengo la sensación de estar atrapada en un ciclo de lecciones repetidas."
+  },
+  {
+    "objectID": "es/tutorials/tutorial4.html#table-of-contents",
+    "href": "es/tutorials/tutorial4.html#table-of-contents",
+    "title": "Simplemenu",
+    "section": "Table of Contents",
+    "text": "Table of Contents"
+  },
+  {
+    "objectID": "es/tutorials/tutorial4.html#sección-1",
+    "href": "es/tutorials/tutorial4.html#sección-1",
+    "title": "Simplemenu",
+    "section": "Sección 1",
+    "text": "Sección 1\nContenido de la sección 1."
+  },
+  {
+    "objectID": "es/tutorials/tutorial4.html#sección-2",
+    "href": "es/tutorials/tutorial4.html#sección-2",
+    "title": "Simplemenu",
+    "section": "Sección 2",
+    "text": "Sección 2\nContenido de la sección 2."
+  },
+  {
+    "objectID": "es/tutorials/tutorial4.html#vertical-slide-2",
+    "href": "es/tutorials/tutorial4.html#vertical-slide-2",
+    "title": "Simplemenu",
+    "section": "Vertical slide 2",
+    "text": "Vertical slide 2"
+  },
+  {
+    "objectID": "es/tutorials/tutorial4.html#este-supongo-es-subtema",
+    "href": "es/tutorials/tutorial4.html#este-supongo-es-subtema",
+    "title": "Simplemenu",
+    "section": "Este supongo es subtema",
+    "text": "Este supongo es subtema"
   }
 ]

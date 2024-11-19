@@ -1,0 +1,44 @@
+---
+title: "Simplemenu"
+subtitle: "For Reveal.js and Quarto"
+format:
+  revealjs:
+    title-slide-attributes:
+        data-state: "hide-menubar"
+    center: true
+    theme: moon
+    transition: slide
+    background-transition: fade
+    controls-layout: bottom-right
+    menu: false
+    css: "css/style.css"
+    section-divs: true
+    simplemenu:
+        barhtml:
+            header: "<div class='menubar'><ul class='menu'></ul><div>"
+        scale: 0.67
+revealjs-plugins:
+  - simplemenu
+---
+
+## Table of Contents {data-state="hide-menubar"}
+<ul class="menu"><ul>
+
+# Slide 1 {data-name="Regular slide"}
+A paragraph with some text and a [link](http://hakim.se).
+
+# Vertical slide 1 {data-stack-name="Vertical"}
+
+## Este supongo es subtema
+
+# Global options {data-stack-name="Options"}
+
+The options below have user configurable options. In a regular Reveal.js presentation, these can be set through JavaScript, but Quarto makes it configurable through YAML options.
+
+::: columns
+::: {.column style="font-size: 2rem"}
+1. menubarclass
+2. menuclass
+3. activeclass
+4. activeelement
+:::

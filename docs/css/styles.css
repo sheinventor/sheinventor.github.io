@@ -22,9 +22,19 @@ a:hover {
 
 /* Agregar más estilos según sea necesario */
 
+
+
+.reveal {
+  margin-top: 50px; /* Ajusta esto según la altura de tu barra de navegación */
+}
+
+
+
+
 /* Cambiar el color de fondo de la barra de navegación */
 .navbar {
     background-color: #3b163b; /* Cambia este valor al color que prefieras */
+    
 }
 
 /* Cambiar el color del texto en la barra de navegación */
