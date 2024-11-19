@@ -268,14 +268,34 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="contact-et-communauté-1"><a id="contact-et-communaute"></a>Contact et Communauté</h3>
 <p>Un espace pour se connecter et collaborer avec la communauté de SheInventor : - <strong>Réseaux Sociaux</strong> - <strong>Collaborations</strong> - <strong>Témoignages et Communauté</strong></p>
 <style>
-<p>.grid-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; } .grid-item { padding: 20px; background-color: #3B163B; border: 2px solid #FFFFFF; border-radius:</p>
-<div id="quarto-navigation-envelope" class="hidden">
-<p><span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-sidebar-title">SheInventor</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar-title">SheInventor</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:Home">Home</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:/index.html">/index.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:Español">Español</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:Introducción">Introducción</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:/es/index.html">/es/index.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:Tutoriales">Tutoriales</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:/es/tutorials/index.html">/es/tutorials/index.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:Comics">Comics</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:/es/comics/index.html">/es/comics/index.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:English">English</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:Introduccion">Introduccion</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:/en/index.html">/en/index.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:Tutorials">Tutorials</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:/en/tutorials/index.html">/en/tutorials/index.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:comics">comics</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:/en/comics/index.html">/en/comics/index.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:Français">Français</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:Introduction">Introduction</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:/fr/index.html">/fr/index.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:Tutoriels">Tutoriels</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:/fr/tutorials/index.html">/fr/tutorials/index.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:Bandes desinées">Bandes desinées</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:/fr/comics/index.html">/fr/comics/index.html</span></p>
-</div>
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+.grid-item {
+  padding: 20px;
+  background-color: #3B163B;
+  border: 2px solid #FFFFFF;
+  border-radius: 
+.grid-item h2, .grid-item h3, .grid-item p, .grid-item a {
+  color: #FFFFFF !important; /* Forzar el color blanco en todos los títulos, párrafos y enlaces */
+}
+
+.grid-item h2 a, .grid-item h3 a {
+  text-decoration: none;
+  color: #FFFFFF !important; /* Forzar el color blanco en los enlaces de títulos */
+}
+
+.grid-item h2 a:hover, .grid-item h3 a:hover {
+  color: #FFFFFF; /* Mantener el color blanco en hover */
+}
+</style>
 
 
+</section>
 
- <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -696,9 +716,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
- <!-- /content -->
+</div> <!-- /content -->
 
 
 
 
-</style></section></main></div></body></html>
+</body></html>

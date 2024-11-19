@@ -218,14 +218,38 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="contact-et-communauté-1"><a id="contact-et-communaute"></a>Contact et Communauté</h3>
 <p>Un espace pour se connecter et collaborer avec la communauté de SheInventor : - <strong>Réseaux Sociaux</strong> - <strong>Collaborations</strong> - <strong>Témoignages et Communauté</strong></p>
 <style>
-<p>.grid-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; } .grid-item { padding: 20px; background-color: #3B163B; border: 2px solid #FFFFFF; border-radius:</p>
-<div id="quarto-navigation-envelope" class="hidden">
-<p><span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-sidebar-title">Mi Sitio Web</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar-title">Mi Sitio Web</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:Inicio">Inicio</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:/index.html">/index.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:Acerca de">Acerca de</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:/about.html">/about.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:English">English</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:/../en/index.qmd">/../en/index.qmd</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:Español">Español</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="quarto-int-navbar:/../es/index.qmd">/../es/index.qmd</span></p>
-</div>
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+.grid-item {
+  padding: 20px;
+  background-color: #3B163B;
+  border: 2px solid #FFFFFF;
+  border-radius: 10px;
+  text-align: center;
+  color: #FFFFFF; /* Default white text */
+}
+
+.grid-item h2, .grid-item h3, .grid-item p, .grid-item a {
+  color: #FFFFFF !important; /* Force white color for all titles, paragraphs, and links */
+}
+
+.grid-item h2 a, .grid-item h3 a {
+  text-decoration: none;
+  color: #FFFFFF !important; /* Force white color for title links */
+}
+
+.grid-item h2 a:hover, .grid-item h3 a:hover {
+  color: #FFFFFF; /* Keep white color on hover */
+}
+</style>
 
 
+</section>
 
- <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -646,9 +670,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
- <!-- /content -->
+</div> <!-- /content -->
 
 
 
 
-</style></section></main></div></body></html>
+</body></html>
