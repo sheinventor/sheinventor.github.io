@@ -6,130 +6,92 @@ format:
     css: ../../css/styles.css  # Ruta al archivo CSS
 ---
 
+---
+title: "SheInventor: Ciencia, Diseño e Innovación"
+format: html
+# Puedes agregar opciones adicionales para personalizar estilos aquí
+---
 
-**SheInventor** nace con el propósito de romper barreras de género en la tecnología, combinando arte, ciencia e innovación para capacitar a las mujeres en las competencias necesarias para los empleos del futuro. Desde pequeña, mi objetivo ha sido utilizar mis habilidades en diseño y enseñanza para ayudar a las personas a comprender el mundo que nos rodea. Este proyecto es mi contribución a la creación de un espacio inclusivo y de acceso al conocimiento para todos, sin importar los estereotipos o las limitaciones que enfrentemos.
-[Tutorial sobre Reveal.js](tutorials/tutorial.html)
+# **SheInventor**  
+**Diseño, ciencia e innovación para transformar el mundo, una idea a la vez.**  
 
-[Tutorial2 ](tutorials/tutorial4.qmd)
-<div class="grid-container">
+::: {.hero}
+Explora el arte de la creatividad científica y descubre cómo transformar conceptos complejos en experiencias inspiradoras.  
+[Descubre mis proyectos](#proyectos){.btn .btn-primary}  
+[Conéctate con la comunidad](#contacto){.btn .btn-secondary}  
+:::
 
-<div class="grid-item">
+---
 
-### [Tutoriales](#tutoriales)
-**Guías paso a paso y tutoriales rápidos** sobre proyectos integrales de tecnología y diseño.
+## **¿Quién es SheInventor?**  
+Soy Paola, una ingeniera y divulgadora apasionada por conectar ciencia, arte y emociones. Desde talleres de electrónica reciclada hasta videos cortos que explican temas complejos, mi misión es inspirar, educar y empoderar a través de la creatividad científica.  
 
-</div>
+Mis áreas de experiencia incluyen:  
+- **Ingeniería Electrónica:** creando soluciones innovadoras y responsables.  
+- **Divulgación Científica:** haciendo accesible el conocimiento complejo.  
+- **Diseño:** integrando creatividad y funcionalidad para impactar positivamente.  
 
-<div class="grid-item">
+---
 
-### [Cómics de Ciencia](#comics-de-ciencia)
-**Historias visuales** que explican conceptos científicos y muestran a mujeres inventoras.
+## **¿Qué hago? (Servicios y Proyectos)**  
 
-</div>
+### 1. **Talleres de Ciencia y Creatividad**  
+- Aprende electrónica con materiales reciclados.  
+- Explora el diseño ecológico y responsable.  
 
-<div class="grid-item">
+### 2. **Producción de Contenido Digital**  
+- Videos de divulgación científica y educativa.  
+- Infografías y reels para redes sociales.  
 
-### [Videos de Mediación](#videos-de-mediacion)
-**Videos educativos** sobre ciencia, tecnología y habilidades para los empleos del futuro.
+### 3. **Diseño y Señalética**  
+- Creación de sistemas intuitivos para Fab Labs.  
+- Manuales interactivos para máquinas tecnológicas.  
 
-</div>
+### 4. **Ilustraciones y Juegos de Mesa**  
+- Material educativo y creativo para aprender jugando.  
 
-<div class="grid-item">
+[Descubre más sobre mis servicios](#contacto){.btn .btn-primary}
 
-### [Sobre Mí: Mi Vida como Inventora](#sobre-mi)
-**Mi trayectoria personal**, desafíos superados y proyectos como inventora y divulgadora.
+---
 
-</div>
+## **¿Por qué SheInventor?**  
 
-<div class="grid-item">
+**Mis valores clave:**  
+- Innovación frugal y accesible.  
+- Inclusividad en la ciencia y el diseño.  
+- Educación basada en la curiosidad y el cuestionamiento crítico.  
 
-### [Recursos y Material Didáctico](#recursos-y-material-didactico)
-**Material descargable**, guías y recomendaciones de lectura sobre ciencia y tecnología.
+*"Creo en un futuro donde la ciencia y el arte trabajen juntos para mejorar nuestra calidad de vida, respetando el medio ambiente y empoderando a las personas."*  
 
-</div>
+---
 
-<div class="grid-item">
+## **Casos de Éxito**  
 
-### [Eventos y Talleres](#eventos-y-talleres)
-**Calendario de próximos talleres** y un archivo de eventos anteriores con testimonios.
+**Ejemplo:**  
+*"El taller de electrónica reciclada fue una experiencia increíble. Paola hace que aprender sea divertido y práctico." – María L.*  
 
-</div>
+- Talleres exitosos en instituciones educativas.  
+- Colaboraciones con Fab Labs y comunidades científicas.  
+- Contenido digital con miles de visualizaciones y comentarios positivos.  
 
-<div class="grid-item">
+---
 
-### [Contacto y Comunidad](#contacto-y-comunidad)
-**Conéctate, colabora y comparte** tu experiencia en SheInventor.
+## **Únete a la Comunidad SheInventor**  
 
-</div>
+### **Conecta conmigo en redes sociales:**  
+- Instagram  
+- TikTok  
+- YouTube  
 
-</div>
+**Suscríbete a mi boletín para recibir novedades sobre ciencia y diseño.**  
 
-### <a id="tutoriales"></a>Tutoriales
-En esta sección, podrás acceder a guías prácticas que te enseñarán a crear proyectos tecnológicos de principio a fin, así como tutoriales rápidos para resolver problemas específicos. Ejemplos:
+[Suscribirme](#suscribirme){.btn .btn-primary}  
+[Hablemos de tu proyecto](#contacto){.btn .btn-secondary}
 
-- [Tutoriels](tutorials/index.qmd) 
-- **Proyectos Integrales**
-- **Tutoriales Rápidos**
+---
 
-### <a id="comics-de-ciencia"></a>Cómics de Ciencia
-Explora historias visuales que abordan temas científicos y ponen en valor a mujeres inventoras. Descubre:
-- **Exploraciones Científicas**
-- **Historias de Inventoras**
+## **Contacto**  
 
-### <a id="videos-de-mediacion"></a>Videos de Mediación
-Una colección de videos que abordan ciencia y tecnología de forma accesible y visual. Temas cubiertos:
-- **Conceptos Científicos y Tecnológicos**
-- **Nuevas Tecnologías y Empleos del Futuro**
-
-### <a id="sobre-mi"></a>Sobre Mí: Mi Vida como Inventora
-Aquí comparto mi experiencia, logros y los desafíos que he superado como inventora. Explora:
-- **Mi Trayectoria** 
-- [Comics](comics/index.qmd)
-- **Desafíos y Logros**
-- **Proyectos Personales**
-
-### <a id="recursos-y-material-didactico"></a>Recursos y Material Didáctico
-Recursos descargables y lecturas recomendadas para profundizar en los temas. Incluye:
-- **Material Descargable**
-- **Recomendaciones de Lectura**
-- **Preguntas Frecuentes**
-
-### <a id="eventos-y-talleres"></a>Eventos y Talleres
-Consulta los próximos talleres y revisa los eventos pasados, con testimonios y resúmenes:
-- **Próximos Talleres**
-- **Archivo de Talleres**
-
-### <a id="contacto-y-comunidad"></a>Contacto y Comunidad
-Un espacio para conectarse y colaborar con la comunidad de SheInventor:
-- **Redes Sociales**
-- **Colaboraciones**
-- **Testimonios y Comunidad**
-
-<style>
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
-}
-.grid-item {
-  padding: 20px;
-  background-color: #3B163B;
-  border: 2px solid #FFFFFF;
-  border-radius: 10px;
-  text-align: center;
-  color: #FFFFFF; /* Texto en blanco por defecto */
-}
-
-.grid-item h2, .grid-item h3, .grid-item p, .grid-item a {
-  color: #FFFFFF !important; /* Forzar el color blanco en todos los títulos, párrafos y enlaces */
-}
-
-.grid-item h2 a, .grid-item h3 a {
-  text-decoration: none;
-  color: #FFFFFF !important; /* Forzar el color blanco en los enlaces de títulos */
-}
-
-.grid-item h2 a:hover, .grid-item h3 a:hover {
-  color: #FFFFFF; /* Mantener el color blanco en hover */
-}
-</style>
+📧 **Correo electrónico:** contacto@sheinventor.com  
+🌐 **Redes sociales:**  
+[Instagram](https://instagram.com) | [TikTok](https://tiktok.com) | [YouTube](https://youtube.com)  

@@ -1,5 +1,5 @@
 ---
-title: "Recuerdos que Marcan Vidas"
+title: "Visita a museo Pompidou"
 author: "SheInventor"
 image: "../../images/Emanuel1.png"
 description: "Este es el primer cómic de la serie."
@@ -7,7 +7,7 @@ date: "2024-11-01"
 format:
   revealjs:
     self-contained: true
-    theme: "solarized"  # Ejemplo de un tema, puedes cambiarlo por otro
+    theme:  ../../revealjs/css/theme/source/pineapple.scss # Ejemplo de un tema, puedes cambiarlo por otro
     slideNumber: true  # Muestra el número de diapositiva
     transition: "fade"  # Opción para transiciones
     revealOptions:
@@ -32,7 +32,7 @@ Visité el museo Pompidou Metz, un lugar fascinante de arte contemporáneo. Vi u
 
 Alguien recogió ampolletas de viejos televisores y las transformó en un cuadro gigante con resina epoxi. Le tomé una foto con la intención de crear un wallpaper.
 
-![Cuadro con ampolletas](../../images/Metz1.webp)
+![Cuadro con ampolletas](../../images/Metz2.webp)
 
 ---
 

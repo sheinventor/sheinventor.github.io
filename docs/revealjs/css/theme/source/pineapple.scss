@@ -1,0 +1,77 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: "Titillium Web", sans-serif !default;
+
+// colors
+$body-bg: #ffffff !default; // Fondo blanco
+$body-color: #3b163b !default; // Texto principal
+$link-color: #bbacd1 !default; // Enlaces
+
+// heading colors
+$heading-color: #3b163b !default; // Títulos
+$image-caption-color: #8fced4 !default; // Color de descripciones de imágenes
+
+// typography sizes
+$body-font-size: 14px !default; // Tamaño más pequeño para texto general
+$heading-font-size: 24px !default; // Tamaño de títulos
+$image-caption-font-size: 12px !default; // Tamaño de descripciones de imágenes
+
+/*-- scss:rules --*/
+
+// General body styles
+body {
+  background-color: $body-bg;
+  color: $body-color;
+  font-family: $font-family-sans-serif;
+  font-size: $body-font-size;
+  line-height: 1.5em;
+  margin: 0;
+  padding: 0;
+}
+
+// Títulos
+h1, h2, h3, h4, h5, h6 {
+  color: $heading-color;
+  font-family: $font-family-sans-serif;
+  font-weight: bold; // Negritas
+  font-size: $heading-font-size;
+  margin: 0.5em 0;
+}
+
+// Texto general
+p {
+  font-size: $body-font-size;
+  margin: 0.5em 0;
+}
+
+// Enlaces
+a {
+  color: $link-color;
+  text-decoration: underline;
+
+  &:hover {
+    color: lighten($link-color, 10%); // Más claro al pasar el cursor
+  }
+}
+
+// Descripciones de imágenes
+figure {
+  figcaption {
+    color: $image-caption-color;
+    font-family: $font-family-sans-serif;
+    font-size: $image-caption-font-size;
+    font-style: italic; // Itálico
+    font-weight: 300; // Light
+    text-align: center;
+    margin-top: 0.5em;
+  }
+}
+
+// Imágenes
+img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
