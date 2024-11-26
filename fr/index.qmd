@@ -1,132 +1,21 @@
 ---
-title: "Bienvenue sur SheInventor !"
+title: "Bienvenue à SheInventor!"
 format: 
   html: 
     toc: true
     css: ../../css/styles.css  # Chemin vers le fichier CSS
 ---
 
-**SheInventor** est né avec l'objectif de briser les barrières de genre dans la technologie, en combinant l'art, la science et l'innovation pour permettre aux femmes d'acquérir les compétences nécessaires pour les emplois du futur. Depuis mon enfance, mon objectif a été d'utiliser mes compétences en conception et en enseignement pour aider les gens à comprendre le monde qui nous entoure. Ce projet est ma contribution à la création d'un espace inclusif et accessible au savoir pour tous, quels que soient les stéréotypes ou les limitations auxquels nous faisons face.
+**SheInventor** est née dans le but de briser les barrières de genre dans la technologie, en combinant l'art, la science et l'innovation pour former les femmes aux compétences nécessaires pour les emplois de demain. Depuis mon enfance, mon objectif a été d'utiliser mes compétences en design et en enseignement pour aider les gens à comprendre le monde qui nous entoure. Ce projet est ma contribution à la création d'un espace inclusif et d'accès au savoir pour tous, indépendamment des stéréotypes ou des limitations auxquels nous faisons face.
 
-<div class="grid-container">
+# Sommaire  
 
-<div class="grid-item">
+- [Bandes dessinées scientifiques](comics/index.qmd)  
+- [Bandes dessinées personnelles](comics/index.qmd)  
+- [Tutoriels technologiques](tutorials/index.qmd)  
 
-### [Tutoriels](#tutoriels)
-**Guides étape par étape et tutoriels rapides** sur des projets intégrés de technologie et de design.
+## **Contact**  
 
-</div>
-
-<div class="grid-item">
-
-### [Bandes Dessinées Scientifiques](#bandes-dessinees-scientifiques)
-**Histoires visuelles** expliquant des concepts scientifiques et mettant en avant des inventrices.
-
-</div>
-
-<div class="grid-item">
-
-### [Vidéos de Médiation](#videos-de-mediation)
-**Vidéos éducatives** sur la science, la technologie et les compétences pour les emplois du futur.
-
-</div>
-
-<div class="grid-item">
-
-### [À Propos de Moi : Ma Vie en Tant qu'Inventrice](#a-propos-de-moi)
-**Mon parcours personnel**, les défis surmontés et mes projets en tant qu'inventrice et médiatrice scientifique.
-
-</div>
-
-<div class="grid-item">
-
-### [Ressources et Matériel Pédagogique](#ressources-et-materiel-pedagogique)
-**Matériel téléchargeable**, guides et recommandations de lectures sur la science et la technologie.
-
-</div>
-
-<div class="grid-item">
-
-### [Événements et Ateliers](#evenements-et-ateliers)
-**Calendrier des ateliers à venir** et un archive des événements passés avec des témoignages.
-
-</div>
-
-<div class="grid-item">
-
-### [Contact et Communauté](#contact-et-communaute)
-**Connecte-toi, collabore et partage** ton expérience sur SheInventor.
-
-</div>
-
-</div>
-
-### <a id="tutoriels"></a>Tutoriels
-Dans cette section, tu pourras accéder à des guides pratiques qui t'apprendront à créer des projets technologiques de A à Z, ainsi que des tutoriels rapides pour résoudre des problèmes spécifiques. Exemples :
-
-- [Tutoriels](tutorials/index.qmd)
-- **Projets Intégrés**
-- **Tutoriels Rapides**
-
-### <a id="bandes-dessinees-scientifiques"></a>Bandes Dessinées Scientifiques
-Explore des histoires visuelles qui abordent des sujets scientifiques et mettent en lumière des inventrices. Découvre :
-- **Explorations Scientifiques**
-- **Histoires d'Inventrices**
-
-### <a id="videos-de-mediation"></a>Vidéos de Médiation
-Une collection de vidéos abordant la science et la technologie de manière accessible et visuelle. Thèmes abordés :
-- **Concepts Scientifiques et Technologiques**
-- **Nouvelles Technologies et Emplois du Futur**
-
-### <a id="a-propos-de-moi"></a>À Propos de Moi : Ma Vie en Tant qu'Inventrice
-Ici, je partage mon expérience, mes réussites et les défis que j'ai surmontés en tant qu'inventrice. Explore :
-- **Mon Parcours**
-- [Bandes Dessinées](comics/index.qmd)
-- **Défis et Réussites**
-- **Projets Personnels**
-
-### <a id="ressources-et-materiel-pedagogique"></a>Ressources et Matériel Pédagogique
-Ressources téléchargeables et lectures recommandées pour approfondir les sujets. Inclut :
-- **Matériel Téléchargeable**
-- **Recommandations de Lectures**
-- **Questions Fréquemment Posées**
-
-### <a id="evenements-et-ateliers"></a>Événements et Ateliers
-Consulte les prochains ateliers et explore les événements passés avec des témoignages et résumés :
-- **Prochains Ateliers**
-- **Archive des Ateliers**
-
-### <a id="contact-et-communaute"></a>Contact et Communauté
-Un espace pour se connecter et collaborer avec la communauté de SheInventor :
-- **Réseaux Sociaux**
-- **Collaborations**
-- **Témoignages et Communauté**
-
-<style>
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
-}
-.grid-item {
-  padding: 20px;
-  background-color: #3B163B;
-  border: 2px solid #FFFFFF;
-  border-radius: 10px;
-  text-align: center;
-  color: #FFFFFF; /* Default white text */
-}
-
-.grid-item h2, .grid-item h3, .grid-item p, .grid-item a {
-  color: #FFFFFF !important; /* Force white color for all titles, paragraphs, and links */
-}
-
-.grid-item h2 a, .grid-item h3 a {
-  text-decoration: none;
-  color: #FFFFFF !important; /* Force white color for title links */
-}
-
-.grid-item h2 a:hover, .grid-item h3 a:hover {
-  color: #FFFFFF; /* Keep white color on hover */
-}
-</style>
+📧 **Email:** contact@sheinventor.com  
+🌐 **Réseaux sociaux:**  
+[Instagram](https://www.instagram.com/sheinventorfr/) | [YouTube](https://www.youtube.com/@Sheinventor_Fran%C3%A7ais)  
