@@ -25,7 +25,7 @@
     "href": "tutorials/index.html",
     "title": "Tutorials",
     "section": "",
-    "text": "1 Tutoriales Básicos\n\n\nTutorialImpresion\nEste es el primer tutorial básico\nTutorialImpresion\nTutorialImpresion"
+    "text": "1 Basic Tutorials\nTutorial 1\nTutorial 2\nTutorial 3\nTutorial 4\nTutorial 5"
   },
   {
     "objectID": "index.html",
@@ -68,5 +68,19 @@
     "title": "Welcome to SheInventor!",
     "section": "Contact",
     "text": "Contact\n📧 Email: contact@sheinventor.com\n🌐 Social Media:\nInstagram | YouTube"
+  },
+  {
+    "objectID": "comics/index.html",
+    "href": "comics/index.html",
+    "title": "Comics",
+    "section": "",
+    "text": "Cómic 1\nEste es el primer cómic de la serie.\n\n-Emanuel\n-Comic2\n-Comic3\n\n\nHere’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
+  },
+  {
+    "objectID": "comics/index.html#watch-my-ice-skating-journey",
+    "href": "comics/index.html#watch-my-ice-skating-journey",
+    "title": "Comics",
+    "section": "",
+    "text": "Here’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
   }
 ]

@@ -200,7 +200,7 @@
     "href": "en/tutorials/index.html",
     "title": "Tutorials",
     "section": "",
-    "text": "1 Tutoriales Básicos\n\n\nTutorialImpresion\nEste es el primer tutorial básico\nTutorialImpresion\nTutorialImpresion"
+    "text": "1 Basic Tutorials\nTutorial 1\nTutorial 2\nTutorial 3\nTutorial 4\nTutorial 5"
   },
   {
     "objectID": "en/comics/prueba.html",
@@ -291,7 +291,7 @@
     "href": "en/comics/index.html",
     "title": "Comics",
     "section": "",
-    "text": "Cómic 1\nEste es el primer cómic de la serie.\n\n\n\nHere’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
+    "text": "Cómic 1\nEste es el primer cómic de la serie.\n\n-Emanuel\n-Comic2\n-Comic3\n\n\nHere’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
   },
   {
     "objectID": "en/comics/index.html#watch-my-ice-skating-journey",
@@ -473,7 +473,7 @@
     "href": "fr/tutorials/index.html",
     "title": "Tutorieles",
     "section": "",
-    "text": "1 Tutoriels de Base\n\n\nTutoriel Impression\nCeci est le premier tutoriel de base. Tutoriel Impression 2\nTutoriel Impression 3"
+    "text": "1 Tutoriels de Base\nTutorial 1\nTutorial 2\nTutorial 3\nTutorial 4\nTutorial 5"
   },
   {
     "objectID": "fr/tutorials/tutorial2.html",
@@ -579,5 +579,131 @@
     "title": "Recuerdos que Marcan Vidas",
     "section": "",
     "text": "Paola, desde los 26 años haciendo talleres de ciencia"
+  },
+  {
+    "objectID": "fr/tutorials/tutorial3.html#table-of-contents",
+    "href": "fr/tutorials/tutorial3.html#table-of-contents",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Table of Contents",
+    "text": "Table of Contents"
+  },
+  {
+    "objectID": "fr/tutorials/tutorial3.html#este-es-un-respuesta-como-un-subtema-como-algo-que-puede-mostrarse-un-oye-plot-twist",
+    "href": "fr/tutorials/tutorial3.html#este-es-un-respuesta-como-un-subtema-como-algo-que-puede-mostrarse-un-oye-plot-twist",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Este es un respuesta como un subtema como algo que puede mostrarse un, oye plot twist",
+    "text": "Este es un respuesta como un subtema como algo que puede mostrarse un, oye plot twist"
+  },
+  {
+    "objectID": "fr/tutorials/tutorial3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "href": "fr/tutorials/tutorial3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Pour moi, ce n’était pas de la « science », c’était de la magie.",
+    "text": "Pour moi, ce n’était pas de la « science », c’était de la magie."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "href": "fr/tutorials/tutorial3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Une magie que je porte avec moi aujourd’hui.",
+    "text": "Une magie que je porte avec moi aujourd’hui."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "href": "fr/tutorials/tutorial3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Faire des expériences scientifiques avec mon cousin en était un.",
+    "text": "Faire des expériences scientifiques avec mon cousin en était un."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial3.html#contenu",
+    "href": "fr/tutorials/tutorial3.html#contenu",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Contenu",
+    "text": "Contenu"
+  },
+  {
+    "objectID": "es/comics/comic2.html#contenido",
+    "href": "es/comics/comic2.html#contenido",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Contenido",
+    "text": "Contenido"
+  },
+  {
+    "objectID": "es/comics/comic2.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
+    "href": "es/comics/comic2.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Hacer experimentos de ciencia con mi primo fue uno de ellos.",
+    "text": "Hacer experimentos de ciencia con mi primo fue uno de ellos."
+  },
+  {
+    "objectID": "es/comics/comic2.html#para-mí-no-era-ciencia-era-magia.",
+    "href": "es/comics/comic2.html#para-mí-no-era-ciencia-era-magia.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Para mí, no era « ciencia », era magia.",
+    "text": "Para mí, no era « ciencia », era magia."
+  },
+  {
+    "objectID": "es/comics/comic2.html#una-magia-que-llevo-conmigo-hoy.",
+    "href": "es/comics/comic2.html#una-magia-que-llevo-conmigo-hoy.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Una magia que llevo conmigo hoy.",
+    "text": "Una magia que llevo conmigo hoy."
+  },
+  {
+    "objectID": "en/comics/comic2.html#content",
+    "href": "en/comics/comic2.html#content",
+    "title": "Memories that Shape Lives",
+    "section": "Content",
+    "text": "Content"
+  },
+  {
+    "objectID": "en/comics/comic2.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
+    "href": "en/comics/comic2.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
+    "title": "Memories that Shape Lives",
+    "section": "Doing science experiments with my cousin was one of them.",
+    "text": "Doing science experiments with my cousin was one of them."
+  },
+  {
+    "objectID": "en/comics/comic2.html#for-me-it-wasnt-science-it-was-magic.",
+    "href": "en/comics/comic2.html#for-me-it-wasnt-science-it-was-magic.",
+    "title": "Memories that Shape Lives",
+    "section": "For me, it wasn’t “science,” it was magic.",
+    "text": "For me, it wasn’t “science,” it was magic."
+  },
+  {
+    "objectID": "en/comics/comic2.html#magic-that-i-carry-with-me-today.",
+    "href": "en/comics/comic2.html#magic-that-i-carry-with-me-today.",
+    "title": "Memories that Shape Lives",
+    "section": "Magic that I carry with me today.",
+    "text": "Magic that I carry with me today."
+  },
+  {
+    "objectID": "fr/comics/comic3.html#contenu",
+    "href": "fr/comics/comic3.html#contenu",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "Contenu",
+    "text": "Contenu"
+  },
+  {
+    "objectID": "fr/comics/comic3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "href": "fr/comics/comic3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "Faire des expériences scientifiques avec mon cousin en était un.",
+    "text": "Faire des expériences scientifiques avec mon cousin en était un."
+  },
+  {
+    "objectID": "fr/comics/comic3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "href": "fr/comics/comic3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "Pour moi, ce n’était pas de la « science », c’était de la magie.",
+    "text": "Pour moi, ce n’était pas de la « science », c’était de la magie."
+  },
+  {
+    "objectID": "fr/comics/comic3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "href": "fr/comics/comic3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "Une magie que je porte avec moi aujourd’hui.",
+    "text": "Une magie que je porte avec moi aujourd’hui."
   }
 ]

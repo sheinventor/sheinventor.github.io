@@ -14,7 +14,9 @@ css: ../../css/styles.css  # Ensure this path is correct
 
 
 -**[Emanuel](comic1.qmd)**
+
 -**[Comic2](comic2.qmd)**
+
 -**[Comic3](comic3.qmd)**
 
 

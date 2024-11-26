@@ -14,6 +14,16 @@ css: ../../css/styles.css  # Ensure this path is correct
   **[Cómic 1](Ice.qmd)**  
   Este es el primer cómic de la serie.
 
+
+-**[Emanuel](comic1.qmd)**
+
+-**[Comic2](comic2.qmd)**
+
+-**[Comic3](comic3.qmd)**
+
+
+
+
 ## Watch My Ice Skating Journey
 
 Here's a video about my journey back to ice skating after my fall. 

@@ -8,8 +8,12 @@ css: ../css/styles.css  # Ruta al archivo CSS
 ---
 # Tutoriels de Base
 
-- ![Impression 3D](../../images/Emanuel1.png)  
-  **[Tutoriel Impression](tutorial1.qmd)**  
-  Ceci est le premier tutoriel de base.
-  **[Tutoriel Impression 2](tutorial2.qmd)**  
-  **[Tutoriel Impression 3](tutorial3.qmd)**  
+**[Tutorial 1](tutorial1.qmd)**
+
+**[Tutorial 2](tutorial2.qmd)**
+
+**[Tutorial 3](tutorial3.qmd)**
+
+**[Tutorial 4](tutorial4.qmd)**
+
+**[Tutorial 5](tutorial.html)**
