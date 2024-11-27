@@ -70,6 +70,34 @@
     "text": "\\[ J(\\theta_0,\\theta_1) = \\sum_{i=0} \\]"
   },
   {
+    "objectID": "fr/tutorials/tutorial3.html#contenu",
+    "href": "fr/tutorials/tutorial3.html#contenu",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Contenu",
+    "text": "Contenu"
+  },
+  {
+    "objectID": "fr/tutorials/tutorial3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "href": "fr/tutorials/tutorial3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Faire des expériences scientifiques avec mon cousin en était un.",
+    "text": "Faire des expériences scientifiques avec mon cousin en était un."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "href": "fr/tutorials/tutorial3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Pour moi, ce n’était pas de la « science », c’était de la magie.",
+    "text": "Pour moi, ce n’était pas de la « science », c’était de la magie."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "href": "fr/tutorials/tutorial3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Une magie que je porte avec moi aujourd’hui.",
+    "text": "Une magie que je porte avec moi aujourd’hui."
+  },
+  {
     "objectID": "fr/tutorials/tutorial1.html",
     "href": "fr/tutorials/tutorial1.html",
     "title": "SheInventor",
@@ -82,6 +110,41 @@
     "title": "Bienvenue à SheInventor!",
     "section": "",
     "text": "SheInventor est née dans le but de briser les barrières de genre dans la technologie, en combinant l’art, la science et l’innovation pour former les femmes aux compétences nécessaires pour les emplois de demain. Depuis mon enfance, mon objectif a été d’utiliser mes compétences en design et en enseignement pour aider les gens à comprendre le monde qui nous entoure. Ce projet est ma contribution à la création d’un espace inclusif et d’accès au savoir pour tous, indépendamment des stéréotypes ou des limitations auxquels nous faisons face."
+  },
+  {
+    "objectID": "fr/index.html#contact",
+    "href": "fr/index.html#contact",
+    "title": "Bienvenue à SheInventor!",
+    "section": "Contact",
+    "text": "Contact\n📧 Email: contact@sheinventor.com\n🌐 Réseaux sociaux:\nInstagram | YouTube"
+  },
+  {
+    "objectID": "fr/comics/comic3.html#contenu",
+    "href": "fr/comics/comic3.html#contenu",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "Contenu",
+    "text": "Contenu"
+  },
+  {
+    "objectID": "fr/comics/comic3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "href": "fr/comics/comic3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "Faire des expériences scientifiques avec mon cousin en était un.",
+    "text": "Faire des expériences scientifiques avec mon cousin en était un."
+  },
+  {
+    "objectID": "fr/comics/comic3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "href": "fr/comics/comic3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "Pour moi, ce n’était pas de la « science », c’était de la magie.",
+    "text": "Pour moi, ce n’était pas de la « science », c’était de la magie."
+  },
+  {
+    "objectID": "fr/comics/comic3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "href": "fr/comics/comic3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "Une magie que je porte avec moi aujourd’hui.",
+    "text": "Une magie que je porte avec moi aujourd’hui."
   },
   {
     "objectID": "fr/comics/comic1.html",
@@ -126,11 +189,11 @@
     "text": "Table of Contents"
   },
   {
-    "objectID": "es/tutorials/tutorial4.html#este-supongo-es-subtema",
-    "href": "es/tutorials/tutorial4.html#este-supongo-es-subtema",
-    "title": "Simplemenu",
-    "section": "Este supongo es subtema",
-    "text": "Este supongo es subtema"
+    "objectID": "es/tutorials/tutorial4.html#este-es-un-respuesta-como-un-subtema-como-algo-que-puede-mostrarse-un-oye-plot-twist",
+    "href": "es/tutorials/tutorial4.html#este-es-un-respuesta-como-un-subtema-como-algo-que-puede-mostrarse-un-oye-plot-twist",
+    "title": "Un ejemplo de cosas",
+    "section": "Este es un respuesta como un subtema como algo que puede mostrarse un, oye plot twist",
+    "text": "Este es un respuesta como un subtema como algo que puede mostrarse un, oye plot twist"
   },
   {
     "objectID": "es/tutorials/tutorial2.html",
@@ -147,36 +210,50 @@
     "text": "1 Tutoriales Basicos\nTutorial 1 Tutorial 2 Tutorial 3 Tutorial 4 Tutorial 5"
   },
   {
-    "objectID": "es/comics/emanuel.html",
-    "href": "es/comics/emanuel.html",
+    "objectID": "es/comics/index.html",
+    "href": "es/comics/index.html",
+    "title": "Comics",
+    "section": "",
+    "text": "-Emanuel\n-Comic2\n-Comic3\n\n\nVideo sobre patinaje en hielo"
+  },
+  {
+    "objectID": "es/comics/index.html#video",
+    "href": "es/comics/index.html#video",
+    "title": "Comics",
+    "section": "",
+    "text": "Video sobre patinaje en hielo"
+  },
+  {
+    "objectID": "es/comics/comic1.html",
+    "href": "es/comics/comic1.html",
     "title": "Recuerdos que Marcan Vidas",
     "section": "",
     "text": "A mis 6 años, con corte de cabello tipo de honguito.\n\n\n\n\n\n\n\n\n\nUn pedazo de hilo con cera incendiándose\n\n\n\n\n\n\n\n\n\nEmanuel, siembre con su chaleco\n\n\n\n\n\n\n\n\n\nPaola, desde los 26 años haciendo talleres de ciencia"
   },
   {
-    "objectID": "es/comics/emanuel.html#hay-recuerdos-que-marcan-vidas.",
-    "href": "es/comics/emanuel.html#hay-recuerdos-que-marcan-vidas.",
+    "objectID": "es/comics/comic1.html#hay-recuerdos-que-marcan-vidas.",
+    "href": "es/comics/comic1.html#hay-recuerdos-que-marcan-vidas.",
     "title": "Recuerdos que Marcan Vidas",
     "section": "",
     "text": "A mis 6 años, con corte de cabello tipo de honguito."
   },
   {
-    "objectID": "es/comics/emanuel.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
-    "href": "es/comics/emanuel.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
+    "objectID": "es/comics/comic1.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
+    "href": "es/comics/comic1.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
     "title": "Recuerdos que Marcan Vidas",
     "section": "",
     "text": "Un pedazo de hilo con cera incendiándose"
   },
   {
-    "objectID": "es/comics/emanuel.html#para-mí-no-era-ciencia-era-magia.",
-    "href": "es/comics/emanuel.html#para-mí-no-era-ciencia-era-magia.",
+    "objectID": "es/comics/comic1.html#para-mí-no-era-ciencia-era-magia.",
+    "href": "es/comics/comic1.html#para-mí-no-era-ciencia-era-magia.",
     "title": "Recuerdos que Marcan Vidas",
     "section": "",
     "text": "Emanuel, siembre con su chaleco"
   },
   {
-    "objectID": "es/comics/emanuel.html#magia-que-hoy-llevo-conmigo.",
-    "href": "es/comics/emanuel.html#magia-que-hoy-llevo-conmigo.",
+    "objectID": "es/comics/comic1.html#magia-que-hoy-llevo-conmigo.",
+    "href": "es/comics/comic1.html#magia-que-hoy-llevo-conmigo.",
     "title": "Recuerdos que Marcan Vidas",
     "section": "",
     "text": "Paola, desde los 26 años haciendo talleres de ciencia"
@@ -229,6 +306,34 @@
     "title": "Facing My Fears on Ice",
     "section": "",
     "text": "A long time ago, I had a serious fall while ice skating that left me injured and shaken. The fear of getting back on the ice was overwhelming, but I found the courage and strength to return.\nI didn’t do it alone. I was supported by loving and caring people who encouraged me every step of the way. Their presence made all the difference and helped me regain my confidence.\nWatch this video to see my journey back to ice skating!\n\n\n\nWatch the video"
+  },
+  {
+    "objectID": "en/comics/comic2.html#content",
+    "href": "en/comics/comic2.html#content",
+    "title": "Memories that Shape Lives",
+    "section": "Content",
+    "text": "Content"
+  },
+  {
+    "objectID": "en/comics/comic2.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
+    "href": "en/comics/comic2.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
+    "title": "Memories that Shape Lives",
+    "section": "Doing science experiments with my cousin was one of them.",
+    "text": "Doing science experiments with my cousin was one of them."
+  },
+  {
+    "objectID": "en/comics/comic2.html#for-me-it-wasnt-science-it-was-magic.",
+    "href": "en/comics/comic2.html#for-me-it-wasnt-science-it-was-magic.",
+    "title": "Memories that Shape Lives",
+    "section": "For me, it wasn’t “science,” it was magic.",
+    "text": "For me, it wasn’t “science,” it was magic."
+  },
+  {
+    "objectID": "en/comics/comic2.html#magic-that-i-carry-with-me-today.",
+    "href": "en/comics/comic2.html#magic-that-i-carry-with-me-today.",
+    "title": "Memories that Shape Lives",
+    "section": "Magic that I carry with me today.",
+    "text": "Magic that I carry with me today."
   },
   {
     "objectID": "en/about.html",
@@ -308,6 +413,13 @@
     "text": "SheInventor was created with the goal of breaking gender barriers in technology, combining art, science, and innovation to equip women with the skills needed for future jobs. Since childhood, my objective has been to use my design and teaching skills to help people understand the world around us. This project is my contribution to creating an inclusive space with access to knowledge for everyone, regardless of the stereotypes or limitations we face."
   },
   {
+    "objectID": "en/index.html#contact",
+    "href": "en/index.html#contact",
+    "title": "Welcome to SheInventor!",
+    "section": "Contact",
+    "text": "Contact\n📧 Email: contact@sheinventor.com\n🌐 Social Media:\nInstagram | YouTube"
+  },
+  {
     "objectID": "en/tutorials/tutorial1.html",
     "href": "en/tutorials/tutorial1.html",
     "title": "SheInventor",
@@ -315,18 +427,32 @@
     "text": "Introduction to 3D Printing for Beginners\nThis post is designed for those who want to explore the world of 3D printing, especially 17-year-old girls. Discover the basics and some key points to get started. Explore the World of 3D Printing 1. What is 3D Printing?\n3D printing is a technology that creates physical objects from digital designs. Imagine bringing your ideas and designs to life, from an accessory to a decorative figure.\nImage: /images.png (A 3D printer printing a small object, like a decorative figure. Close-up showing how the object is created layer by layer).\n\nReal Applications: What is 3D Printing Used For?\n\n3D printing is used in many areas: from fashion design to medicine and art. You can even create your own accessories or unique pieces to decorate your space!\nImage: /images.png (A collage of 3D printed objects, like jewelry, decorations, and medical prototypes, showing the versatility of the technology).\n\n\nKey Points of 3D Printing 3. Choosing a Printer Types of Printers:\nFDM: The most common for beginners, ideal for everyday objects.\n\nSLA: Offers more detail but is more complex and usually used for small, precise objects.\n\nImage: /images.png (Comparative photo of an FDM and an SLA printer with brief labels of their characteristics).\nPrinting Size:\nChoose a printer with the appropriate volume according to the type of projects you want to do.\n\nPrinting Materials\n\nEach material has different characteristics; here are the most common:\nPLA: Easy to use, biodegradable, and perfect for beginners.\n\nABS: More durable but requires a heated bed to prevent warping.\n\nPETG: Strong and durable, easy to use, suitable for more advanced projects.\n\nImage: /images.png (Examples of different filament types with labels for their characteristics: PLA, ABS, PETG).\n\nFile Preparation 3D Modeling:\nUse programs like Tinkercad (very easy to use) or FreeCAD to design your 3D models.\n\nExport:\nMake sure to export your design in STL or OBJ, the most common formats for 3D printing.\n\nImage: /images.png (Screenshot of Tinkercad showing a basic 3D design, like a keychain or a small figure).\n\nSlicing Slicing Software:\nConvert the 3D model into instructions for the printer using programs like Cura or PrusaSlicer.\n\nSettings:\nAdjust layer height, speed, infill, and temperature depending on the material and object.\n\nImage: /images.png (Interface of a slicing program showing a model prepared for printing, with layer height and speed parameters visible).\n\nPrinter Setup Calibration:\nMake sure the printer is calibrated, especially nozzle height and bed leveling, for better adhesion.\n\nBed Leveling:\nThis is crucial to avoid print failure on the first layers.\n\nImage: /images.png (Image of a printer in the calibration process, focusing on bed and nozzle adjustment).\n\nBed Adhesion\nUse tape, adhesive spray, or special surfaces to improve the first layer’s adhesion and avoid issues.\nImage: /images.png (Photo of a printing bed covered with tape or spray, showing how it’s prepared for printing).\nMonitoring the Print\nObserve the process, especially on the first layers, to catch problems.\nEnsure the extruder and bed temperature are correct.\nImage: /images.png (Photo of a print in process, with a person closely observing the first layer).\nPost-Processing Removing Supports:\nCarefully remove supports if your model requires them once printing is done.\n\nSanding and Painting:\nSand the pieces to smooth them and optionally paint them for a professional finish.\n\nImage: /images.png (Photo of a freshly printed model with supports and post-processing tools, like sandpaper and brushes).\n\nExperimentation and Learning\nDon’t be afraid to experiment. Try different settings and learn from mistakes. Practice will help you improve over time.\nImage: /images.png (Collage of different 3D printed results, showing both successes and common errors).\nResources and Community\nJoin online forums and groups to share experiences and get help from other 3D printing enthusiasts and experts.\nImage: /images.png (Screenshot of an online forum about 3D printing, with users sharing tips and results).\n\nWould you like to delve deeper into any of these points?\n3D printing is a powerful and accessible tool. Start exploring and create your own projects!\nWith this guide, you can start understanding and experimenting with 3D printing. Ready to begin?"
   },
   {
-    "objectID": "es/comics/index.html",
-    "href": "es/comics/index.html",
-    "title": "Comics",
-    "section": "",
-    "text": "-Emanuel -Comic2 -Comic3\n\n\nVideo sobre patinaje en hielo"
+    "objectID": "es/comics/comic2.html#contenido",
+    "href": "es/comics/comic2.html#contenido",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Contenido",
+    "text": "Contenido"
   },
   {
-    "objectID": "es/comics/index.html#video",
-    "href": "es/comics/index.html#video",
-    "title": "Comics",
-    "section": "",
-    "text": "Video sobre patinaje en hielo"
+    "objectID": "es/comics/comic2.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
+    "href": "es/comics/comic2.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Hacer experimentos de ciencia con mi primo fue uno de ellos.",
+    "text": "Hacer experimentos de ciencia con mi primo fue uno de ellos."
+  },
+  {
+    "objectID": "es/comics/comic2.html#para-mí-no-era-ciencia-era-magia.",
+    "href": "es/comics/comic2.html#para-mí-no-era-ciencia-era-magia.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Para mí, no era « ciencia », era magia.",
+    "text": "Para mí, no era « ciencia », era magia."
+  },
+  {
+    "objectID": "es/comics/comic2.html#una-magia-que-llevo-conmigo-hoy.",
+    "href": "es/comics/comic2.html#una-magia-que-llevo-conmigo-hoy.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Una magia que llevo conmigo hoy.",
+    "text": "Una magia que llevo conmigo hoy."
   },
   {
     "objectID": "es/index.html",
@@ -334,41 +460,6 @@
     "title": "Bienvenida a SheInventor!",
     "section": "",
     "text": "SheInventor nace con el propósito de romper barreras de género en la tecnología, combinando arte, ciencia e innovación para capacitar a las mujeres en las competencias necesarias para los empleos del futuro. Desde pequeña, mi objetivo ha sido utilizar mis habilidades en diseño y enseñanza para ayudar a las personas a comprender el mundo que nos rodea. Este proyecto es mi contribución a la creación de un espacio inclusivo y de acceso al conocimiento para todos, sin importar los estereotipos o las limitaciones que enfrentemos."
-  },
-  {
-    "objectID": "es/index.html#quién-es-sheinventor",
-    "href": "es/index.html#quién-es-sheinventor",
-    "title": "Bienvenida a SheInventor!",
-    "section": "",
-    "text": "Soy Paola, una ingeniera y divulgadora apasionada por conectar ciencia, arte y emociones. Desde talleres de electrónica reciclada hasta videos cortos que explican temas complejos, mi misión es inspirar, educar y empoderar a través de la creatividad científica.\nMis áreas de experiencia incluyen:\n- Ingeniería Electrónica: creando soluciones innovadoras y responsables.\n- Divulgación Científica: haciendo accesible el conocimiento complejo.\n- Diseño: integrando creatividad y funcionalidad para impactar positivamente."
-  },
-  {
-    "objectID": "es/index.html#qué-hago-servicios-y-proyectos",
-    "href": "es/index.html#qué-hago-servicios-y-proyectos",
-    "title": "Bienvenida a SheInventor!",
-    "section": "",
-    "text": "Aprende electrónica con materiales reciclados.\n\nExplora el diseño ecológico y responsable.\n\n\n\n\n\nVideos de divulgación científica y educativa.\n\nInfografías y reels para redes sociales.\n\n\n\n\n\nCreación de sistemas intuitivos para Fab Labs.\n\nManuales interactivos para máquinas tecnológicas.\n\n\n\n\n\nMaterial educativo y creativo para aprender jugando.\n\nDescubre más sobre mis servicios"
-  },
-  {
-    "objectID": "es/index.html#por-qué-sheinventor",
-    "href": "es/index.html#por-qué-sheinventor",
-    "title": "Bienvenida a SheInventor!",
-    "section": "",
-    "text": "Mis valores clave:\n- Innovación frugal y accesible.\n- Inclusividad en la ciencia y el diseño.\n- Educación basada en la curiosidad y el cuestionamiento crítico.\n“Creo en un futuro donde la ciencia y el arte trabajen juntos para mejorar nuestra calidad de vida, respetando el medio ambiente y empoderando a las personas.”"
-  },
-  {
-    "objectID": "es/index.html#casos-de-éxito",
-    "href": "es/index.html#casos-de-éxito",
-    "title": "Bienvenida a SheInventor!",
-    "section": "",
-    "text": "Ejemplo:\n“El taller de electrónica reciclada fue una experiencia increíble. Paola hace que aprender sea divertido y práctico.” – María L.\n\nTalleres exitosos en instituciones educativas.\n\nColaboraciones con Fab Labs y comunidades científicas.\n\nContenido digital con miles de visualizaciones y comentarios positivos."
-  },
-  {
-    "objectID": "es/index.html#únete-a-la-comunidad-sheinventor",
-    "href": "es/index.html#únete-a-la-comunidad-sheinventor",
-    "title": "Bienvenida a SheInventor!",
-    "section": "",
-    "text": "Instagram\n\nTikTok\n\nYouTube\n\nSuscríbete a mi boletín para recibir novedades sobre ciencia y diseño.\nSuscribirme\nHablemos de tu proyecto"
   },
   {
     "objectID": "es/index.html#contacto",
@@ -516,194 +607,5 @@
     "title": "SheInventor",
     "section": "Slide 2",
     "text": "Slide 2"
-  },
-  {
-    "objectID": "es/index.html#visión-general",
-    "href": "es/index.html#visión-general",
-    "title": "Bienvenida a SheInventor!",
-    "section": "",
-    "text": "Tutoriales de Tecnología: Aprende a utilizar herramientas innovadoras para explorar tu creatividad y construir proyectos tecnológicos.\n\nCómics de Divulgación Científica: Historias visuales para explicar conceptos científicos de forma entretenida y accesible.\n\nCómics Personales: Relatos ilustrados que conectan emociones, creatividad y experiencias únicas."
-  },
-  {
-    "objectID": "fr/index.html#contact",
-    "href": "fr/index.html#contact",
-    "title": "Bienvenue à SheInventor!",
-    "section": "Contact",
-    "text": "Contact\n📧 Email: contact@sheinventor.com\n🌐 Réseaux sociaux:\nInstagram | YouTube"
-  },
-  {
-    "objectID": "en/index.html#contact",
-    "href": "en/index.html#contact",
-    "title": "Welcome to SheInventor!",
-    "section": "Contact",
-    "text": "Contact\n📧 Email: contact@sheinventor.com\n🌐 Social Media:\nInstagram | YouTube"
-  },
-  {
-    "objectID": "es/tutorials/tutorial4.html#este-es-un-respuesta-como-un-subtema-como-algo-que-puede-mostrarse-un-oye-plot-twist",
-    "href": "es/tutorials/tutorial4.html#este-es-un-respuesta-como-un-subtema-como-algo-que-puede-mostrarse-un-oye-plot-twist",
-    "title": "Un ejemplo de cosas",
-    "section": "Este es un respuesta como un subtema como algo que puede mostrarse un, oye plot twist",
-    "text": "Este es un respuesta como un subtema como algo que puede mostrarse un, oye plot twist"
-  },
-  {
-    "objectID": "es/comics/comic1.html",
-    "href": "es/comics/comic1.html",
-    "title": "Recuerdos que Marcan Vidas",
-    "section": "",
-    "text": "A mis 6 años, con corte de cabello tipo de honguito.\n\n\n\n\n\n\n\n\n\nUn pedazo de hilo con cera incendiándose\n\n\n\n\n\n\n\n\n\nEmanuel, siembre con su chaleco\n\n\n\n\n\n\n\n\n\nPaola, desde los 26 años haciendo talleres de ciencia"
-  },
-  {
-    "objectID": "es/comics/comic1.html#hay-recuerdos-que-marcan-vidas.",
-    "href": "es/comics/comic1.html#hay-recuerdos-que-marcan-vidas.",
-    "title": "Recuerdos que Marcan Vidas",
-    "section": "",
-    "text": "A mis 6 años, con corte de cabello tipo de honguito."
-  },
-  {
-    "objectID": "es/comics/comic1.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
-    "href": "es/comics/comic1.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
-    "title": "Recuerdos que Marcan Vidas",
-    "section": "",
-    "text": "Un pedazo de hilo con cera incendiándose"
-  },
-  {
-    "objectID": "es/comics/comic1.html#para-mí-no-era-ciencia-era-magia.",
-    "href": "es/comics/comic1.html#para-mí-no-era-ciencia-era-magia.",
-    "title": "Recuerdos que Marcan Vidas",
-    "section": "",
-    "text": "Emanuel, siembre con su chaleco"
-  },
-  {
-    "objectID": "es/comics/comic1.html#magia-que-hoy-llevo-conmigo.",
-    "href": "es/comics/comic1.html#magia-que-hoy-llevo-conmigo.",
-    "title": "Recuerdos que Marcan Vidas",
-    "section": "",
-    "text": "Paola, desde los 26 años haciendo talleres de ciencia"
-  },
-  {
-    "objectID": "fr/tutorials/tutorial3.html#table-of-contents",
-    "href": "fr/tutorials/tutorial3.html#table-of-contents",
-    "title": "Recuerdos que marcan vidas",
-    "section": "Table of Contents",
-    "text": "Table of Contents"
-  },
-  {
-    "objectID": "fr/tutorials/tutorial3.html#este-es-un-respuesta-como-un-subtema-como-algo-que-puede-mostrarse-un-oye-plot-twist",
-    "href": "fr/tutorials/tutorial3.html#este-es-un-respuesta-como-un-subtema-como-algo-que-puede-mostrarse-un-oye-plot-twist",
-    "title": "Recuerdos que marcan vidas",
-    "section": "Este es un respuesta como un subtema como algo que puede mostrarse un, oye plot twist",
-    "text": "Este es un respuesta como un subtema como algo que puede mostrarse un, oye plot twist"
-  },
-  {
-    "objectID": "fr/tutorials/tutorial3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
-    "href": "fr/tutorials/tutorial3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
-    "title": "Recuerdos que marcan vidas",
-    "section": "Pour moi, ce n’était pas de la « science », c’était de la magie.",
-    "text": "Pour moi, ce n’était pas de la « science », c’était de la magie."
-  },
-  {
-    "objectID": "fr/tutorials/tutorial3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
-    "href": "fr/tutorials/tutorial3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
-    "title": "Recuerdos que marcan vidas",
-    "section": "Une magie que je porte avec moi aujourd’hui.",
-    "text": "Une magie que je porte avec moi aujourd’hui."
-  },
-  {
-    "objectID": "fr/tutorials/tutorial3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
-    "href": "fr/tutorials/tutorial3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
-    "title": "Recuerdos que marcan vidas",
-    "section": "Faire des expériences scientifiques avec mon cousin en était un.",
-    "text": "Faire des expériences scientifiques avec mon cousin en était un."
-  },
-  {
-    "objectID": "fr/tutorials/tutorial3.html#contenu",
-    "href": "fr/tutorials/tutorial3.html#contenu",
-    "title": "Recuerdos que marcan vidas",
-    "section": "Contenu",
-    "text": "Contenu"
-  },
-  {
-    "objectID": "es/comics/comic2.html#contenido",
-    "href": "es/comics/comic2.html#contenido",
-    "title": "Recuerdos que marcan vidas",
-    "section": "Contenido",
-    "text": "Contenido"
-  },
-  {
-    "objectID": "es/comics/comic2.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
-    "href": "es/comics/comic2.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
-    "title": "Recuerdos que marcan vidas",
-    "section": "Hacer experimentos de ciencia con mi primo fue uno de ellos.",
-    "text": "Hacer experimentos de ciencia con mi primo fue uno de ellos."
-  },
-  {
-    "objectID": "es/comics/comic2.html#para-mí-no-era-ciencia-era-magia.",
-    "href": "es/comics/comic2.html#para-mí-no-era-ciencia-era-magia.",
-    "title": "Recuerdos que marcan vidas",
-    "section": "Para mí, no era « ciencia », era magia.",
-    "text": "Para mí, no era « ciencia », era magia."
-  },
-  {
-    "objectID": "es/comics/comic2.html#una-magia-que-llevo-conmigo-hoy.",
-    "href": "es/comics/comic2.html#una-magia-que-llevo-conmigo-hoy.",
-    "title": "Recuerdos que marcan vidas",
-    "section": "Una magia que llevo conmigo hoy.",
-    "text": "Una magia que llevo conmigo hoy."
-  },
-  {
-    "objectID": "en/comics/comic2.html#content",
-    "href": "en/comics/comic2.html#content",
-    "title": "Memories that Shape Lives",
-    "section": "Content",
-    "text": "Content"
-  },
-  {
-    "objectID": "en/comics/comic2.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
-    "href": "en/comics/comic2.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
-    "title": "Memories that Shape Lives",
-    "section": "Doing science experiments with my cousin was one of them.",
-    "text": "Doing science experiments with my cousin was one of them."
-  },
-  {
-    "objectID": "en/comics/comic2.html#for-me-it-wasnt-science-it-was-magic.",
-    "href": "en/comics/comic2.html#for-me-it-wasnt-science-it-was-magic.",
-    "title": "Memories that Shape Lives",
-    "section": "For me, it wasn’t “science,” it was magic.",
-    "text": "For me, it wasn’t “science,” it was magic."
-  },
-  {
-    "objectID": "en/comics/comic2.html#magic-that-i-carry-with-me-today.",
-    "href": "en/comics/comic2.html#magic-that-i-carry-with-me-today.",
-    "title": "Memories that Shape Lives",
-    "section": "Magic that I carry with me today.",
-    "text": "Magic that I carry with me today."
-  },
-  {
-    "objectID": "fr/comics/comic3.html#contenu",
-    "href": "fr/comics/comic3.html#contenu",
-    "title": "Souvenirs qui Marquent des Vies",
-    "section": "Contenu",
-    "text": "Contenu"
-  },
-  {
-    "objectID": "fr/comics/comic3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
-    "href": "fr/comics/comic3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
-    "title": "Souvenirs qui Marquent des Vies",
-    "section": "Faire des expériences scientifiques avec mon cousin en était un.",
-    "text": "Faire des expériences scientifiques avec mon cousin en était un."
-  },
-  {
-    "objectID": "fr/comics/comic3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
-    "href": "fr/comics/comic3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
-    "title": "Souvenirs qui Marquent des Vies",
-    "section": "Pour moi, ce n’était pas de la « science », c’était de la magie.",
-    "text": "Pour moi, ce n’était pas de la « science », c’était de la magie."
-  },
-  {
-    "objectID": "fr/comics/comic3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
-    "href": "fr/comics/comic3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
-    "title": "Souvenirs qui Marquent des Vies",
-    "section": "Une magie que je porte avec moi aujourd’hui.",
-    "text": "Une magie que je porte avec moi aujourd’hui."
   }
 ]

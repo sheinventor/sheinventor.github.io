@@ -103,5 +103,19 @@
     "title": "Tutoriales",
     "section": "",
     "text": "1 Tutoriales Basicos\nTutorial 1 Tutorial 2 Tutorial 3 Tutorial 4"
+  },
+  {
+    "objectID": "comics/index.html",
+    "href": "comics/index.html",
+    "title": "Comics",
+    "section": "",
+    "text": "-Emanuel\n-Comic2\n-Comic3\n\n\nVideo sobre patinaje en hielo"
+  },
+  {
+    "objectID": "comics/index.html#video",
+    "href": "comics/index.html#video",
+    "title": "Comics",
+    "section": "",
+    "text": "Video sobre patinaje en hielo"
   }
 ]
