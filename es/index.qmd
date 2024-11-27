@@ -6,92 +6,20 @@ format:
     css: ../../css/styles.css  # Ruta al archivo CSS
 ---
 
----
-title: "SheInventor: Ciencia, Diseño e Innovación"
-format: html
-# Puedes agregar opciones adicionales para personalizar estilos aquí
----
 
-# **SheInventor**  
-**Diseño, ciencia e innovación para transformar el mundo, una idea a la vez.**  
+**SheInventor** nace con el propósito de romper barreras de género en la tecnología, combinando arte, ciencia e innovación para capacitar a las mujeres en las competencias necesarias para los empleos del futuro. Desde pequeña, mi objetivo ha sido utilizar mis habilidades en diseño y enseñanza para ayudar a las personas a comprender el mundo que nos rodea. Este proyecto es mi contribución a la creación de un espacio inclusivo y de acceso al conocimiento para todos, sin importar los estereotipos o las limitaciones que enfrentemos.
 
-::: {.hero}
-Explora el arte de la creatividad científica y descubre cómo transformar conceptos complejos en experiencias inspiradoras.  
-[Descubre mis proyectos](#proyectos){.btn .btn-primary}  
-[Conéctate con la comunidad](#contacto){.btn .btn-secondary}  
-:::
 
----
+# Índice  
 
-## **¿Quién es SheInventor?**  
-Soy Paola, una ingeniera y divulgadora apasionada por conectar ciencia, arte y emociones. Desde talleres de electrónica reciclada hasta videos cortos que explican temas complejos, mi misión es inspirar, educar y empoderar a través de la creatividad científica.  
+- [Cómics de Ciencia](comics/index.qmd)  
+- [Cómics Personales](comics/index.qmd)  
+- [Tutoriales de Tecnología](tutorials/index.qmd)  
 
-Mis áreas de experiencia incluyen:  
-- **Ingeniería Electrónica:** creando soluciones innovadoras y responsables.  
-- **Divulgación Científica:** haciendo accesible el conocimiento complejo.  
-- **Diseño:** integrando creatividad y funcionalidad para impactar positivamente.  
 
----
-
-## **¿Qué hago? (Servicios y Proyectos)**  
-
-### 1. **Talleres de Ciencia y Creatividad**  
-- Aprende electrónica con materiales reciclados.  
-- Explora el diseño ecológico y responsable.  
-
-### 2. **Producción de Contenido Digital**  
-- Videos de divulgación científica y educativa.  
-- Infografías y reels para redes sociales.  
-
-### 3. **Diseño y Señalética**  
-- Creación de sistemas intuitivos para Fab Labs.  
-- Manuales interactivos para máquinas tecnológicas.  
-
-### 4. **Ilustraciones y Juegos de Mesa**  
-- Material educativo y creativo para aprender jugando.  
-
-[Descubre más sobre mis servicios](#contacto){.btn .btn-primary}
-
----
-
-## **¿Por qué SheInventor?**  
-
-**Mis valores clave:**  
-- Innovación frugal y accesible.  
-- Inclusividad en la ciencia y el diseño.  
-- Educación basada en la curiosidad y el cuestionamiento crítico.  
-
-*"Creo en un futuro donde la ciencia y el arte trabajen juntos para mejorar nuestra calidad de vida, respetando el medio ambiente y empoderando a las personas."*  
-
----
-
-## **Casos de Éxito**  
-
-**Ejemplo:**  
-*"El taller de electrónica reciclada fue una experiencia increíble. Paola hace que aprender sea divertido y práctico." – María L.*  
-
-- Talleres exitosos en instituciones educativas.  
-- Colaboraciones con Fab Labs y comunidades científicas.  
-- Contenido digital con miles de visualizaciones y comentarios positivos.  
-
----
-
-## **Únete a la Comunidad SheInventor**  
-
-### **Conecta conmigo en redes sociales:**  
-- Instagram  
-- TikTok  
-- YouTube  
-
-**Suscríbete a mi boletín para recibir novedades sobre ciencia y diseño.**  
-
-[Suscribirme](#suscribirme){.btn .btn-primary}  
-[Hablemos de tu proyecto](#contacto){.btn .btn-secondary}
-
----
 
 ## **Contacto**  
 
 📧 **Correo electrónico:** contacto@sheinventor.com  
 🌐 **Redes sociales:**  
-[Instagram](https://instagram.com) | [TikTok](https://tiktok.com) | [YouTube](https://youtube.com)  
+[Instagram](https://www.instagram.com/sheinventor/) | [YouTube](https://www.youtube.com/@Sheinventor_Espa%C3%B1ol)  

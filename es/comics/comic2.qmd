@@ -1,0 +1,53 @@
+---
+title: "Recuerdos que marcan vidas"
+subtitle: "Cómo empecé a compartir ciencia"
+format:
+  revealjs:
+    title-slide-attributes:
+        data-state: "hide-menubar"
+    center: true
+    theme: white
+    transition: slide
+    background-transition: fade
+    controls-layout: bottom-right
+    menu: false
+    css: "css/style.css"
+    section-divs: true
+    simplemenu:
+        barhtml:
+            header: "<div class='menubar'><ul class='menu'></ul><div>"
+        scale: 0.67
+revealjs-plugins:
+  - simplemenu
+---
+
+## Contenido {data-state="hide-menubar"}
+<ul class="menu"><ul>
+
+# Hay recuerdos que marcan vidas. {data-stack-name="Emmanuel"}
+
+<img data-src="../../images/Emanuel1.png">
+
+## Hacer experimentos de ciencia con mi primo fue uno de ellos.
+
+<img src="../../images/Emanuel2.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
+
+## Para mí, no era « ciencia », era magia.
+<img src="../../images/Emanuel3.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
+
+## Una magia que llevo conmigo hoy.
+<img data-src="../../images/Emanuel4.png"> 
+
+# Agradecimientos. {data-name="Agradecimientos y Regresar"}
+
+Gracias
+
+::: columns
+::: {.column style="font-size: 2rem"}
+1. Sígueme en [Instagram](https://www.instagram.com/sheinventor/)
+2. Sígueme en [YouTube](https://www.youtube.com/@SheInventor_Espanol)
+3. Próximamente: newsletter
+:::
+
+Regresar al índice [aquí](../index.qmd).  
+Regresar a tutoriales [aquí](index.qmd).

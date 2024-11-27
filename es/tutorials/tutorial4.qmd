@@ -1,12 +1,12 @@
 ---
-title: "Simplemenu"
-subtitle: "For Reveal.js and Quarto"
+title: "Un ejemplo de cosas "
+subtitle: "Estoy aprendiendo las partes hehe "
 format:
   revealjs:
     title-slide-attributes:
         data-state: "hide-menubar"
     center: true
-    theme: moon
+    theme: solarized
     transition: slide
     background-transition: fade
     controls-layout: bottom-right
@@ -29,7 +29,14 @@ A paragraph with some text and a [link](http://hakim.se).
 
 # Vertical slide 1 {data-stack-name="Vertical"}
 
-## Este supongo es subtema
+## Este es un respuesta como un subtema como algo que puede mostrarse un, oye plot twist
+
+
+
+# Volviendo a infice {data-name="Return"}
+Regreso al indice [Indice general](../index.qmd)
+Regreso a tutoriales [Tutoriales](index.qmd)
+
 
 # Global options {data-stack-name="Options"}
 
@@ -42,3 +49,4 @@ The options below have user configurable options. In a regular Reveal.js present
 3. activeclass
 4. activeelement
 :::
+

@@ -8,11 +8,18 @@ css: ../../css/styles.css  # Ensure this path is correct
 ---
 
 
-# Cómics Recientes en Francés
 
-- ![Comic 1](../../images/Emanuel1.png)  
-  **[Cómic 1](emanuel.qmd)**  
-  Este es el primer cómic de la serie.
+
+# Comics recientes 
+
+
+-**[Emanuel](comic1.qmd)**
+
+-**[Comic2](comic2.qmd)**
+
+-**[Comic3](comic3.qmd)**
+
+
 
 ## Video 
 
@@ -20,4 +27,7 @@ Video sobre patinaje en hielo
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nZUdfFajxtQ" frameborder="0" allowfullscreen></iframe>
+
+
+
 

@@ -7,15 +7,14 @@ format:
 css: ../css/styles.css  # Ruta al archivo CSS
 ---
 
+# Basic Tutorials
 
-# Tutoriales Básicos 
+**[Tutorial 1](tutorial1.qmd)**
 
-- ![3D Printing](../../images/Emanuel1.png)  
-  **[TutorialImpresion](tutorial1.qmd)**    
-  Este es el primer tutorial básico
+**[Tutorial 2](tutorial2.qmd)**
 
-  **[TutorialImpresion](tutorial2.qmd)**   
+**[Tutorial 3](tutorial3.qmd)**
 
-  **[TutorialImpresion](tutorial3.qmd)**   
+**[Tutorial 4](tutorial4.qmd)**
 
-
+**[Tutorial 5](tutorial.html)**
