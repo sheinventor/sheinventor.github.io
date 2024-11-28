@@ -11,11 +11,11 @@ css: ../../css/styles.css  # Ensure this path is correct
 # Cómics Recientes en Francés
 
 - ![Comic 1](../../images/Emanuel1.png)  
-  **[Cómic 1](Ice.qmd)**  
+  **[Video on Ice](Ice.qmd)**  
   Este es el primer cómic de la serie.
 
 
--**[Emanuel](comic1.qmd)**
+-**[Science Sharing](comic1.qmd)**
 
 -**[Comic2](comic2.qmd)**
 

@@ -1,0 +1,695 @@
+[
+  {
+    "objectID": "sheinventor.github.io.html",
+    "href": "sheinventor.github.io.html",
+    "title": "sheinventor.github.io",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "sheinventor.github.io.html#quarto",
+    "href": "sheinventor.github.io.html#quarto",
+    "title": "sheinventor.github.io",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html",
+    "href": "revealjs/examples/markdown.html",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "Content 1.1\nNote: This will only appear in the speaker notes window.\n\n\n\nContent 1.2\n\n\n\nContent 2.1\n\n\n\nContent 3.1\n\n\n\nContent 3.2\n\n\n\n\n\n\nExternal Image\n\n\n\n\n\n\\[ J(\\theta_0,\\theta_1) = \\sum_{i=0} \\]"
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html#external-1.1",
+    "href": "revealjs/examples/markdown.html#external-1.1",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "Content 1.1\nNote: This will only appear in the speaker notes window."
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html#external-1.2",
+    "href": "revealjs/examples/markdown.html#external-1.2",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "Content 1.2"
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html#external-2",
+    "href": "revealjs/examples/markdown.html#external-2",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "Content 2.1"
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html#external-3.1",
+    "href": "revealjs/examples/markdown.html#external-3.1",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "Content 3.1"
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html#external-3.2",
+    "href": "revealjs/examples/markdown.html#external-3.2",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "Content 3.2"
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html#external-3.3-image",
+    "href": "revealjs/examples/markdown.html#external-3.3-image",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "External Image"
+  },
+  {
+    "objectID": "revealjs/examples/markdown.html#external-3.4-math",
+    "href": "revealjs/examples/markdown.html#external-3.4-math",
+    "title": "Markdown Demo",
+    "section": "",
+    "text": "\\[ J(\\theta_0,\\theta_1) = \\sum_{i=0} \\]"
+  },
+  {
+    "objectID": "fr/tutorials/tutorial3.html#contenu",
+    "href": "fr/tutorials/tutorial3.html#contenu",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Contenu",
+    "text": "Contenu"
+  },
+  {
+    "objectID": "fr/tutorials/tutorial3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "href": "fr/tutorials/tutorial3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Faire des expériences scientifiques avec mon cousin en était un.",
+    "text": "Faire des expériences scientifiques avec mon cousin en était un."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "href": "fr/tutorials/tutorial3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Pour moi, ce n’était pas de la « science », c’était de la magie.",
+    "text": "Pour moi, ce n’était pas de la « science », c’était de la magie."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "href": "fr/tutorials/tutorial3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Une magie que je porte avec moi aujourd’hui.",
+    "text": "Une magie que je porte avec moi aujourd’hui."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial1.html",
+    "href": "fr/tutorials/tutorial1.html",
+    "title": "SheInventor",
+    "section": "",
+    "text": "Introduction à l’Impression 3D pour Débutants\nCe post est conçu pour ceux qui souhaitent explorer le monde de l’impression 3D, notamment pour les jeunes filles de 17 ans. Découvrez les bases et quelques clés pour débuter. Explorez le Monde de l’Impression 3D 1. Qu’est-ce que l’Impression 3D ?\nL’impression 3D est une technologie qui crée des objets physiques à partir de conceptions numériques. Imaginez pouvoir réaliser vos propres idées et conceptions, d’un accessoire à une figure décorative.\nImage: /images.png (Une imprimante 3D imprimant un petit objet, comme une figurine décorative. Gros plan montrant comment l'objet est créé couche par couche).\n\nApplications Réelles : À Quoi Sert l’Impression 3D ?\n\nL’impression 3D est utilisée dans de nombreux domaines : de la mode à la médecine et à l’art. Vous pouvez même créer vos propres accessoires ou pièces uniques pour décorer votre espace !\nImage: /images.png (Un collage d'objets imprimés en 3D, tels que des bijoux, des décorations et des prototypes médicaux, montrant la polyvalence de la technologie).\n\n\nClés de l’Impression 3D 3. Choisir une Imprimante Types d’Imprimantes :\nFDM : La plus courante pour les débutants, idéale pour les objets du quotidien.\n\nSLA : Offre plus de détails, mais est plus complexe et généralement utilisée pour des objets petits et précis.\n\nImage : /images.png (Photo comparative d'une imprimante FDM et d'une SLA avec des étiquettes brèves de leurs caractéristiques).\nTaille d’Impression :\nChoisissez une imprimante avec le volume adapté selon le type de projets que vous souhaitez réaliser.\n\nMatériaux d’Impression\n\nChaque matériau a des caractéristiques différentes ; voici les plus courants :\nPLA : Facile à utiliser, biodégradable, et parfait pour les débutants.\n\nABS : Plus résistant, mais nécessite un lit chauffant pour éviter les déformations.\n\nPETG : Solide et durable, facile à utiliser, adapté aux projets plus avancés.\n\nImage : /images.png (Exemples des différents types de filaments avec des étiquettes pour leurs caractéristiques : PLA, ABS, PETG).\n\nPréparation du Fichier Modélisation 3D :\nUtilisez des programmes comme Tinkercad (très facile à utiliser) ou FreeCAD pour concevoir vos modèles en 3D.\n\nExportation :\nAssurez-vous d'exporter votre conception en STL ou OBJ, les formats les plus courants pour l'impression 3D.\n\nImage : /images.png (Capture d'écran de Tinkercad montrant une conception 3D de base, comme un porte-clés ou une petite figurine).\n\nDécoupe (Slicing) Logiciel de Découpe :\nConvertissez le modèle 3D en instructions pour l’imprimante avec des programmes comme Cura ou PrusaSlicer.\n\nConfiguration :\nAjustez la hauteur de couche, la vitesse, le remplissage et la température selon le matériau et l'objet.\n\nImage : /images.png (Interface d'un programme de découpe montrant un modèle prêt à être imprimé, avec des paramètres de hauteur de couche et de vitesse visibles).\n\nConfiguration de l’Imprimante Calibration :\nAssurez-vous que l’imprimante est calibrée, en particulier la hauteur de la buse et le nivellement du lit pour une meilleure adhésion"
+  },
+  {
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "Bienvenue à SheInventor!",
+    "section": "",
+    "text": "SheInventor est née dans le but de briser les barrières de genre dans la technologie, en combinant l’art, la science et l’innovation pour former les femmes aux compétences nécessaires pour les emplois de demain. Depuis mon enfance, mon objectif a été d’utiliser mes compétences en design et en enseignement pour aider les gens à comprendre le monde qui nous entoure. Ce projet est ma contribution à la création d’un espace inclusif et d’accès au savoir pour tous, indépendamment des stéréotypes ou des limitations auxquels nous faisons face."
+  },
+  {
+    "objectID": "fr/index.html#contact",
+    "href": "fr/index.html#contact",
+    "title": "Bienvenue à SheInventor!",
+    "section": "Contact",
+    "text": "Contact\n📧 Email: contact@sheinventor.com\n🌐 Réseaux sociaux:\nInstagram | YouTube"
+  },
+  {
+    "objectID": "fr/comics/comic4.html#section-1",
+    "href": "fr/comics/comic4.html#section-1",
+    "title": "Prologue",
+    "section": "",
+    "text": "mais cela ne me permet pas encore de joindre les deux bouts."
+  },
+  {
+    "objectID": "fr/comics/comic4.html#et-si-la-vie-ma-donné-ces-histoires-pourquoi-ne-pas-raconter-ce-que-jai-vécu",
+    "href": "fr/comics/comic4.html#et-si-la-vie-ma-donné-ces-histoires-pourquoi-ne-pas-raconter-ce-que-jai-vécu",
+    "title": "Prologue",
+    "section": "et si la vie m’a donné ces histoires, pourquoi ne pas raconter ce que j’ai vécu ?",
+    "text": "et si la vie m’a donné ces histoires, pourquoi ne pas raconter ce que j’ai vécu ?"
+  },
+  {
+    "objectID": "fr/comics/comic4.html#section-5",
+    "href": "fr/comics/comic4.html#section-5",
+    "title": "Prologue",
+    "section": "",
+    "text": "mais vécue à travers les personnages qui m’aident dans mes explications : une ingénieure, un designer et un vidéaste,"
+  },
+  {
+    "objectID": "fr/comics/comic4.html#section-8",
+    "href": "fr/comics/comic4.html#section-8",
+    "title": "Prologue",
+    "section": "",
+    "text": "Mais tout ce qu’ils surmontent fait partie de moi."
+  },
+  {
+    "objectID": "fr/about.html",
+    "href": "fr/about.html",
+    "title": "À Propos",
+    "section": "",
+    "text": "Bienvenue sur mon site web ! Ici, vous trouverez des ressources sur divers sujets, notamment des comics et des tutoriels.\n\n\nNotre mission est de rendre la science accessible à tous en utilisant des ressources visuelles et interactives.\n\n\n\nPour toute question ou suggestion, n’hésitez pas à nous contacter à l’adresse suivante : info@monsite.com."
+  },
+  {
+    "objectID": "fr/about.html#notre-mission",
+    "href": "fr/about.html#notre-mission",
+    "title": "À Propos",
+    "section": "",
+    "text": "Notre mission est de rendre la science accessible à tous en utilisant des ressources visuelles et interactives."
+  },
+  {
+    "objectID": "fr/about.html#contact",
+    "href": "fr/about.html#contact",
+    "title": "À Propos",
+    "section": "",
+    "text": "Pour toute question ou suggestion, n’hésitez pas à nous contacter à l’adresse suivante : info@monsite.com."
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#fui-al-museo-pompidou-metz",
+    "href": "es/tutorials/tutorial3.html#fui-al-museo-pompidou-metz",
+    "title": "Visita a museo Pompidou",
+    "section": "Fui al museo Pompidou Metz",
+    "text": "Fui al museo Pompidou Metz\nVisité el museo Pompidou Metz, un lugar fascinante de arte contemporáneo. Vi una exposición de gomas de mascar en la banqueta, algunas me gustaron, pero me pareció un tanto inverosímil que estuvieran en un museo.\n\nExposición de gomas de mascar"
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#el-cuadro-con-ampolletas",
+    "href": "es/tutorials/tutorial3.html#el-cuadro-con-ampolletas",
+    "title": "Visita a museo Pompidou",
+    "section": "El cuadro con ampolletas",
+    "text": "El cuadro con ampolletas\nAlguien recogió ampolletas de viejos televisores y las transformó en un cuadro gigante con resina epoxi. Le tomé una foto con la intención de crear un wallpaper.\n\nCuadro con ampolletas"
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#cortina-con-ojitos-cocidos",
+    "href": "es/tutorials/tutorial3.html#cortina-con-ojitos-cocidos",
+    "title": "Visita a museo Pompidou",
+    "section": "Cortina con ojitos cocidos",
+    "text": "Cortina con ojitos cocidos\nHabía una cortina con ojitos cocidos, de diferentes colores. Fue una de esas piezas extrañas que me dejó pensando, sobre todo en la falta de contexto.\n\nCortina con ojitos cocidos"
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#repeticiones-y-el-morado",
+    "href": "es/tutorials/tutorial3.html#repeticiones-y-el-morado",
+    "title": "Visita a museo Pompidou",
+    "section": "Repeticiones y el morado",
+    "text": "Repeticiones y el morado\nEn una sala llamada “Repeticiones”, observé cuadros morados, y me tomé una foto que hoy es mi actual foto de perfil de WhatsApp.\n\nCuadro morado"
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#la-sala-oscura-y-las-sombras",
+    "href": "es/tutorials/tutorial3.html#la-sala-oscura-y-las-sombras",
+    "title": "Visita a museo Pompidou",
+    "section": "La sala oscura y las sombras",
+    "text": "La sala oscura y las sombras\nMe encantó una sala oscura donde el artista había colocado objetos que giraban, iluminados por focos. Me hizo recordar un juguete de mi infancia y la historia de la cueva de Platón.\n\nSala oscura y sombras"
+  },
+  {
+    "objectID": "es/tutorials/tutorial3.html#reflexión-personal",
+    "href": "es/tutorials/tutorial3.html#reflexión-personal",
+    "title": "Visita a museo Pompidou",
+    "section": "Reflexión personal",
+    "text": "Reflexión personal\nHe estado reflexionando mucho sobre mi existencia y a dónde voy. Esta exposición me permitió tener conversaciones conmigo misma que no habría tenido si hubiera estado acompañada. Me siento sola en mis pensamientos, y a veces tengo la sensación de estar atrapada en un ciclo de lecciones repetidas."
+  },
+  {
+    "objectID": "es/tutorials/tutorial1.html",
+    "href": "es/tutorials/tutorial1.html",
+    "title": "Introducción a la Impresión 3D para Principiantes",
+    "section": "",
+    "text": "Este post está diseñado para quienes desean explorar el mundo de la impresión 3D, especialmente para chicas de 17 años. Descubre los conceptos básicos y algunas claves para empezar.\n\n\n\n\nLa impresión 3D es una tecnología que crea objetos físicos a partir de diseños digitales. Imagina que puedes hacer realidad tus propias ideas y diseños, desde un accesorio hasta una figura decorativa.\n\nImagen: /images.png (Una impresora 3D imprimiendo un objeto pequeño, como una figura decorativa. Mostrar de cerca cómo se crea el objeto capa por capa).\n\n\n\n\nLa impresión 3D se utiliza en muchas áreas: desde el diseño de moda, hasta la medicina y el arte. ¡Incluso puedes crear tus propios accesorios o piezas únicas para decorar tu espacio!\n\nImagen: /images.png (Un collage de objetos impresos en 3D, como joyería, decoraciones y prototipos médicos, que muestran la versatilidad de la tecnología).\n\n\n\n\n\n\n\n\n\n\n\n\n\nFDM: La más común para principiantes, ideal para objetos de uso diario.\nSLA: Ofrece mayor detalle, pero es más compleja y generalmente se usa para objetos pequeños y precisos.\nImagen: /images.png (Foto comparativa de una impresora FDM y una SLA con breves etiquetas sobre sus características).\n\n\n\n\n\nElige una impresora con el volumen adecuado según el tipo de proyectos que quieras realizar.\n\n\n\n\n\nCada material tiene características distintas; aquí los más comunes: - PLA: Fácil de usar, biodegradable y perfecto para principiantes. - ABS: Más resistente, pero necesita una cama caliente para evitar deformaciones. - PETG: Resistente y duradero, fácil de usar y adecuado para proyectos más avanzados.\n\nImagen: /images.png (Muestra de los diferentes tipos de filamento con etiquetas sobre sus características: PLA, ABS, PETG).\n\n\n\n\n\n\n\nUsa programas como Tinkercad (muy fácil de usar) o FreeCAD para diseñar tus modelos en 3D.\n\n\n\n\n\nAsegúrate de exportar tu diseño en STL u OBJ, los formatos más comunes para impresión 3D.\nImagen: /images.png (Captura de pantalla de Tinkercad mostrando un diseño básico en 3D, como un llavero o una pequeña figura).\n\n\n\n\n\n\n\n\nConvierte el modelo 3D en instrucciones para la impresora usando programas como Cura o PrusaSlicer.\n\n\n\n\n\nAjusta la altura de capa, velocidad, relleno y temperatura según el material y el objeto.\nImagen: /images.png (Interfaz de un programa de corte mostrando un modelo preparado para impresión, con parámetros de altura de capa y velocidad visibles).\n\n\n\n\n\n\n\n\nAsegúrate de que la impresora esté calibrada, especialmente en la altura de la boquilla y nivelación de la cama para una mejor adhesión.\n\n\n\n\n\nEsto es crucial para que la impresión no falle en las primeras capas.\nImagen: /images.png (Imagen de una impresora en proceso de calibración, con énfasis en el ajuste de la cama y la boquilla).\n\n\n\n\n\n\nUtiliza cinta adhesiva, spray de adhesión, o superficies especiales para mejorar la adherencia del primer nivel y evitar problemas.\nImagen: /images.png (Foto de una cama de impresión cubierta con cinta o spray, mostrando cómo se prepara para la impresión).\n\n\n\n\n\nObserva el proceso, especialmente en las primeras capas para detectar problemas.\nAsegúrate de que la temperatura del extrusor y la cama sean las adecuadas.\nImagen: /images.png (Foto de una impresión en proceso, con una persona observando de cerca la primera capa).\n\n\n\n\n\n\n\nSi tu modelo requiere soportes, retíralos con cuidado al finalizar la impresión.\n\n\n\n\n\nLija las piezas para suavizarlas y puedes pintarlas para un acabado profesional.\nImagen: /images.png (Foto de un modelo recién impreso con soportes y herramientas de post-procesamiento, como lija y pinceles).\n\n\n\n\n\n\nNo temas experimentar. Prueba con configuraciones diferentes y aprende de los errores. La práctica te permitirá mejorar con el tiempo.\nImagen: /images.png (Collage de diferentes resultados impresos en 3D, mostrando tanto éxitos como algunos errores comunes).\n\n\n\n\n\nÚnete a foros y grupos en línea para compartir experiencias y obtener ayuda de otros aficionados y expertos en impresión 3D.\nImagen: /images.png (Captura de pantalla de un foro en línea sobre impresión 3D, con usuarios compartiendo consejos y resultados).\n\n\n\n\n\nLa impresión 3D es una herramienta poderosa y accesible. ¡Anímate a explorar y crea tus propios proyectos!\n\nCon esta guía, puedes comenzar a entender y experimentar con la impresión 3D. ¿Listas para empezar?"
+  },
+  {
+    "objectID": "es/tutorials/tutorial1.html#explora-el-mundo-de-la-impresión-3d",
+    "href": "es/tutorials/tutorial1.html#explora-el-mundo-de-la-impresión-3d",
+    "title": "Introducción a la Impresión 3D para Principiantes",
+    "section": "",
+    "text": "La impresión 3D es una tecnología que crea objetos físicos a partir de diseños digitales. Imagina que puedes hacer realidad tus propias ideas y diseños, desde un accesorio hasta una figura decorativa.\n\nImagen: /images.png (Una impresora 3D imprimiendo un objeto pequeño, como una figura decorativa. Mostrar de cerca cómo se crea el objeto capa por capa).\n\n\n\n\nLa impresión 3D se utiliza en muchas áreas: desde el diseño de moda, hasta la medicina y el arte. ¡Incluso puedes crear tus propios accesorios o piezas únicas para decorar tu espacio!\n\nImagen: /images.png (Un collage de objetos impresos en 3D, como joyería, decoraciones y prototipos médicos, que muestran la versatilidad de la tecnología)."
+  },
+  {
+    "objectID": "es/tutorials/tutorial1.html#claves-de-la-impresión-3d",
+    "href": "es/tutorials/tutorial1.html#claves-de-la-impresión-3d",
+    "title": "Introducción a la Impresión 3D para Principiantes",
+    "section": "",
+    "text": "FDM: La más común para principiantes, ideal para objetos de uso diario.\nSLA: Ofrece mayor detalle, pero es más compleja y generalmente se usa para objetos pequeños y precisos.\nImagen: /images.png (Foto comparativa de una impresora FDM y una SLA con breves etiquetas sobre sus características).\n\n\n\n\n\nElige una impresora con el volumen adecuado según el tipo de proyectos que quieras realizar.\n\n\n\n\n\nCada material tiene características distintas; aquí los más comunes: - PLA: Fácil de usar, biodegradable y perfecto para principiantes. - ABS: Más resistente, pero necesita una cama caliente para evitar deformaciones. - PETG: Resistente y duradero, fácil de usar y adecuado para proyectos más avanzados.\n\nImagen: /images.png (Muestra de los diferentes tipos de filamento con etiquetas sobre sus características: PLA, ABS, PETG).\n\n\n\n\n\n\n\nUsa programas como Tinkercad (muy fácil de usar) o FreeCAD para diseñar tus modelos en 3D.\n\n\n\n\n\nAsegúrate de exportar tu diseño en STL u OBJ, los formatos más comunes para impresión 3D.\nImagen: /images.png (Captura de pantalla de Tinkercad mostrando un diseño básico en 3D, como un llavero o una pequeña figura).\n\n\n\n\n\n\n\n\nConvierte el modelo 3D en instrucciones para la impresora usando programas como Cura o PrusaSlicer.\n\n\n\n\n\nAjusta la altura de capa, velocidad, relleno y temperatura según el material y el objeto.\nImagen: /images.png (Interfaz de un programa de corte mostrando un modelo preparado para impresión, con parámetros de altura de capa y velocidad visibles).\n\n\n\n\n\n\n\n\nAsegúrate de que la impresora esté calibrada, especialmente en la altura de la boquilla y nivelación de la cama para una mejor adhesión.\n\n\n\n\n\nEsto es crucial para que la impresión no falle en las primeras capas.\nImagen: /images.png (Imagen de una impresora en proceso de calibración, con énfasis en el ajuste de la cama y la boquilla).\n\n\n\n\n\n\nUtiliza cinta adhesiva, spray de adhesión, o superficies especiales para mejorar la adherencia del primer nivel y evitar problemas.\nImagen: /images.png (Foto de una cama de impresión cubierta con cinta o spray, mostrando cómo se prepara para la impresión).\n\n\n\n\n\nObserva el proceso, especialmente en las primeras capas para detectar problemas.\nAsegúrate de que la temperatura del extrusor y la cama sean las adecuadas.\nImagen: /images.png (Foto de una impresión en proceso, con una persona observando de cerca la primera capa).\n\n\n\n\n\n\n\nSi tu modelo requiere soportes, retíralos con cuidado al finalizar la impresión.\n\n\n\n\n\nLija las piezas para suavizarlas y puedes pintarlas para un acabado profesional.\nImagen: /images.png (Foto de un modelo recién impreso con soportes y herramientas de post-procesamiento, como lija y pinceles).\n\n\n\n\n\n\nNo temas experimentar. Prueba con configuraciones diferentes y aprende de los errores. La práctica te permitirá mejorar con el tiempo.\nImagen: /images.png (Collage de diferentes resultados impresos en 3D, mostrando tanto éxitos como algunos errores comunes).\n\n\n\n\n\nÚnete a foros y grupos en línea para compartir experiencias y obtener ayuda de otros aficionados y expertos en impresión 3D.\nImagen: /images.png (Captura de pantalla de un foro en línea sobre impresión 3D, con usuarios compartiendo consejos y resultados).\n\n\n\n\n\nLa impresión 3D es una herramienta poderosa y accesible. ¡Anímate a explorar y crea tus propios proyectos!\n\nCon esta guía, puedes comenzar a entender y experimentar con la impresión 3D. ¿Listas para empezar?"
+  },
+  {
+    "objectID": "es/index.html",
+    "href": "es/index.html",
+    "title": "Bienvenida a SheInventor!",
+    "section": "",
+    "text": "SheInventor nace con el propósito de romper barreras de género en la tecnología, combinando arte, ciencia e innovación para capacitar a las mujeres en las competencias necesarias para los empleos del futuro. Desde pequeña, mi objetivo ha sido utilizar mis habilidades en diseño y enseñanza para ayudar a las personas a comprender el mundo que nos rodea. Este proyecto es mi contribución a la creación de un espacio inclusivo y de acceso al conocimiento para todos, sin importar los estereotipos o las limitaciones que enfrentemos."
+  },
+  {
+    "objectID": "es/index.html#contacto",
+    "href": "es/index.html#contacto",
+    "title": "Bienvenida a SheInventor!",
+    "section": "Contacto",
+    "text": "Contacto\n📧 Correo electrónico: contacto@sheinventor.com\n🌐 Redes sociales:\nInstagram | YouTube"
+  },
+  {
+    "objectID": "es/comics/comic3.html#section-1",
+    "href": "es/comics/comic3.html#section-1",
+    "title": "Prólogo",
+    "section": "",
+    "text": "más hacerlo aún no me permite llegar a fin de mes."
+  },
+  {
+    "objectID": "es/comics/comic3.html#y-si-la-vida-me-dió-estas-historias-por-que-no-relatar-lo-vivido",
+    "href": "es/comics/comic3.html#y-si-la-vida-me-dió-estas-historias-por-que-no-relatar-lo-vivido",
+    "title": "Prólogo",
+    "section": "y si la vida me dió estas historias, por que no relatar lo vivido?",
+    "text": "y si la vida me dió estas historias, por que no relatar lo vivido?"
+  },
+  {
+    "objectID": "es/comics/comic3.html#section-5",
+    "href": "es/comics/comic3.html#section-5",
+    "title": "Prólogo",
+    "section": "",
+    "text": "pero vivida a traves de los personajes que me ayudan en mis explicaicones: una ingeniera, un disenador y un videasta,"
+  },
+  {
+    "objectID": "es/comics/comic3.html#section-8",
+    "href": "es/comics/comic3.html#section-8",
+    "title": "Prólogo",
+    "section": "",
+    "text": "Mas todo lo que estan superando son partes de mi."
+  },
+  {
+    "objectID": "es/comics/comic1.html",
+    "href": "es/comics/comic1.html",
+    "title": "Recuerdos que Marcan Vidas",
+    "section": "",
+    "text": "A mis 6 años, con corte de cabello tipo de honguito.\n\n\n\n\n\n\n\n\n\nUn pedazo de hilo con cera incendiándose\n\n\n\n\n\n\n\n\n\nEmanuel, siembre con su chaleco\n\n\n\n\n\n\n\n\n\nPaola, desde los 26 años haciendo talleres de ciencia"
+  },
+  {
+    "objectID": "es/comics/comic1.html#hay-recuerdos-que-marcan-vidas.",
+    "href": "es/comics/comic1.html#hay-recuerdos-que-marcan-vidas.",
+    "title": "Recuerdos que Marcan Vidas",
+    "section": "",
+    "text": "A mis 6 años, con corte de cabello tipo de honguito."
+  },
+  {
+    "objectID": "es/comics/comic1.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
+    "href": "es/comics/comic1.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
+    "title": "Recuerdos que Marcan Vidas",
+    "section": "",
+    "text": "Un pedazo de hilo con cera incendiándose"
+  },
+  {
+    "objectID": "es/comics/comic1.html#para-mí-no-era-ciencia-era-magia.",
+    "href": "es/comics/comic1.html#para-mí-no-era-ciencia-era-magia.",
+    "title": "Recuerdos que Marcan Vidas",
+    "section": "",
+    "text": "Emanuel, siembre con su chaleco"
+  },
+  {
+    "objectID": "es/comics/comic1.html#magia-que-hoy-llevo-conmigo.",
+    "href": "es/comics/comic1.html#magia-que-hoy-llevo-conmigo.",
+    "title": "Recuerdos que Marcan Vidas",
+    "section": "",
+    "text": "Paola, desde los 26 años haciendo talleres de ciencia"
+  },
+  {
+    "objectID": "en/tutorials/tutorial2.html",
+    "href": "en/tutorials/tutorial2.html",
+    "title": "Incrustar Tablero de Pinterest",
+    "section": "",
+    "text": "Puedes incrustar un tablero de Pinterest en tu página de Quarto utilizando un iframe de la siguiente manera:\n\n\nhtml"
+  },
+  {
+    "objectID": "en/tutorials/tutorial2.html#ejemplo-de-incrustación-de-un-tablero-de-pinterest",
+    "href": "en/tutorials/tutorial2.html#ejemplo-de-incrustación-de-un-tablero-de-pinterest",
+    "title": "Incrustar Tablero de Pinterest",
+    "section": "",
+    "text": "Puedes incrustar un tablero de Pinterest en tu página de Quarto utilizando un iframe de la siguiente manera:\n\n\nhtml"
+  },
+  {
+    "objectID": "en/tutorials/index.html",
+    "href": "en/tutorials/index.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "1 Basic Tutorials\nTutorial 1\nTutorial 2\nTutorial 3\nTutorial 4\nTutorial 5"
+  },
+  {
+    "objectID": "en/comics/prueba.html",
+    "href": "en/comics/prueba.html",
+    "title": "Cuadrícula de Fotografías",
+    "section": "",
+    "text": "Descripción de la imagen 1\nDescripción de la imagen 2\nDescripción de la imagen 3\nDescripción de la imagen 4\nDescripción de la imagen 5\nDescripción de la imagen 6\n\n\n\n\n\n\n\n\n\n\nDescripción de la imagen 7\nDescripción de la imagen 8\nDescripción de la imagen 9\nDescripción de la imagen 10\nDescripción de la imagen 11\nDescripción de la imagen 12"
+  },
+  {
+    "objectID": "en/comics/prueba.html#cuadrícula-de-fotografías",
+    "href": "en/comics/prueba.html#cuadrícula-de-fotografías",
+    "title": "Cuadrícula de Fotografías",
+    "section": "",
+    "text": "Descripción de la imagen 1\nDescripción de la imagen 2\nDescripción de la imagen 3\nDescripción de la imagen 4\nDescripción de la imagen 5\nDescripción de la imagen 6\n\n\n\n\n\n\n\n\n\n\nDescripción de la imagen 7\nDescripción de la imagen 8\nDescripción de la imagen 9\nDescripción de la imagen 10\nDescripción de la imagen 11\nDescripción de la imagen 12"
+  },
+  {
+    "objectID": "en/comics/Ice.html",
+    "href": "en/comics/Ice.html",
+    "title": "Facing My Fears on Ice",
+    "section": "",
+    "text": "A long time ago, I had a serious fall while ice skating that left me injured and shaken. The fear of getting back on the ice was overwhelming, but I found the courage and strength to return.\nI didn’t do it alone. I was supported by loving and caring people who encouraged me every step of the way. Their presence made all the difference and helped me regain my confidence.\nWatch this video to see my journey back to ice skating!\n\n\n\nWatch the video"
+  },
+  {
+    "objectID": "en/comics/Ice.html#overcoming-my-fear-of-ice-skating",
+    "href": "en/comics/Ice.html#overcoming-my-fear-of-ice-skating",
+    "title": "Facing My Fears on Ice",
+    "section": "",
+    "text": "A long time ago, I had a serious fall while ice skating that left me injured and shaken. The fear of getting back on the ice was overwhelming, but I found the courage and strength to return.\nI didn’t do it alone. I was supported by loving and caring people who encouraged me every step of the way. Their presence made all the difference and helped me regain my confidence.\nWatch this video to see my journey back to ice skating!\n\n\n\nWatch the video"
+  },
+  {
+    "objectID": "en/comics/comic2.html#content",
+    "href": "en/comics/comic2.html#content",
+    "title": "Memories that Shape Lives",
+    "section": "Content",
+    "text": "Content"
+  },
+  {
+    "objectID": "en/comics/comic2.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
+    "href": "en/comics/comic2.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
+    "title": "Memories that Shape Lives",
+    "section": "Doing science experiments with my cousin was one of them.",
+    "text": "Doing science experiments with my cousin was one of them."
+  },
+  {
+    "objectID": "en/comics/comic2.html#for-me-it-wasnt-science-it-was-magic.",
+    "href": "en/comics/comic2.html#for-me-it-wasnt-science-it-was-magic.",
+    "title": "Memories that Shape Lives",
+    "section": "For me, it wasn’t “science,” it was magic.",
+    "text": "For me, it wasn’t “science,” it was magic."
+  },
+  {
+    "objectID": "en/comics/comic2.html#magic-that-i-carry-with-me-today.",
+    "href": "en/comics/comic2.html#magic-that-i-carry-with-me-today.",
+    "title": "Memories that Shape Lives",
+    "section": "Magic that I carry with me today.",
+    "text": "Magic that I carry with me today."
+  },
+  {
+    "objectID": "en/about.html",
+    "href": "en/about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to my website! Here, you will find resources on various topics, including comics and tutorials.\n\n\nOur mission is to make science accessible to everyone by using visual and interactive resources.\n\n\n\nFor any questions or suggestions, feel free to contact us at: info@monsite.com."
+  },
+  {
+    "objectID": "en/about.html#our-mission",
+    "href": "en/about.html#our-mission",
+    "title": "About",
+    "section": "",
+    "text": "Our mission is to make science accessible to everyone by using visual and interactive resources."
+  },
+  {
+    "objectID": "en/about.html#contact",
+    "href": "en/about.html#contact",
+    "title": "About",
+    "section": "",
+    "text": "For any questions or suggestions, feel free to contact us at: info@monsite.com."
+  },
+  {
+    "objectID": "en/comics/comic1.html#section-1",
+    "href": "en/comics/comic1.html#section-1",
+    "title": "Prologue",
+    "section": "",
+    "text": "But it still doesn’t allow me to make ends meet."
+  },
+  {
+    "objectID": "en/comics/comic1.html#and-if-life-gave-me-these-stories-why-not-tell-what-ive-lived",
+    "href": "en/comics/comic1.html#and-if-life-gave-me-these-stories-why-not-tell-what-ive-lived",
+    "title": "Prologue",
+    "section": "And if life gave me these stories, why not tell what I’ve lived?",
+    "text": "And if life gave me these stories, why not tell what I’ve lived?"
+  },
+  {
+    "objectID": "en/comics/comic1.html#section-5",
+    "href": "en/comics/comic1.html#section-5",
+    "title": "Prologue",
+    "section": "",
+    "text": "But lived through the characters who help me in my explanations: an engineer, a designer, and a videographer,"
+  },
+  {
+    "objectID": "en/comics/comic1.html#section-8",
+    "href": "en/comics/comic1.html#section-8",
+    "title": "Prologue",
+    "section": "",
+    "text": "But everything they are overcoming is part of me."
+  },
+  {
+    "objectID": "en/comics/emanuel.html",
+    "href": "en/comics/emanuel.html",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "At age 6, with a bowl haircut.\n\n\n\n\n\n\n\n\n\nA piece of waxed string burning\n\n\n\n\n\n\n\n\n\nEmanuel, always with his vest\n\n\n\n\n\n\n\n\n\nPaola, doing science workshops since age 26"
+  },
+  {
+    "objectID": "en/comics/emanuel.html#there-are-memories-that-mark-lives.",
+    "href": "en/comics/emanuel.html#there-are-memories-that-mark-lives.",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "At age 6, with a bowl haircut."
+  },
+  {
+    "objectID": "en/comics/emanuel.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
+    "href": "en/comics/emanuel.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "A piece of waxed string burning"
+  },
+  {
+    "objectID": "en/comics/emanuel.html#for-me-it-wasnt-science-it-was-magic.",
+    "href": "en/comics/emanuel.html#for-me-it-wasnt-science-it-was-magic.",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "Emanuel, always with his vest"
+  },
+  {
+    "objectID": "en/comics/emanuel.html#magic-that-i-carry-with-me-today.",
+    "href": "en/comics/emanuel.html#magic-that-i-carry-with-me-today.",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "Paola, doing science workshops since age 26"
+  },
+  {
+    "objectID": "en/comics/index.html",
+    "href": "en/comics/index.html",
+    "title": "Comics",
+    "section": "",
+    "text": "Cómic 1\nEste es el primer cómic de la serie.\n\n-Emanuel\n-Comic2\n-Comic3\n\n\nHere’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
+  },
+  {
+    "objectID": "en/comics/index.html#watch-my-ice-skating-journey",
+    "href": "en/comics/index.html#watch-my-ice-skating-journey",
+    "title": "Comics",
+    "section": "",
+    "text": "Here’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
+  },
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "Welcome to SheInventor!",
+    "section": "",
+    "text": "SheInventor was created with the goal of breaking gender barriers in technology, combining art, science, and innovation to equip women with the skills needed for future jobs. Since childhood, my objective has been to use my design and teaching skills to help people understand the world around us. This project is my contribution to creating an inclusive space with access to knowledge for everyone, regardless of the stereotypes or limitations we face."
+  },
+  {
+    "objectID": "en/index.html#contact",
+    "href": "en/index.html#contact",
+    "title": "Welcome to SheInventor!",
+    "section": "Contact",
+    "text": "Contact\n📧 Email: contact@sheinventor.com\n🌐 Social Media:\nInstagram | YouTube"
+  },
+  {
+    "objectID": "en/tutorials/tutorial1.html",
+    "href": "en/tutorials/tutorial1.html",
+    "title": "SheInventor",
+    "section": "",
+    "text": "Introduction to 3D Printing for Beginners\nThis post is designed for those who want to explore the world of 3D printing, especially 17-year-old girls. Discover the basics and some key points to get started. Explore the World of 3D Printing 1. What is 3D Printing?\n3D printing is a technology that creates physical objects from digital designs. Imagine bringing your ideas and designs to life, from an accessory to a decorative figure.\nImage: /images.png (A 3D printer printing a small object, like a decorative figure. Close-up showing how the object is created layer by layer).\n\nReal Applications: What is 3D Printing Used For?\n\n3D printing is used in many areas: from fashion design to medicine and art. You can even create your own accessories or unique pieces to decorate your space!\nImage: /images.png (A collage of 3D printed objects, like jewelry, decorations, and medical prototypes, showing the versatility of the technology).\n\n\nKey Points of 3D Printing 3. Choosing a Printer Types of Printers:\nFDM: The most common for beginners, ideal for everyday objects.\n\nSLA: Offers more detail but is more complex and usually used for small, precise objects.\n\nImage: /images.png (Comparative photo of an FDM and an SLA printer with brief labels of their characteristics).\nPrinting Size:\nChoose a printer with the appropriate volume according to the type of projects you want to do.\n\nPrinting Materials\n\nEach material has different characteristics; here are the most common:\nPLA: Easy to use, biodegradable, and perfect for beginners.\n\nABS: More durable but requires a heated bed to prevent warping.\n\nPETG: Strong and durable, easy to use, suitable for more advanced projects.\n\nImage: /images.png (Examples of different filament types with labels for their characteristics: PLA, ABS, PETG).\n\nFile Preparation 3D Modeling:\nUse programs like Tinkercad (very easy to use) or FreeCAD to design your 3D models.\n\nExport:\nMake sure to export your design in STL or OBJ, the most common formats for 3D printing.\n\nImage: /images.png (Screenshot of Tinkercad showing a basic 3D design, like a keychain or a small figure).\n\nSlicing Slicing Software:\nConvert the 3D model into instructions for the printer using programs like Cura or PrusaSlicer.\n\nSettings:\nAdjust layer height, speed, infill, and temperature depending on the material and object.\n\nImage: /images.png (Interface of a slicing program showing a model prepared for printing, with layer height and speed parameters visible).\n\nPrinter Setup Calibration:\nMake sure the printer is calibrated, especially nozzle height and bed leveling, for better adhesion.\n\nBed Leveling:\nThis is crucial to avoid print failure on the first layers.\n\nImage: /images.png (Image of a printer in the calibration process, focusing on bed and nozzle adjustment).\n\nBed Adhesion\nUse tape, adhesive spray, or special surfaces to improve the first layer’s adhesion and avoid issues.\nImage: /images.png (Photo of a printing bed covered with tape or spray, showing how it’s prepared for printing).\nMonitoring the Print\nObserve the process, especially on the first layers, to catch problems.\nEnsure the extruder and bed temperature are correct.\nImage: /images.png (Photo of a print in process, with a person closely observing the first layer).\nPost-Processing Removing Supports:\nCarefully remove supports if your model requires them once printing is done.\n\nSanding and Painting:\nSand the pieces to smooth them and optionally paint them for a professional finish.\n\nImage: /images.png (Photo of a freshly printed model with supports and post-processing tools, like sandpaper and brushes).\n\nExperimentation and Learning\nDon’t be afraid to experiment. Try different settings and learn from mistakes. Practice will help you improve over time.\nImage: /images.png (Collage of different 3D printed results, showing both successes and common errors).\nResources and Community\nJoin online forums and groups to share experiences and get help from other 3D printing enthusiasts and experts.\nImage: /images.png (Screenshot of an online forum about 3D printing, with users sharing tips and results).\n\nWould you like to delve deeper into any of these points?\n3D printing is a powerful and accessible tool. Start exploring and create your own projects!\nWith this guide, you can start understanding and experimenting with 3D printing. Ready to begin?"
+  },
+  {
+    "objectID": "es/comics/comic2.html#contenido",
+    "href": "es/comics/comic2.html#contenido",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Contenido",
+    "text": "Contenido"
+  },
+  {
+    "objectID": "es/comics/comic2.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
+    "href": "es/comics/comic2.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Hacer experimentos de ciencia con mi primo fue uno de ellos.",
+    "text": "Hacer experimentos de ciencia con mi primo fue uno de ellos."
+  },
+  {
+    "objectID": "es/comics/comic2.html#para-mí-no-era-ciencia-era-magia.",
+    "href": "es/comics/comic2.html#para-mí-no-era-ciencia-era-magia.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Para mí, no era « ciencia », era magia.",
+    "text": "Para mí, no era « ciencia », era magia."
+  },
+  {
+    "objectID": "es/comics/comic2.html#una-magia-que-llevo-conmigo-hoy.",
+    "href": "es/comics/comic2.html#una-magia-que-llevo-conmigo-hoy.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Una magia que llevo conmigo hoy.",
+    "text": "Una magia que llevo conmigo hoy."
+  },
+  {
+    "objectID": "es/comics/index.html",
+    "href": "es/comics/index.html",
+    "title": "Comics",
+    "section": "",
+    "text": "-Emanuel\n-Comic2\n-Comic3\n\n\nVideo sobre patinaje en hielo"
+  },
+  {
+    "objectID": "es/comics/index.html#video",
+    "href": "es/comics/index.html#video",
+    "title": "Comics",
+    "section": "",
+    "text": "Video sobre patinaje en hielo"
+  },
+  {
+    "objectID": "es/tutorials/index.html",
+    "href": "es/tutorials/index.html",
+    "title": "Tutoriales",
+    "section": "",
+    "text": "1 Tutoriales Basicos\nTutorial 1 Tutorial 2 Tutorial 3 Tutorial 4 Tutorial 5"
+  },
+  {
+    "objectID": "es/tutorials/tutorial2.html",
+    "href": "es/tutorials/tutorial2.html",
+    "title": "Tutoriel : Créer, vectoriser et imprimer en 3D avec la Creality CR-10",
+    "section": "",
+    "text": "Tutoriel : Créer, vectoriser et imprimer en 3D avec la Creality CR-10\nAuteur : SheInventor\n\n\n\nImage de la Creality CR-10\n\n\nDans ce tutoriel, nous allons vous guider à travers les étapes nécessaires pour créer un dessin, le vectoriser, puis l’imprimer en 3D à l’aide de l’imprimante Creality CR-10. Vous apprendrez à utiliser des outils de conception pour obtenir un modèle imprimable et à préparer l’imprimante pour l’impression 3D.\n\n\nÉtape 1 : Créer le dessins\n\nMatériel et outils : Utilisez du papier et un crayon pour dessiner, ou une tablette graphique avec un logiciel comme Photoshop ou Procreate.\nConseils : Assurez-vous que le dessin soit simple, car plus il est détaillé, plus la vectorisation peut devenir compliquée.\n\n\n\n\nÉtape 2 : Numériser le dessin\n\nScanner ou photographier le dessin : Si vous avez utilisé du papier, numérisez-le ou prenez une photo de haute qualité.\nAjuster l’image : Utilisez un logiciel pour améliorer la qualité de l’image si nécessaire.\n\n\n\n\nÉtape 3 : Vectoriser le dessin\n\nOuvrir dans un logiciel de vectorisation : Utilisez Adobe Illustrator ou Inkscape.\nVectorisation automatique :\n\nDans Illustrator : Allez dans Fenêtre &gt; Image Trace et ajustez les paramètres pour tracer les contours du dessin.\nDans Inkscape : Utilisez Chemin &gt; Vectoriser l’image pour transformer le dessin en lignes vectorielles.\n\nNettoyer et finaliser : Éliminez les détails inutiles et assurez-vous que le dessin est bien défini.\n\n\n\n\nÉtape 4 : Préparer le fichier pour l’impression 3D\n\nConvertir en format compatible : Exporte le fichier vectorisé en STL ou OBJ, formats utilisés pour l’impression 3D.\nUtiliser un logiciel de modélisation 3D : Importez le fichier vectorisé dans un logiciel comme Tinkercad ou Fusion 360 pour lui donner de la profondeur et le convertir en modèle 3D.\nVérifier les dimensions : Assurez-vous que le modèle 3D correspond aux dimensions de l’imprimante et ajustez sa taille si nécessaire.\n\n\n\n\nÉtape 5 : Préparer le fichier pour l’imprimante 3D\n\nImporter dans un logiciel de tranchage : Utilisez Cura pour préparer le fichier 3D en G-code, un format compréhensible par l’imprimante.\nAjuster les paramètres : Sélectionnez les paramètres d’impression, comme la température, le matériau (PLA, ABS), et la vitesse d’impression.\nGénérer le G-code : Une fois prêt, exportez le fichier G-code sur une carte SD ou une clé USB.\n\n\n\n\nÉtape 6 : Imprimer avec la Creality CR-10\n\nPréparer l’imprimante : Vérifiez que l’imprimante est prête à imprimer (niveau du lit d’impression, présence de filament).\nInsérer la carte SD : Placez la carte SD dans l’imprimante.\nLancer l’impression : Sélectionnez le fichier sur l’écran tactile et démarrez l’impression.\nSuivre l’impression : Surveillez l’impression pour vous assurer qu’il n’y a pas de problèmes, comme un mauvais alignement ou un filament qui ne sort pas correctement.\n\n\n\n\nÉtape 7 : Post-traitement\n\nRetirer l’objet : Une fois l’impression terminée, attendez que l’objet refroidisse avant de le retirer du lit d’impression.\nPonçage et finition : Si nécessaire, vous pouvez poncer les bords ou appliquer une finition pour un meilleur rendu.\n\n\nNous espérons que ce tutoriel vous a été utile ! N’hésitez pas à partager vos impressions et à poser des questions si vous en avez. Bonnes impressions !"
+  },
+  {
+    "objectID": "es/tutorials/tutorial4.html#table-of-contents",
+    "href": "es/tutorials/tutorial4.html#table-of-contents",
+    "title": "Un ejemplo de cosas",
+    "section": "Table of Contents",
+    "text": "Table of Contents"
+  },
+  {
+    "objectID": "es/tutorials/tutorial4.html#este-es-un-respuesta-como-un-subtema-como-algo-que-puede-mostrarse-un-oye-plot-twist",
+    "href": "es/tutorials/tutorial4.html#este-es-un-respuesta-como-un-subtema-como-algo-que-puede-mostrarse-un-oye-plot-twist",
+    "title": "Un ejemplo de cosas",
+    "section": "Este es un respuesta como un subtema como algo que puede mostrarse un, oye plot twist",
+    "text": "Este es un respuesta como un subtema como algo que puede mostrarse un, oye plot twist"
+  },
+  {
+    "objectID": "fr/comics/comic1.html",
+    "href": "fr/comics/comic1.html",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "",
+    "text": "À mes 6 ans, avec une coupe au bol.\n\n\n\n\n\n\n\n\n\nUn morceau de fil avec de la cire en feu\n\n\n\n\n\n\n\n\n\nEmanuel, toujours avec son gilet\n\n\n\n\n\n\n\n\n\nPaola, depuis ses 26 ans, animant des ateliers scientifiques"
+  },
+  {
+    "objectID": "fr/comics/comic1.html#il-y-a-des-souvenirs-qui-marquent-des-vies.",
+    "href": "fr/comics/comic1.html#il-y-a-des-souvenirs-qui-marquent-des-vies.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "",
+    "text": "À mes 6 ans, avec une coupe au bol."
+  },
+  {
+    "objectID": "fr/comics/comic1.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "href": "fr/comics/comic1.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "",
+    "text": "Un morceau de fil avec de la cire en feu"
+  },
+  {
+    "objectID": "fr/comics/comic1.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "href": "fr/comics/comic1.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "",
+    "text": "Emanuel, toujours avec son gilet"
+  },
+  {
+    "objectID": "fr/comics/comic1.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "href": "fr/comics/comic1.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "",
+    "text": "Paola, depuis ses 26 ans, animant des ateliers scientifiques"
+  },
+  {
+    "objectID": "fr/comics/comic3.html#contenu",
+    "href": "fr/comics/comic3.html#contenu",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "Contenu",
+    "text": "Contenu"
+  },
+  {
+    "objectID": "fr/comics/comic3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "href": "fr/comics/comic3.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "Faire des expériences scientifiques avec mon cousin en était un.",
+    "text": "Faire des expériences scientifiques avec mon cousin en était un."
+  },
+  {
+    "objectID": "fr/comics/comic3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "href": "fr/comics/comic3.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "Pour moi, ce n’était pas de la « science », c’était de la magie.",
+    "text": "Pour moi, ce n’était pas de la « science », c’était de la magie."
+  },
+  {
+    "objectID": "fr/comics/comic3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "href": "fr/comics/comic3.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "Une magie que je porte avec moi aujourd’hui.",
+    "text": "Une magie que je porte avec moi aujourd’hui."
+  },
+  {
+    "objectID": "fr/comics/index.html",
+    "href": "fr/comics/index.html",
+    "title": "Bandes Desinées",
+    "section": "",
+    "text": "1 Bandes Dessinées Récentes en Français\n\n\nBande Dessinée 1\nCeci est la première bande dessinée de la série.\nBande Dessinée 2 Bande Dessinée 3 Bande Dessinée 4"
+  },
+  {
+    "objectID": "fr/tutorials/index.html",
+    "href": "fr/tutorials/index.html",
+    "title": "Tutorieles",
+    "section": "",
+    "text": "1 Tutoriels de Base\nTutorial 1\nTutorial 2\nTutorial 3\nTutorial 4\nTutorial 5"
+  },
+  {
+    "objectID": "fr/tutorials/tutorial2.html",
+    "href": "fr/tutorials/tutorial2.html",
+    "title": "Tutoriel : Créer, vectoriser et imprimer en 3D avec la Creality CR-10",
+    "section": "",
+    "text": "Tutoriel : Créer, vectoriser et imprimer en 3D avec la Creality CR-10\nAuteur : SheInventor\n\n\n\nImage de la Creality CR-10\n\n\nDans ce tutoriel, nous allons vous guider à travers les étapes nécessaires pour créer un dessin, le vectoriser, puis l’imprimer en 3D à l’aide de l’imprimante Creality CR-10. Vous apprendrez à utiliser des outils de conception pour obtenir un modèle imprimable et à préparer l’imprimante pour l’impression 3D.\n\n\nÉtape 1 : Créer le dessins\n\nMatériel et outils : Utilisez du papier et un crayon pour dessiner, ou une tablette graphique avec un logiciel comme Photoshop ou Procreate.\nConseils : Assurez-vous que le dessin soit simple, car plus il est détaillé, plus la vectorisation peut devenir compliquée.\n\n\n\n\nÉtape 2 : Numériser le dessin\n\nScanner ou photographier le dessin : Si vous avez utilisé du papier, numérisez-le ou prenez une photo de haute qualité.\nAjuster l’image : Utilisez un logiciel pour améliorer la qualité de l’image si nécessaire.\n\n\n\n\nÉtape 3 : Vectoriser le dessin\n\nOuvrir dans un logiciel de vectorisation : Utilisez Adobe Illustrator ou Inkscape.\nVectorisation automatique :\n\nDans Illustrator : Allez dans Fenêtre &gt; Image Trace et ajustez les paramètres pour tracer les contours du dessin.\nDans Inkscape : Utilisez Chemin &gt; Vectoriser l’image pour transformer le dessin en lignes vectorielles.\n\nNettoyer et finaliser : Éliminez les détails inutiles et assurez-vous que le dessin est bien défini.\n\n\n\n\nÉtape 4 : Préparer le fichier pour l’impression 3D\n\nConvertir en format compatible : Exporte le fichier vectorisé en STL ou OBJ, formats utilisés pour l’impression 3D.\nUtiliser un logiciel de modélisation 3D : Importez le fichier vectorisé dans un logiciel comme Tinkercad ou Fusion 360 pour lui donner de la profondeur et le convertir en modèle 3D.\nVérifier les dimensions : Assurez-vous que le modèle 3D correspond aux dimensions de l’imprimante et ajustez sa taille si nécessaire.\n\n\n\n\nÉtape 5 : Préparer le fichier pour l’imprimante 3D\n\nImporter dans un logiciel de tranchage : Utilisez Cura pour préparer le fichier 3D en G-code, un format compréhensible par l’imprimante.\nAjuster les paramètres : Sélectionnez les paramètres d’impression, comme la température, le matériau (PLA, ABS), et la vitesse d’impression.\nGénérer le G-code : Une fois prêt, exportez le fichier G-code sur une carte SD ou une clé USB.\n\n\n\n\nÉtape 6 : Imprimer avec la Creality CR-10\n\nPréparer l’imprimante : Vérifiez que l’imprimante est prête à imprimer (niveau du lit d’impression, présence de filament).\nInsérer la carte SD : Placez la carte SD dans l’imprimante.\nLancer l’impression : Sélectionnez le fichier sur l’écran tactile et démarrez l’impression.\nSuivre l’impression : Surveillez l’impression pour vous assurer qu’il n’y a pas de problèmes, comme un mauvais alignement ou un filament qui ne sort pas correctement.\n\n\n\n\nÉtape 7 : Post-traitement\n\nRetirer l’objet : Une fois l’impression terminée, attendez que l’objet refroidisse avant de le retirer du lit d’impression.\nPonçage et finition : Si nécessaire, vous pouvez poncer les bords ou appliquer une finition pour un meilleur rendu.\n\n\nNous espérons que ce tutoriel vous a été utile ! N’hésitez pas à partager vos impressions et à poser des questions si vous en avez. Bonnes impressions !"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenida a Sheinventor",
+    "section": "",
+    "text": "Selecciona tu idioma\n\nEnglish Español Français"
+  },
+  {
+    "objectID": "revealjs/test/simple.html",
+    "href": "revealjs/test/simple.html",
+    "title": "SheInventor",
+    "section": "",
+    "text": "var a = 1;"
+  },
+  {
+    "objectID": "revealjs/test/simple.html#slide-1.1",
+    "href": "revealjs/test/simple.html#slide-1.1",
+    "title": "SheInventor",
+    "section": "",
+    "text": "var a = 1;"
+  },
+  {
+    "objectID": "revealjs/test/simple.html#slide-1.2",
+    "href": "revealjs/test/simple.html#slide-1.2",
+    "title": "SheInventor",
+    "section": "Slide 1.2",
+    "text": "Slide 1.2"
+  },
+  {
+    "objectID": "revealjs/test/simple.html#slide-2",
+    "href": "revealjs/test/simple.html#slide-2",
+    "title": "SheInventor",
+    "section": "Slide 2",
+    "text": "Slide 2"
+  }
+]
