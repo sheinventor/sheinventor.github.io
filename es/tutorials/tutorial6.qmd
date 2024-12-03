@@ -1,0 +1,83 @@
+---
+title: "Introducción a la Impresión 3D"
+subtitle: "Descubre las bases de esta fascinante tecnología"
+format:
+  revealjs:
+    title-slide-attributes:
+      data-state: "hide-menubar"
+    center: true
+    theme: white
+    transition: slide
+    background-transition: fade
+    controls-layout: bottom-right
+    menu: false
+    css: "css/style.css"
+    section-divs: true
+---
+
+# ¿Qué es la impresión 3D? {data-stack-name="Introducción"}
+
+La impresión 3D es una tecnología de fabricación que crea objetos capa por capa, guiada por un archivo digital procesado en una computadora antes de enviarse a la máquina.  
+
+A diferencia de otros métodos de fabricación, no requiere moldes, lo que la hace muy versátil y adecuada para prototipos, personalización y producción a pequeña escala.
+
+---
+
+## Tecnologías y materiales principales
+
+### Tecnologías comunes
+La más usada es la **modelación por deposición fundida (FDM)**, en la que un filamento de plástico se calienta y extruye para formar las capas del objeto.
+
+### Material más utilizado: PLA
+El PLA (ácido poliláctico) es económico, fácil de usar y menos tóxico que otros. Aunque tiene limitaciones:  
+
+- **No adecuado** para contacto constante con alimentos.
+- **No recomendado** en ambientes húmedos o calientes.
+
+---
+
+# Aplicaciones del PLA {data-name="Aplicaciones"}
+
+- Figuras decorativas o artísticas.  
+- Prototipos para proyectos personales.  
+- Organizadores y accesorios de uso cotidiano.  
+- Piezas de repuesto no estructurales.
+
+<img src="images/3d-print-examples.jpg" alt="Ejemplos de impresión 3D con PLA" style="width: 60%; margin: auto;">
+
+---
+
+# Cómo imprimir en 3D
+
+El proceso de impresión sigue estos pasos básicos:  
+
+1. **Obtener un modelo 3D:** Diseñar en software como Tinkercad, Fusion 360 o Blender, o descargar desde Thingiverse.  
+2. **Preparar el archivo:** Usa un programa *slicer* (Cura, OrcaSlicer) para convertir el modelo a formato G-code, ajustando parámetros como temperatura y velocidad.  
+3. **Transferir el archivo:** Pásalo a la impresora por USB, SD o Wi-Fi.  
+4. **Calibrar:** Nivela la cama de impresión y ajusta la boquilla para una buena adherencia.  
+5. **Colocar el filamento:** Asegúrate de que esté seco y bien almacenado.  
+6. **Imprimir y supervisar:** Monitorea el proceso para detectar errores a tiempo.
+
+---
+
+# Fallos comunes y soluciones
+
+1. **Falta de adherencia de la primera capa:**  
+   - Nivela y limpia la cama de impresión.  
+   - Usa pegamento en barra o cinta azul para mejorar la adhesión.  
+
+2. **Atascos de filamento:**  
+   - Limpia el extrusor regularmente.  
+   - Evita usar filamento húmedo.  
+
+3. **Desplazamiento de capas:**  
+   - Asegúrate de que las correas estén tensas.  
+   - Lubrica las guías.
+
+---
+
+# ¡A explorar!  
+
+La impresión 3D es una tecnología en constante evolución. Aprende, experimenta y mantente actualizado con nuevos materiales y técnicas.
+
+[Más tutoriales aquí](index.qmd)

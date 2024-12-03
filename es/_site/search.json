@@ -117,5 +117,12 @@
     "title": "Comics",
     "section": "",
     "text": "Video sobre patinaje en hielo"
+  },
+  {
+    "objectID": "tutorials/tutorial6.html#tecnologías-y-materiales-principales",
+    "href": "tutorials/tutorial6.html#tecnologías-y-materiales-principales",
+    "title": "Introducción a la Impresión 3D",
+    "section": "Tecnologías y materiales principales",
+    "text": "Tecnologías y materiales principales\n\nTecnologías comunes\nLa más usada es la modelación por deposición fundida (FDM), en la que un filamento de plástico se calienta y extruye para formar las capas del objeto.\n\n\nMaterial más utilizado: PLA\nEl PLA (ácido poliláctico) es económico, fácil de usar y menos tóxico que otros. Aunque tiene limitaciones:\n\nNo adecuado para contacto constante con alimentos.\nNo recomendado en ambientes húmedos o calientes."
   }
 ]
