@@ -249,28 +249,28 @@
     "href": "es/comics/comic3.html#section-1",
     "title": "Prólogo",
     "section": "",
-    "text": "más hacerlo aún no me permite llegar a fin de mes."
+    "text": "pero hacerlo aún no me permite llegar a fin de mes."
   },
   {
-    "objectID": "es/comics/comic3.html#y-si-la-vida-me-dió-estas-historias-por-que-no-relatar-lo-vivido",
-    "href": "es/comics/comic3.html#y-si-la-vida-me-dió-estas-historias-por-que-no-relatar-lo-vivido",
+    "objectID": "es/comics/comic3.html#y-si-la-vida-me-dio-estas-historias-por-qué-no-relatar-lo-vivido",
+    "href": "es/comics/comic3.html#y-si-la-vida-me-dio-estas-historias-por-qué-no-relatar-lo-vivido",
     "title": "Prólogo",
-    "section": "y si la vida me dió estas historias, por que no relatar lo vivido?",
-    "text": "y si la vida me dió estas historias, por que no relatar lo vivido?"
+    "section": "Y si la vida me dio estas historias, ¿por qué no relatar lo vivido?",
+    "text": "Y si la vida me dio estas historias, ¿por qué no relatar lo vivido?"
   },
   {
     "objectID": "es/comics/comic3.html#section-5",
     "href": "es/comics/comic3.html#section-5",
     "title": "Prólogo",
     "section": "",
-    "text": "pero vivida a traves de los personajes que me ayudan en mis explicaicones: una ingeniera, un disenador y un videasta,"
+    "text": "pero vivida a través de los personajes que me ayudan en mis explicaciones: una ingeniera, un diseñador y un videasta,"
   },
   {
     "objectID": "es/comics/comic3.html#section-8",
     "href": "es/comics/comic3.html#section-8",
     "title": "Prólogo",
     "section": "",
-    "text": "Mas todo lo que estan superando son partes de mi."
+    "text": "Más todo lo que están superando son partes de mí."
   },
   {
     "objectID": "es/comics/comic1.html",
@@ -413,11 +413,11 @@
     "text": "But it still doesn’t allow me to make ends meet."
   },
   {
-    "objectID": "en/comics/comic1.html#and-if-life-gave-me-these-stories-why-not-tell-what-ive-lived",
-    "href": "en/comics/comic1.html#and-if-life-gave-me-these-stories-why-not-tell-what-ive-lived",
+    "objectID": "en/comics/comic1.html#and-if-life-gave-me-these-stories-why-not-share-them",
+    "href": "en/comics/comic1.html#and-if-life-gave-me-these-stories-why-not-share-them",
     "title": "Prologue",
-    "section": "And if life gave me these stories, why not tell what I’ve lived?",
-    "text": "And if life gave me these stories, why not tell what I’ve lived?"
+    "section": "And if life gave me these stories, why not share them?",
+    "text": "And if life gave me these stories, why not share them?"
   },
   {
     "objectID": "en/comics/comic1.html#section-5",
@@ -473,7 +473,7 @@
     "href": "en/comics/index.html",
     "title": "Comics",
     "section": "",
-    "text": "Cómic 1\nEste es el primer cómic de la serie.\n\n-Emanuel\n-Comic2\n-Comic3\n\n\nHere’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
+    "text": "Video on Ice\nEste es el primer cómic de la serie.\n\n-Science Sharing\n-Comic2\n-Comic3\n\n\nHere’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
   },
   {
     "objectID": "en/comics/index.html#watch-my-ice-skating-journey",
@@ -502,6 +502,62 @@
     "title": "SheInventor",
     "section": "",
     "text": "Introduction to 3D Printing for Beginners\nThis post is designed for those who want to explore the world of 3D printing, especially 17-year-old girls. Discover the basics and some key points to get started. Explore the World of 3D Printing 1. What is 3D Printing?\n3D printing is a technology that creates physical objects from digital designs. Imagine bringing your ideas and designs to life, from an accessory to a decorative figure.\nImage: /images.png (A 3D printer printing a small object, like a decorative figure. Close-up showing how the object is created layer by layer).\n\nReal Applications: What is 3D Printing Used For?\n\n3D printing is used in many areas: from fashion design to medicine and art. You can even create your own accessories or unique pieces to decorate your space!\nImage: /images.png (A collage of 3D printed objects, like jewelry, decorations, and medical prototypes, showing the versatility of the technology).\n\n\nKey Points of 3D Printing 3. Choosing a Printer Types of Printers:\nFDM: The most common for beginners, ideal for everyday objects.\n\nSLA: Offers more detail but is more complex and usually used for small, precise objects.\n\nImage: /images.png (Comparative photo of an FDM and an SLA printer with brief labels of their characteristics).\nPrinting Size:\nChoose a printer with the appropriate volume according to the type of projects you want to do.\n\nPrinting Materials\n\nEach material has different characteristics; here are the most common:\nPLA: Easy to use, biodegradable, and perfect for beginners.\n\nABS: More durable but requires a heated bed to prevent warping.\n\nPETG: Strong and durable, easy to use, suitable for more advanced projects.\n\nImage: /images.png (Examples of different filament types with labels for their characteristics: PLA, ABS, PETG).\n\nFile Preparation 3D Modeling:\nUse programs like Tinkercad (very easy to use) or FreeCAD to design your 3D models.\n\nExport:\nMake sure to export your design in STL or OBJ, the most common formats for 3D printing.\n\nImage: /images.png (Screenshot of Tinkercad showing a basic 3D design, like a keychain or a small figure).\n\nSlicing Slicing Software:\nConvert the 3D model into instructions for the printer using programs like Cura or PrusaSlicer.\n\nSettings:\nAdjust layer height, speed, infill, and temperature depending on the material and object.\n\nImage: /images.png (Interface of a slicing program showing a model prepared for printing, with layer height and speed parameters visible).\n\nPrinter Setup Calibration:\nMake sure the printer is calibrated, especially nozzle height and bed leveling, for better adhesion.\n\nBed Leveling:\nThis is crucial to avoid print failure on the first layers.\n\nImage: /images.png (Image of a printer in the calibration process, focusing on bed and nozzle adjustment).\n\nBed Adhesion\nUse tape, adhesive spray, or special surfaces to improve the first layer’s adhesion and avoid issues.\nImage: /images.png (Photo of a printing bed covered with tape or spray, showing how it’s prepared for printing).\nMonitoring the Print\nObserve the process, especially on the first layers, to catch problems.\nEnsure the extruder and bed temperature are correct.\nImage: /images.png (Photo of a print in process, with a person closely observing the first layer).\nPost-Processing Removing Supports:\nCarefully remove supports if your model requires them once printing is done.\n\nSanding and Painting:\nSand the pieces to smooth them and optionally paint them for a professional finish.\n\nImage: /images.png (Photo of a freshly printed model with supports and post-processing tools, like sandpaper and brushes).\n\nExperimentation and Learning\nDon’t be afraid to experiment. Try different settings and learn from mistakes. Practice will help you improve over time.\nImage: /images.png (Collage of different 3D printed results, showing both successes and common errors).\nResources and Community\nJoin online forums and groups to share experiences and get help from other 3D printing enthusiasts and experts.\nImage: /images.png (Screenshot of an online forum about 3D printing, with users sharing tips and results).\n\nWould you like to delve deeper into any of these points?\n3D printing is a powerful and accessible tool. Start exploring and create your own projects!\nWith this guide, you can start understanding and experimenting with 3D printing. Ready to begin?"
+  },
+  {
+    "objectID": "en/tutorials/tutorial3.html#unboxing-and-assembly",
+    "href": "en/tutorials/tutorial3.html#unboxing-and-assembly",
+    "title": "Getting Started with 3D Printing",
+    "section": "Unboxing and Assembly",
+    "text": "Unboxing and Assembly\n\nVerify the contents\n\nCheck for all necessary parts: frame, base, extruder, cables, and tools.\n\nAssemble the vertical frame and secure it to the base.\n\nInstall the Titan extruder and connect all cables firmly."
+  },
+  {
+    "objectID": "en/tutorials/tutorial3.html#level-the-bed",
+    "href": "en/tutorials/tutorial3.html#level-the-bed",
+    "title": "Getting Started with 3D Printing",
+    "section": "2. Level the bed",
+    "text": "2. Level the bed\n\nPreheat the extruder (200°C) and the bed (60°C).\n\nUse a piece of paper to adjust the distance between the nozzle and bed. Ensure slight resistance at each corner and the center."
+  },
+  {
+    "objectID": "en/tutorials/tutorial3.html#loading-filament",
+    "href": "en/tutorials/tutorial3.html#loading-filament",
+    "title": "Getting Started with 3D Printing",
+    "section": "Loading Filament",
+    "text": "Loading Filament\n\nPreheat the nozzle to 200°C.\n\nCut the filament tip at an angle and insert it into the extruder.\n\nUse the “Load Filament” option on the menu.\n\nEnsure the filament extrudes properly from the nozzle."
+  },
+  {
+    "objectID": "en/tutorials/tutorial3.html#preparing-the-model-for-printing",
+    "href": "en/tutorials/tutorial3.html#preparing-the-model-for-printing",
+    "title": "Getting Started with 3D Printing",
+    "section": "Preparing the Model for Printing",
+    "text": "Preparing the Model for Printing\n\nGet a 3D model\n\nDownload from platforms like Thingiverse in STL format."
+  },
+  {
+    "objectID": "en/tutorials/tutorial3.html#section",
+    "href": "en/tutorials/tutorial3.html#section",
+    "title": "Getting Started with 3D Printing",
+    "section": "",
+    "text": "Slice the model\n\nUse software like Cura.\n\nChoose settings for PLA:\n\nExtruder Temp: 200-210°C\n\nBed Temp: 60°C\n\nInfill: 20% (standard).\n##\n\n\nSave the G-code\n\nExport the file to a microSD card."
+  },
+  {
+    "objectID": "en/tutorials/tutorial3.html#printing",
+    "href": "en/tutorials/tutorial3.html#printing",
+    "title": "Getting Started with 3D Printing",
+    "section": "Printing",
+    "text": "Printing\n\nInsert the microSD card into the printer.\n\nSelect the file from the menu.\n\nMonitor the first few layers to ensure proper adhesion.\n\nWait for the print to finish."
+  },
+  {
+    "objectID": "en/tutorials/tutorial3.html#removing-and-maintaining",
+    "href": "en/tutorials/tutorial3.html#removing-and-maintaining",
+    "title": "Getting Started with 3D Printing",
+    "section": "Removing and Maintaining",
+    "text": "Removing and Maintaining\n\nLet the bed cool before removing the print.\n\nStore PLA filament in a dry, airtight container with silica gel.\n\nRegularly clean the nozzle and bed."
+  },
+  {
+    "objectID": "en/tutorials/tutorial3.html#troubleshooting",
+    "href": "en/tutorials/tutorial3.html#troubleshooting",
+    "title": "Getting Started with 3D Printing",
+    "section": "Troubleshooting",
+    "text": "Troubleshooting\n\nUneven bed: Re-level the bed.\n\nPoor adhesion: Adjust the first-layer settings or use an adhesive on the bed.\n\nFilament jams: Clean the nozzle or reload the filament."
   },
   {
     "objectID": "es/comics/comic2.html#contenido",

@@ -22,7 +22,10 @@ a:hover {
 
 /* Agregar más estilos según sea necesario */
 
-
+a[href^="http"] {
+  target-new: tab; /* Fallback para navegadores antiguos */
+  target: _blank; /* Hace que todos los enlaces externos se abran en una nueva pestaña */
+}
 
 .reveal {
   margin-top: 50px; /* Ajusta esto según la altura de tu barra de navegación */

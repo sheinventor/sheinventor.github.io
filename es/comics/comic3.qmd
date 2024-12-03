@@ -22,17 +22,17 @@ revealjs-plugins:
 ---
 
 
-# Cómo compartir ciencia sin aburrir a las personas?  {data-stack-name="Ciencia"}
+# ¿Cómo compartir ciencia sin aburrir a las personas? {data-stack-name="Ciencia"}
 
 <img data-src="../../images/EMM/Prólogo_EMM-1.png">
 
 # 
-Ese es mí proposito de vida,
+Ese es mi propósito de vida,
 
 <img src="../../images/EMM/Prólogo_EMM-2.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
 
 ##  
-más hacerlo aún no me permite llegar a fin de mes.
+pero hacerlo aún no me permite llegar a fin de mes.
 <img src="../../images/EMM/Prólogo_EMM-3.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
 
 #  
@@ -40,36 +40,34 @@ Esta es la historia de este viaje, buscando lograr ser divulgadora de ciencia y 
 <img src="../../images/EMM/Prólogo_EMM-4.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
 
 #   
-No soy escritora, dios ha hecho de mis tragedias y aventuras un guion mucho mas interesante de lo que mi imaginacion pueda crear. 
+No soy escritora, Dios ha hecho de mis tragedias y aventuras un guion mucho más interesante de lo que mi imaginación pueda crear. 
 <img src="../../images/EMM/Prólogo_EMM-5.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
 
-## y si la vida me dió estas historias,  por que no relatar lo vivido? 
+## Y si la vida me dio estas historias, ¿por qué no relatar lo vivido? 
 
 #  
-Esta es mi historia, sí, de Paola Vazquez,
+Esta es mi historia, sí, de Paola Vázquez,
 <img src="../../images/EMM/Prólogo_EMM-6.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
 
 ## 
-pero vivida a traves de los personajes que me ayudan en mis explicaicones: una ingeniera, un disenador y un videasta,
+pero vivida a través de los personajes que me ayudan en mis explicaciones: una ingeniera, un diseñador y un videasta,
 <img src="../../images/EMM/Prólogo_EMM-7.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
 
-
 #   
-Tres personajes que, aparecieron en mi mente un dia que quise explicar que eran los atomos.
+Tres personajes que aparecieron en mi mente un día que quise explicar qué eran los átomos.
 <img src="../../images/EMM/Prólogo_EMM-8.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
 
 #   
 Estos personajes tomaron su propia identidad,   
 <img src="../../images/EMM/Prólogo_EMM-7.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
 
-
 ## 
-Mas todo lo que estan superando son partes de mi.   
+Más todo lo que están superando son partes de mí.   
 <img src="../../images/EMM/Prólogo_EMM-9.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
 
 #   
 
-Sin mas por el momento para decir hago esto con mucho amor, deseando, queridisima persona que me lee, una grata experiencia. 
+Sin más por el momento, hago esto con mucho amor, deseando, queridísima persona que me lee, una grata experiencia. 
 
 <img src="../../images/EMM/Prólogo_EMM-10.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
 

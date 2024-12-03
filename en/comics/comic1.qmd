@@ -23,7 +23,7 @@ revealjs-plugins:
 
 # How to share science without boring people? {data-stack-name="Science"}
 
-<img data-src="../../images/EMM/Prólogo_EMM-1.png">
+<img data-src="../../images/EMM/Prólogo_EMM-1-2.png">
 
 #  
 This is my life goal,
@@ -39,13 +39,13 @@ This is the story of this journey, seeking to become a science communicator and 
 <img src="../../images/EMM/Prólogo_EMM-4.png" alt="At 6 years old, with a mushroom-style haircut." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
 
 #  
-I am not a writer, God has made my tragedies and adventures into a script far more interesting than anything my imagination could create.  
+I am not a writer, God has made my tragedies and adventures into a script that is far more interesting than anything my imagination could create.  
 <img src="../../images/EMM/Prólogo_EMM-5.png" alt="At 6 years old, with a mushroom-style haircut." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
 
-## And if life gave me these stories, why not tell what I've lived?
+## And if life gave me these stories, why not share them?
 
 #  
-This is my story, yes, that of Paola Vazquez,  
+This is my story, yes, that of Paola Vázquez,  
 <img src="../../images/EMM/Prólogo_EMM-6.png" alt="At 6 years old, with a mushroom-style haircut." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
 
 ##  
@@ -82,4 +82,5 @@ Thank you
 :::
 
 Return to the table of contents [here](../index.qmd).  
-Return to tutorials [here](index.qmd).  
+Return to tutorials [here](index.qmd).
+
