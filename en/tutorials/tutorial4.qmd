@@ -1,0 +1,83 @@
+---
+title: "Introduction to 3D Printing"
+subtitle: "Learn the basics of this fascinating technology"
+format:
+  revealjs:
+    title-slide-attributes:
+      data-state: "hide-menubar"
+    center: true
+    theme: white
+    transition: slide
+    background-transition: fade
+    controls-layout: bottom-right
+    menu: false
+    css: "css/style.css"
+    section-divs: true
+---
+
+# What is 3D Printing? {data-stack-name="Introduction"}
+
+3D printing is a manufacturing technology that creates objects layer by layer, guided by a digital file processed on a computer before being sent to the machine.  
+
+Unlike other manufacturing methods, it doesn't require molds, making it highly versatile and ideal for prototyping, customization, and small-scale production.
+
+---
+
+## Main Technologies and Materials
+
+### Common Technology
+The most used is **Fused Deposition Modeling (FDM)**, where a plastic filament is heated and extruded to form the object's layers.
+
+### Most Common Material: PLA
+PLA (Polylactic Acid) is affordable, easy to use, and less toxic than other materials. However, it has limitations:  
+
+- **Not suitable** for constant food contact.  
+- **Not recommended** for humid or hot environments.
+
+---
+
+# PLA Applications {data-name="Applications"}
+
+- Decorative or artistic objects.  
+- Prototypes for personal projects.  
+- Organizers and everyday accessories.  
+- Non-structural spare parts.
+
+<img src="images/3d-print-examples.jpg" alt="Examples of 3D printing with PLA" style="width: 60%; margin: auto;">
+
+---
+
+# How to 3D Print
+
+The process follows these basic steps:  
+
+1. **Get a 3D model:** Design it using software like Tinkercad, Fusion 360, or Blender, or download it from Thingiverse.  
+2. **Prepare the file:** Use a *slicer* program (Cura, PrusaSlicer) to convert the model into G-code, adjusting parameters like temperature and speed.  
+3. **Transfer the file:** Send it to the printer via USB, SD, or Wi-Fi.  
+4. **Calibrate:** Level the print bed and adjust the nozzle for good adhesion.  
+5. **Load the filament:** Ensure it’s dry and properly stored.  
+6. **Print and monitor:** Watch the process to catch errors early.
+
+---
+
+# Common Issues and Solutions
+
+1. **First layer adhesion problems:**  
+   - Level and clean the print bed.  
+   - Use glue stick or blue tape to improve adhesion.  
+
+2. **Filament jams:**  
+   - Clean the extruder regularly.  
+   - Avoid using wet filament.  
+
+3. **Layer shifting:**  
+   - Ensure belts are tight.  
+   - Lubricate the guides.
+
+---
+
+# Explore!  
+
+3D printing is a constantly evolving technology. Learn, experiment, and stay updated with new materials and techniques.
+
+[More tutorials here](index.qmd)

@@ -1,0 +1,88 @@
+---
+title: "Introduction à l'impression 3D"
+subtitle: "Guide étape par étape pour utiliser la Creality CR-10 V3"
+format:
+  revealjs:
+    title-slide-attributes:
+        data-state: "hide-menubar"
+    center: true
+    theme: white
+    transition: slide
+    background-transition: fade
+    controls-layout: bottom-right
+    menu: false
+    css: "css/style.css"
+    section-divs: true
+    simplemenu:
+        barhtml:
+            header: "<div class='menubar'><ul class='menu'></ul><div>"
+        scale: 0.67
+revealjs-plugins:
+  - simplemenu
+---
+
+# Comment commencer avec la Creality CR-10 V3 {data-stack-name="Impression3D"}
+
+## Déballage et Assemblage  
+1. **Vérifiez le contenu**  
+   - Assurez-vous que toutes les pièces sont présentes : cadre, base, extrudeur, câbles et outils.  
+   - Assemblez le cadre vertical et fixez-le à la base.  
+   - Installez l'extrudeur Titan et connectez correctement tous les câbles.
+
+2. **Niveler le plateau**  
+   - Préchauffez l'extrudeur (200°C) et le plateau (60°C).  
+   - Utilisez un papier pour ajuster la distance entre la buse et le plateau. Assurez-vous de sentir une légère résistance dans chaque coin et au centre.
+
+---
+
+## Chargement du Filament  
+1. Préchauffez la buse à 200°C.  
+2. Coupez l'extrémité du filament en biais et insérez-le dans l'extrudeur.  
+3. Utilisez l'option "Charger le Filament" dans le menu.  
+4. Assurez-vous que le filament sort correctement de la buse.
+
+---
+
+## Préparer le Modèle pour l'Impression  
+1. **Obtenez un modèle 3D**  
+   - Téléchargez depuis des plateformes comme [Thingiverse](https://www.thingiverse.com/) au format STL.  
+2. **Découpez le modèle**  
+   - Utilisez un logiciel comme Cura.  
+   - Configuration pour PLA :  
+     - Température de l'extrudeur : 200-210°C  
+     - Température du plateau : 60°C  
+     - Remplissage : 20% (standard).  
+3. **Enregistrez le G-code**  
+   - Exportez le fichier sur une carte microSD.  
+
+---
+
+## Impression  
+1. Insérez la carte microSD dans l'imprimante.  
+2. Sélectionnez le fichier dans le menu.  
+3. Surveillez les premières couches pour garantir une bonne adhésion.  
+4. Attendez que l'impression soit terminée.
+
+---
+
+## Retrait et Maintenance  
+1. Laissez refroidir le plateau avant de retirer l'impression.  
+2. Conservez le filament PLA dans un conteneur hermétique avec du gel de silice.  
+3. Nettoyez régulièrement la buse et le plateau.
+
+---
+
+## Résolution des Problèmes  
+- Plateau mal nivelé : Réajustez le nivellement.  
+- Mauvaise adhésion : Ajustez les paramètres de la première couche ou utilisez un adhésif sur le plateau.  
+- Buse bouchée : Nettoyez la buse ou rechargez le filament.  
+
+---
+
+### Restez Connecté  
+1. Suivez-moi sur [Instagram](https://www.instagram.com/sheinventor/)  
+2. Abonnez-vous à ma chaîne [YouTube](https://www.youtube.com/@SheInventor_Espanol)  
+3. Inscrivez-vous pour recevoir des mises à jour (bientôt disponible).  
+
+Retournez à la [table des matières](../index.qmd).  
+Revenez aux [tutoriels](index.qmd).

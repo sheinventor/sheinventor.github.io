@@ -70,6 +70,13 @@
     "text": "\\[ J(\\theta_0,\\theta_1) = \\sum_{i=0} \\]"
   },
   {
+    "objectID": "fr/tutorials/tutorial5.html#technologies-et-matériaux-principaux",
+    "href": "fr/tutorials/tutorial5.html#technologies-et-matériaux-principaux",
+    "title": "Introduction à l’Impression 3D",
+    "section": "Technologies et matériaux principaux",
+    "text": "Technologies et matériaux principaux\n\nTechnologie courante\nLa plus utilisée est la modélisation par dépôt fondu (FDM), où un filament de plastique est chauffé et extrudé pour former les couches de l’objet.\n\n\nMatériau le plus utilisé : PLA\nLe PLA (acide polylactique) est économique, facile à utiliser et moins toxique que d’autres matériaux. Cependant, il présente des limitations :\n\nNon adapté pour un contact constant avec des aliments.\n\nNon recommandé dans des environnements humides ou chauds."
+  },
+  {
     "objectID": "fr/tutorials/tutorial3.html#contenu",
     "href": "fr/tutorials/tutorial3.html#contenu",
     "title": "Recuerdos que marcan vidas",
@@ -166,6 +173,48 @@
     "title": "À Propos",
     "section": "",
     "text": "Pour toute question ou suggestion, n’hésitez pas à nous contacter à l’adresse suivante : info@monsite.com."
+  },
+  {
+    "objectID": "es/tutorials/tutorial5.html#desempaquetado-y-ensamblaje",
+    "href": "es/tutorials/tutorial5.html#desempaquetado-y-ensamblaje",
+    "title": "Introducción a la Impresión 3D",
+    "section": "Desempaquetado y Ensamblaje",
+    "text": "Desempaquetado y Ensamblaje\n\nVerifica el contenido\n\nRevisa que estén todas las partes: marco, base, extrusor, cables y herramientas.\n\nEnsambla el marco vertical y fíjalo a la base.\n\nInstala el extrusor Titan y conecta todos los cables correctamente.\n\nNivelar la cama\n\nPrecalienta el extrusor (200°C) y la cama (60°C).\n\nUsa un papel para ajustar la distancia entre la boquilla y la cama. Asegúrate de sentir una ligera resistencia en cada esquina y en el centro."
+  },
+  {
+    "objectID": "es/tutorials/tutorial5.html#carga-del-filamento",
+    "href": "es/tutorials/tutorial5.html#carga-del-filamento",
+    "title": "Introducción a la Impresión 3D",
+    "section": "Carga del Filamento",
+    "text": "Carga del Filamento\n\nPrecalienta la boquilla a 200°C.\n\nCorta la punta del filamento en un ángulo e insértalo en el extrusor.\n\nUsa la opción “Cargar Filamento” en el menú.\n\nAsegúrate de que el filamento fluya correctamente por la boquilla."
+  },
+  {
+    "objectID": "es/tutorials/tutorial5.html#preparar-el-modelo-para-imprimir",
+    "href": "es/tutorials/tutorial5.html#preparar-el-modelo-para-imprimir",
+    "title": "Introducción a la Impresión 3D",
+    "section": "Preparar el Modelo para Imprimir",
+    "text": "Preparar el Modelo para Imprimir\n\nObtén un modelo 3D\n\nDescarga desde plataformas como Thingiverse en formato STL.\n\n\nCorta el modelo\n\nUsa un programa como Cura.\n\nConfiguración para PLA:\n\nTemperatura del extrusor: 200-210°C\n\nTemperatura de la cama: 60°C\n\nRelleno: 20% (estándar).\n\n\n\nGuarda el G-code\n\nExporta el archivo a una tarjeta microSD."
+  },
+  {
+    "objectID": "es/tutorials/tutorial5.html#imprimir",
+    "href": "es/tutorials/tutorial5.html#imprimir",
+    "title": "Introducción a la Impresión 3D",
+    "section": "Imprimir",
+    "text": "Imprimir\n\nInserta la tarjeta microSD en la impresora.\n\nSelecciona el archivo desde el menú.\n\nMonitorea las primeras capas para garantizar una buena adhesión.\n\nEspera a que termine la impresión."
+  },
+  {
+    "objectID": "es/tutorials/tutorial5.html#retirar-y-mantener",
+    "href": "es/tutorials/tutorial5.html#retirar-y-mantener",
+    "title": "Introducción a la Impresión 3D",
+    "section": "Retirar y Mantener",
+    "text": "Retirar y Mantener\n\nDeja enfriar la cama antes de retirar la impresión.\n\nGuarda el filamento PLA en un contenedor seco y hermético con gel de sílice.\n\nLimpia regularmente la boquilla y la cama."
+  },
+  {
+    "objectID": "es/tutorials/tutorial5.html#solución-de-problemas",
+    "href": "es/tutorials/tutorial5.html#solución-de-problemas",
+    "title": "Introducción a la Impresión 3D",
+    "section": "Solución de Problemas",
+    "text": "Solución de Problemas\n\nCama desnivelada: Reajusta la nivelación.\n\nMala adhesión: Ajusta la configuración de la primera capa o usa adhesivo en la cama.\n\nAtascos de filamento: Limpia la boquilla o recarga el filamento."
   },
   {
     "objectID": "es/tutorials/tutorial3.html#fui-al-museo-pompidou-metz",
@@ -308,202 +357,6 @@
     "text": "Paola, desde los 26 años haciendo talleres de ciencia"
   },
   {
-    "objectID": "en/tutorials/tutorial2.html",
-    "href": "en/tutorials/tutorial2.html",
-    "title": "Incrustar Tablero de Pinterest",
-    "section": "",
-    "text": "Puedes incrustar un tablero de Pinterest en tu página de Quarto utilizando un iframe de la siguiente manera:\n\n\nhtml"
-  },
-  {
-    "objectID": "en/tutorials/tutorial2.html#ejemplo-de-incrustación-de-un-tablero-de-pinterest",
-    "href": "en/tutorials/tutorial2.html#ejemplo-de-incrustación-de-un-tablero-de-pinterest",
-    "title": "Incrustar Tablero de Pinterest",
-    "section": "",
-    "text": "Puedes incrustar un tablero de Pinterest en tu página de Quarto utilizando un iframe de la siguiente manera:\n\n\nhtml"
-  },
-  {
-    "objectID": "en/tutorials/index.html",
-    "href": "en/tutorials/index.html",
-    "title": "Tutorials",
-    "section": "",
-    "text": "1 Basic Tutorials\nTutorial 1\nTutorial 2\nTutorial 3\nTutorial 4\nTutorial 5"
-  },
-  {
-    "objectID": "en/comics/prueba.html",
-    "href": "en/comics/prueba.html",
-    "title": "Cuadrícula de Fotografías",
-    "section": "",
-    "text": "Descripción de la imagen 1\nDescripción de la imagen 2\nDescripción de la imagen 3\nDescripción de la imagen 4\nDescripción de la imagen 5\nDescripción de la imagen 6\n\n\n\n\n\n\n\n\n\n\nDescripción de la imagen 7\nDescripción de la imagen 8\nDescripción de la imagen 9\nDescripción de la imagen 10\nDescripción de la imagen 11\nDescripción de la imagen 12"
-  },
-  {
-    "objectID": "en/comics/prueba.html#cuadrícula-de-fotografías",
-    "href": "en/comics/prueba.html#cuadrícula-de-fotografías",
-    "title": "Cuadrícula de Fotografías",
-    "section": "",
-    "text": "Descripción de la imagen 1\nDescripción de la imagen 2\nDescripción de la imagen 3\nDescripción de la imagen 4\nDescripción de la imagen 5\nDescripción de la imagen 6\n\n\n\n\n\n\n\n\n\n\nDescripción de la imagen 7\nDescripción de la imagen 8\nDescripción de la imagen 9\nDescripción de la imagen 10\nDescripción de la imagen 11\nDescripción de la imagen 12"
-  },
-  {
-    "objectID": "en/comics/Ice.html",
-    "href": "en/comics/Ice.html",
-    "title": "Facing My Fears on Ice",
-    "section": "",
-    "text": "A long time ago, I had a serious fall while ice skating that left me injured and shaken. The fear of getting back on the ice was overwhelming, but I found the courage and strength to return.\nI didn’t do it alone. I was supported by loving and caring people who encouraged me every step of the way. Their presence made all the difference and helped me regain my confidence.\nWatch this video to see my journey back to ice skating!\n\n\n\nWatch the video"
-  },
-  {
-    "objectID": "en/comics/Ice.html#overcoming-my-fear-of-ice-skating",
-    "href": "en/comics/Ice.html#overcoming-my-fear-of-ice-skating",
-    "title": "Facing My Fears on Ice",
-    "section": "",
-    "text": "A long time ago, I had a serious fall while ice skating that left me injured and shaken. The fear of getting back on the ice was overwhelming, but I found the courage and strength to return.\nI didn’t do it alone. I was supported by loving and caring people who encouraged me every step of the way. Their presence made all the difference and helped me regain my confidence.\nWatch this video to see my journey back to ice skating!\n\n\n\nWatch the video"
-  },
-  {
-    "objectID": "en/comics/comic2.html#content",
-    "href": "en/comics/comic2.html#content",
-    "title": "Memories that Shape Lives",
-    "section": "Content",
-    "text": "Content"
-  },
-  {
-    "objectID": "en/comics/comic2.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
-    "href": "en/comics/comic2.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
-    "title": "Memories that Shape Lives",
-    "section": "Doing science experiments with my cousin was one of them.",
-    "text": "Doing science experiments with my cousin was one of them."
-  },
-  {
-    "objectID": "en/comics/comic2.html#for-me-it-wasnt-science-it-was-magic.",
-    "href": "en/comics/comic2.html#for-me-it-wasnt-science-it-was-magic.",
-    "title": "Memories that Shape Lives",
-    "section": "For me, it wasn’t “science,” it was magic.",
-    "text": "For me, it wasn’t “science,” it was magic."
-  },
-  {
-    "objectID": "en/comics/comic2.html#magic-that-i-carry-with-me-today.",
-    "href": "en/comics/comic2.html#magic-that-i-carry-with-me-today.",
-    "title": "Memories that Shape Lives",
-    "section": "Magic that I carry with me today.",
-    "text": "Magic that I carry with me today."
-  },
-  {
-    "objectID": "en/about.html",
-    "href": "en/about.html",
-    "title": "About",
-    "section": "",
-    "text": "Welcome to my website! Here, you will find resources on various topics, including comics and tutorials.\n\n\nOur mission is to make science accessible to everyone by using visual and interactive resources.\n\n\n\nFor any questions or suggestions, feel free to contact us at: info@monsite.com."
-  },
-  {
-    "objectID": "en/about.html#our-mission",
-    "href": "en/about.html#our-mission",
-    "title": "About",
-    "section": "",
-    "text": "Our mission is to make science accessible to everyone by using visual and interactive resources."
-  },
-  {
-    "objectID": "en/about.html#contact",
-    "href": "en/about.html#contact",
-    "title": "About",
-    "section": "",
-    "text": "For any questions or suggestions, feel free to contact us at: info@monsite.com."
-  },
-  {
-    "objectID": "en/comics/comic1.html#section-1",
-    "href": "en/comics/comic1.html#section-1",
-    "title": "Prologue",
-    "section": "",
-    "text": "But it still doesn’t allow me to make ends meet."
-  },
-  {
-    "objectID": "en/comics/comic1.html#and-if-life-gave-me-these-stories-why-not-share-them",
-    "href": "en/comics/comic1.html#and-if-life-gave-me-these-stories-why-not-share-them",
-    "title": "Prologue",
-    "section": "And if life gave me these stories, why not share them?",
-    "text": "And if life gave me these stories, why not share them?"
-  },
-  {
-    "objectID": "en/comics/comic1.html#section-5",
-    "href": "en/comics/comic1.html#section-5",
-    "title": "Prologue",
-    "section": "",
-    "text": "But lived through the characters who help me in my explanations: an engineer, a designer, and a videographer,"
-  },
-  {
-    "objectID": "en/comics/comic1.html#section-8",
-    "href": "en/comics/comic1.html#section-8",
-    "title": "Prologue",
-    "section": "",
-    "text": "But everything they are overcoming is part of me."
-  },
-  {
-    "objectID": "en/comics/emanuel.html",
-    "href": "en/comics/emanuel.html",
-    "title": "Memories that Mark Lives",
-    "section": "",
-    "text": "At age 6, with a bowl haircut.\n\n\n\n\n\n\n\n\n\nA piece of waxed string burning\n\n\n\n\n\n\n\n\n\nEmanuel, always with his vest\n\n\n\n\n\n\n\n\n\nPaola, doing science workshops since age 26"
-  },
-  {
-    "objectID": "en/comics/emanuel.html#there-are-memories-that-mark-lives.",
-    "href": "en/comics/emanuel.html#there-are-memories-that-mark-lives.",
-    "title": "Memories that Mark Lives",
-    "section": "",
-    "text": "At age 6, with a bowl haircut."
-  },
-  {
-    "objectID": "en/comics/emanuel.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
-    "href": "en/comics/emanuel.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
-    "title": "Memories that Mark Lives",
-    "section": "",
-    "text": "A piece of waxed string burning"
-  },
-  {
-    "objectID": "en/comics/emanuel.html#for-me-it-wasnt-science-it-was-magic.",
-    "href": "en/comics/emanuel.html#for-me-it-wasnt-science-it-was-magic.",
-    "title": "Memories that Mark Lives",
-    "section": "",
-    "text": "Emanuel, always with his vest"
-  },
-  {
-    "objectID": "en/comics/emanuel.html#magic-that-i-carry-with-me-today.",
-    "href": "en/comics/emanuel.html#magic-that-i-carry-with-me-today.",
-    "title": "Memories that Mark Lives",
-    "section": "",
-    "text": "Paola, doing science workshops since age 26"
-  },
-  {
-    "objectID": "en/comics/index.html",
-    "href": "en/comics/index.html",
-    "title": "Comics",
-    "section": "",
-    "text": "Video on Ice\nEste es el primer cómic de la serie.\n\n-Science Sharing\n-Comic2\n-Comic3\n\n\nHere’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
-  },
-  {
-    "objectID": "en/comics/index.html#watch-my-ice-skating-journey",
-    "href": "en/comics/index.html#watch-my-ice-skating-journey",
-    "title": "Comics",
-    "section": "",
-    "text": "Here’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
-  },
-  {
-    "objectID": "en/index.html",
-    "href": "en/index.html",
-    "title": "Welcome to SheInventor!",
-    "section": "",
-    "text": "SheInventor was created with the goal of breaking gender barriers in technology, combining art, science, and innovation to equip women with the skills needed for future jobs. Since childhood, my objective has been to use my design and teaching skills to help people understand the world around us. This project is my contribution to creating an inclusive space with access to knowledge for everyone, regardless of the stereotypes or limitations we face."
-  },
-  {
-    "objectID": "en/index.html#contact",
-    "href": "en/index.html#contact",
-    "title": "Welcome to SheInventor!",
-    "section": "Contact",
-    "text": "Contact\n📧 Email: contact@sheinventor.com\n🌐 Social Media:\nInstagram | YouTube"
-  },
-  {
-    "objectID": "en/tutorials/tutorial1.html",
-    "href": "en/tutorials/tutorial1.html",
-    "title": "SheInventor",
-    "section": "",
-    "text": "Introduction to 3D Printing for Beginners\nThis post is designed for those who want to explore the world of 3D printing, especially 17-year-old girls. Discover the basics and some key points to get started. Explore the World of 3D Printing 1. What is 3D Printing?\n3D printing is a technology that creates physical objects from digital designs. Imagine bringing your ideas and designs to life, from an accessory to a decorative figure.\nImage: /images.png (A 3D printer printing a small object, like a decorative figure. Close-up showing how the object is created layer by layer).\n\nReal Applications: What is 3D Printing Used For?\n\n3D printing is used in many areas: from fashion design to medicine and art. You can even create your own accessories or unique pieces to decorate your space!\nImage: /images.png (A collage of 3D printed objects, like jewelry, decorations, and medical prototypes, showing the versatility of the technology).\n\n\nKey Points of 3D Printing 3. Choosing a Printer Types of Printers:\nFDM: The most common for beginners, ideal for everyday objects.\n\nSLA: Offers more detail but is more complex and usually used for small, precise objects.\n\nImage: /images.png (Comparative photo of an FDM and an SLA printer with brief labels of their characteristics).\nPrinting Size:\nChoose a printer with the appropriate volume according to the type of projects you want to do.\n\nPrinting Materials\n\nEach material has different characteristics; here are the most common:\nPLA: Easy to use, biodegradable, and perfect for beginners.\n\nABS: More durable but requires a heated bed to prevent warping.\n\nPETG: Strong and durable, easy to use, suitable for more advanced projects.\n\nImage: /images.png (Examples of different filament types with labels for their characteristics: PLA, ABS, PETG).\n\nFile Preparation 3D Modeling:\nUse programs like Tinkercad (very easy to use) or FreeCAD to design your 3D models.\n\nExport:\nMake sure to export your design in STL or OBJ, the most common formats for 3D printing.\n\nImage: /images.png (Screenshot of Tinkercad showing a basic 3D design, like a keychain or a small figure).\n\nSlicing Slicing Software:\nConvert the 3D model into instructions for the printer using programs like Cura or PrusaSlicer.\n\nSettings:\nAdjust layer height, speed, infill, and temperature depending on the material and object.\n\nImage: /images.png (Interface of a slicing program showing a model prepared for printing, with layer height and speed parameters visible).\n\nPrinter Setup Calibration:\nMake sure the printer is calibrated, especially nozzle height and bed leveling, for better adhesion.\n\nBed Leveling:\nThis is crucial to avoid print failure on the first layers.\n\nImage: /images.png (Image of a printer in the calibration process, focusing on bed and nozzle adjustment).\n\nBed Adhesion\nUse tape, adhesive spray, or special surfaces to improve the first layer’s adhesion and avoid issues.\nImage: /images.png (Photo of a printing bed covered with tape or spray, showing how it’s prepared for printing).\nMonitoring the Print\nObserve the process, especially on the first layers, to catch problems.\nEnsure the extruder and bed temperature are correct.\nImage: /images.png (Photo of a print in process, with a person closely observing the first layer).\nPost-Processing Removing Supports:\nCarefully remove supports if your model requires them once printing is done.\n\nSanding and Painting:\nSand the pieces to smooth them and optionally paint them for a professional finish.\n\nImage: /images.png (Photo of a freshly printed model with supports and post-processing tools, like sandpaper and brushes).\n\nExperimentation and Learning\nDon’t be afraid to experiment. Try different settings and learn from mistakes. Practice will help you improve over time.\nImage: /images.png (Collage of different 3D printed results, showing both successes and common errors).\nResources and Community\nJoin online forums and groups to share experiences and get help from other 3D printing enthusiasts and experts.\nImage: /images.png (Screenshot of an online forum about 3D printing, with users sharing tips and results).\n\nWould you like to delve deeper into any of these points?\n3D printing is a powerful and accessible tool. Start exploring and create your own projects!\nWith this guide, you can start understanding and experimenting with 3D printing. Ready to begin?"
-  },
-  {
     "objectID": "en/tutorials/tutorial3.html#unboxing-and-assembly",
     "href": "en/tutorials/tutorial3.html#unboxing-and-assembly",
     "title": "Getting Started with 3D Printing",
@@ -558,6 +411,209 @@
     "title": "Getting Started with 3D Printing",
     "section": "Troubleshooting",
     "text": "Troubleshooting\n\nUneven bed: Re-level the bed.\n\nPoor adhesion: Adjust the first-layer settings or use an adhesive on the bed.\n\nFilament jams: Clean the nozzle or reload the filament."
+  },
+  {
+    "objectID": "en/tutorials/tutorial1.html",
+    "href": "en/tutorials/tutorial1.html",
+    "title": "SheInventor",
+    "section": "",
+    "text": "Introduction to 3D Printing for Beginners\nThis post is designed for those who want to explore the world of 3D printing, especially 17-year-old girls. Discover the basics and some key points to get started. Explore the World of 3D Printing 1. What is 3D Printing?\n3D printing is a technology that creates physical objects from digital designs. Imagine bringing your ideas and designs to life, from an accessory to a decorative figure.\nImage: /images.png (A 3D printer printing a small object, like a decorative figure. Close-up showing how the object is created layer by layer).\n\nReal Applications: What is 3D Printing Used For?\n\n3D printing is used in many areas: from fashion design to medicine and art. You can even create your own accessories or unique pieces to decorate your space!\nImage: /images.png (A collage of 3D printed objects, like jewelry, decorations, and medical prototypes, showing the versatility of the technology).\n\n\nKey Points of 3D Printing 3. Choosing a Printer Types of Printers:\nFDM: The most common for beginners, ideal for everyday objects.\n\nSLA: Offers more detail but is more complex and usually used for small, precise objects.\n\nImage: /images.png (Comparative photo of an FDM and an SLA printer with brief labels of their characteristics).\nPrinting Size:\nChoose a printer with the appropriate volume according to the type of projects you want to do.\n\nPrinting Materials\n\nEach material has different characteristics; here are the most common:\nPLA: Easy to use, biodegradable, and perfect for beginners.\n\nABS: More durable but requires a heated bed to prevent warping.\n\nPETG: Strong and durable, easy to use, suitable for more advanced projects.\n\nImage: /images.png (Examples of different filament types with labels for their characteristics: PLA, ABS, PETG).\n\nFile Preparation 3D Modeling:\nUse programs like Tinkercad (very easy to use) or FreeCAD to design your 3D models.\n\nExport:\nMake sure to export your design in STL or OBJ, the most common formats for 3D printing.\n\nImage: /images.png (Screenshot of Tinkercad showing a basic 3D design, like a keychain or a small figure).\n\nSlicing Slicing Software:\nConvert the 3D model into instructions for the printer using programs like Cura or PrusaSlicer.\n\nSettings:\nAdjust layer height, speed, infill, and temperature depending on the material and object.\n\nImage: /images.png (Interface of a slicing program showing a model prepared for printing, with layer height and speed parameters visible).\n\nPrinter Setup Calibration:\nMake sure the printer is calibrated, especially nozzle height and bed leveling, for better adhesion.\n\nBed Leveling:\nThis is crucial to avoid print failure on the first layers.\n\nImage: /images.png (Image of a printer in the calibration process, focusing on bed and nozzle adjustment).\n\nBed Adhesion\nUse tape, adhesive spray, or special surfaces to improve the first layer’s adhesion and avoid issues.\nImage: /images.png (Photo of a printing bed covered with tape or spray, showing how it’s prepared for printing).\nMonitoring the Print\nObserve the process, especially on the first layers, to catch problems.\nEnsure the extruder and bed temperature are correct.\nImage: /images.png (Photo of a print in process, with a person closely observing the first layer).\nPost-Processing Removing Supports:\nCarefully remove supports if your model requires them once printing is done.\n\nSanding and Painting:\nSand the pieces to smooth them and optionally paint them for a professional finish.\n\nImage: /images.png (Photo of a freshly printed model with supports and post-processing tools, like sandpaper and brushes).\n\nExperimentation and Learning\nDon’t be afraid to experiment. Try different settings and learn from mistakes. Practice will help you improve over time.\nImage: /images.png (Collage of different 3D printed results, showing both successes and common errors).\nResources and Community\nJoin online forums and groups to share experiences and get help from other 3D printing enthusiasts and experts.\nImage: /images.png (Screenshot of an online forum about 3D printing, with users sharing tips and results).\n\nWould you like to delve deeper into any of these points?\n3D printing is a powerful and accessible tool. Start exploring and create your own projects!\nWith this guide, you can start understanding and experimenting with 3D printing. Ready to begin?"
+  },
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "Welcome to SheInventor!",
+    "section": "",
+    "text": "SheInventor was created with the goal of breaking gender barriers in technology, combining art, science, and innovation to equip women with the skills needed for future jobs. Since childhood, my objective has been to use my design and teaching skills to help people understand the world around us. This project is my contribution to creating an inclusive space with access to knowledge for everyone, regardless of the stereotypes or limitations we face."
+  },
+  {
+    "objectID": "en/index.html#contact",
+    "href": "en/index.html#contact",
+    "title": "Welcome to SheInventor!",
+    "section": "Contact",
+    "text": "Contact\n📧 Email: contact@sheinventor.com\n🌐 Social Media:\nInstagram | YouTube"
+  },
+  {
+    "objectID": "en/comics/index.html",
+    "href": "en/comics/index.html",
+    "title": "Comics",
+    "section": "",
+    "text": "Video on Ice\nEste es el primer cómic de la serie.\n\n-Science Sharing\n-Comic2\n-Comic3\n\n\nHere’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
+  },
+  {
+    "objectID": "en/comics/index.html#watch-my-ice-skating-journey",
+    "href": "en/comics/index.html#watch-my-ice-skating-journey",
+    "title": "Comics",
+    "section": "",
+    "text": "Here’s a video about my journey back to ice skating after my fall.\n\n\nPrueba"
+  },
+  {
+    "objectID": "en/comics/emanuel.html",
+    "href": "en/comics/emanuel.html",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "At age 6, with a bowl haircut.\n\n\n\n\n\n\n\n\n\nA piece of waxed string burning\n\n\n\n\n\n\n\n\n\nEmanuel, always with his vest\n\n\n\n\n\n\n\n\n\nPaola, doing science workshops since age 26"
+  },
+  {
+    "objectID": "en/comics/emanuel.html#there-are-memories-that-mark-lives.",
+    "href": "en/comics/emanuel.html#there-are-memories-that-mark-lives.",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "At age 6, with a bowl haircut."
+  },
+  {
+    "objectID": "en/comics/emanuel.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
+    "href": "en/comics/emanuel.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "A piece of waxed string burning"
+  },
+  {
+    "objectID": "en/comics/emanuel.html#for-me-it-wasnt-science-it-was-magic.",
+    "href": "en/comics/emanuel.html#for-me-it-wasnt-science-it-was-magic.",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "Emanuel, always with his vest"
+  },
+  {
+    "objectID": "en/comics/emanuel.html#magic-that-i-carry-with-me-today.",
+    "href": "en/comics/emanuel.html#magic-that-i-carry-with-me-today.",
+    "title": "Memories that Mark Lives",
+    "section": "",
+    "text": "Paola, doing science workshops since age 26"
+  },
+  {
+    "objectID": "en/comics/comic1.html#section-1",
+    "href": "en/comics/comic1.html#section-1",
+    "title": "Prologue",
+    "section": "",
+    "text": "But it still doesn’t allow me to make ends meet."
+  },
+  {
+    "objectID": "en/comics/comic1.html#and-if-life-gave-me-these-stories-why-not-share-them",
+    "href": "en/comics/comic1.html#and-if-life-gave-me-these-stories-why-not-share-them",
+    "title": "Prologue",
+    "section": "And if life gave me these stories, why not share them?",
+    "text": "And if life gave me these stories, why not share them?"
+  },
+  {
+    "objectID": "en/comics/comic1.html#section-5",
+    "href": "en/comics/comic1.html#section-5",
+    "title": "Prologue",
+    "section": "",
+    "text": "But lived through the characters who help me in my explanations: an engineer, a designer, and a videographer,"
+  },
+  {
+    "objectID": "en/comics/comic1.html#section-8",
+    "href": "en/comics/comic1.html#section-8",
+    "title": "Prologue",
+    "section": "",
+    "text": "But everything they are overcoming is part of me."
+  },
+  {
+    "objectID": "en/about.html",
+    "href": "en/about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to my website! Here, you will find resources on various topics, including comics and tutorials.\n\n\nOur mission is to make science accessible to everyone by using visual and interactive resources.\n\n\n\nFor any questions or suggestions, feel free to contact us at: info@monsite.com."
+  },
+  {
+    "objectID": "en/about.html#our-mission",
+    "href": "en/about.html#our-mission",
+    "title": "About",
+    "section": "",
+    "text": "Our mission is to make science accessible to everyone by using visual and interactive resources."
+  },
+  {
+    "objectID": "en/about.html#contact",
+    "href": "en/about.html#contact",
+    "title": "About",
+    "section": "",
+    "text": "For any questions or suggestions, feel free to contact us at: info@monsite.com."
+  },
+  {
+    "objectID": "en/comics/comic2.html#content",
+    "href": "en/comics/comic2.html#content",
+    "title": "Memories that Shape Lives",
+    "section": "Content",
+    "text": "Content"
+  },
+  {
+    "objectID": "en/comics/comic2.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
+    "href": "en/comics/comic2.html#doing-science-experiments-with-my-cousin-was-one-of-them.",
+    "title": "Memories that Shape Lives",
+    "section": "Doing science experiments with my cousin was one of them.",
+    "text": "Doing science experiments with my cousin was one of them."
+  },
+  {
+    "objectID": "en/comics/comic2.html#for-me-it-wasnt-science-it-was-magic.",
+    "href": "en/comics/comic2.html#for-me-it-wasnt-science-it-was-magic.",
+    "title": "Memories that Shape Lives",
+    "section": "For me, it wasn’t “science,” it was magic.",
+    "text": "For me, it wasn’t “science,” it was magic."
+  },
+  {
+    "objectID": "en/comics/comic2.html#magic-that-i-carry-with-me-today.",
+    "href": "en/comics/comic2.html#magic-that-i-carry-with-me-today.",
+    "title": "Memories that Shape Lives",
+    "section": "Magic that I carry with me today.",
+    "text": "Magic that I carry with me today."
+  },
+  {
+    "objectID": "en/comics/Ice.html",
+    "href": "en/comics/Ice.html",
+    "title": "Facing My Fears on Ice",
+    "section": "",
+    "text": "A long time ago, I had a serious fall while ice skating that left me injured and shaken. The fear of getting back on the ice was overwhelming, but I found the courage and strength to return.\nI didn’t do it alone. I was supported by loving and caring people who encouraged me every step of the way. Their presence made all the difference and helped me regain my confidence.\nWatch this video to see my journey back to ice skating!\n\n\n\nWatch the video"
+  },
+  {
+    "objectID": "en/comics/Ice.html#overcoming-my-fear-of-ice-skating",
+    "href": "en/comics/Ice.html#overcoming-my-fear-of-ice-skating",
+    "title": "Facing My Fears on Ice",
+    "section": "",
+    "text": "A long time ago, I had a serious fall while ice skating that left me injured and shaken. The fear of getting back on the ice was overwhelming, but I found the courage and strength to return.\nI didn’t do it alone. I was supported by loving and caring people who encouraged me every step of the way. Their presence made all the difference and helped me regain my confidence.\nWatch this video to see my journey back to ice skating!\n\n\n\nWatch the video"
+  },
+  {
+    "objectID": "en/comics/prueba.html",
+    "href": "en/comics/prueba.html",
+    "title": "Cuadrícula de Fotografías",
+    "section": "",
+    "text": "Descripción de la imagen 1\nDescripción de la imagen 2\nDescripción de la imagen 3\nDescripción de la imagen 4\nDescripción de la imagen 5\nDescripción de la imagen 6\n\n\n\n\n\n\n\n\n\n\nDescripción de la imagen 7\nDescripción de la imagen 8\nDescripción de la imagen 9\nDescripción de la imagen 10\nDescripción de la imagen 11\nDescripción de la imagen 12"
+  },
+  {
+    "objectID": "en/comics/prueba.html#cuadrícula-de-fotografías",
+    "href": "en/comics/prueba.html#cuadrícula-de-fotografías",
+    "title": "Cuadrícula de Fotografías",
+    "section": "",
+    "text": "Descripción de la imagen 1\nDescripción de la imagen 2\nDescripción de la imagen 3\nDescripción de la imagen 4\nDescripción de la imagen 5\nDescripción de la imagen 6\n\n\n\n\n\n\n\n\n\n\nDescripción de la imagen 7\nDescripción de la imagen 8\nDescripción de la imagen 9\nDescripción de la imagen 10\nDescripción de la imagen 11\nDescripción de la imagen 12"
+  },
+  {
+    "objectID": "en/tutorials/index.html",
+    "href": "en/tutorials/index.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "1 Basic Tutorials\nTutorial 1\nTutorial 2\nTutorial 3\nTutorial 4\nTutorial 5"
+  },
+  {
+    "objectID": "en/tutorials/tutorial2.html",
+    "href": "en/tutorials/tutorial2.html",
+    "title": "Incrustar Tablero de Pinterest",
+    "section": "",
+    "text": "Puedes incrustar un tablero de Pinterest en tu página de Quarto utilizando un iframe de la siguiente manera:\n\n\nhtml"
+  },
+  {
+    "objectID": "en/tutorials/tutorial2.html#ejemplo-de-incrustación-de-un-tablero-de-pinterest",
+    "href": "en/tutorials/tutorial2.html#ejemplo-de-incrustación-de-un-tablero-de-pinterest",
+    "title": "Incrustar Tablero de Pinterest",
+    "section": "",
+    "text": "Puedes incrustar un tablero de Pinterest en tu página de Quarto utilizando un iframe de la siguiente manera:\n\n\nhtml"
+  },
+  {
+    "objectID": "en/tutorials/tutorial4.html#main-technologies-and-materials",
+    "href": "en/tutorials/tutorial4.html#main-technologies-and-materials",
+    "title": "Introduction to 3D Printing",
+    "section": "Main Technologies and Materials",
+    "text": "Main Technologies and Materials\n\nCommon Technology\nThe most used is Fused Deposition Modeling (FDM), where a plastic filament is heated and extruded to form the object’s layers.\n\n\nMost Common Material: PLA\nPLA (Polylactic Acid) is affordable, easy to use, and less toxic than other materials. However, it has limitations:\n\nNot suitable for constant food contact.\n\nNot recommended for humid or hot environments."
   },
   {
     "objectID": "es/comics/comic2.html#contenido",
@@ -712,6 +768,48 @@
     "title": "Tutoriel : Créer, vectoriser et imprimer en 3D avec la Creality CR-10",
     "section": "",
     "text": "Tutoriel : Créer, vectoriser et imprimer en 3D avec la Creality CR-10\nAuteur : SheInventor\n\n\n\nImage de la Creality CR-10\n\n\nDans ce tutoriel, nous allons vous guider à travers les étapes nécessaires pour créer un dessin, le vectoriser, puis l’imprimer en 3D à l’aide de l’imprimante Creality CR-10. Vous apprendrez à utiliser des outils de conception pour obtenir un modèle imprimable et à préparer l’imprimante pour l’impression 3D.\n\n\nÉtape 1 : Créer le dessins\n\nMatériel et outils : Utilisez du papier et un crayon pour dessiner, ou une tablette graphique avec un logiciel comme Photoshop ou Procreate.\nConseils : Assurez-vous que le dessin soit simple, car plus il est détaillé, plus la vectorisation peut devenir compliquée.\n\n\n\n\nÉtape 2 : Numériser le dessin\n\nScanner ou photographier le dessin : Si vous avez utilisé du papier, numérisez-le ou prenez une photo de haute qualité.\nAjuster l’image : Utilisez un logiciel pour améliorer la qualité de l’image si nécessaire.\n\n\n\n\nÉtape 3 : Vectoriser le dessin\n\nOuvrir dans un logiciel de vectorisation : Utilisez Adobe Illustrator ou Inkscape.\nVectorisation automatique :\n\nDans Illustrator : Allez dans Fenêtre &gt; Image Trace et ajustez les paramètres pour tracer les contours du dessin.\nDans Inkscape : Utilisez Chemin &gt; Vectoriser l’image pour transformer le dessin en lignes vectorielles.\n\nNettoyer et finaliser : Éliminez les détails inutiles et assurez-vous que le dessin est bien défini.\n\n\n\n\nÉtape 4 : Préparer le fichier pour l’impression 3D\n\nConvertir en format compatible : Exporte le fichier vectorisé en STL ou OBJ, formats utilisés pour l’impression 3D.\nUtiliser un logiciel de modélisation 3D : Importez le fichier vectorisé dans un logiciel comme Tinkercad ou Fusion 360 pour lui donner de la profondeur et le convertir en modèle 3D.\nVérifier les dimensions : Assurez-vous que le modèle 3D correspond aux dimensions de l’imprimante et ajustez sa taille si nécessaire.\n\n\n\n\nÉtape 5 : Préparer le fichier pour l’imprimante 3D\n\nImporter dans un logiciel de tranchage : Utilisez Cura pour préparer le fichier 3D en G-code, un format compréhensible par l’imprimante.\nAjuster les paramètres : Sélectionnez les paramètres d’impression, comme la température, le matériau (PLA, ABS), et la vitesse d’impression.\nGénérer le G-code : Une fois prêt, exportez le fichier G-code sur une carte SD ou une clé USB.\n\n\n\n\nÉtape 6 : Imprimer avec la Creality CR-10\n\nPréparer l’imprimante : Vérifiez que l’imprimante est prête à imprimer (niveau du lit d’impression, présence de filament).\nInsérer la carte SD : Placez la carte SD dans l’imprimante.\nLancer l’impression : Sélectionnez le fichier sur l’écran tactile et démarrez l’impression.\nSuivre l’impression : Surveillez l’impression pour vous assurer qu’il n’y a pas de problèmes, comme un mauvais alignement ou un filament qui ne sort pas correctement.\n\n\n\n\nÉtape 7 : Post-traitement\n\nRetirer l’objet : Une fois l’impression terminée, attendez que l’objet refroidisse avant de le retirer du lit d’impression.\nPonçage et finition : Si nécessaire, vous pouvez poncer les bords ou appliquer une finition pour un meilleur rendu.\n\n\nNous espérons que ce tutoriel vous a été utile ! N’hésitez pas à partager vos impressions et à poser des questions si vous en avez. Bonnes impressions !"
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#déballage-et-assemblage",
+    "href": "fr/tutorials/tutorial4.html#déballage-et-assemblage",
+    "title": "Introduction à l’impression 3D",
+    "section": "Déballage et Assemblage",
+    "text": "Déballage et Assemblage\n\nVérifiez le contenu\n\nAssurez-vous que toutes les pièces sont présentes : cadre, base, extrudeur, câbles et outils.\n\nAssemblez le cadre vertical et fixez-le à la base.\n\nInstallez l’extrudeur Titan et connectez correctement tous les câbles.\n\nNiveler le plateau\n\nPréchauffez l’extrudeur (200°C) et le plateau (60°C).\n\nUtilisez un papier pour ajuster la distance entre la buse et le plateau. Assurez-vous de sentir une légère résistance dans chaque coin et au centre."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#chargement-du-filament",
+    "href": "fr/tutorials/tutorial4.html#chargement-du-filament",
+    "title": "Introduction à l’impression 3D",
+    "section": "Chargement du Filament",
+    "text": "Chargement du Filament\n\nPréchauffez la buse à 200°C.\n\nCoupez l’extrémité du filament en biais et insérez-le dans l’extrudeur.\n\nUtilisez l’option “Charger le Filament” dans le menu.\n\nAssurez-vous que le filament sort correctement de la buse."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#préparer-le-modèle-pour-limpression",
+    "href": "fr/tutorials/tutorial4.html#préparer-le-modèle-pour-limpression",
+    "title": "Introduction à l’impression 3D",
+    "section": "Préparer le Modèle pour l’Impression",
+    "text": "Préparer le Modèle pour l’Impression\n\nObtenez un modèle 3D\n\nTéléchargez depuis des plateformes comme Thingiverse au format STL.\n\n\nDécoupez le modèle\n\nUtilisez un logiciel comme Cura.\n\nConfiguration pour PLA :\n\nTempérature de l’extrudeur : 200-210°C\n\nTempérature du plateau : 60°C\n\nRemplissage : 20% (standard).\n\n\n\nEnregistrez le G-code\n\nExportez le fichier sur une carte microSD."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#impression",
+    "href": "fr/tutorials/tutorial4.html#impression",
+    "title": "Introduction à l’impression 3D",
+    "section": "Impression",
+    "text": "Impression\n\nInsérez la carte microSD dans l’imprimante.\n\nSélectionnez le fichier dans le menu.\n\nSurveillez les premières couches pour garantir une bonne adhésion.\n\nAttendez que l’impression soit terminée."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#retrait-et-maintenance",
+    "href": "fr/tutorials/tutorial4.html#retrait-et-maintenance",
+    "title": "Introduction à l’impression 3D",
+    "section": "Retrait et Maintenance",
+    "text": "Retrait et Maintenance\n\nLaissez refroidir le plateau avant de retirer l’impression.\n\nConservez le filament PLA dans un conteneur hermétique avec du gel de silice.\n\nNettoyez régulièrement la buse et le plateau."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#résolution-des-problèmes",
+    "href": "fr/tutorials/tutorial4.html#résolution-des-problèmes",
+    "title": "Introduction à l’impression 3D",
+    "section": "Résolution des Problèmes",
+    "text": "Résolution des Problèmes\n\nPlateau mal nivelé : Réajustez le nivellement.\n\nMauvaise adhésion : Ajustez les paramètres de la première couche ou utilisez un adhésif sur le plateau.\n\nBuse bouchée : Nettoyez la buse ou rechargez le filament."
   },
   {
     "objectID": "index.html",
