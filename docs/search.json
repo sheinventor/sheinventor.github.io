@@ -644,25 +644,46 @@
     "text": "Una magia que llevo conmigo hoy."
   },
   {
+    "objectID": "es/comics/comicdiario1.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
+    "href": "es/comics/comicdiario1.html#hacer-experimentos-de-ciencia-con-mi-primo-fue-uno-de-ellos.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Hacer experimentos de ciencia con mi primo fue uno de ellos.",
+    "text": "Hacer experimentos de ciencia con mi primo fue uno de ellos."
+  },
+  {
+    "objectID": "es/comics/comicdiario1.html#para-mí-no-era-ciencia-era-magia.",
+    "href": "es/comics/comicdiario1.html#para-mí-no-era-ciencia-era-magia.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Para mí, no era « ciencia », era magia.",
+    "text": "Para mí, no era « ciencia », era magia."
+  },
+  {
+    "objectID": "es/comics/comicdiario1.html#una-magia-que-llevo-conmigo-hoy.",
+    "href": "es/comics/comicdiario1.html#una-magia-que-llevo-conmigo-hoy.",
+    "title": "Recuerdos que marcan vidas",
+    "section": "Una magia que llevo conmigo hoy.",
+    "text": "Una magia que llevo conmigo hoy."
+  },
+  {
     "objectID": "es/comics/index.html",
     "href": "es/comics/index.html",
     "title": "Comics",
     "section": "",
-    "text": "-Emanuel\n-Comic2\n-Comic3\n\n\nVideo sobre patinaje en hielo"
+    "text": "-Prólogo"
   },
   {
     "objectID": "es/comics/index.html#video",
     "href": "es/comics/index.html#video",
     "title": "Comics",
-    "section": "",
-    "text": "Video sobre patinaje en hielo"
+    "section": "3.1 Video",
+    "text": "3.1 Video\nVideo sobre patinaje en hielo"
   },
   {
     "objectID": "es/tutorials/index.html",
     "href": "es/tutorials/index.html",
     "title": "Tutoriales",
     "section": "",
-    "text": "1 Tutoriales Basicos\nTutorial 1 Tutorial 2 Tutorial 3 Tutorial 4 Tutorial 5"
+    "text": "1 Tutoriales Basicos\n\n\n2 Tutorial iniciación impresión 3D\nTutorial 1 Tutorial 2 Tutorial 3 Tutorial 4 Tutorial 5 Tutorial 6"
   },
   {
     "objectID": "es/tutorials/tutorial2.html",
@@ -684,6 +705,13 @@
     "title": "Un ejemplo de cosas",
     "section": "Este es un respuesta como un subtema como algo que puede mostrarse un, oye plot twist",
     "text": "Este es un respuesta como un subtema como algo que puede mostrarse un, oye plot twist"
+  },
+  {
+    "objectID": "es/tutorials/tutorial6.html#tecnologías-y-materiales-principales",
+    "href": "es/tutorials/tutorial6.html#tecnologías-y-materiales-principales",
+    "title": "Introducción a la Impresión 3D",
+    "section": "Tecnologías y materiales principales",
+    "text": "Tecnologías y materiales principales\n\nTecnologías comunes\nLa más usada es la modelación por deposición fundida (FDM), en la que un filamento de plástico se calienta y extruye para formar las capas del objeto.\n\n\nMaterial más utilizado: PLA\nEl PLA (ácido poliláctico) es económico, fácil de usar y menos tóxico que otros. Aunque tiene limitaciones:\n\nNo adecuado para contacto constante con alimentos.\nNo recomendado en ambientes húmedos o calientes."
   },
   {
     "objectID": "fr/comics/comic1.html",

@@ -83,4 +83,4 @@ Gracias
 :::
 
 Regresar al índice [aquí](../index.qmd).  
-Regresar a tutoriales [aquí](index.qmd).
+Regresar a comics [aquí](index.qmd).

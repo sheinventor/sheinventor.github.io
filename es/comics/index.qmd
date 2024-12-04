@@ -9,6 +9,15 @@ css: ../../css/styles.css  # Ensure this path is correct
 
 
 
+# Divulgando ciencia 
+
+-**[Prólogo](comicemm1.qmd)** 
+
+# Vivencias personales 
+
+-**[Hay recuerdos que marcan vidas](comicdiario1.qmd)**
+
+
 
 # Comics recientes 
 
