@@ -1,69 +1,83 @@
-Introduction à l'Impression 3D pour Débutants
+---
+title: "Introduction à l'Impression 3D"
+subtitle: "Découvrez les bases de cette technologie fascinante"
+format:
+  revealjs:
+    title-slide-attributes:
+      data-state: "hide-menubar"
+    center: true
+    theme: white
+    transition: slide
+    background-transition: fade
+    controls-layout: bottom-right
+    menu: false
+    css: "css/style.css"
+    section-divs: true
+---
 
-Ce post est conçu pour ceux qui souhaitent explorer le monde de l'impression 3D, notamment pour les jeunes filles de 17 ans. Découvrez les bases et quelques clés pour débuter.
-Explorez le Monde de l'Impression 3D
-1. Qu'est-ce que l'Impression 3D ?
+# Qu'est-ce que l'impression 3D ? {data-stack-name="Introduction"}
 
-L'impression 3D est une technologie qui crée des objets physiques à partir de conceptions numériques. Imaginez pouvoir réaliser vos propres idées et conceptions, d'un accessoire à une figure décorative.
+L'impression 3D est une technologie de fabrication qui crée des objets couche par couche, guidée par un fichier numérique traité sur un ordinateur avant d'être envoyé à la machine.  
 
-    Image: /images.png (Une imprimante 3D imprimant un petit objet, comme une figurine décorative. Gros plan montrant comment l'objet est créé couche par couche).
+Contrairement à d'autres méthodes de fabrication, elle ne nécessite pas de moules, ce qui la rend très polyvalente, idéale pour les prototypes, la personnalisation et la production à petite échelle.
 
-2. Applications Réelles : À Quoi Sert l'Impression 3D ?
+---
 
-L'impression 3D est utilisée dans de nombreux domaines : de la mode à la médecine et à l'art. Vous pouvez même créer vos propres accessoires ou pièces uniques pour décorer votre espace !
+## Technologies et matériaux principaux
 
-    Image: /images.png (Un collage d'objets imprimés en 3D, tels que des bijoux, des décorations et des prototypes médicaux, montrant la polyvalence de la technologie).
+### Technologie courante
+La plus utilisée est la **modélisation par dépôt fondu (FDM)**, où un filament de plastique est chauffé et extrudé pour former les couches de l'objet.
 
-<iframe src="https://petracoding.github.io/pinterest/board.html?link=paovazbar/3d-ideas/&hideHeader=0&transparent=0" width="1080" height="1000" style="border: none;"></iframe>
-Clés de l'Impression 3D
-3. Choisir une Imprimante
-Types d’Imprimantes :
+### Matériau le plus utilisé : PLA
+Le PLA (acide polylactique) est économique, facile à utiliser et moins toxique que d'autres matériaux. Cependant, il présente des limitations :  
 
-    FDM : La plus courante pour les débutants, idéale pour les objets du quotidien.
+- **Non adapté** pour un contact constant avec des aliments.  
+- **Non recommandé** dans des environnements humides ou chauds.
 
-    SLA : Offre plus de détails, mais est plus complexe et généralement utilisée pour des objets petits et précis.
+---
 
-    Image : /images.png (Photo comparative d'une imprimante FDM et d'une SLA avec des étiquettes brèves de leurs caractéristiques).
+# Applications du PLA {data-name="Applications"}
 
-Taille d'Impression :
+- Objets décoratifs ou artistiques.  
+- Prototypes pour des projets personnels.  
+- Organisateurs et accessoires du quotidien.  
+- Pièces de rechange non structurelles.
 
-    Choisissez une imprimante avec le volume adapté selon le type de projets que vous souhaitez réaliser.
+<img src="images/3d-print-examples.jpg" alt="Exemples d'impression 3D avec PLA" style="width: 60%; margin: auto;">
 
-4. Matériaux d'Impression
+---
 
-Chaque matériau a des caractéristiques différentes ; voici les plus courants :
+# Comment imprimer en 3D ?
 
-    PLA : Facile à utiliser, biodégradable, et parfait pour les débutants.
+Le processus d'impression suit ces étapes de base :  
 
-    ABS : Plus résistant, mais nécessite un lit chauffant pour éviter les déformations.
+1. **Obtenir un modèle 3D :** Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.  
+2. **Préparer le fichier :** Utilisez un programme *slicer* (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.  
+3. **Transférer le fichier :** Envoyez-le à l'imprimante via USB, SD ou Wi-Fi.  
+4. **Calibrer :** Niveler le plateau d'impression et ajuster la buse pour une bonne adhérence.  
+5. **Placer le filament :** Assurez-vous qu'il soit sec et bien stocké.  
+6. **Imprimer et superviser :** Surveillez le processus pour détecter les erreurs à temps.
 
-    PETG : Solide et durable, facile à utiliser, adapté aux projets plus avancés.
+---
 
-    Image : /images.png (Exemples des différents types de filaments avec des étiquettes pour leurs caractéristiques : PLA, ABS, PETG).
+# Problèmes fréquents et solutions
 
-5. Préparation du Fichier
-Modélisation 3D :
+1. **Mauvaise adhérence de la première couche :**  
+   - Nivelez et nettoyez le plateau d'impression.  
+   - Utilisez de la colle en bâton ou un ruban bleu pour améliorer l'adhésion.  
 
-    Utilisez des programmes comme Tinkercad (très facile à utiliser) ou FreeCAD pour concevoir vos modèles en 3D.
+2. **Bouchage du filament :**  
+   - Nettoyez régulièrement l'extrudeur.  
+   - Évitez d'utiliser du filament humide.  
 
-Exportation :
+3. **Déplacement des couches :**  
+   - Assurez-vous que les courroies soient tendues.  
+   - Lubrifiez les guides.
 
-    Assurez-vous d'exporter votre conception en STL ou OBJ, les formats les plus courants pour l'impression 3D.
+---
 
-    Image : /images.png (Capture d'écran de Tinkercad montrant une conception 3D de base, comme un porte-clés ou une petite figurine).
+# À vous de jouer !  
 
-6. Découpe (Slicing)
-Logiciel de Découpe :
+L'impression 3D est une technologie en constante évolution. Apprenez, expérimentez et restez à jour avec les nouveaux matériaux et techniques.
 
-    Convertissez le modèle 3D en instructions pour l'imprimante avec des programmes comme Cura ou PrusaSlicer.
-
-Configuration :
-
-    Ajustez la hauteur de couche, la vitesse, le remplissage et la température selon le matériau et l'objet.
-
-    Image : /images.png (Interface d'un programme de découpe montrant un modèle prêt à être imprimé, avec des paramètres de hauteur de couche et de vitesse visibles).
-
-7. Configuration de l'Imprimante
-Calibration :
-
-    Assurez-vous que l'imprimante est calibrée, en particulier la hauteur de la buse et le nivellement du lit pour une meilleure adhésion
+[Plus de tutoriels ici](index.qmd)

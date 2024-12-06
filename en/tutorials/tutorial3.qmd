@@ -1,10 +1,10 @@
 ---
-title: "Getting Started with 3D Printing"
-subtitle: "A Step-by-Step Guide to Using the Creality CR-10 V3"
+title: "Automating CVs with Google Drive"
+subtitle: "A Step-by-Step Guide to Optimize Your Job Applications"
 format:
   revealjs:
     title-slide-attributes:
-        data-state: "hide-menubar"
+      data-state: "hide-menubar"
     center: true
     theme: white
     transition: slide
@@ -14,81 +14,55 @@ format:
     css: "css/style.css"
     section-divs: true
     simplemenu:
-        barhtml:
-            header: "<div class='menubar'><ul class='menu'></ul><div>"
-        scale: 0.67
+      barhtml:
+        header: "<div class='menubar'><ul class='menu'></ul><div>"
+      scale: 0.67
 revealjs-plugins:
   - simplemenu
 ---
 
-# Starting with the Creality CR-10 V3 {data-stack-name="3DPrinting"}
+# Why Automate CV Submission? {data-stack-name="AutomatingCV"}
 
-## Unboxing and Assembly  
-1. **Verify the contents**  
-   - Check for all necessary parts: frame, base, extruder, cables, and tools.  
-   - Assemble the vertical frame and secure it to the base.  
-   - Install the Titan extruder and connect all cables firmly.
-    {{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
-
-## 2. **Level the bed**  
-   - Preheat the extruder (200°C) and the bed (60°C).  
-   - Use a piece of paper to adjust the distance between the nozzle and bed. Ensure slight resistance at each corner and the center.
+## Introduction  
+Imagine personalizing your CVs and cover letters for every job application without manual effort. With **Google Apps Script**, you can automate this process and save time.
 
 ---
 
-## Loading Filament  
-1. Preheat the nozzle to 200°C.  
-2. Cut the filament tip at an angle and insert it into the extruder.  
-3. Use the "Load Filament" option on the menu.  
-4. Ensure the filament extrudes properly from the nozzle.
+## What is Google Apps Script?  
+Google Apps Script is an integrated scripting platform in Google, enabling automations such as:  
+- Document personalization  
+- PDF conversion  
+- Automated email sending  
 
 ---
 
-## Preparing the Model for Printing  
-1. **Get a 3D model**  
-   - Download from platforms like [Thingiverse](https://www.thingiverse.com/) in STL format.  
-
-## 
-
-2. **Slice the model**  
-   - Use software like Cura.  
-   - Choose settings for PLA:  
-     - Extruder Temp: 200-210°C  
-     - Bed Temp: 60°C  
-     - Infill: 20% (standard).  
-## 
-
-3. **Save the G-code**  
-   - Export the file to a microSD card.  
+## Requirements for this Tutorial  
+1. **Google Docs**: A cover letter template  
+2. **Google Sheets**: A database of companies and specific information  
+3. **Google Drive**: A folder to store the generated PDF files  
 
 ---
 
-## Printing  
-1. Insert the microSD card into the printer.  
-2. Select the file from the menu.  
-3. Monitor the first few layers to ensure proper adhesion.  
-4. Wait for the print to finish.
+## Step 1: Create a Template in Google Docs  
 
----
+1. **Open Google Docs and create a document**.  
+2. Add your standard cover letter content.  
+3. Insert keywords within angle brackets (`<<>>`) for customization, such as:  
+   - `<<COMPANY>>`  
+   - `<<POSITION>>`  
+   - `<<RECRUITER>>`  
 
-## Removing and Maintaining  
-1. Let the bed cool before removing the print.  
-2. Store PLA filament in a dry, airtight container with silica gel.  
-3. Regularly clean the nozzle and bed.
+Example content:  
 
----
+```text
+[Your Address]
+<<LOCATION>>
+<<DATE>>
+To the attention of <<RECRUITER>>
+[Company Address]
+<<COMPANY>>
+Subject: Application for the position of <<POSITION>>
 
-## Troubleshooting  
-- Uneven bed: Re-level the bed.  
-- Poor adhesion: Adjust the first-layer settings or use an adhesive on the bed.  
-- Filament jams: Clean the nozzle or reload the filament.  
-
----
-
-### Stay Tuned  
-1. Follow me on [Instagram](https://www.instagram.com/sheinventor/)  
-2. Subscribe on [YouTube](https://www.youtube.com/@SheInventor_Espanol)  
-3. Sign up for updates (coming soon!)  
-
-Return to the [table of contents](../index.qmd).  
-Return to [tutorials](index.qmd).
+Dear <<RECRUITER>>,
+...
+[Your Name]

@@ -10,7 +10,7 @@
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.6.39">
 
-  <title>SheInventor – Introducción a la Impresión 3D</title>
+  <title>SheInventor – Automatisation de CV avec Google Drive</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -130,125 +130,123 @@
     <div class="slides">
 
 <section id="title-slide" data-state="hide-menubar" class="quarto-title-block center">
-  <h1 class="title">Introducción a la Impresión 3D</h1>
-  <p class="subtitle">Guía paso a paso para usar la Creality CR-10 V3</p>
+  <h1 class="title">Automatisation de CV avec Google Drive</h1>
+  <p class="subtitle">Un guide pas à pas pour optimiser vos candidatures</p>
 
 <div class="quarto-title-authors">
 </div>
 
 </section>
 <section>
-<section id="cómo-empezar-con-la-creality-cr-10-v3" class="title-slide slide level1 center" data-stack-name="Impresion3D">
-<h1>Cómo empezar con la Creality CR-10 V3</h1>
+<section id="pourquoi-automatiser-lenvoi-de-cv" class="title-slide slide level1 center" data-stack-name="AutomatisationCV">
+<h1>Pourquoi automatiser l’envoi de CV ?</h1>
 
 </section>
-<section id="desempaquetado-y-ensamblaje" class="slide level2 center">
-<h2>Desempaquetado y Ensamblaje</h2>
+<section id="introduction" class="slide level2 center">
+<h2>Introduction</h2>
+<p>Imaginez personnaliser vos CV et lettres de motivation pour chaque candidature sans effort manuel. Grâce à <strong>Google Apps Script</strong>, vous pouvez automatiser ce processus et économiser du temps.</p>
+</section>
+<section id="quest-ce-que-google-apps-script" class="slide level2 center">
+<h2>Qu’est-ce que Google Apps Script ?</h2>
+<p>Google Apps Script est une plateforme de script intégrée à Google, permettant des automatisations comme :<br>
+- Personnalisation de documents<br>
+- Conversion en PDF<br>
+- Envoi d’emails automatisé</p>
+</section>
+<section id="prérequis-pour-ce-tutoriel" class="slide level2 center">
+<h2>Prérequis pour ce tutoriel</h2>
 <ol type="1">
-<li><strong>Verifica el contenido</strong>
-<ul>
-<li>Revisa que estén todas las partes: marco, base, extrusor, cables y herramientas.<br>
+<li><strong>Google Docs</strong> : Modèle de lettre de motivation<br>
 </li>
-<li>Ensambla el marco vertical y fíjalo a la base.<br>
+<li><strong>Google Sheets</strong> : Base de données des entreprises et informations spécifiques<br>
 </li>
-<li>Instala el extrusor Titan y conecta todos los cables correctamente.</li>
-</ul></li>
-<li><strong>Nivelar la cama</strong>
-<ul>
-<li>Precalienta el extrusor (200°C) y la cama (60°C).<br>
-</li>
-<li>Usa un papel para ajustar la distancia entre la boquilla y la cama. Asegúrate de sentir una ligera resistencia en cada esquina y en el centro.</li>
-</ul></li>
+<li><strong>Google Drive</strong> : Dossier pour stocker les fichiers PDF générés</li>
 </ol>
 </section>
-<section id="carga-del-filamento" class="slide level2 center">
-<h2>Carga del Filamento</h2>
+<section id="étape-1-créer-un-modèle-dans-google-docs" class="slide level2 center">
+<h2>Étape 1 : Créer un modèle dans Google Docs</h2>
 <ol type="1">
-<li>Precalienta la boquilla a 200°C.<br>
+<li><strong>Ouvrez Google Docs et créez un document</strong>.<br>
 </li>
-<li>Corta la punta del filamento en un ángulo e insértalo en el extrusor.<br>
+<li>Ajoutez votre contenu standard pour la lettre de motivation.<br>
 </li>
-<li>Usa la opción “Cargar Filamento” en el menú.<br>
-</li>
-<li>Asegúrate de que el filamento fluya correctamente por la boquilla.</li>
-</ol>
-</section>
-<section id="preparar-el-modelo-para-imprimir" class="slide level2 center">
-<h2>Preparar el Modelo para Imprimir</h2>
-<ol type="1">
-<li><strong>Obtén un modelo 3D</strong>
+<li>Insérez des mots-clés entre chevrons (<code>&lt;&lt;&gt;&gt;</code>) pour personnalisation, par exemple :
 <ul>
-<li>Descarga desde plataformas como <a href="https://www.thingiverse.com/">Thingiverse</a> en formato STL.<br>
+<li><code>&lt;&lt;ENTREPRISE&gt;&gt;</code><br>
 </li>
-</ul></li>
-<li><strong>Corta el modelo</strong>
-<ul>
-<li>Usa un programa como Cura.<br>
+<li><code>&lt;&lt;POSTE&gt;&gt;</code><br>
 </li>
-<li>Configuración para PLA:
-<ul>
-<li>Temperatura del extrusor: 200-210°C<br>
-</li>
-<li>Temperatura de la cama: 60°C<br>
-</li>
-<li>Relleno: 20% (estándar).<br>
-</li>
-</ul></li>
-</ul></li>
-<li><strong>Guarda el G-code</strong>
-<ul>
-<li>Exporta el archivo a una tarjeta microSD.</li>
+<li><code>&lt;&lt;RECRUTEUR&gt;&gt;</code></li>
 </ul></li>
 </ol>
+<p>Exemple de contenu :</p>
+<p>```text [Votre Adresse] &lt;<lieu>&gt; &lt;<date>&gt; À l’attention de &lt;<recruteur>&gt; [Adresse de l’entreprise] &lt;<entreprise>&gt; Objet : Candidature au poste de &lt;<poste>&gt;</poste></entreprise></recruteur></date></lieu></p>
+<p>Cher/Cher(e) &lt;<recruteur>&gt;, … [Votre Prénom et Nom]</recruteur></p>
 </section>
-<section id="imprimir" class="slide level2 center">
-<h2>Imprimir</h2>
+<section id="étape-2-créer-une-base-de-données-dans-google-sheets" class="slide level2 center">
+<h2>Étape 2 : Créer une base de données dans Google Sheets</h2>
 <ol type="1">
-<li>Inserta la tarjeta microSD en la impresora.<br>
-</li>
-<li>Selecciona el archivo desde el menú.<br>
-</li>
-<li>Monitorea las primeras capas para garantizar una buena adhesión.<br>
-</li>
-<li>Espera a que termine la impresión.</li>
+<li>Créez un fichier <strong>Google Sheets</strong>.</li>
+<li>Renommez l’onglet principal en <code>h1</code>.</li>
+<li>Ajoutez les colonnes suivantes dans la première ligne :</li>
+</ol>
+<table class="caption-top">
+<colgroup>
+<col style="width: 11%">
+<col style="width: 10%">
+<col style="width: 6%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 13%">
+<col style="width: 14%">
+<col style="width: 21%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Entreprise</th>
+<th>Recruteur</th>
+<th>Lieu</th>
+<th>Date</th>
+<th>Poste</th>
+<th>Compétences</th>
+<th>Email</th>
+<th>Infos supplémentaires</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Google</td>
+<td>M. Dupont</td>
+<td>Paris</td>
+<td>17/11/2024</td>
+<td>Ingénieur</td>
+<td>Programmation</td>
+<td>dupont@gmail.com</td>
+<td>Innovation</td>
+</tr>
+</tbody>
+</table>
+<ol start="4" type="1">
+<li><strong>Remplissez les informations spécifiques</strong> à chaque entreprise dans les lignes suivantes.</li>
 </ol>
 </section>
-<section id="retirar-y-mantener" class="slide level2 center">
-<h2>Retirar y Mantener</h2>
+<section id="étape-3-configurer-apps-script" class="slide level2 center">
+<h2>Étape 3 : Configurer Apps Script</h2>
 <ol type="1">
-<li>Deja enfriar la cama antes de retirar la impresión.<br>
-</li>
-<li>Guarda el filamento PLA en un contenedor seco y hermético con gel de sílice.<br>
-</li>
-<li>Limpia regularmente la boquilla y la cama.</li>
-</ol>
-</section>
-<section id="solución-de-problemas" class="slide level2 center">
-<h2>Solución de Problemas</h2>
+<li><strong>Ouvrir Apps Script</strong> :
 <ul>
-<li>Cama desnivelada: Reajusta la nivelación.<br>
-</li>
-<li>Mala adhesión: Ajusta la configuración de la primera capa o usa adhesivo en la cama.<br>
-</li>
-<li>Atascos de filamento: Limpia la boquilla o recarga el filamento.</li>
-</ul>
-</section>
-<section class="slide level2 center">
+<li>Dans Google Sheets, cliquez sur <strong>Extensions &gt; Apps Script</strong>.</li>
+</ul></li>
+<li><strong>Collez le code suivant :</strong></li>
+</ol>
+<p>```javascript // Configuration var dossierDestinationId = “ICI-REMPLACEZ-AVEC-ID-DOSSIER”; // ID du dossier Google Drive const ID_MODELE = “ICI-REMPLACEZ-AVEC-ID-MODELE”; // ID du modèle Google Docs var classeur = SpreadsheetApp.getActiveSpreadsheet(); var feuille = classeur.getSheetByName(“h1”);</p>
+<p>// Fonction principale function initialiser() { var donnees = feuille.getDataRange().getValues(); donnees.shift(); // Enlever les titres donnees.forEach((ligne, index) =&gt; { creerPDF(ligne, index + 2); }); }</p>
+<p>// Créer un PDF function creerPDF(donnees, ligne) { var [entreprise, recruteur, lieu, date, poste, competences, email, infos] = donnees; var copieModele = DriveApp.getFileById(ID_MODELE).makeCopy(); var document = DocumentApp.openById(copieModele.getId());</p>
+<p>// Remplacer les mots-clés document.getBody().replaceText(“&lt;<entreprise>&gt;”, entreprise); document.getBody().replaceText(“&lt;<recruteur>&gt;”, recruteur); document.getBody().replaceText(“&lt;<lieu>&gt;”, lieu); document.getBody().replaceText(“&lt;<date>&gt;”, date); document.getBody().replaceText(“&lt;<poste>&gt;”, poste); document.getBody().replaceText(“&lt;<competences>&gt;”, competences); document.saveAndClose();</competences></poste></date></lieu></recruteur></entreprise></p>
+<p>// Convertir en PDF var fichierPDF = copieModele.getAs(“application/pdf”); var dossier = DriveApp.getFolderById(dossierDestinationId); dossier.createFile(fichierPDF);</p>
+<p>// Nettoyer copieModele.setTrashed(true); }</p>
 
-<section id="mantente-conectado" class="level3">
-<h3>Mantente Conectado</h3>
-<ol type="1">
-<li>Sígueme en <a href="https://www.instagram.com/sheinventor/">Instagram</a><br>
-</li>
-<li>Suscríbete a mi <a href="https://www.youtube.com/@SheInventor_Espanol">YouTube</a><br>
-</li>
-<li>Regístrate para actualizaciones (próximamente).</li>
-</ol>
-<p>Vuelve al <a href="../../es/index.html">índice</a>.<br>
-Regresa a los <a href="../../es/tutorials/index.html">tutoriales</a>.</p>
 
-
-</section>
 </section></section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">

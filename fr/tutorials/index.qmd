@@ -8,12 +8,15 @@ css: ../css/styles.css  # Ruta al archivo CSS
 ---
 # Tutoriels de Base
 
-**[Tutorial 1](tutorial1.qmd)**
+**[Introduction à l'Impression 3D ](tutorial1.qmd)**
 
-**[Tutorial 2](tutorial2.qmd)**
+**[Guia especial Creality CR 10 V3 ](tutorial2.qmd)**
 
-**[Tutorial 3](tutorial3.qmd)**
+**[Automatisation de CV avec Google Drive](tutorial3.qmd)**
 
-**[Tutorial 4](tutorial4.qmd)**
 
-**[Tutorial 5](tutorial.html)**
+## **Contact**  
+
+📧 **Email:** contact@sheinventor.com  
+🌐 **Réseaux sociaux:**  
+[Instagram](https://www.instagram.com/sheinventorfr/) | [YouTube](https://www.youtube.com/@Sheinventor_Fran%C3%A7ais)  

@@ -1,79 +1,89 @@
 ---
-title: "Tutoriel : Créer, vectoriser et imprimer en 3D avec la Creality CR-10"
-author: "SheInventor"
-image: "../../images/CrealityCR10.png"
-description: "Apprenez à créer un dessin, le vectoriser et l’imprimer en 3D avec la Creality CR-10."
-date: "2024-11-01"
-format: 
-  html:
-    self-contained: true
-css: ../../css/styles.css  # Chemin vers le fichier CSS
-lang: fr  # Langue du post
----
-# Tutoriel : Créer, vectoriser et imprimer en 3D avec la Creality CR-10
-
-**Auteur : SheInventor**
-
-![Image de la Creality CR-10](../../images/CrealityCR10.png)
-
-Dans ce tutoriel, nous allons vous guider à travers les étapes nécessaires pour créer un dessin, le vectoriser, puis l’imprimer en 3D à l’aide de l’imprimante **Creality CR-10**. Vous apprendrez à utiliser des outils de conception pour obtenir un modèle imprimable et à préparer l’imprimante pour l’impression 3D.
-
----
-
-### Étape 1 : Créer le dessins
-
-1. **Matériel et outils** : Utilisez du papier et un crayon pour dessiner, ou une tablette graphique avec un logiciel comme Photoshop ou Procreate.
-2. **Conseils** : Assurez-vous que le dessin soit simple, car plus il est détaillé, plus la vectorisation peut devenir compliquée.
-
+title: "Introducción a la Impresión 3D"
+subtitle: "Guía paso a paso para usar la Creality CR-10 V3"
+format:
+  revealjs:
+    title-slide-attributes:
+        data-state: "hide-menubar"
+    center: true
+    theme: white
+    transition: slide
+    background-transition: fade
+    controls-layout: bottom-right
+    menu: false
+    css: "css/style.css"
+    section-divs: true
+    simplemenu:
+        barhtml:
+            header: "<div class='menubar'><ul class='menu'></ul><div>"
+        scale: 0.67
+revealjs-plugins:
+  - simplemenu
 ---
 
-### Étape 2 : Numériser le dessin
+# Cómo empezar con la Creality CR-10 V3 {data-stack-name="Impresion3D"}
 
-1. **Scanner ou photographier le dessin** : Si vous avez utilisé du papier, numérisez-le ou prenez une photo de haute qualité.
-2. **Ajuster l’image** : Utilisez un logiciel pour améliorer la qualité de l’image si nécessaire.
+## Desempaquetado y Ensamblaje  
+1. **Verifica el contenido**  
+   - Revisa que estén todas las partes: marco, base, extrusor, cables y herramientas.  
+   - Ensambla el marco vertical y fíjalo a la base.  
+   - Instala el extrusor Titan y conecta todos los cables correctamente.
 
----
-
-### Étape 3 : Vectoriser le dessin
-
-1. **Ouvrir dans un logiciel de vectorisation** : Utilisez **Adobe Illustrator** ou **Inkscape**.
-2. **Vectorisation automatique** :
-   - Dans **Illustrator** : Allez dans *Fenêtre > Image Trace* et ajustez les paramètres pour tracer les contours du dessin.
-   - Dans **Inkscape** : Utilisez *Chemin > Vectoriser l'image* pour transformer le dessin en lignes vectorielles.
-3. **Nettoyer et finaliser** : Éliminez les détails inutiles et assurez-vous que le dessin est bien défini.
+2. **Nivelar la cama**  
+   - Precalienta el extrusor (200°C) y la cama (60°C).  
+   - Usa un papel para ajustar la distancia entre la boquilla y la cama. Asegúrate de sentir una ligera resistencia en cada esquina y en el centro.
 
 ---
 
-### Étape 4 : Préparer le fichier pour l’impression 3D
-
-1. **Convertir en format compatible** : Exporte le fichier vectorisé en **STL** ou **OBJ**, formats utilisés pour l’impression 3D.
-2. **Utiliser un logiciel de modélisation 3D** : Importez le fichier vectorisé dans un logiciel comme **Tinkercad** ou **Fusion 360** pour lui donner de la profondeur et le convertir en modèle 3D.
-3. **Vérifier les dimensions** : Assurez-vous que le modèle 3D correspond aux dimensions de l’imprimante et ajustez sa taille si nécessaire.
-
----
-
-### Étape 5 : Préparer le fichier pour l’imprimante 3D
-
-1. **Importer dans un logiciel de tranchage** : Utilisez **Cura** pour préparer le fichier 3D en **G-code**, un format compréhensible par l’imprimante.
-2. **Ajuster les paramètres** : Sélectionnez les paramètres d’impression, comme la température, le matériau (PLA, ABS), et la vitesse d’impression.
-3. **Générer le G-code** : Une fois prêt, exportez le fichier G-code sur une carte SD ou une clé USB.
+## Carga del Filamento  
+1. Precalienta la boquilla a 200°C.  
+2. Corta la punta del filamento en un ángulo e insértalo en el extrusor.  
+3. Usa la opción "Cargar Filamento" en el menú.  
+4. Asegúrate de que el filamento fluya correctamente por la boquilla.
 
 ---
 
-### Étape 6 : Imprimer avec la Creality CR-10
-
-1. **Préparer l’imprimante** : Vérifiez que l’imprimante est prête à imprimer (niveau du lit d’impression, présence de filament).
-2. **Insérer la carte SD** : Placez la carte SD dans l’imprimante.
-3. **Lancer l’impression** : Sélectionnez le fichier sur l’écran tactile et démarrez l’impression.
-4. **Suivre l’impression** : Surveillez l’impression pour vous assurer qu’il n’y a pas de problèmes, comme un mauvais alignement ou un filament qui ne sort pas correctement.
-
----
-
-### Étape 7 : Post-traitement
-
-1. **Retirer l’objet** : Une fois l’impression terminée, attendez que l’objet refroidisse avant de le retirer du lit d’impression.
-2. **Ponçage et finition** : Si nécessaire, vous pouvez poncer les bords ou appliquer une finition pour un meilleur rendu.
+## Preparar el Modelo para Imprimir  
+1. **Obtén un modelo 3D**  
+   - Descarga desde plataformas como [Thingiverse](https://www.thingiverse.com/) en formato STL.  
+2. **Corta el modelo**  
+   - Usa un programa como Cura.  
+   - Configuración para PLA:  
+     - Temperatura del extrusor: 200-210°C  
+     - Temperatura de la cama: 60°C  
+     - Relleno: 20% (estándar).  
+3. **Guarda el G-code**  
+   - Exporta el archivo a una tarjeta microSD.  
 
 ---
 
-*Nous espérons que ce tutoriel vous a été utile ! N’hésitez pas à partager vos impressions et à poser des questions si vous en avez. Bonnes impressions !*
+## Imprimir  
+1. Inserta la tarjeta microSD en la impresora.  
+2. Selecciona el archivo desde el menú.  
+3. Monitorea las primeras capas para garantizar una buena adhesión.  
+4. Espera a que termine la impresión.
+
+---
+
+## Retirar y Mantener  
+1. Deja enfriar la cama antes de retirar la impresión.  
+2. Guarda el filamento PLA en un contenedor seco y hermético con gel de sílice.  
+3. Limpia regularmente la boquilla y la cama.
+
+---
+
+## Solución de Problemas  
+- Cama desnivelada: Reajusta la nivelación.  
+- Mala adhesión: Ajusta la configuración de la primera capa o usa adhesivo en la cama.  
+- Atascos de filamento: Limpia la boquilla o recarga el filamento.  
+
+---
+
+### Mantente Conectado  
+1. Sígueme en [Instagram](https://www.instagram.com/sheinventor/)  
+2. Suscríbete a mi [YouTube](https://www.youtube.com/@SheInventor_Espanol)  
+3. Regístrate para actualizaciones (próximamente).  
+
+Vuelve al [índice](../index.qmd).  
+Regresa a los [tutoriales](index.qmd).
+

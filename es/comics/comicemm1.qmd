@@ -1,0 +1,86 @@
+---
+title: "Prólogo"
+subtitle: "Mi diario personal, compartiendo ciencia"
+format:
+  revealjs:
+    title-slide-attributes:
+        data-state: "hide-menubar"
+    center: true
+    theme: white
+    transition: slide
+    background-transition: fade
+    controls-layout: bottom-right
+    menu: false
+    css: "css/style.css"
+    section-divs: true
+    simplemenu:
+        barhtml:
+            header: "<div class='menubar'><ul class='menu'></ul><div>"
+        scale: 0.67
+revealjs-plugins:
+  - simplemenu
+---
+
+
+# ¿Cómo compartir ciencia sin aburrir a las personas? {data-stack-name="Ciencia"}
+
+<img data-src="../../images/EMM/Prólogo_EMM-1.png">
+
+# 
+Ese es mi propósito de vida,
+
+<img src="../../images/EMM/Prólogo_EMM-2.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
+
+##  
+pero hacerlo aún no me permite llegar a fin de mes.
+<img src="../../images/EMM/Prólogo_EMM-3.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
+
+#  
+Esta es la historia de este viaje, buscando lograr ser divulgadora de ciencia y vivir dignamente de ello. 
+<img src="../../images/EMM/Prólogo_EMM-4.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
+
+#   
+No soy escritora, Dios ha hecho de mis tragedias y aventuras un guion mucho más interesante de lo que mi imaginación pueda crear. 
+<img src="../../images/EMM/Prólogo_EMM-5.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
+
+## Y si la vida me dio estas historias, ¿por qué no relatar lo vivido? 
+
+#  
+Esta es mi historia, sí, de Paola Vázquez,
+<img src="../../images/EMM/Prólogo_EMM-6.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
+
+## 
+pero vivida a través de los personajes que me ayudan en mis explicaciones: una ingeniera, un diseñador y un videasta,
+<img src="../../images/EMM/Prólogo_EMM-7.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
+
+#   
+Tres personajes que aparecieron en mi mente un día que quise explicar qué eran los átomos.
+<img src="../../images/EMM/Prólogo_EMM-8.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
+
+#   
+Estos personajes tomaron su propia identidad,   
+<img src="../../images/EMM/Prólogo_EMM-7.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
+
+## 
+Más todo lo que están superando son partes de mí.   
+<img src="../../images/EMM/Prólogo_EMM-9.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
+
+#   
+
+Sin más por el momento, hago esto con mucho amor, deseando, queridísima persona que me lee, una grata experiencia. 
+
+<img src="../../images/EMM/Prólogo_EMM-10.png" alt="A mis 6 años, con corte de cabello tipo champiñón." style="width: 30%; max-width: 800px; margin-bottom: 20px;">
+
+# Agradecimientos. {data-name="Agradecimientos y Regresar"}
+
+Gracias
+
+::: columns
+::: {.column style="font-size: 2rem"}
+1. Sígueme en [Instagram](https://www.instagram.com/sheinventor/)
+2. Sígueme en [YouTube](https://www.youtube.com/@SheInventor_Espanol)
+3. Próximamente: newsletter
+:::
+
+Regresar al índice [aquí](../index.qmd).  
+Regresar a comics [aquí](index.qmd).

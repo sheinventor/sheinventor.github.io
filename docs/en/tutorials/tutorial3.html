@@ -10,7 +10,7 @@
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.6.39">
 
-  <title>SheInventor – Getting Started with 3D Printing</title>
+  <title>SheInventor – Automating CVs with Google Drive</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -130,132 +130,60 @@
     <div class="slides">
 
 <section id="title-slide" data-state="hide-menubar" class="quarto-title-block center">
-  <h1 class="title">Getting Started with 3D Printing</h1>
-  <p class="subtitle">A Step-by-Step Guide to Using the Creality CR-10 V3</p>
+  <h1 class="title">Automating CVs with Google Drive</h1>
+  <p class="subtitle">A Step-by-Step Guide to Optimize Your Job Applications</p>
 
 <div class="quarto-title-authors">
 </div>
 
 </section>
 <section>
-<section id="starting-with-the-creality-cr-10-v3" class="title-slide slide level1 center" data-stack-name="3DPrinting">
-<h1>Starting with the Creality CR-10 V3</h1>
+<section id="why-automate-cv-submission" class="title-slide slide level1 center" data-stack-name="AutomatingCV">
+<h1>Why Automate CV Submission?</h1>
 
 </section>
-<section id="unboxing-and-assembly" class="slide level2 center">
-<h2>Unboxing and Assembly</h2>
+<section id="introduction" class="slide level2 center">
+<h2>Introduction</h2>
+<p>Imagine personalizing your CVs and cover letters for every job application without manual effort. With <strong>Google Apps Script</strong>, you can automate this process and save time.</p>
+</section>
+<section id="what-is-google-apps-script" class="slide level2 center">
+<h2>What is Google Apps Script?</h2>
+<p>Google Apps Script is an integrated scripting platform in Google, enabling automations such as:<br>
+- Document personalization<br>
+- PDF conversion<br>
+- Automated email sending</p>
+</section>
+<section id="requirements-for-this-tutorial" class="slide level2 center">
+<h2>Requirements for this Tutorial</h2>
 <ol type="1">
-<li><strong>Verify the contents</strong>
-<ul>
-<li>Check for all necessary parts: frame, base, extruder, cables, and tools.<br>
+<li><strong>Google Docs</strong>: A cover letter template<br>
 </li>
-<li>Assemble the vertical frame and secure it to the base.<br>
+<li><strong>Google Sheets</strong>: A database of companies and specific information<br>
 </li>
-<li>Install the Titan extruder and connect all cables firmly.</li>
-</ul>
-<iframe data-external="1" src="https://www.youtube.com/embed/wo9vZccmqwc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></li>
+<li><strong>Google Drive</strong>: A folder to store the generated PDF files</li>
 </ol>
 </section>
-<section id="level-the-bed" class="slide level2 center">
-<h2>2. <strong>Level the bed</strong></h2>
-<ul>
-<li>Preheat the extruder (200°C) and the bed (60°C).<br>
-</li>
-<li>Use a piece of paper to adjust the distance between the nozzle and bed. Ensure slight resistance at each corner and the center.</li>
-</ul>
-</section>
-<section id="loading-filament" class="slide level2 center">
-<h2>Loading Filament</h2>
+<section id="step-1-create-a-template-in-google-docs" class="slide level2 center">
+<h2>Step 1: Create a Template in Google Docs</h2>
 <ol type="1">
-<li>Preheat the nozzle to 200°C.<br>
+<li><strong>Open Google Docs and create a document</strong>.<br>
 </li>
-<li>Cut the filament tip at an angle and insert it into the extruder.<br>
+<li>Add your standard cover letter content.<br>
 </li>
-<li>Use the “Load Filament” option on the menu.<br>
-</li>
-<li>Ensure the filament extrudes properly from the nozzle.</li>
-</ol>
-</section>
-<section id="preparing-the-model-for-printing" class="slide level2 center">
-<h2>Preparing the Model for Printing</h2>
-<ol type="1">
-<li><strong>Get a 3D model</strong>
+<li>Insert keywords within angle brackets (<code>&lt;&lt;&gt;&gt;</code>) for customization, such as:
 <ul>
-<li>Download from platforms like <a href="https://www.thingiverse.com/">Thingiverse</a> in STL format.</li>
+<li><code>&lt;&lt;COMPANY&gt;&gt;</code><br>
+</li>
+<li><code>&lt;&lt;POSITION&gt;&gt;</code><br>
+</li>
+<li><code>&lt;&lt;RECRUITER&gt;&gt;</code></li>
 </ul></li>
 </ol>
-</section>
-<section id="section" class="slide level2 center">
-<h2></h2>
-<ol start="2" type="1">
-<li><strong>Slice the model</strong>
-<ul>
-<li>Use software like Cura.<br>
-</li>
-<li>Choose settings for PLA:
-<ul>
-<li>Extruder Temp: 200-210°C<br>
-</li>
-<li>Bed Temp: 60°C<br>
-</li>
-<li>Infill: 20% (standard).<br>
-##</li>
-</ul></li>
-</ul></li>
-<li><strong>Save the G-code</strong>
-<ul>
-<li>Export the file to a microSD card.</li>
-</ul></li>
-</ol>
-</section>
-<section id="printing" class="slide level2 center">
-<h2>Printing</h2>
-<ol type="1">
-<li>Insert the microSD card into the printer.<br>
-</li>
-<li>Select the file from the menu.<br>
-</li>
-<li>Monitor the first few layers to ensure proper adhesion.<br>
-</li>
-<li>Wait for the print to finish.</li>
-</ol>
-</section>
-<section id="removing-and-maintaining" class="slide level2 center">
-<h2>Removing and Maintaining</h2>
-<ol type="1">
-<li>Let the bed cool before removing the print.<br>
-</li>
-<li>Store PLA filament in a dry, airtight container with silica gel.<br>
-</li>
-<li>Regularly clean the nozzle and bed.</li>
-</ol>
-</section>
-<section id="troubleshooting" class="slide level2 center">
-<h2>Troubleshooting</h2>
-<ul>
-<li>Uneven bed: Re-level the bed.<br>
-</li>
-<li>Poor adhesion: Adjust the first-layer settings or use an adhesive on the bed.<br>
-</li>
-<li>Filament jams: Clean the nozzle or reload the filament.</li>
-</ul>
-</section>
-<section class="slide level2 center">
-
-<section id="stay-tuned" class="level3">
-<h3>Stay Tuned</h3>
-<ol type="1">
-<li>Follow me on <a href="https://www.instagram.com/sheinventor/">Instagram</a><br>
-</li>
-<li>Subscribe on <a href="https://www.youtube.com/@SheInventor_Espanol">YouTube</a><br>
-</li>
-<li>Sign up for updates (coming soon!)</li>
-</ol>
-<p>Return to the <a href="../../en/index.html">table of contents</a>.<br>
-Return to <a href="../../en/tutorials/index.html">tutorials</a>.</p>
+<p>Example content:</p>
+<p>```text [Your Address] &lt;<location>&gt; &lt;<date>&gt; To the attention of &lt;<recruiter>&gt; [Company Address] &lt;<company>&gt; Subject: Application for the position of &lt;<position>&gt;</position></company></recruiter></date></location></p>
+<p>Dear &lt;<recruiter>&gt;, … [Your Name]</recruiter></p>
 
 
-</section>
 </section></section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">

@@ -10,8 +10,7 @@ format:
 
 # Sommaire  
 
-- [Bandes dessinées scientifiques](comics/index.qmd)  
-- [Bandes dessinées personnelles](comics/index.qmd)  
+- [Bandes dessinées scientifiques et personnelles](comics/index.qmd)    
 - [Tutoriels technologiques](tutorials/index.qmd)  
 
 ## **Contact**  

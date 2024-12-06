@@ -12,8 +12,8 @@ format:
 
 # Índice  
 
-- [Cómics de Ciencia](comics/index.qmd)  
-- [Cómics Personales](comics/index.qmd)  
+- [Cómics de Ciencia y Personales](comics/index.qmd)  
+ 
 - [Tutoriales de Tecnología](tutorials/index.qmd)  
 
 

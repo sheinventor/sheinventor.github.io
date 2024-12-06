@@ -10,9 +10,9 @@ format:
 
 # Table of Contents  
 
-- [Science Comics](comics/index.qmd)  
-- [Personal Comics](comics/index.qmd)  
-- [Technology Tutorials](tutorials/index.qmd)  
+- [Science and personal comics](comics/index.qmd)  
+ 
+- [Technology tutorials](tutorials/index.qmd)  
 
 ## **Contact**  
 

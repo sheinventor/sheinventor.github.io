@@ -9,12 +9,14 @@ css: ../css/styles.css  # Ruta al archivo CSS
 
 # Basic Tutorials
 
-**[Tutorial 1](tutorial1.qmd)**
+**[Introduction to 3D Printing](tutorial1.qmd)**  
 
-**[Tutorial 2](tutorial2.qmd)**
+**[Special Guide: Creality CR 10 V3](tutorial2.qmd)**  
 
-**[Tutorial 3](tutorial3.qmd)**
+**[CV Automation with Google Drive](tutorial3.qmd)**
 
-**[Tutorial 4](tutorial4.qmd)**
+## **Contact**  
 
-**[Tutorial 5](tutorial.html)**
+📧 **Email:** contact@sheinventor.com  
+🌐 **Social Media:**  
+[Instagram](https://www.instagram.com/sheinventor/) | [YouTube](https://www.youtube.com/@SheInventor_English)  
