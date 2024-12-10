@@ -70,43 +70,43 @@
     "text": "\\[ J(\\theta_0,\\theta_1) = \\sum_{i=0} \\]"
   },
   {
-    "objectID": "fr/tutorials/tutoriel3.html#introduction",
-    "href": "fr/tutorials/tutoriel3.html#introduction",
+    "objectID": "fr/tutorials/tutorial3.html#introduction",
+    "href": "fr/tutorials/tutorial3.html#introduction",
     "title": "Automatisation de CV avec Google Drive",
     "section": "Introduction",
     "text": "Introduction\nImaginez personnaliser vos CV et lettres de motivation pour chaque candidature sans effort manuel. Grâce à Google Apps Script, vous pouvez automatiser ce processus et économiser du temps."
   },
   {
-    "objectID": "fr/tutorials/tutoriel3.html#quest-ce-que-google-apps-script",
-    "href": "fr/tutorials/tutoriel3.html#quest-ce-que-google-apps-script",
+    "objectID": "fr/tutorials/tutorial3.html#quest-ce-que-google-apps-script",
+    "href": "fr/tutorials/tutorial3.html#quest-ce-que-google-apps-script",
     "title": "Automatisation de CV avec Google Drive",
     "section": "Qu’est-ce que Google Apps Script ?",
     "text": "Qu’est-ce que Google Apps Script ?\nGoogle Apps Script est une plateforme de script intégrée à Google, permettant des automatisations comme :\n- Personnalisation de documents\n- Conversion en PDF\n- Envoi d’emails automatisé"
   },
   {
-    "objectID": "fr/tutorials/tutoriel3.html#prérequis-pour-ce-tutoriel",
-    "href": "fr/tutorials/tutoriel3.html#prérequis-pour-ce-tutoriel",
+    "objectID": "fr/tutorials/tutorial3.html#prérequis-pour-ce-tutoriel",
+    "href": "fr/tutorials/tutorial3.html#prérequis-pour-ce-tutoriel",
     "title": "Automatisation de CV avec Google Drive",
     "section": "Prérequis pour ce tutoriel",
     "text": "Prérequis pour ce tutoriel\n\nGoogle Docs : Modèle de lettre de motivation\n\nGoogle Sheets : Base de données des entreprises et informations spécifiques\n\nGoogle Drive : Dossier pour stocker les fichiers PDF générés"
   },
   {
-    "objectID": "fr/tutorials/tutoriel3.html#étape-1-créer-un-modèle-dans-google-docs",
-    "href": "fr/tutorials/tutoriel3.html#étape-1-créer-un-modèle-dans-google-docs",
+    "objectID": "fr/tutorials/tutorial3.html#étape-1-créer-un-modèle-dans-google-docs",
+    "href": "fr/tutorials/tutorial3.html#étape-1-créer-un-modèle-dans-google-docs",
     "title": "Automatisation de CV avec Google Drive",
     "section": "Étape 1 : Créer un modèle dans Google Docs",
     "text": "Étape 1 : Créer un modèle dans Google Docs\n\nOuvrez Google Docs et créez un document.\n\nAjoutez votre contenu standard pour la lettre de motivation.\n\nInsérez des mots-clés entre chevrons (&lt;&lt;&gt;&gt;) pour personnalisation, par exemple :\n\n&lt;&lt;ENTREPRISE&gt;&gt;\n\n&lt;&lt;POSTE&gt;&gt;\n\n&lt;&lt;RECRUTEUR&gt;&gt;\n\n\nExemple de contenu :\n```text [Votre Adresse] &lt;&gt; &lt;&gt; À l’attention de &lt;&gt; [Adresse de l’entreprise] &lt;&gt; Objet : Candidature au poste de &lt;&gt;\nCher/Cher(e) &lt;&gt;, … [Votre Prénom et Nom]"
   },
   {
-    "objectID": "fr/tutorials/tutoriel3.html#étape-2-créer-une-base-de-données-dans-google-sheets",
-    "href": "fr/tutorials/tutoriel3.html#étape-2-créer-une-base-de-données-dans-google-sheets",
+    "objectID": "fr/tutorials/tutorial3.html#étape-2-créer-une-base-de-données-dans-google-sheets",
+    "href": "fr/tutorials/tutorial3.html#étape-2-créer-une-base-de-données-dans-google-sheets",
     "title": "Automatisation de CV avec Google Drive",
     "section": "Étape 2 : Créer une base de données dans Google Sheets",
     "text": "Étape 2 : Créer une base de données dans Google Sheets\n\nCréez un fichier Google Sheets.\nRenommez l’onglet principal en h1.\nAjoutez les colonnes suivantes dans la première ligne :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEntreprise\nRecruteur\nLieu\nDate\nPoste\nCompétences\nEmail\nInfos supplémentaires\n\n\n\n\nGoogle\nM. Dupont\nParis\n17/11/2024\nIngénieur\nProgrammation\ndupont@gmail.com\nInnovation\n\n\n\n\nRemplissez les informations spécifiques à chaque entreprise dans les lignes suivantes."
   },
   {
-    "objectID": "fr/tutorials/tutoriel3.html#étape-3-configurer-apps-script",
-    "href": "fr/tutorials/tutoriel3.html#étape-3-configurer-apps-script",
+    "objectID": "fr/tutorials/tutorial3.html#étape-3-configurer-apps-script",
+    "href": "fr/tutorials/tutorial3.html#étape-3-configurer-apps-script",
     "title": "Automatisation de CV avec Google Drive",
     "section": "Étape 3 : Configurer Apps Script",
     "text": "Étape 3 : Configurer Apps Script\n\nOuvrir Apps Script :\n\nDans Google Sheets, cliquez sur Extensions &gt; Apps Script.\n\nCollez le code suivant :\n\n```javascript // Configuration var dossierDestinationId = “ICI-REMPLACEZ-AVEC-ID-DOSSIER”; // ID du dossier Google Drive const ID_MODELE = “ICI-REMPLACEZ-AVEC-ID-MODELE”; // ID du modèle Google Docs var classeur = SpreadsheetApp.getActiveSpreadsheet(); var feuille = classeur.getSheetByName(“h1”);\n// Fonction principale function initialiser() { var donnees = feuille.getDataRange().getValues(); donnees.shift(); // Enlever les titres donnees.forEach((ligne, index) =&gt; { creerPDF(ligne, index + 2); }); }\n// Créer un PDF function creerPDF(donnees, ligne) { var [entreprise, recruteur, lieu, date, poste, competences, email, infos] = donnees; var copieModele = DriveApp.getFileById(ID_MODELE).makeCopy(); var document = DocumentApp.openById(copieModele.getId());\n// Remplacer les mots-clés document.getBody().replaceText(“&lt;&gt;”, entreprise); document.getBody().replaceText(“&lt;&gt;”, recruteur); document.getBody().replaceText(“&lt;&gt;”, lieu); document.getBody().replaceText(“&lt;&gt;”, date); document.getBody().replaceText(“&lt;&gt;”, poste); document.getBody().replaceText(“&lt;&gt;”, competences); document.saveAndClose();\n// Convertir en PDF var fichierPDF = copieModele.getAs(“application/pdf”); var dossier = DriveApp.getFolderById(dossierDestinationId); dossier.createFile(fichierPDF);\n// Nettoyer copieModele.setTrashed(true); }"
@@ -861,43 +861,43 @@
     "text": "📧 Email: contact@sheinventor.com\n🌐 Réseaux sociaux:\nInstagram | YouTube"
   },
   {
-    "objectID": "fr/tutorials/tutoriel2.html#déballage-et-assemblage",
-    "href": "fr/tutorials/tutoriel2.html#déballage-et-assemblage",
+    "objectID": "fr/tutorials/tutorial2.html#déballage-et-assemblage",
+    "href": "fr/tutorials/tutorial2.html#déballage-et-assemblage",
     "title": "Introduction à l’impression 3D",
     "section": "Déballage et Assemblage",
     "text": "Déballage et Assemblage\n\nVérifiez le contenu\n\nAssurez-vous que toutes les pièces sont présentes : cadre, base, extrudeur, câbles et outils.\n\nAssemblez le cadre vertical et fixez-le à la base.\n\nInstallez l’extrudeur Titan et connectez correctement tous les câbles.\n\nNiveler le plateau\n\nPréchauffez l’extrudeur (200°C) et le plateau (60°C).\n\nUtilisez un papier pour ajuster la distance entre la buse et le plateau. Assurez-vous de sentir une légère résistance dans chaque coin et au centre."
   },
   {
-    "objectID": "fr/tutorials/tutoriel2.html#chargement-du-filament",
-    "href": "fr/tutorials/tutoriel2.html#chargement-du-filament",
+    "objectID": "fr/tutorials/tutorial2.html#chargement-du-filament",
+    "href": "fr/tutorials/tutorial2.html#chargement-du-filament",
     "title": "Introduction à l’impression 3D",
     "section": "Chargement du Filament",
     "text": "Chargement du Filament\n\nPréchauffez la buse à 200°C.\n\nCoupez l’extrémité du filament en biais et insérez-le dans l’extrudeur.\n\nUtilisez l’option “Charger le Filament” dans le menu.\n\nAssurez-vous que le filament sort correctement de la buse."
   },
   {
-    "objectID": "fr/tutorials/tutoriel2.html#préparer-le-modèle-pour-limpression",
-    "href": "fr/tutorials/tutoriel2.html#préparer-le-modèle-pour-limpression",
+    "objectID": "fr/tutorials/tutorial2.html#préparer-le-modèle-pour-limpression",
+    "href": "fr/tutorials/tutorial2.html#préparer-le-modèle-pour-limpression",
     "title": "Introduction à l’impression 3D",
     "section": "Préparer le Modèle pour l’Impression",
     "text": "Préparer le Modèle pour l’Impression\n\nObtenez un modèle 3D\n\nTéléchargez depuis des plateformes comme Thingiverse au format STL.\n\n\nDécoupez le modèle\n\nUtilisez un logiciel comme Cura.\n\nConfiguration pour PLA :\n\nTempérature de l’extrudeur : 200-210°C\n\nTempérature du plateau : 60°C\n\nRemplissage : 20% (standard).\n\n\n\nEnregistrez le G-code\n\nExportez le fichier sur une carte microSD."
   },
   {
-    "objectID": "fr/tutorials/tutoriel2.html#impression",
-    "href": "fr/tutorials/tutoriel2.html#impression",
+    "objectID": "fr/tutorials/tutorial2.html#impression",
+    "href": "fr/tutorials/tutorial2.html#impression",
     "title": "Introduction à l’impression 3D",
     "section": "Impression",
     "text": "Impression\n\nInsérez la carte microSD dans l’imprimante.\n\nSélectionnez le fichier dans le menu.\n\nSurveillez les premières couches pour garantir une bonne adhésion.\n\nAttendez que l’impression soit terminée."
   },
   {
-    "objectID": "fr/tutorials/tutoriel2.html#retrait-et-maintenance",
-    "href": "fr/tutorials/tutoriel2.html#retrait-et-maintenance",
+    "objectID": "fr/tutorials/tutorial2.html#retrait-et-maintenance",
+    "href": "fr/tutorials/tutorial2.html#retrait-et-maintenance",
     "title": "Introduction à l’impression 3D",
     "section": "Retrait et Maintenance",
     "text": "Retrait et Maintenance\n\nLaissez refroidir le plateau avant de retirer l’impression.\n\nConservez le filament PLA dans un conteneur hermétique avec du gel de silice.\n\nNettoyez régulièrement la buse et le plateau."
   },
   {
-    "objectID": "fr/tutorials/tutoriel2.html#résolution-des-problèmes",
-    "href": "fr/tutorials/tutoriel2.html#résolution-des-problèmes",
+    "objectID": "fr/tutorials/tutorial2.html#résolution-des-problèmes",
+    "href": "fr/tutorials/tutorial2.html#résolution-des-problèmes",
     "title": "Introduction à l’impression 3D",
     "section": "Résolution des Problèmes",
     "text": "Résolution des Problèmes\n\nPlateau mal nivelé : Réajustez le nivellement.\n\nMauvaise adhésion : Ajustez les paramètres de la première couche ou utilisez un adhésif sur le plateau.\n\nBuse bouchée : Nettoyez la buse ou rechargez le filament."
