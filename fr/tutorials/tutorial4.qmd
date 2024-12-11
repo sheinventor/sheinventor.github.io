@@ -1,0 +1,105 @@
+---
+title: "Tutoriel d'utilisation : Flashforge Adventurer 5M Pro"
+subtitle: "Pour les debutants"
+format:
+  revealjs:
+    title-slide-attributes:
+      data-state: "hide-menubar"
+    theme: white
+    transition: slide
+    background-transition: fade
+    controls-layout: bottom-right
+    menu: false
+    css: "css/style.css"
+    section-divs: true
+    scrollable: true
+    execute:
+        echo: true
+    editor: visual
+    simplemenu:
+      barhtml:
+        header: "<div class='menubar'><ul class='menu'></ul><div>"
+      scale: 0.67
+revealjs-plugins:
+  - simplemenu
+---
+
+
+## Content {data-stack-name="menubar"}
+<ul class="menu"><ul>
+
+
+
+# Préparation préalable {data-stack-name="Préparation préalable"}
+
+## Préparation préalable :
+1. **Modèle 3D au format G-code :**
+    - Concevez votre modèle à l'aide d'un logiciel de modélisation 3D (comme Fusion 360 ou Blender), ou téléchargez-le depuis des bibliothèques de modèles.
+        - [https://www.printables.com](https://www.printables.com/?lang=es)
+        - [https://www.thingiverse.com](https://www.thingiverse.com)
+        - [https://makerworld.com](https://makerworld.com/)
+![A piece of waxed string burning](../../images/Emanuel2.png)
+
+
+2. **Vérifiez l'état de l'imprimante :**
+    - Assurez-vous que l'imprimante est propre, sans restes de filament sur la buse ni résidus sur le plateau d'impression.
+    - Nettoyez le plateau d'impression avec un morceau d'essuie-tout et de l'alcool isopropylique.
+
+# Allumer l'imprimante {data-name="Allumer l'imprimante"}
+##
+    1. Vérifiez que l'imprimante est connectée à une prise électrique. Appuyez sur le bouton d'alimentation situé à l'arrière, puis sur celui à l'avant.
+    2. Attendez que le système soit complètement initialisé avant de continuer.
+
+
+# Charger le filament (si aucun filament n’est présent) {data-name="Charger le filament"}
+##
+1. Accédez au menu via l’écran tactile et sélectionnez l’option **"Filament"**.
+2. Choisissez l’option **"Charger"**.
+3. Coupez l’extrémité du filament à un angle de 45 degrés avec une pince.
+4. Insérez le nouveau filament dans l’entrée correspondante.
+5. L’imprimante préchauffera automatiquement la buse pour faciliter l’écoulement du filament.
+6. Une fois que le filament sort uniformément de la buse, sélectionnez **"Confirmer"** sur l’écran.
+7. Retirez le filament imprimé.
+
+# Changer le filament  {data-name="Changer le filament"}
+##
+1. Accédez au menu via l’écran tactile et sélectionnez l’option **"Filament"**.
+2. Choisissez l’option **"Décharger"** pour retirer le filament actuel.
+3. L’imprimante préchauffera la buse pour permettre le retrait facile du filament.
+4. Tirez doucement sur le tube blanc pour mieux voir le filament.
+5. Coupez le filament avec une pince.
+6. Retirez le filament précédent et rangez-le correctement.
+7. Attendez que l’écran indique que la buse est prête (préchauffée).
+8. Coupez l’extrémité du nouveau filament à un angle de 45 degrés avec une pince.
+9. Insérez le nouveau filament dans l’entrée correspondante.
+10. L’imprimante préchauffera automatiquement la buse pour faciliter l’écoulement du filament.
+11. Vérifiez que le filament sort uniformément de la buse.
+12. Retirez le filament imprimé.
+
+# Sélectionner le fichier à imprimer  {data-name="Sélectionner le fichier à imprimer"}
+
+## 
+1. Insérez la clé USB contenant le fichier G-code dans le port USB de l’imprimante.
+2. Depuis le menu principal, sélectionnez **"Imprimer"** et naviguez jusqu’au fichier enregistré sur la clé USB.
+3. **IMPORTANT :** Avant de lancer l’impression, choisissez l’option **"Calibrer"** pour régler le plateau.
+4. Appuyez sur le bouton **"Imprimer"** et confirmez votre sélection.
+
+# Surveiller l’impression initiale  {data-name="Surveiller l’impression initiale"}
+##
+1. Observez l’impression de la première couche :
+    - Assurez-vous que le filament adhère correctement au plateau d’impression.
+    - En cas de problème (mauvaise adhérence, lignes irrégulières, etc.), interrompez l’impression pour recalibrer ou ajuster les paramètres.
+
+# Retirer le modèle {data-name="Retirer le modèle"}
+
+## 
+1. Une fois l’impression terminée, attendez que le plateau refroidisse pour éviter tout dommage.
+2. Utilisez une spatule pour retirer le modèle si nécessaire, en veillant à ne pas rayer la surface.
+
+# Nettoyer l’imprimante {data-name="Nettoyer l’imprimante"}
+
+## 
+
+1. Retirez tout résidu de filament de la buse à l’aide d’un outil de nettoyage approprié (disponible au LF2L).
+2. Nettoyez le plateau d’impression avec de l’alcool isopropylique pour éliminer tout adhésif ou filament restant.
+

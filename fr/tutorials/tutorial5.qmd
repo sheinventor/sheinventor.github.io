@@ -1,0 +1,17 @@
+---
+title: "Página con Presentación"
+format: html
+---
+
+# Esta es otra página que incluye la presentación
+
+<iframe src="tutorial4.html" width="100%" height="600px"></iframe>
+
+
+<div>
+
+```{=html}
+<iframe class="slide-deck" src="tutorial4"></iframe>
+```
+
+</div>

@@ -130,7 +130,7 @@
     "href": "tutorials/index.html",
     "title": "Tutorieles",
     "section": "",
-    "text": "1 Tutoriels de Base\nTutorial 1\nTutorial 2\nTutorial 3\nTutorial 4\nTutorial 5"
+    "text": "Introduction à l’Impression 3D\nGuia especial Creality CR 10 V3\nAutomatisation de CV avec Google Drive\nTutoriel d’utilisation : Flashforge Adventurer 5M Pro\n\n\n📧 Email: contact@sheinventor.com\n🌐 Réseaux sociaux:\nInstagram | YouTube"
   },
   {
     "objectID": "tutorials/tutorial2.html",
@@ -145,5 +145,68 @@
     "title": "Bienvenue à SheInventor!",
     "section": "Contact",
     "text": "Contact\n📧 Email: contact@sheinventor.com\n🌐 Réseaux sociaux:\nInstagram | YouTube"
+  },
+  {
+    "objectID": "tutorials/tutorial4.html#tutoriel-dutilisation",
+    "href": "tutorials/tutorial4.html#tutoriel-dutilisation",
+    "title": "Mi Sitio Web",
+    "section": "Tutoriel d’utilisation",
+    "text": "Tutoriel d’utilisation\n\nFlashforge Adventurer 5M Pro\nBienvenue dans ce guide interactif ! Suivez les étapes pour maîtriser l’utilisation de cette imprimante 3D."
+  },
+  {
+    "objectID": "tutorials/tutorial4.html#préparation-préalable",
+    "href": "tutorials/tutorial4.html#préparation-préalable",
+    "title": "Mi Sitio Web",
+    "section": "Préparation préalable",
+    "text": "Préparation préalable\n\nModèle 3D au format G-code :\n\nConcevez votre modèle avec un logiciel comme Fusion 360 ou Blender, ou téléchargez-le depuis une bibliothèque.\nUtilisez un slicer comme OrcaSlicer pour convertir votre modèle au format G-code.\nEnregistrez le fichier sur une clé USB (disponible au LF2L à côté des imprimantes).\n\nVérifiez l’état de l’imprimante :\n\nAssurez-vous qu’il n’y a pas de filament sur la buse ou de résidus sur le plateau.\nNettoyez le plateau avec de l’essuie-tout et de l’alcool isopropylique."
+  },
+  {
+    "objectID": "tutorials/tutorial4.html#allumer-limprimante",
+    "href": "tutorials/tutorial4.html#allumer-limprimante",
+    "title": "Mi Sitio Web",
+    "section": "Allumer l’imprimante",
+    "text": "Allumer l’imprimante\n\nConnectez l’imprimante à une prise électrique.\nAppuyez sur le bouton d’alimentation à l’arrière, puis celui à l’avant.\nAttendez que le système s’initialise."
+  },
+  {
+    "objectID": "tutorials/tutorial4.html#charger-ou-changer-le-filament",
+    "href": "tutorials/tutorial4.html#charger-ou-changer-le-filament",
+    "title": "Mi Sitio Web",
+    "section": "Charger ou changer le filament",
+    "text": "Charger ou changer le filament\n\nCharger le filament\n\nAccédez au menu tactile et sélectionnez “Filament”, puis “Charger”.\nCoupez l’extrémité du filament à 45° avec une pince.\nInsérez le filament dans l’entrée correspondante.\nAttendez que le filament sorte uniformément de la buse.\nSélectionnez “Confirmer” et retirez le filament imprimé.\n\n\n\n\nChanger le filament\n\nSélectionnez “Filament”, puis “Décharger”.\nAttendez que la buse chauffe, puis retirez doucement le filament.\nCoupez l’extrémité du nouveau filament à 45°.\nInsérez le nouveau filament et attendez qu’il sorte uniformément.\nRetirez le filament imprimé."
+  },
+  {
+    "objectID": "tutorials/tutorial4.html#sélectionner-le-fichier-à-imprimer",
+    "href": "tutorials/tutorial4.html#sélectionner-le-fichier-à-imprimer",
+    "title": "Mi Sitio Web",
+    "section": "Sélectionner le fichier à imprimer",
+    "text": "Sélectionner le fichier à imprimer\n\nInsérez la clé USB avec le fichier G-code dans l’imprimante.\nDepuis le menu principal, sélectionnez “Imprimer”.\nNaviguez jusqu’au fichier et appuyez sur “Calibrer” avant d’imprimer.\nConfirmez l’impression."
+  },
+  {
+    "objectID": "tutorials/tutorial4.html",
+    "href": "tutorials/tutorial4.html",
+    "title": "Mi Sitio Web",
+    "section": "",
+    "text": "” scale: 0.67 revealjs-plugins: - simplemenu - scroll"
+  },
+  {
+    "objectID": "tutorials/tutorial4.html#preparation",
+    "href": "tutorials/tutorial4.html#preparation",
+    "title": "Regression",
+    "section": "Preparation",
+    "text": "Preparation\n\njtools is just a quick way to produce regression analyses and plots\ndataset is from base R\nWe have a significant interaction\njtools is just a quick way to produce regression analyses and plots\ndataset is from base R\nWe have a significant interaction\njtools is just a quick way to produce regression analyses and plots\ndataset is from base R\nWe have a significant interaction\njtools is just a quick way to produce regression analyses and plots\ndataset is from base R\nWe have a significant interaction\njtools is just a quick way to produce regression analyses and plots\ndataset is from base R\nWe have a significant interaction\njtools is just a quick way to produce regression analyses and plots\ndataset is from base R\nWe have a significant interaction\njtools is just a quick way to produce regression analyses and plots\ndataset is from base R\nWe have a significant interaction"
+  },
+  {
+    "objectID": "tutorials/index.html#contact",
+    "href": "tutorials/index.html#contact",
+    "title": "Tutorieles",
+    "section": "",
+    "text": "📧 Email: contact@sheinventor.com\n🌐 Réseaux sociaux:\nInstagram | YouTube"
+  },
+  {
+    "objectID": "tutorials/tutorial5.html",
+    "href": "tutorials/tutorial5.html",
+    "title": "Página con Presentación",
+    "section": "",
+    "text": "Esta es otra página que incluye la presentación"
   }
 ]
