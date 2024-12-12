@@ -956,7 +956,7 @@
     "href": "fr/tutorials/tutorial4.html#préparation-préalable-1",
     "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
     "section": "Préparation préalable :",
-    "text": "Préparation préalable :\n\nModèle 3D au format G-code :\n\nConcevez votre modèle à l’aide d’un logiciel de modélisation 3D (comme Fusion 360 ou Blender), ou téléchargez-le depuis des bibliothèques de modèles.\n\nhttps://www.printables.com\nhttps://www.thingiverse.com\nhttps://makerworld.com \n\n\nVérifiez l’état de l’imprimante :\n\nAssurez-vous que l’imprimante est propre, sans restes de filament sur la buse ni résidus sur le plateau d’impression.\nNettoyez le plateau d’impression avec un morceau d’essuie-tout et de l’alcool isopropylique."
+    "text": "Préparation préalable :\n\n\n\n\n\nModèle 3D au format G-code :\n\nConcevez votre modèle à l’aide d’un logiciel de modélisation 3D (comme Fusion 360 ou Blender), ou téléchargez-le depuis des bibliothèques de modèles.\n\nhttps://www.printables.com\nhttps://www.thingiverse.com\nhttps://makerworld.com\n\n\n\n\n\nRetourner : Plus de tutoriels ici"
   },
   {
     "objectID": "fr/tutorials/tutorial4.html#préparation-préalable",
@@ -984,28 +984,28 @@
     "href": "fr/tutorials/tutorial4.html#section-1",
     "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
     "section": "",
-    "text": "Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.\nChoisissez l’option “Charger”.\nCoupez l’extrémité du filament à un angle de 45 degrés avec une pince.\nInsérez le nouveau filament dans l’entrée correspondante.\nL’imprimante préchauffera automatiquement la buse pour faciliter l’écoulement du filament.\nUne fois que le filament sort uniformément de la buse, sélectionnez “Confirmer” sur l’écran.\nRetirez le filament imprimé."
+    "text": "Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”."
   },
   {
     "objectID": "fr/tutorials/tutorial4.html#section-2",
     "href": "fr/tutorials/tutorial4.html#section-2",
     "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
     "section": "",
-    "text": "Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.\nChoisissez l’option “Décharger” pour retirer le filament actuel.\nL’imprimante préchauffera la buse pour permettre le retrait facile du filament.\nTirez doucement sur le tube blanc pour mieux voir le filament.\nCoupez le filament avec une pince.\nRetirez le filament précédent et rangez-le correctement.\nAttendez que l’écran indique que la buse est prête (préchauffée).\nCoupez l’extrémité du nouveau filament à un angle de 45 degrés avec une pince.\nInsérez le nouveau filament dans l’entrée correspondante.\nL’imprimante préchauffera automatiquement la buse pour faciliter l’écoulement du filament.\nVérifiez que le filament sort uniformément de la buse.\nRetirez le filament imprimé."
+    "text": "Choisissez l’option “Charger”."
   },
   {
     "objectID": "fr/tutorials/tutorial4.html#section-3",
     "href": "fr/tutorials/tutorial4.html#section-3",
     "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
     "section": "",
-    "text": "Insérez la clé USB contenant le fichier G-code dans le port USB de l’imprimante.\nDepuis le menu principal, sélectionnez “Imprimer” et naviguez jusqu’au fichier enregistré sur la clé USB.\nIMPORTANT : Avant de lancer l’impression, choisissez l’option “Calibrer” pour régler le plateau.\nAppuyez sur le bouton “Imprimer” et confirmez votre sélection."
+    "text": "Coupez l’extrémité du filament à un angle de 45 degrés avec une pince. \nInsérez le nouveau filament dans l’entrée correspondante.\nL’imprimante préchauffera automatiquement la buse pour faciliter l’écoulement du filament.\nUne fois que le filament sort uniformément de la buse, sélectionnez “Confirmer” sur l’écran.\nRetirez le filament imprimé."
   },
   {
     "objectID": "fr/tutorials/tutorial4.html#section-4",
     "href": "fr/tutorials/tutorial4.html#section-4",
     "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
     "section": "",
-    "text": "Observez l’impression de la première couche :\n\nAssurez-vous que le filament adhère correctement au plateau d’impression.\nEn cas de problème (mauvaise adhérence, lignes irrégulières, etc.), interrompez l’impression pour recalibrer ou ajuster les paramètres."
+    "text": "Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.\nChoisissez l’option “Décharger” pour retirer le filament actuel.\nL’imprimante préchauffera la buse pour permettre le retrait facile du filament.\nTirez doucement sur le tube blanc pour mieux voir le filament.\nCoupez le filament avec une pince.\nRetirez le filament précédent et rangez-le correctement.\nAttendez que l’écran indique que la buse est prête (préchauffée).\nCoupez l’extrémité du nouveau filament à un angle de 45 degrés avec une pince.\nInsérez le nouveau filament dans l’entrée correspondante.\nL’imprimante préchauffera automatiquement la buse pour faciliter l’écoulement du filament.\nVérifiez que le filament sort uniformément de la buse.\nRetirez le filament imprimé."
   },
   {
     "objectID": "fr/tutorials/tutorial4.html#vérifiez-létat-de-limprimante",
@@ -1019,13 +1019,314 @@
     "href": "fr/tutorials/tutorial4.html#section-5",
     "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
     "section": "",
-    "text": "Une fois l’impression terminée, attendez que le plateau refroidisse pour éviter tout dommage.\nUtilisez une spatule pour retirer le modèle si nécessaire, en veillant à ne pas rayer la surface."
+    "text": "Insérez la clé USB contenant le fichier G-code dans le port USB de l’imprimante.\nDepuis le menu principal, sélectionnez “Imprimer” et naviguez jusqu’au fichier enregistré sur la clé USB.\nIMPORTANT : Avant de lancer l’impression, choisissez l’option “Calibrer” pour régler le plateau.\nAppuyez sur le bouton “Imprimer” et confirmez votre sélection."
   },
   {
     "objectID": "fr/tutorials/tutorial4.html#section-6",
     "href": "fr/tutorials/tutorial4.html#section-6",
     "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
     "section": "",
+    "text": "Observez l’impression de la première couche :\n\nAssurez-vous que le filament adhère correctement au plateau d’impression.\nEn cas de problème (mauvaise adhérence, lignes irrégulières, etc.), interrompez l’impression pour recalibrer ou ajuster les paramètres."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#section-7",
+    "href": "fr/tutorials/tutorial4.html#section-7",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "",
+    "text": "Une fois l’impression terminée, attendez que le plateau refroidisse pour éviter tout dommage.\nUtilisez une spatule pour retirer le modèle si nécessaire, en veillant à ne pas rayer la surface."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#section-8",
+    "href": "fr/tutorials/tutorial4.html#section-8",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "",
     "text": "Retirez tout résidu de filament de la buse à l’aide d’un outil de nettoyage approprié (disponible au LF2L).\nNettoyez le plateau d’impression avec de l’alcool isopropylique pour éliminer tout adhésif ou filament restant."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial6.html#content",
+    "href": "fr/tutorials/tutorial6.html#content",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "Content",
+    "text": "Content"
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#modèle-3d-au-format-g-code",
+    "href": "fr/tutorials/tutorial4.html#modèle-3d-au-format-g-code",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "1. Modèle 3D au format G-code :",
+    "text": "1. Modèle 3D au format G-code :\nOn a besoin d’un modèle 3D en format stl.\nIl peut être conçu à l’aide d’un logiciel de modélisation 3D (comme Fusion 360 ou Blender).\nOu téléchargez-le depuis des bibliothèques de modèles comme les suivantes:\n\nPrintables\nThingiverse\nMakerworld"
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#logiciel-de-modélisation-3d",
+    "href": "fr/tutorials/tutorial4.html#logiciel-de-modélisation-3d",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "2. Logiciel de modélisation 3D :",
+    "text": "2. Logiciel de modélisation 3D :\nIl peut être conçu à l’aide d’un logiciel de modélisation 3D (comme Fusion 360 ou Blender)."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#bibliothèques-de-modèles",
+    "href": "fr/tutorials/tutorial4.html#bibliothèques-de-modèles",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "3. Bibliothèques de modèles :",
+    "text": "3. Bibliothèques de modèles :\nOu téléchargez-le depuis des bibliothèques de modèles comme les suivantes:\n\nPrintables\nThingiverse\nMakerworld"
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#conversion-en-g-code",
+    "href": "fr/tutorials/tutorial4.html#conversion-en-g-code",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "Conversion en G-code :",
+    "text": "Conversion en G-code :\nCe modèle 3D doit être transformé en fichier G-Code avec tous les paramètres corrects de l’imprimante. On utilise donc un slicer compatible, comme OrcaSlicer."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#enregistrement-sur-clé-usb",
+    "href": "fr/tutorials/tutorial4.html#enregistrement-sur-clé-usb",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "Enregistrement sur clé USB :",
+    "text": "Enregistrement sur clé USB :\nEnregistrez le fichier sur une clé USB compatible. Au LF2L, des clés USB sont mises à votre disposition à côté des imprimantes."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#vérification-de-létat-de-limprimante",
+    "href": "fr/tutorials/tutorial4.html#vérification-de-létat-de-limprimante",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "Vérification de l’état de l’imprimante :",
+    "text": "Vérification de l’état de l’imprimante :\nAssurez-vous que l’imprimante est propre, sans restes de filament sur la buse ni résidus sur le plateau d’impression."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#nettoyage-du-plateau",
+    "href": "fr/tutorials/tutorial4.html#nettoyage-du-plateau",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "Nettoyage du plateau :",
+    "text": "Nettoyage du plateau :\nNettoyez le plateau d’impression avec un morceau d’essuie-tout et de l’alcool isopropylique."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#vérification-de-la-connexion-électrique",
+    "href": "fr/tutorials/tutorial4.html#vérification-de-la-connexion-électrique",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "Vérification de la connexion électrique :",
+    "text": "Vérification de la connexion électrique :\nVérifiez que l’imprimante est connectée à une prise électrique."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#bouton-dalimentation-arrière",
+    "href": "fr/tutorials/tutorial4.html#bouton-dalimentation-arrière",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "Bouton d’alimentation arrière :",
+    "text": "Bouton d’alimentation arrière :\nAppuyez sur le bouton d’alimentation situé à l’arrière, puis sur celui à l’avant."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#attente-de-linitialisation",
+    "href": "fr/tutorials/tutorial4.html#attente-de-linitialisation",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "Attente de l’initialisation :",
+    "text": "Attente de l’initialisation :\nAttendez que le système soit complètement initialisé avant de continuer."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#accéder-au-menu-filament",
+    "href": "fr/tutorials/tutorial4.html#accéder-au-menu-filament",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "1. Accéder au menu “Filament” :",
+    "text": "1. Accéder au menu “Filament” :\nAccédez au menu via l’écran tactile et sélectionnez l’option “Filament”."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#sélectionner-charger",
+    "href": "fr/tutorials/tutorial4.html#sélectionner-charger",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "2. Sélectionner “Charger” :",
+    "text": "2. Sélectionner “Charger” :\nChoisissez l’option “Charger”."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#préparer-le-filament",
+    "href": "fr/tutorials/tutorial4.html#préparer-le-filament",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "3. Préparer le filament :",
+    "text": "3. Préparer le filament :\nCoupez l’extrémité du filament à un angle de 45 degrés avec une pince."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#insérer-le-filament",
+    "href": "fr/tutorials/tutorial4.html#insérer-le-filament",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "4. Insérer le filament :",
+    "text": "4. Insérer le filament :\nInsérez le nouveau filament dans l’entrée correspondante."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#préchauffage-de-la-buse",
+    "href": "fr/tutorials/tutorial4.html#préchauffage-de-la-buse",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "5. Préchauffage de la buse :",
+    "text": "5. Préchauffage de la buse :\nL’imprimante préchauffera automatiquement la buse pour faciliter l’écoulement du filament."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#vérification-du-filament",
+    "href": "fr/tutorials/tutorial4.html#vérification-du-filament",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "6. Vérification du filament :",
+    "text": "6. Vérification du filament :\nUne fois que le filament sort uniformément de la buse, sélectionnez “Confirmer” sur l’écran."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#retirer-le-filament-imprimé",
+    "href": "fr/tutorials/tutorial4.html#retirer-le-filament-imprimé",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "7. Retirer le filament imprimé :",
+    "text": "7. Retirer le filament imprimé :\nRetirez le filament imprimé."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#accéder-au-menu-filament-1",
+    "href": "fr/tutorials/tutorial4.html#accéder-au-menu-filament-1",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "1. Accéder au menu “Filament” :",
+    "text": "1. Accéder au menu “Filament” :\nAccédez au menu via l’écran tactile et sélectionnez l’option “Filament”."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#sélectionner-décharger",
+    "href": "fr/tutorials/tutorial4.html#sélectionner-décharger",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "2. Sélectionner “Décharger” :",
+    "text": "2. Sélectionner “Décharger” :\nChoisissez l’option “Décharger” pour retirer le filament actuel."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#préchauffage-de-la-buse-pour-retrait",
+    "href": "fr/tutorials/tutorial4.html#préchauffage-de-la-buse-pour-retrait",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "3. Préchauffage de la buse pour retrait :",
+    "text": "3. Préchauffage de la buse pour retrait :\nL’imprimante préchauffera la buse pour permettre le retrait facile du filament."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#retirer-le-filament",
+    "href": "fr/tutorials/tutorial4.html#retirer-le-filament",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "4. Retirer le filament :",
+    "text": "4. Retirer le filament :\nTirez doucement sur le tube blanc pour mieux voir le filament."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#couper-le-filament",
+    "href": "fr/tutorials/tutorial4.html#couper-le-filament",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "5. Couper le filament :",
+    "text": "5. Couper le filament :\nCoupez le filament avec une pince."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#retirer-et-ranger-le-filament",
+    "href": "fr/tutorials/tutorial4.html#retirer-et-ranger-le-filament",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "6. Retirer et ranger le filament :",
+    "text": "6. Retirer et ranger le filament :\nRetirez le filament précédent et rangez-le correctement."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#attendre-que-la-buse-soit-prête",
+    "href": "fr/tutorials/tutorial4.html#attendre-que-la-buse-soit-prête",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "7. Attendre que la buse soit prête :",
+    "text": "7. Attendre que la buse soit prête :\nAttendez que l’écran indique que la buse est prête (préchauffée)."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#préparer-le-nouveau-filament",
+    "href": "fr/tutorials/tutorial4.html#préparer-le-nouveau-filament",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "8. Préparer le nouveau filament :",
+    "text": "8. Préparer le nouveau filament :\nCoupez l’extrémité du nouveau filament à un angle de 45 degrés avec une pince."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#insérer-le-nouveau-filament",
+    "href": "fr/tutorials/tutorial4.html#insérer-le-nouveau-filament",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "9. Insérer le nouveau filament :",
+    "text": "9. Insérer le nouveau filament :\nInsérez le nouveau filament dans l’entrée correspondante."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#préchauffage-pour-le-nouveau-filament",
+    "href": "fr/tutorials/tutorial4.html#préchauffage-pour-le-nouveau-filament",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "10. Préchauffage pour le nouveau filament :",
+    "text": "10. Préchauffage pour le nouveau filament :\nL’imprimante préchauffera automatiquement la buse pour faciliter l’écoulement du filament."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#vérification-du-filament-1",
+    "href": "fr/tutorials/tutorial4.html#vérification-du-filament-1",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "11. Vérification du filament :",
+    "text": "11. Vérification du filament :\nVérifiez que le filament sort uniformément de la buse."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#retirer-le-filament-imprimé-1",
+    "href": "fr/tutorials/tutorial4.html#retirer-le-filament-imprimé-1",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "12. Retirer le filament imprimé :",
+    "text": "12. Retirer le filament imprimé :\nRetirez le filament imprimé."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#insérez-la-clé-usb-contenant-le-fichier-g-code-dans-le-port-usb-de-limprimante.",
+    "href": "fr/tutorials/tutorial4.html#insérez-la-clé-usb-contenant-le-fichier-g-code-dans-le-port-usb-de-limprimante.",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "1. Insérez la clé USB contenant le fichier G-code dans le port USB de l’imprimante.",
+    "text": "1. Insérez la clé USB contenant le fichier G-code dans le port USB de l’imprimante."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#depuis-le-menu-principal-sélectionnez-imprimer-et-naviguez-jusquau-fichier-enregistré-sur-la-clé-usb.",
+    "href": "fr/tutorials/tutorial4.html#depuis-le-menu-principal-sélectionnez-imprimer-et-naviguez-jusquau-fichier-enregistré-sur-la-clé-usb.",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "2. Depuis le menu principal, sélectionnez “Imprimer” et naviguez jusqu’au fichier enregistré sur la clé USB.",
+    "text": "2. Depuis le menu principal, sélectionnez “Imprimer” et naviguez jusqu’au fichier enregistré sur la clé USB."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#important-avant-de-lancer-limpression-choisissez-loption-calibrer-pour-régler-le-plateau.",
+    "href": "fr/tutorials/tutorial4.html#important-avant-de-lancer-limpression-choisissez-loption-calibrer-pour-régler-le-plateau.",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "3. IMPORTANT : Avant de lancer l’impression, choisissez l’option “Calibrer” pour régler le plateau.",
+    "text": "3. IMPORTANT : Avant de lancer l’impression, choisissez l’option “Calibrer” pour régler le plateau."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#appuyez-sur-le-bouton-imprimer-et-confirmez-votre-sélection.",
+    "href": "fr/tutorials/tutorial4.html#appuyez-sur-le-bouton-imprimer-et-confirmez-votre-sélection.",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "4. Appuyez sur le bouton “Imprimer” et confirmez votre sélection.",
+    "text": "4. Appuyez sur le bouton “Imprimer” et confirmez votre sélection."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#observez-limpression-de-la-première-couche",
+    "href": "fr/tutorials/tutorial4.html#observez-limpression-de-la-première-couche",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "1. Observez l’impression de la première couche :",
+    "text": "1. Observez l’impression de la première couche :"
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#assurez-vous-que-le-filament-adhère-correctement-au-plateau-dimpression.",
+    "href": "fr/tutorials/tutorial4.html#assurez-vous-que-le-filament-adhère-correctement-au-plateau-dimpression.",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "- Assurez-vous que le filament adhère correctement au plateau d’impression.",
+    "text": "- Assurez-vous que le filament adhère correctement au plateau d’impression."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#en-cas-de-problème-mauvaise-adhérence-lignes-irrégulières-etc.-interrompez-limpression-pour-recalibrer-ou-ajuster-les-paramètres.",
+    "href": "fr/tutorials/tutorial4.html#en-cas-de-problème-mauvaise-adhérence-lignes-irrégulières-etc.-interrompez-limpression-pour-recalibrer-ou-ajuster-les-paramètres.",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "- En cas de problème (mauvaise adhérence, lignes irrégulières, etc.), interrompez l’impression pour recalibrer ou ajuster les paramètres.",
+    "text": "- En cas de problème (mauvaise adhérence, lignes irrégulières, etc.), interrompez l’impression pour recalibrer ou ajuster les paramètres."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#une-fois-limpression-terminée-attendez-que-le-plateau-refroidisse-pour-éviter-tout-dommage.",
+    "href": "fr/tutorials/tutorial4.html#une-fois-limpression-terminée-attendez-que-le-plateau-refroidisse-pour-éviter-tout-dommage.",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "1. Une fois l’impression terminée, attendez que le plateau refroidisse pour éviter tout dommage.",
+    "text": "1. Une fois l’impression terminée, attendez que le plateau refroidisse pour éviter tout dommage."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#utilisez-une-spatule-pour-retirer-le-modèle-si-nécessaire-en-veillant-à-ne-pas-rayer-la-surface.",
+    "href": "fr/tutorials/tutorial4.html#utilisez-une-spatule-pour-retirer-le-modèle-si-nécessaire-en-veillant-à-ne-pas-rayer-la-surface.",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "2. Utilisez une spatule pour retirer le modèle si nécessaire, en veillant à ne pas rayer la surface.",
+    "text": "2. Utilisez une spatule pour retirer le modèle si nécessaire, en veillant à ne pas rayer la surface."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#retirez-tout-résidu-de-filament-de-la-buse-à-laide-dun-outil-de-nettoyage-approprié-disponible-au-lf2l.",
+    "href": "fr/tutorials/tutorial4.html#retirez-tout-résidu-de-filament-de-la-buse-à-laide-dun-outil-de-nettoyage-approprié-disponible-au-lf2l.",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "1. Retirez tout résidu de filament de la buse à l’aide d’un outil de nettoyage approprié (disponible au LF2L).",
+    "text": "1. Retirez tout résidu de filament de la buse à l’aide d’un outil de nettoyage approprié (disponible au LF2L)."
+  },
+  {
+    "objectID": "fr/tutorials/tutorial4.html#nettoyez-le-plateau-dimpression-avec-de-lalcool-isopropylique-pour-éliminer-tout-adhésif-ou-filament-restant.",
+    "href": "fr/tutorials/tutorial4.html#nettoyez-le-plateau-dimpression-avec-de-lalcool-isopropylique-pour-éliminer-tout-adhésif-ou-filament-restant.",
+    "title": "Tutoriel d’utilisation : Flashforge Adventurer 5M Pro",
+    "section": "2. Nettoyez le plateau d’impression avec de l’alcool isopropylique pour éliminer tout adhésif ou filament restant.",
+    "text": "2. Nettoyez le plateau d’impression avec de l’alcool isopropylique pour éliminer tout adhésif ou filament restant."
   }
 ]
