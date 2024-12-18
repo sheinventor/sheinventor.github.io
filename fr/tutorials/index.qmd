@@ -14,7 +14,12 @@ css: ../css/styles.css  # Ruta al archivo CSS
 
 **[Automatisation de CV avec Google Drive](tutorial3.qmd)**
 
-**[Tutoriel d'utilisation : Flashforge Adventurer 5M Pro](tutorial4.qmd)**
+**[PDF Tutoriel d'utilisation : Flashforge Adventurer 5M Pro](tutorial8.qmd)**
+
+**[RevealJS Tutoriel d'utilisation : Flashforge Adventurer 5M Pro](tutorial8.qmd)**
+
+**[Brouillon du Poluet](tutorial7.qmd)** 
+
 
 
 ## **Contact**  

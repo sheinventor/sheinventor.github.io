@@ -1,0 +1,20 @@
+---
+title: "Tutoriel d'utilisation : Flashforge Adventurer 5M ProF"
+format: html
+slide-format: revealjs
+---
+# Tutoriel d'utilisation : Flashforge Adventurer 5M Pro
+
+Version PDF 
+
+<iframe src="../../pdf/TutoFA5MP.pdf" width="1080" height="1080"></iframe>
+
+Version RevealJS 
+
+<div>
+
+```{=html}
+<iframe class="slide-deck" src="tutorial7.qmd"></iframe>
+```
+
+</div>
