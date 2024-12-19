@@ -8,17 +8,12 @@ css: ../css/styles.css  # Ruta al archivo CSS
 ---
 # Tutoriels de Base
 
-**[Introduction à l'Impression 3D ](tutorial1.qmd)**
-
-**[Guia especial Creality CR 10 V3 ](tutorial2.qmd)**
-
-**[Automatisation de CV avec Google Drive](tutorial3.qmd)**
 
 **[PDF Tutoriel d'utilisation : Flashforge Adventurer 5M Pro](tutorial8.qmd)**
 
-**[RevealJS Tutoriel d'utilisation : Flashforge Adventurer 5M Pro](tutorial8.qmd)**
+**[RevealJS Tutoriel d'utilisation : Flashforge Adventurer 5M Pro](tutorial9.qmd)**
 
-**[Brouillon du Poluet](tutorial7.qmd)** 
+
 
 
 
