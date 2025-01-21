@@ -14,6 +14,8 @@ css: ../css/styles.css  # Ruta al archivo CSS
 **[RevealJS Tutoriel d'utilisation : Flashforge Adventurer 5M Pro](tutorial9.qmd)**
 
 
+**[Otra manera ](tutorial10.qmd)**
+
 
 
 
