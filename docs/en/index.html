@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Welcome to SheInventor! – SheInventor</title>
+<title>Listing of tutorials – SheInventor</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../images/icono.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -67,10 +69,95 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-printing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-printing'] = new List('listing-printing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-laser .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-laser'] = new List('listing-laser', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../css/styles.css">
-<link rel="stylesheet" href="../../css/styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -172,10 +259,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#table-of-contents" id="toc-table-of-contents" class="nav-link active" data-scroll-target="#table-of-contents">Table of Contents</a>
-  <ul class="collapse">
-  <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact"><strong>Contact</strong></a></li>
-  </ul></li>
+  <li><a href="#comics" id="toc-comics" class="nav-link active" data-scroll-target="#comics">Comics</a></li>
+  <li><a href="#tutorials" id="toc-tutorials" class="nav-link" data-scroll-target="#tutorials">Tutorials</a></li>
   </ul>
 </nav>
     </div>
@@ -184,7 +269,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome to SheInventor!</h1>
+<h1 class="title">Listing of tutorials</h1>
 </div>
 
 
@@ -201,21 +286,150 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>SheInventor</strong> was created with the goal of breaking gender barriers in technology, combining art, science, and innovation to equip women with the skills needed for future jobs. Since childhood, my objective has been to use my design and teaching skills to help people understand the world around us. This project is my contribution to creating an inclusive space with access to knowledge for everyone, regardless of the stereotypes or limitations we face.</p>
-<section id="table-of-contents" class="level1">
-<h1>Table of Contents</h1>
-<ul>
-<li><p><a href="../en/comics/index.html">Science and personal comics</a></p></li>
-<li><p><a href="../en/tutorials/index.html">Technology tutorials</a></p></li>
-</ul>
-<section id="contact" class="level2">
-<h2 class="anchored" data-anchor-id="contact"><strong>Contact</strong></h2>
-<p>📧 <strong>Email:</strong> contact@sheinventor.com<br>
-🌐 <strong>Social Media:</strong><br>
-<a href="https://www.instagram.com/sheinventor/">Instagram</a> | <a href="https://www.youtube.com/@SheInventor_English">YouTube</a></p>
+<section id="comics" class="level1">
+<h1>Comics</h1>
+<div id="listing-printing" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1738851635175" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
+<a href="../en/comics/Ice.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title" data-anchor-id="comics">
+Facing My Fears on Ice
+</h5>
+<div class="card-text listing-description">
+A long time ago, I had a serious fall while ice skating that left me injured and shaken. The fear of getting back on the ice was overwhelming, but I found the courage and…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1738853404958" data-listing-reading-time-sort="2" data-listing-word-count-sort="361">
+<a href="../en/comics/comic1.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/EMM/Prólogo_EMM-1-2.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Prologue
+</h5>
+<div class="card-text listing-description">
 
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1738851635182" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
+<a href="../en/comics/comic2.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Memories that Shape Lives
+</h5>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 </section>
+<section id="tutorials" class="level1">
+<h1>Tutorials</h1>
+<div id="listing-laser" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1738851635198" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
+<a href="../en/tutorials/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title" data-anchor-id="tutorials">
+Tutorials
+</h5>
+<div class="card-text listing-description">
+<strong>Introduction to 3D Printing</strong>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1738851635201" data-listing-reading-time-sort="2" data-listing-word-count-sort="349">
+<a href="../en/tutorials/tutorial1.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Introduction to 3D Printing
+</h5>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1738851635206" data-listing-reading-time-sort="2" data-listing-word-count-sort="387">
+<a href="../en/tutorials/tutorial2.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Getting Started with 3D Printing
+</h5>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+
+
+
 </section>
 
 </main> <!-- /main -->

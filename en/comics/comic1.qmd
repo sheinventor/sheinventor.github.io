@@ -1,5 +1,6 @@
 ---
 title: "Prologue"
+image: "../../images/EMM/Prólogo_EMM-1-2.png"
 subtitle: "My personal journal, sharing science"
 format:
   revealjs:

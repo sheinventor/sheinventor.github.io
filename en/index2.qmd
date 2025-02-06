@@ -1,0 +1,21 @@
+---
+title: "Welcome to SheInventor!"
+format: 
+  html: 
+    toc: true
+    css: ../../css/styles.css  # Path to the CSS file
+---
+
+**SheInventor** was created with the goal of breaking gender barriers in technology, combining art, science, and innovation to equip women with the skills needed for future jobs. Since childhood, my objective has been to use my design and teaching skills to help people understand the world around us. This project is my contribution to creating an inclusive space with access to knowledge for everyone, regardless of the stereotypes or limitations we face.
+
+# Table of Contents  
+
+- [Science and personal comics](comics/index.qmd)  
+ 
+- [Technology tutorials](tutorials/index.qmd)  
+
+## **Contact**  
+
+📧 **Email:** contact@sheinventor.com  
+🌐 **Social Media:**  
+[Instagram](https://www.instagram.com/sheinventor/) | [YouTube](https://www.youtube.com/@SheInventor_English)  
