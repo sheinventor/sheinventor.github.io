@@ -1,0 +1,71 @@
+---
+title: "Étui pour Microphone Portable DJI Mic 2"
+author: "Paola (SheInventor)"
+date: "`r Sys.Date()`"
+categories: ["Impression 3D", "STEAM", "Électronique", "Makers"]
+format: html
+---
+
+# 📖 Introduction  
+Ce projet consiste en un **étui imprimé en 3D** pour le microphone **DJI Mic 2 (Shadow Black)**. Son design le transforme en un microphone de **reporter portable**, idéal pour les interviews et les tournages en extérieur.
+
+Le design a été réalisé avec **Tinkercad** et **OnShape**, et inclut un système d’ouverture et de fermeture qui protège le microphone et permet son rangement. Un **aimant de 6mm x 3mm** assure la fermeture, et un **autocollant personnalisé** avec le logo de SheInventor a été ajouté.
+
+## 🔧 Matériaux  
+### 📟 Composants électroniques  
+- 1 aimant **6mm x 3mm**  
+- Colle forte  
+
+### 🏗️ Pièces imprimées en 3D  
+- Étui supérieur (**Fichier STL**)  
+- Étui inférieur (**Fichier STL**)  
+
+### 🛠️ Outils et machines  
+- Imprimante 3D (**PLA recommandé**)  
+- Logiciel de tranchage (**PrusaSlicer, Cura, etc.**)  
+- Colle forte pour fixer l’aimant  
+- Ciseaux ou cutter pour appliquer l’autocollant  
+
+## 🏗️ Étapes de Fabrication  
+### 1️⃣ Conception du Projet  
+Le design a été réalisé avec **Tinkercad**, puis affiné sur **OnShape**.  
+[![Aperçu en CAD](chemin_vers_image_cad.png)](chemin_vers_modele_cad)  
+
+Les fichiers STL sont disponibles ici :  
+- [Télécharger l’étui supérieur](chemin_vers_fichier_1.stl)  
+- [Télécharger l’étui inférieur](chemin_vers_fichier_2.stl)  
+
+### 2️⃣ Impression 3D  
+L’impression est recommandée en **PLA avec une résolution de 0.2mm**.  
+- Temps d’impression estimé : **3 heures**  
+- Remplissage recommandé : **20%**  
+
+[![Image de l’impression](chemin_vers_image_impression.png)](chemin_vers_fichier_impression)  
+
+### 3️⃣ Assemblage  
+1. Assembler la partie supérieure avec la partie inférieure.  
+2. Fixer l’aimant avec de la colle forte.  
+3. Appliquer l’autocollant avec le logo **SheInventor**.  
+
+[![Assemblage](chemin_vers_image_assemblage.png)](chemin_vers_fichier_assemblage)  
+
+## 📜 Schémas et Fichiers CAD  
+- [Télécharger les fichiers CAD et STL](chemin_vers_fichiers)  
+
+## 🎨 Personnalisation  
+- Possibilité de changer la couleur de l’étui en utilisant différents filaments.  
+- Ajout d’un autocollant personnalisé avec un logo différent.  
+
+## 🏁 Conclusion  
+Cet étui améliore la portabilité et l’utilisation du **DJI Mic 2** lors des tournages en extérieur. Il peut être adapté pour d’autres microphones de dimensions similaires.  
+
+## 🏆 Crédits  
+- **Conception 3D :** SheInventor  
+- **Inspiration :** Microphones de reportage traditionnels  
+
+## 🏷️ Tags  
+`#Impression3D` `#STEAM` `#Électronique` `#Makers`  
+
+---
+### 💬 Commentaires  
+Si vous avez des questions ou des suggestions, laissez un commentaire ci-dessous !

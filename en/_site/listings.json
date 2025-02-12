@@ -13,5 +13,14 @@
       "/tutorials/tutorial2.html",
       "/tutorials/tutorial3.html"
     ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/about.html",
+      "/index.html",
+      "/index2.html",
+      "/projects/Microfono.html"
+    ]
   }
 ]

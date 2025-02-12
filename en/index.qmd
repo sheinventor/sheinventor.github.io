@@ -20,6 +20,7 @@ listing:
   
 ---
 
+[Access to Projects](/en/projects/Microfono.qmd)  
 # Comics
 
 ::: {#printing}

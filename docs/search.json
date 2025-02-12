@@ -959,6 +959,62 @@
     "text": "Main Technologies and Materials\n\nCommon Technology\nThe most used is Fused Deposition Modeling (FDM), where a plastic filament is heated and extruded to form the object’s layers.\n\n\nMost Common Material: PLA\nPLA (Polylactic Acid) is affordable, easy to use, and less toxic than other materials. However, it has limitations:\n\nNot suitable for constant food contact.\n\nNot recommended for humid or hot environments."
   },
   {
+    "objectID": "en/projects/Microfono.html",
+    "href": "en/projects/Microfono.html",
+    "title": "Étui pour Microphone Portable DJI Mic 2",
+    "section": "",
+    "text": "Ce projet consiste en un étui imprimé en 3D pour le microphone DJI Mic 2 (Shadow Black). Son design le transforme en un microphone de reporter portable, idéal pour les interviews et les tournages en extérieur.\nLe design a été réalisé avec Tinkercad et OnShape, et inclut un système d’ouverture et de fermeture qui protège le microphone et permet son rangement. Un aimant de 6mm x 3mm assure la fermeture, et un autocollant personnalisé avec le logo de SheInventor a été ajouté.\n\n\n\n\n\n1 aimant 6mm x 3mm\n\nColle forte\n\n\n\n\n\nÉtui supérieur (Fichier STL)\n\nÉtui inférieur (Fichier STL)\n\n\n\n\n\nImprimante 3D (PLA recommandé)\n\nLogiciel de tranchage (PrusaSlicer, Cura, etc.)\n\nColle forte pour fixer l’aimant\n\nCiseaux ou cutter pour appliquer l’autocollant\n\n\n\n\n\n\n\nLe design a été réalisé avec Tinkercad, puis affiné sur OnShape.\n\nLes fichiers STL sont disponibles ici :\n- Télécharger l’étui supérieur\n- Télécharger l’étui inférieur\n\n\n\nL’impression est recommandée en PLA avec une résolution de 0.2mm.\n- Temps d’impression estimé : 3 heures\n- Remplissage recommandé : 20%\n\n\n\nImage de l’impression\n\n\n\n\n\n\nAssembler la partie supérieure avec la partie inférieure.\n\nFixer l’aimant avec de la colle forte.\n\nAppliquer l’autocollant avec le logo SheInventor.\n\n\n\n\nAssemblage\n\n\n\n\n\n\n\nTélécharger les fichiers CAD et STL\n\n\n\n\n\nPossibilité de changer la couleur de l’étui en utilisant différents filaments.\n\nAjout d’un autocollant personnalisé avec un logo différent.\n\n\n\n\nCet étui améliore la portabilité et l’utilisation du DJI Mic 2 lors des tournages en extérieur. Il peut être adapté pour d’autres microphones de dimensions similaires.\n\n\n\n\nConception 3D : SheInventor\n\nInspiration : Microphones de reportage traditionnels\n\n\n\n\n#Impression3D #STEAM #Électronique #Makers\n\n\n\nSi vous avez des questions ou des suggestions, laissez un commentaire ci-dessous !"
+  },
+  {
+    "objectID": "en/projects/Microfono.html#matériaux",
+    "href": "en/projects/Microfono.html#matériaux",
+    "title": "Étui pour Microphone Portable DJI Mic 2",
+    "section": "",
+    "text": "1 aimant 6mm x 3mm\n\nColle forte\n\n\n\n\n\nÉtui supérieur (Fichier STL)\n\nÉtui inférieur (Fichier STL)\n\n\n\n\n\nImprimante 3D (PLA recommandé)\n\nLogiciel de tranchage (PrusaSlicer, Cura, etc.)\n\nColle forte pour fixer l’aimant\n\nCiseaux ou cutter pour appliquer l’autocollant"
+  },
+  {
+    "objectID": "en/projects/Microfono.html#étapes-de-fabrication",
+    "href": "en/projects/Microfono.html#étapes-de-fabrication",
+    "title": "Étui pour Microphone Portable DJI Mic 2",
+    "section": "",
+    "text": "Le design a été réalisé avec Tinkercad, puis affiné sur OnShape.\n\nLes fichiers STL sont disponibles ici :\n- Télécharger l’étui supérieur\n- Télécharger l’étui inférieur\n\n\n\nL’impression est recommandée en PLA avec une résolution de 0.2mm.\n- Temps d’impression estimé : 3 heures\n- Remplissage recommandé : 20%\n\n\n\nImage de l’impression\n\n\n\n\n\n\nAssembler la partie supérieure avec la partie inférieure.\n\nFixer l’aimant avec de la colle forte.\n\nAppliquer l’autocollant avec le logo SheInventor.\n\n\n\n\nAssemblage"
+  },
+  {
+    "objectID": "en/projects/Microfono.html#schémas-et-fichiers-cad",
+    "href": "en/projects/Microfono.html#schémas-et-fichiers-cad",
+    "title": "Étui pour Microphone Portable DJI Mic 2",
+    "section": "",
+    "text": "Télécharger les fichiers CAD et STL"
+  },
+  {
+    "objectID": "en/projects/Microfono.html#personnalisation",
+    "href": "en/projects/Microfono.html#personnalisation",
+    "title": "Étui pour Microphone Portable DJI Mic 2",
+    "section": "",
+    "text": "Possibilité de changer la couleur de l’étui en utilisant différents filaments.\n\nAjout d’un autocollant personnalisé avec un logo différent."
+  },
+  {
+    "objectID": "en/projects/Microfono.html#conclusion",
+    "href": "en/projects/Microfono.html#conclusion",
+    "title": "Étui pour Microphone Portable DJI Mic 2",
+    "section": "",
+    "text": "Cet étui améliore la portabilité et l’utilisation du DJI Mic 2 lors des tournages en extérieur. Il peut être adapté pour d’autres microphones de dimensions similaires."
+  },
+  {
+    "objectID": "en/projects/Microfono.html#crédits",
+    "href": "en/projects/Microfono.html#crédits",
+    "title": "Étui pour Microphone Portable DJI Mic 2",
+    "section": "",
+    "text": "Conception 3D : SheInventor\n\nInspiration : Microphones de reportage traditionnels"
+  },
+  {
+    "objectID": "en/projects/Microfono.html#tags",
+    "href": "en/projects/Microfono.html#tags",
+    "title": "Étui pour Microphone Portable DJI Mic 2",
+    "section": "",
+    "text": "#Impression3D #STEAM #Électronique #Makers\n\n\n\nSi vous avez des questions ou des suggestions, laissez un commentaire ci-dessous !"
+  },
+  {
     "objectID": "en/index2.html",
     "href": "en/index2.html",
     "title": "Welcome to SheInventor!",
@@ -1131,7 +1187,14 @@
     "href": "en/index.html",
     "title": "Listing of tutorials",
     "section": "",
-    "text": "Comics\n\n\n\n\n\n\n\n\nFacing My Fears on Ice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrologue\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMemories that Shape Lives\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nTutorials\n\n\n\n\n\n\n\n\nTutorials\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to 3D Printing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGetting Started with 3D Printing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Access to Projects\n# Comics\n\n\n\n\n\n\n\n\nFacing My Fears on Ice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrologue\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMemories that Shape Lives\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nTutorials\n\n\n\n\n\n\n\n\nTutorials\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to 3D Printing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGetting Started with 3D Printing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "en/projects/index.html",
+    "href": "en/projects/index.html",
+    "title": "Previous Projects",
+    "section": "",
+    "text": "3D printing\n\n\n\n\n\n\n\n\nAbout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nListing of tutorials\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to SheInventor!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nÉtui pour Microphone Portable DJI Mic 2\n\n\n\n\n\n\nPaola (SheInventor)\n\n\nInvalid Date\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "en/tutorials/index.html",
