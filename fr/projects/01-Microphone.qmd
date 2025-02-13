@@ -1,7 +1,7 @@
 ---
 title: "Microphone"
 subtitle: "Sheinventor"  
-image: "../../images/PDIY-Microphone/4.jpg" 
+image: "../../images/PDIY-Microphone/5.jpg" 
 email: "paola@univ-lorraine.fr"
 institute: "Sheinventor"
 author: 
@@ -11,7 +11,7 @@ categories: ["Impression 3D", "STEAM", "Électronique", "Makers"]
 
 --- 
 
-
+![Microphone](../../images/PDIY-Microphone/5.png)
 
 # 📖 Introduction  
 Ce projet consiste en un **étui imprimé en 3D** pour le microphone **DJI Mic 2 (Shadow Black)**. Son design le transforme en un microphone de **reporter portable**, idéal pour les interviews et les tournages en extérieur.
