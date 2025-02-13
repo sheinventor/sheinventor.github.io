@@ -1,0 +1,754 @@
+---
+title: "Découpe Laser"
+subtitle: "Ruby Speedy 400"  
+image: "../../images/TUTO-Ruby/1.png" 
+email: "paola@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "Paola VAZQUEZ"
+date: 06-12-2024
+
+format:
+  revealjs:
+    footer: 'Tutorial 1: Comment utiliser la découpeuse laser'
+    header: 'Découpeuse lase'
+--- 
+
+# But du Tutoriel
+## But pédagogique de ce tutorial
+
+1. 🧠 **Connaisences** :    - Domaine de la découpe laser
+1. 🔨 **Savoir-faire** :    - Utiliser la découpeuse laser
+1. ✍**Compéténces:**  :    - Être capable de découper un objet au LF2L   
+
+
+
+
+# Comment allumer la machine
+
+## Démarrage
+
+:::{layout="[40,60]" }
+:::{}
+1. Tournez la clé pour démarrer la machine, en position "i".
+
+2. Tournez à nouveau comme si vous démarriez une voiture (c'est un mouvement qui revient à la position de départ, comme un ressort).
+:::
+:::{}
+![](../../images/TUTO-Ruby/1.png){width="60%" fig-align="center"}
+:::
+:::
+
+## Calibration
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/2.png){width="95%" fig-align="center"}
+
+
+:::
+
+:::{}
+
+La machine commencera une série de calibrations et de vérifications. Un message "appareil pas prêt" apparaîtra. Il faut attendre quelques minutes. Il est important de ne pas toucher au capot pendant ce processus. Si vous le faites, la machine affichera une erreur et il faudra tout redémarrer.
+
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Attendez jusqu'à ce que le message "la file d’attente est vide" apparaisse. À ce moment-là, vous pouvez soulever le capot.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/3.png){width="95%" fig-align="center"}
+:::
+:::
+
+
+
+# Envoyer à graver et couper :
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+
+Le fichier SVG est envoyé à la plateforme en ligne Ruby.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/39.png){width="95%" fig-align="center"}
+:::
+:::
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/40.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Les réglages nécessaires sont générés dans le site.
+
+:::
+:::
+##
+:::{layout="[40,60]"}
+:::{}
+
+Configurez la découpe en faisant attention aux couleurs :
+
+- Rouge : Découpe
+- Noir : Gravure
+
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/41.png){width="95%" fig-align="center"}
+:::
+:::
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/42.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Envoyer le fichier à la liste d’attente de la découpeuse laser.
+
+:::
+:::
+##
+:::{layout="[40,60]"}
+:::{}
+
+La machine doit être allumée. (retour à la rubrique allumer la machine)
+
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/1.png){width="95%" fig-align="center"}
+:::
+:::
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/44.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Ouvrez le capot.
+
+:::
+:::
+##
+:::{layout="[40,60]"}
+:::{}
+
+Placez le matériau dans l’angle supérieur droit.
+
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/45.png){width="95%" fig-align="center"}
+:::
+:::
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/46.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Déplacez la tête de découpe vers une section où se trouve le matériau.
+
+:::
+:::
+##
+:::{layout="[40,60]"}
+:::{}
+
+Appuyez simultanément sur les flèches haut et bas pour que la machine calibre la hauteur du matériau.
+
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/47.png){width="95%" fig-align="center"}
+:::
+:::
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/48.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Attention à sélectionner l’option "point d’accroche au laser" :
+- Avec cette option, la buse commencera à découper à partir de la position actuelle de la machine.
+- Sans cette option, le processus commencera depuis l’origine prédéfinie (angle supérieur gauche).
+
+:::
+:::
+
+
+
+
+
+
+
+
+# Comment nettoyer la machine 
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/4.png){width="95%" fig-align="center"}
+
+
+:::
+
+:::{}
+
+Pour effectuer le nettoyage, il faut prendre en compte les éléments suivants :
+
+- Manipuler avec précaution la lentille et le miroir.
+- Les tenir avec la paume de la main pour éviter qu’ils ne tombent. 
+- Placer un morceau de serviette en dessous pour amortir une éventuelle chute.
+- N'utiliser que les matériaux fournis par le fabmanager.
+- Utiliser un tissu spécial pour le nettoyage, fourni avec la machine. Ce tissu ne doit être utilisé que sur un seul côté de chaque lentille.
+- Le liquide de nettoyage est conçu par le fabricant et est compatible avec les optiques de la machine.
+
+:::
+:::
+
+## Nettoyage du miroir
+
+Manipulez toujours les lentilles et miroirs avec soin, car ce sont des pièces très délicates.
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+Dévissez les deux vis du miroir à la main.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/5.png){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/6.png){width="95%" fig-align="center"}
+
+
+:::
+
+:::{}
+
+Vérifiez les vis et assurez-vous que le miroir est bien sécurisé avant de le retirer.
+
+:::
+:::
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+Retirez délicatement le miroir et placez-le dans un endroit sécurisé.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/7.png){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/8.png){width="95%" fig-align="center"}
+
+
+:::
+
+:::{}
+
+Prenez un bord du papier spécial.
+
+:::
+:::
+##
+:::{layout="[40,60]"}
+:::{}
+
+Pliez le papier plusieurs fois, en veillant à ne pas toucher les parties en contact avec le miroir.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/9.png){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/10.png){width="95%" fig-align="center"}
+
+
+:::
+
+:::{}
+
+Appliquez une goutte de liquide spécial sur le miroir.
+
+:::
+:::
+##
+:::{layout="[40,60]"}
+:::{}
+
+Tenez la paume de votre main en dessous pour garantir que le miroir ne tombe pas.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/11.png){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/12.png){width="95%" fig-align="center"}
+
+
+:::
+
+:::{}
+
+Avec le papier nettoyant, effectuez des mouvements circulaires doux, du centre vers l'extérieur.
+
+:::
+:::
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+Assurez-vous qu’il ne reste aucune trace de graisse.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/13.png){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/14.png){width="95%" fig-align="center"}
+
+
+:::
+
+:::{}
+
+Le liquide contient de l’alcool, attendez son évaporation complète.
+
+:::
+:::
+##
+:::{layout="[40,60]"}
+:::{}
+
+Replacez le miroir en respectant son orientation (la partie plate doit être à l’intérieur du buzz).
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/15.png){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/16.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Maintenez le miroir en place tout en resserrant les vis, sans trop forcer.
+
+:::
+:::
+
+## Nettoyage de la lentille :
+⚠️ Manipulez toujours les lentilles et miroirs avec soin, car ce sont des pièces très délicates.
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+Dévissez la vis rouge pour retirer la lentille noire.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/17.png){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/18.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Tenez la paume de votre main en dessous pour éviter que la lentille ne tombe.
+
+:::
+:::
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+La lentille comporte une flèche et la mention "TOP" indiquant sa position correcte.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/19.png){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/20.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Nettoyez les deux côtés de la lentille, en changeant de tissu à chaque fois.
+
+:::
+:::
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+Découpez un morceau de tissu propre.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/21.png){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/22.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Pliez le tissu plusieurs fois.
+
+:::
+:::
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+Appliquez une goutte de liquide sur la lentille et répartissez-le avec la main.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/23.png){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/24.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Effectuez des mouvements circulaires doux, du centre vers l'extérieur.
+
+:::
+:::
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+Vérifiez sous la lumière pour s’assurer qu’il ne reste aucun résidu, empreinte ou trace de graisse.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/25.png){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/26.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Replacez la lentille et le miroir en respectant la bonne orientation (flèche et "TOP" sur la lentille).
+
+:::
+:::
+
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+
+Serrez les vis sans forcer, juste assez pour maintenir la pièce en place.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/27.png){width="95%" fig-align="center"}
+:::
+:::
+
+## Nettoyage de la buse (nozzle) :
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/28.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Dévissez la buse.
+
+:::
+:::
+
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+
+Appliquez de l’alcool isopropylique sur un morceau de tissu propre.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/29.png){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/30.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Nettoyez les résidus de résine et d’acrylique présents sur la buse.
+
+:::
+:::
+
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+
+Revissez la buse.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/31.png){width="95%" fig-align="center"}
+:::
+:::
+
+# Nettoyage de la grille (avec un aspirateur) :
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/32.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Dévissez les vis situées en diagonale (inférieure droite et supérieure gauche).
+
+:::
+:::
+
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+
+Soulevez la grille et placez-la à côté de la machine.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/33.png){width="95%" fig-align="center"}
+:::
+:::
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/34.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Aspirez les résidus de matériau avec l’aspirateur.
+
+:::
+:::
+
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+
+Replacez la grille avec précaution.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/35.png){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/36.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Revissez les vis.
+
+:::
+:::
+
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+
+Remontez la base de la machine.
+
+:::
+
+:::{}
+![](../../images/TUTO-Ruby/37.png){width="95%" fig-align="center"}
+:::
+:::
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../../images/TUTO-Ruby/38.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Fermez le capot.
+
+:::
+:::
+

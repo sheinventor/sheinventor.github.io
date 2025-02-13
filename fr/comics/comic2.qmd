@@ -1,9 +1,0 @@
----
-title: "C’est quoi le lorraine fab living lab ?"
-author: "LF2L"
-description: "Un espace pour innover, créer et expérimenter à Nancy"
-output: html_document
-css: ../../css/styles.css  # Ruta al archivo CSS
----
-
-<img src="../../images/cquoilf2l.png" alt="Toda la infografía" class="full-width-image" />

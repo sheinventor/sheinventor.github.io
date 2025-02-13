@@ -1,26 +1,13 @@
 [
   {
-    "listing": "/en/index.html",
+    "listing": "/fr/index.html",
     "items": [
-      "/en/comics/Ice.html",
-      "/en/comics/comic1.html",
-      "/en/comics/comic2.html",
-      "/en/comics/index.html",
-      "/en/comics/prueba.html",
-      "/en/comics/emanuel.html",
-      "/en/tutorials/index.html",
-      "/en/tutorials/tutorial1.html",
-      "/en/tutorials/tutorial2.html",
-      "/en/tutorials/tutorial3.html"
-    ]
-  },
-  {
-    "listing": "/en/projects/index.html",
-    "items": [
-      "/en/about.html",
-      "/en/index.html",
-      "/en/index2.html",
-      "/en/projects/Microfono.html"
+      "/fr/comics/index.html",
+      "/fr/tutorials/01-flashforge.html",
+      "/fr/tutorials/02-OrcaSlicer.html",
+      "/fr/tutorials/00-introduction.html",
+      "/fr/tutorials/Ruby.html",
+      "/fr/projects/01-Microphone.html"
     ]
   }
 ]

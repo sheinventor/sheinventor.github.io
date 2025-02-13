@@ -1,20 +1,42 @@
 ---
-title: "Bienvenue à SheInventor!"
-format: 
-  html: 
+title: "Listing of tutorials"
+format:
+  html:
     toc: true
-    css: ../../css/styles.css  # Chemin vers le fichier CSS
+
+listing:
+  - id: comics
+    contents: "comics/*.qmd"
+    max-items: 3
+    sort: "date desc"
+    type: grid
+    categories: false
+  - id: tutorials
+    contents: "tutorials/*.qmd"
+    max-items: 3
+    sort: "date desc"
+    type: grid
+    categories: false
+  - id: projects
+    contents: "projects/*.qmd"
+    max-items: 3
+    sort: "date desc"
+    type: grid
+    categories: false
+  
 ---
 
-**SheInventor** est née dans le but de briser les barrières de genre dans la technologie, en combinant l'art, la science et l'innovation pour former les femmes aux compétences nécessaires pour les emplois de demain. Depuis mon enfance, mon objectif a été d'utiliser mes compétences en design et en enseignement pour aider les gens à comprendre le monde qui nous entoure. Ce projet est ma contribution à la création d'un espace inclusif et d'accès au savoir pour tous, indépendamment des stéréotypes ou des limitations auxquels nous faisons face.
+# comics
 
-# Sommaire  
+::: {#comics}
+:::
 
-- [Bandes dessinées scientifiques et personnelles](comics/index.qmd)    
-- [Tutoriels technologiques](tutorials/index.qmd)  
+# Tutoriales
 
-## **Contact**  
+::: {#tutorials}
+:::
 
-📧 **Email:** contact@sheinventor.com  
-🌐 **Réseaux sociaux:**  
-[Instagram](https://www.instagram.com/sheinventorfr/) | [YouTube](https://www.youtube.com/@Sheinventor_Fran%C3%A7ais)  
+# Projects
+
+::: {#projects}
+:::
