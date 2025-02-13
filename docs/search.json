@@ -651,60 +651,60 @@
     "text": "En prenant la plaque par deux côtés, tordre le légèrement pour décoller l’impression. Si nécessaire, tournez-la de 90 degrés et procédez de la même manière sur les autres côtés."
   },
   {
-    "objectID": "fr/projects/index.html",
-    "href": "fr/projects/index.html",
+    "objectID": "fr/projects/01-Microphone.html",
+    "href": "fr/projects/01-Microphone.html",
     "title": "Microphone",
     "section": "",
-    "text": "Ce projet consiste en un étui imprimé en 3D pour le microphone DJI Mic 2 (Shadow Black). Son design le transforme en un microphone de reporter portable, idéal pour les interviews et les tournages en extérieur.\nLe design a été réalisé avec Tinkercad et OnShape, et inclut un système d’ouverture et de fermeture qui protège le microphone et permet son rangement. Un aimant de 6mm x 3mm assure la fermeture, et un autocollant personnalisé avec le logo de SheInventor a été ajouté.\n\n\n\n\n\n1 aimant 6mm x 3mm\n\nColle forte\n\n\n\n\n\nÉtui supérieur (Fichier STL)\n\nÉtui inférieur (Fichier STL)\n\n\n\n\n\nImprimante 3D (PLA recommandé)\n\nLogiciel de tranchage (PrusaSlicer, Cura, etc.)\n\nColle forte pour fixer l’aimant\n\nCiseaux ou cutter pour appliquer l’autocollant\n\n\n\n\n\n\n\nLe design a été réalisé avec Tinkercad, puis affiné sur OnShape.\n\nLes fichiers STL sont disponibles ici :\n- Télécharger la partie 1\n- Télécharger la partie 2 - Télécharger la partie 3 - Télécharger la partie 4\n\n\n\nL’impression est recommandée en PLA avec une résolution de 0.24mm.\n- Temps d’impression estimé : 6 heures\n- Remplissage recommandé : 15%\n\n\n\nImage de l’impression\n\n\n\n\n\n\nAssembler la partie supérieure avec la partie inférieure.\n\nFixer l’aimant avec de la colle forte.\n\nAppliquer l’autocollant avec le logo SheInventor.\n\n\n\n\nAssemblage\n\n\n\n\n\n\n\nTélécharger les fichiers CAD et STL\n\n\n\n\n\nPossibilité de changer la couleur de l’étui en utilisant différents filaments.\n\nAjout d’un autocollant personnalisé avec un logo différent.\n\n\n\n\nCet étui améliore la portabilité et l’utilisation du DJI Mic 2 lors des tournages en extérieur. Il peut être adapté pour d’autres microphones de dimensions similaires.\n\n\n\n\nConception 3D : SheInventor\n\nInspiration : Microphones de reportage traditionnels\n\n\n\n\n#Impression3D #STEAM #Électronique #Makers\n\n\n\nSi vous avez des questions ou des suggestions, laissez un commentaire ci-dessous !"
+    "text": "Ce projet consiste en un étui imprimé en 3D pour le microphone DJI Mic 2 (Shadow Black). Son design le transforme en un microphone de reporter portable, idéal pour les interviews et les tournages en extérieur.\nLe design a été réalisé avec Tinkercad et OnShape, et inclut un système d’ouverture et de fermeture qui protège le microphone et permet son rangement. Un aimant de 6mm x 3mm assure la fermeture, et un autocollant personnalisé avec le logo de SheInventor a été ajouté.\n\n\n\n1 aimant 6mm x 3mm\n\nImprimante 3D (PLA recommandé)\n\nLogiciel de tranchage (OrcaSlicer)\n\nColle forte pour fixer l’aimant\n\nCiseaux ou cutter pour appliquer l’autocollant\n\n\n\n\n\n\nLe design a été réalisé avec Tinkercad et OnShape.\n\n\n\n\nLes fichiers STL sont disponibles ici :\n- Télécharger la partie 1\n- Télécharger la partie 2 - Télécharger la partie 3 - Télécharger la partie 4\nLe dossier complet : Télécharger en groupe\n\n\n\nL’impression est recommandée en PLA avec une résolution de 0.24mm.\n- Temps d’impression estimé : 6 heures\n- Remplissage recommandé : 15%\n\n\n\nImage de l’impression\n\n\n\n\n\n\nAssembler la partie supérieure avec la partie inférieure.\n\nFixer l’aimant avec de la colle forte.\n\nAppliquer l’autocollant avec le logo SheInventor.\n\n\n\n\nAssemblage\n\n\n\n\n\n\n\nTélécharger les fichiers CAD et STL\n\n\n\n\n\nPossibilité de changer la couleur de l’étui en utilisant différents filaments.\n\nAjout d’un autocollant personnalisé avec un logo différent.\n\n\n\n\nCet étui améliore la portabilité et l’utilisation du DJI Mic 2 lors des tournages en extérieur. Il peut être adapté pour d’autres microphones de dimensions similaires.\n\n\n\n\nConception 3D : SheInventor\n\nInspiration : Microphones de reportage traditionnels\n\n\n\n\n#Impression3D #STEAM #Électronique #Makers\n\n\n\nSi vous avez des questions ou des suggestions, laissez un commentaire ci-dessous ! PROXIMAMENTE"
   },
   {
-    "objectID": "fr/projects/index.html#matériaux",
-    "href": "fr/projects/index.html#matériaux",
+    "objectID": "fr/projects/01-Microphone.html#matériaux-outils-et-machines",
+    "href": "fr/projects/01-Microphone.html#matériaux-outils-et-machines",
     "title": "Microphone",
     "section": "",
-    "text": "1 aimant 6mm x 3mm\n\nColle forte\n\n\n\n\n\nÉtui supérieur (Fichier STL)\n\nÉtui inférieur (Fichier STL)\n\n\n\n\n\nImprimante 3D (PLA recommandé)\n\nLogiciel de tranchage (PrusaSlicer, Cura, etc.)\n\nColle forte pour fixer l’aimant\n\nCiseaux ou cutter pour appliquer l’autocollant"
+    "text": "1 aimant 6mm x 3mm\n\nImprimante 3D (PLA recommandé)\n\nLogiciel de tranchage (OrcaSlicer)\n\nColle forte pour fixer l’aimant\n\nCiseaux ou cutter pour appliquer l’autocollant"
   },
   {
-    "objectID": "fr/projects/index.html#étapes-de-fabrication",
-    "href": "fr/projects/index.html#étapes-de-fabrication",
+    "objectID": "fr/projects/01-Microphone.html#étapes-de-fabrication",
+    "href": "fr/projects/01-Microphone.html#étapes-de-fabrication",
     "title": "Microphone",
     "section": "",
-    "text": "Le design a été réalisé avec Tinkercad, puis affiné sur OnShape.\n\nLes fichiers STL sont disponibles ici :\n- Télécharger la partie 1\n- Télécharger la partie 2 - Télécharger la partie 3 - Télécharger la partie 4\n\n\n\nL’impression est recommandée en PLA avec une résolution de 0.24mm.\n- Temps d’impression estimé : 6 heures\n- Remplissage recommandé : 15%\n\n\n\nImage de l’impression\n\n\n\n\n\n\nAssembler la partie supérieure avec la partie inférieure.\n\nFixer l’aimant avec de la colle forte.\n\nAppliquer l’autocollant avec le logo SheInventor.\n\n\n\n\nAssemblage"
+    "text": "Le design a été réalisé avec Tinkercad et OnShape.\n\n\n\n\nLes fichiers STL sont disponibles ici :\n- Télécharger la partie 1\n- Télécharger la partie 2 - Télécharger la partie 3 - Télécharger la partie 4\nLe dossier complet : Télécharger en groupe\n\n\n\nL’impression est recommandée en PLA avec une résolution de 0.24mm.\n- Temps d’impression estimé : 6 heures\n- Remplissage recommandé : 15%\n\n\n\nImage de l’impression\n\n\n\n\n\n\nAssembler la partie supérieure avec la partie inférieure.\n\nFixer l’aimant avec de la colle forte.\n\nAppliquer l’autocollant avec le logo SheInventor.\n\n\n\n\nAssemblage"
   },
   {
-    "objectID": "fr/projects/index.html#schémas-et-fichiers-cad",
-    "href": "fr/projects/index.html#schémas-et-fichiers-cad",
+    "objectID": "fr/projects/01-Microphone.html#schémas-et-fichiers-cad",
+    "href": "fr/projects/01-Microphone.html#schémas-et-fichiers-cad",
     "title": "Microphone",
     "section": "",
     "text": "Télécharger les fichiers CAD et STL"
   },
   {
-    "objectID": "fr/projects/index.html#personnalisation",
-    "href": "fr/projects/index.html#personnalisation",
+    "objectID": "fr/projects/01-Microphone.html#personnalisation",
+    "href": "fr/projects/01-Microphone.html#personnalisation",
     "title": "Microphone",
     "section": "",
     "text": "Possibilité de changer la couleur de l’étui en utilisant différents filaments.\n\nAjout d’un autocollant personnalisé avec un logo différent."
   },
   {
-    "objectID": "fr/projects/index.html#conclusion",
-    "href": "fr/projects/index.html#conclusion",
+    "objectID": "fr/projects/01-Microphone.html#conclusion",
+    "href": "fr/projects/01-Microphone.html#conclusion",
     "title": "Microphone",
     "section": "",
     "text": "Cet étui améliore la portabilité et l’utilisation du DJI Mic 2 lors des tournages en extérieur. Il peut être adapté pour d’autres microphones de dimensions similaires."
   },
   {
-    "objectID": "fr/projects/index.html#crédits",
-    "href": "fr/projects/index.html#crédits",
+    "objectID": "fr/projects/01-Microphone.html#crédits",
+    "href": "fr/projects/01-Microphone.html#crédits",
     "title": "Microphone",
     "section": "",
     "text": "Conception 3D : SheInventor\n\nInspiration : Microphones de reportage traditionnels"
   },
   {
-    "objectID": "fr/projects/index.html#tags",
-    "href": "fr/projects/index.html#tags",
+    "objectID": "fr/projects/01-Microphone.html#tags",
+    "href": "fr/projects/01-Microphone.html#tags",
     "title": "Microphone",
     "section": "",
-    "text": "#Impression3D #STEAM #Électronique #Makers\n\n\n\nSi vous avez des questions ou des suggestions, laissez un commentaire ci-dessous !"
+    "text": "#Impression3D #STEAM #Électronique #Makers\n\n\n\nSi vous avez des questions ou des suggestions, laissez un commentaire ci-dessous ! PROXIMAMENTE"
   },
   {
     "objectID": "fr/index.html",
@@ -1041,61 +1041,5 @@
     "title": "Bienvenida a Sheinventor",
     "section": "",
     "text": "Selecciona tu idioma\n\nEnglish Español Français"
-  },
-  {
-    "objectID": "fr/projects/01-Microphone.html",
-    "href": "fr/projects/01-Microphone.html",
-    "title": "Microphone",
-    "section": "",
-    "text": "Ce projet consiste en un étui imprimé en 3D pour le microphone DJI Mic 2 (Shadow Black). Son design le transforme en un microphone de reporter portable, idéal pour les interviews et les tournages en extérieur.\nLe design a été réalisé avec Tinkercad et OnShape, et inclut un système d’ouverture et de fermeture qui protège le microphone et permet son rangement. Un aimant de 6mm x 3mm assure la fermeture, et un autocollant personnalisé avec le logo de SheInventor a été ajouté.\n\n\n\n\n\n1 aimant 6mm x 3mm\n\nColle forte\n\n\n\n\n\nImprimante 3D (PLA recommandé)\n\nLogiciel de tranchage (OrcaSlicer)\n\nColle forte pour fixer l’aimant\n\nCiseaux ou cutter pour appliquer l’autocollant\n\n\n\n\n\n\n\nLe design a été réalisé avec Tinkercad et OnShape.\n[]\n\n\n\nLes fichiers STL sont disponibles ici :\n- Télécharger la partie 1\n- Télécharger la partie 2 - Télécharger la partie 3 - Télécharger la partie 4\nLe dossier complet : Télécharger en groupe\n\n\n\nL’impression est recommandée en PLA avec une résolution de 0.24mm.\n- Temps d’impression estimé : 6 heures\n- Remplissage recommandé : 15%\n\n\n\nImage de l’impression\n\n\n\n\n\n\nAssembler la partie supérieure avec la partie inférieure.\n\nFixer l’aimant avec de la colle forte.\n\nAppliquer l’autocollant avec le logo SheInventor.\n\n\n\n\nAssemblage\n\n\n\n\n\n\n\nTélécharger les fichiers CAD et STL\n\n\n\n\n\nPossibilité de changer la couleur de l’étui en utilisant différents filaments.\n\nAjout d’un autocollant personnalisé avec un logo différent.\n\n\n\n\nCet étui améliore la portabilité et l’utilisation du DJI Mic 2 lors des tournages en extérieur. Il peut être adapté pour d’autres microphones de dimensions similaires.\n\n\n\n\nConception 3D : SheInventor\n\nInspiration : Microphones de reportage traditionnels\n\n\n\n\n#Impression3D #STEAM #Électronique #Makers\n\n\n\nSi vous avez des questions ou des suggestions, laissez un commentaire ci-dessous ! PROXIMAMENTE"
-  },
-  {
-    "objectID": "fr/projects/01-Microphone.html#matériaux",
-    "href": "fr/projects/01-Microphone.html#matériaux",
-    "title": "Microphone",
-    "section": "",
-    "text": "1 aimant 6mm x 3mm\n\nColle forte\n\n\n\n\n\nImprimante 3D (PLA recommandé)\n\nLogiciel de tranchage (OrcaSlicer)\n\nColle forte pour fixer l’aimant\n\nCiseaux ou cutter pour appliquer l’autocollant"
-  },
-  {
-    "objectID": "fr/projects/01-Microphone.html#étapes-de-fabrication",
-    "href": "fr/projects/01-Microphone.html#étapes-de-fabrication",
-    "title": "Microphone",
-    "section": "",
-    "text": "Le design a été réalisé avec Tinkercad et OnShape.\n[]\n\n\n\nLes fichiers STL sont disponibles ici :\n- Télécharger la partie 1\n- Télécharger la partie 2 - Télécharger la partie 3 - Télécharger la partie 4\nLe dossier complet : Télécharger en groupe\n\n\n\nL’impression est recommandée en PLA avec une résolution de 0.24mm.\n- Temps d’impression estimé : 6 heures\n- Remplissage recommandé : 15%\n\n\n\nImage de l’impression\n\n\n\n\n\n\nAssembler la partie supérieure avec la partie inférieure.\n\nFixer l’aimant avec de la colle forte.\n\nAppliquer l’autocollant avec le logo SheInventor.\n\n\n\n\nAssemblage"
-  },
-  {
-    "objectID": "fr/projects/01-Microphone.html#schémas-et-fichiers-cad",
-    "href": "fr/projects/01-Microphone.html#schémas-et-fichiers-cad",
-    "title": "Microphone",
-    "section": "",
-    "text": "Télécharger les fichiers CAD et STL"
-  },
-  {
-    "objectID": "fr/projects/01-Microphone.html#personnalisation",
-    "href": "fr/projects/01-Microphone.html#personnalisation",
-    "title": "Microphone",
-    "section": "",
-    "text": "Possibilité de changer la couleur de l’étui en utilisant différents filaments.\n\nAjout d’un autocollant personnalisé avec un logo différent."
-  },
-  {
-    "objectID": "fr/projects/01-Microphone.html#conclusion",
-    "href": "fr/projects/01-Microphone.html#conclusion",
-    "title": "Microphone",
-    "section": "",
-    "text": "Cet étui améliore la portabilité et l’utilisation du DJI Mic 2 lors des tournages en extérieur. Il peut être adapté pour d’autres microphones de dimensions similaires."
-  },
-  {
-    "objectID": "fr/projects/01-Microphone.html#crédits",
-    "href": "fr/projects/01-Microphone.html#crédits",
-    "title": "Microphone",
-    "section": "",
-    "text": "Conception 3D : SheInventor\n\nInspiration : Microphones de reportage traditionnels"
-  },
-  {
-    "objectID": "fr/projects/01-Microphone.html#tags",
-    "href": "fr/projects/01-Microphone.html#tags",
-    "title": "Microphone",
-    "section": "",
-    "text": "#Impression3D #STEAM #Électronique #Makers\n\n\n\nSi vous avez des questions ou des suggestions, laissez un commentaire ci-dessous ! PROXIMAMENTE"
   }
 ]
