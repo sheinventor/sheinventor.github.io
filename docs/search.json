@@ -380,273 +380,273 @@
   {
     "objectID": "fr/tutorials/01-flashforge.html#but-pédagogique-de-ce-tutoriel",
     "href": "fr/tutorials/01-flashforge.html#but-pédagogique-de-ce-tutoriel",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "But pédagogique de ce tutoriel",
     "text": "But pédagogique de ce tutoriel\n\n🧠 Connaisences :\n\nDomaine de l’Impression 3D\n\n🔨 Savoir-faire :\n\nUtiliser la machine d’impression 3D Flashforge Adventurer 5M Pro\n\n✍Compéténces: :\n\nPouvoir imprimer un objet au LF2L"
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#comment-imprimer-en-3d-1",
     "href": "fr/tutorials/01-flashforge.html#comment-imprimer-en-3d-1",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "Comment imprimer en 3D ?",
     "text": "Comment imprimer en 3D ?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIl faut trois étapes:\n1) Model CAO → 2) Processus de ‘Slicing’ → 3) Fichier .Gcode"
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#modèle-cao",
     "href": "fr/tutorials/01-flashforge.html#modèle-cao",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "Modèle CAO",
     "text": "Modèle CAO\n\n\n\n\n\n\n\nBut\n\n\nObtenir le modèle CAO utile pour l’impression 3D.\n\n\n\n\nObtention d’un modèle CAO\n\n\n\n\n\n\nLogiciel de CAO\nIl peut etre conçu à l’aide d’un logiciel de modélisation 3D\n\nFusion 360\nBlender\n⚠️ Onshape\n\n\n\n\n\n\n\n\nBibliothèques de modèles\nTéléchargez-les depuis sites comme les suivantes:\n\nThingiverse\nPrintables\n\nMakerWorld\n\n\n\n\n\n\n\n\n\nObtention d’un modèle → CAO Onshape\nLe but est d’obtenir le modèle CAO en fichier .STL"
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#processus-de-slicing",
     "href": "fr/tutorials/01-flashforge.html#processus-de-slicing",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "Processus de Slicing",
     "text": "Processus de Slicing\n\n\n\n\n\n\n\nBut\n\n\nTransformer le modèle .STL en un fichier machine .GCODE\n\n\n\n\n\nCe model 3D doit etre transformer en fichier G-Code, avec tous les parametrages correctets de notre imprimante, on utilise donc un slicer compatible, comme OrcaSlicer.\n\nPour un tutoriel plus en profondie, clické ici: lien"
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-1",
     "href": "fr/tutorials/01-flashforge.html#section-1",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Enregistrez le fichier (format G-code) sur une clé USB compatible.\n\nAu LF2L, des clés USB sont mises à votre disposition à côté des imprimantes."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-2",
     "href": "fr/tutorials/01-flashforge.html#section-2",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Assurez-vous que l’imprimante est propre, sans restes de filament sur la buse ni résidus sur le plateau d’impression."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-3",
     "href": "fr/tutorials/01-flashforge.html#section-3",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Nettoyez le plateau d’impression avec un morceau d’essuie-tout et de l’alcool isopropylique."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-4",
     "href": "fr/tutorials/01-flashforge.html#section-4",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Vérifiez que l’imprimante est connectée à une prise électrique.\nAppuyez sur le bouton d’alimentation situé à l’arrière, puis sur celui à l’avant."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-5",
     "href": "fr/tutorials/01-flashforge.html#section-5",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Attendez que le système soit complètement initialisé avant de continuer."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-6",
     "href": "fr/tutorials/01-flashforge.html#section-6",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "L’imprimante est bien allumée quand ce écran est montrée"
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-7",
     "href": "fr/tutorials/01-flashforge.html#section-7",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Placez le filament à l’arrière de l’imprimante."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-8",
     "href": "fr/tutorials/01-flashforge.html#section-8",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Ouvrez la porte du haut"
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.",
     "href": "fr/tutorials/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté.",
     "text": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-9",
     "href": "fr/tutorials/01-flashforge.html#section-9",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.\nChoisissez l’option “Changer de Filament”."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#attendez-que-la-température-atteigne-220-c",
     "href": "fr/tutorials/01-flashforge.html#attendez-que-la-température-atteigne-220-c",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "Attendez que la température atteigne 220 °C",
     "text": "Attendez que la température atteigne 220 °C"
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-10",
     "href": "fr/tutorials/01-flashforge.html#section-10",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Insérez le filament dans l’extrudeuse comme indiqué sur l’image. Si cela est fait correctement, l’imprimante le détectera et l’extrudera."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#limprimante-extrudera-du-filament-pendant-un-moment-ce-qui-est-nécessaire-pour-nettoyer-tout-reste-de-filament-précédent.",
     "href": "fr/tutorials/01-flashforge.html#limprimante-extrudera-du-filament-pendant-un-moment-ce-qui-est-nécessaire-pour-nettoyer-tout-reste-de-filament-précédent.",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "L’imprimante extrudera du filament pendant un moment, ce qui est nécessaire pour nettoyer tout reste de filament précédent.",
     "text": "L’imprimante extrudera du filament pendant un moment, ce qui est nécessaire pour nettoyer tout reste de filament précédent."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-11",
     "href": "fr/tutorials/01-flashforge.html#section-11",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Retirez le filament imprimé."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-12",
     "href": "fr/tutorials/01-flashforge.html#section-12",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Ouvrez la porte du haut"
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-13",
     "href": "fr/tutorials/01-flashforge.html#section-13",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Retirez le tube blanc et coupez l’ancien filament à l’aide d’une pince\n\nRemarque : Les pinces se trouvent soit à côté des imprimantes. Si ce n’est pas le cas, demandez-les aux FabManagers."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-14",
     "href": "fr/tutorials/01-flashforge.html#section-14",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Retirez le filament du tube blanc en tirant doucement avec la bobine, puis fixez son extrémité dans la bobine pour l’empêcher de se dérouler"
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-15",
     "href": "fr/tutorials/01-flashforge.html#section-15",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Placez le nouveau filament sur la base située à l’arrière de l’imprimante."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.-1",
     "href": "fr/tutorials/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.-1",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté.",
     "text": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-16",
     "href": "fr/tutorials/01-flashforge.html#section-16",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.\nChoisissez l’option “Changer de Filament” et “Démarrer”"
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#attendez-que-la-température-atteigne-220-c-1",
     "href": "fr/tutorials/01-flashforge.html#attendez-que-la-température-atteigne-220-c-1",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "Attendez que la température atteigne 220 °C",
     "text": "Attendez que la température atteigne 220 °C"
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-17",
     "href": "fr/tutorials/01-flashforge.html#section-17",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Insérez le filament dans l’extrudeuse comme indiqué sur l’image. Si cela est fait correctement, l’imprimante le détectera et l’extrudera."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#limprimante-extrudera-un-moment-pour-nettoyer-le-filament-précédent.-vérifiez-lextrusion-sinon-redémarrez-le-processus.",
     "href": "fr/tutorials/01-flashforge.html#limprimante-extrudera-un-moment-pour-nettoyer-le-filament-précédent.-vérifiez-lextrusion-sinon-redémarrez-le-processus.",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "L’imprimante extrudera un moment pour nettoyer le filament précédent. Vérifiez l’extrusion, sinon, redémarrez le processus.",
     "text": "L’imprimante extrudera un moment pour nettoyer le filament précédent. Vérifiez l’extrusion, sinon, redémarrez le processus."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-18",
     "href": "fr/tutorials/01-flashforge.html#section-18",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Retirez le filament imprimé."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-19",
     "href": "fr/tutorials/01-flashforge.html#section-19",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Insérez la clé USB contenant le fichier G-code dans le port USB de l’imprimante."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-20",
     "href": "fr/tutorials/01-flashforge.html#section-20",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Depuis le menu principal, sélectionnez “Imprimer” et naviguez jusqu’au fichier enregistré sur la clé USB."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-21",
     "href": "fr/tutorials/01-flashforge.html#section-21",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "IMPORTANT : Avant de lancer l’impression, choisissez l’option “Calibrer” pour régler le plateau."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-22",
     "href": "fr/tutorials/01-flashforge.html#section-22",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Appuyez sur le bouton “Imprimer” et confirmez votre sélection."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#limprimante-prendra-du-temps-à-imprimer-en-raison-de-la-nécessité-de-chauffer-le-buzzer.",
     "href": "fr/tutorials/01-flashforge.html#limprimante-prendra-du-temps-à-imprimer-en-raison-de-la-nécessité-de-chauffer-le-buzzer.",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "L’imprimante prendra du temps à imprimer en raison de la nécessité de chauffer le buzzer.",
     "text": "L’imprimante prendra du temps à imprimer en raison de la nécessité de chauffer le buzzer."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-23",
     "href": "fr/tutorials/01-flashforge.html#section-23",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Observez l’impression de la première couche :"
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-24",
     "href": "fr/tutorials/01-flashforge.html#section-24",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Assurez-vous que le filament adhère correctement au plateau d’impression."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-25",
     "href": "fr/tutorials/01-flashforge.html#section-25",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "En cas de problème (mauvaise adhérence, lignes irrégulières, etc.), interrompez l’impression pour recalibrer ou ajuster les paramètres."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-26",
     "href": "fr/tutorials/01-flashforge.html#section-26",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Une fois l’impression terminée, attendez que le plateau refroidisse pour éviter tout dommage."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-27",
     "href": "fr/tutorials/01-flashforge.html#section-27",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "Prendre la poignée grise de la plaque d’impression et exercer une légère pression vers le haut."
   },
   {
     "objectID": "fr/tutorials/01-flashforge.html#section-28",
     "href": "fr/tutorials/01-flashforge.html#section-28",
-    "title": "Tutoriel d’utilisation :",
+    "title": "Impression 3D avec Flashforge Adventurer 5M Pro :",
     "section": "",
     "text": "En prenant la plaque par deux côtés, tordre le légèrement pour décoller l’impression. Si nécessaire, tournez-la de 90 degrés et procédez de la même manière sur les autres côtés."
   },
@@ -655,63 +655,63 @@
     "href": "fr/projects/01-Microphone.html",
     "title": "Microphone",
     "section": "",
-    "text": "Ce projet consiste en un étui imprimé en 3D pour le microphone DJI Mic 2 (Shadow Black). Son design le transforme en un microphone de reporter portable, idéal pour les interviews et les tournages en extérieur.\nLe design a été réalisé avec Tinkercad et OnShape, et inclut un système d’ouverture et de fermeture qui protège le microphone et permet son rangement. Un aimant de 6mm x 3mm assure la fermeture, et un autocollant personnalisé avec le logo de SheInventor a été ajouté.\n\n\n\n1 aimant 6mm x 3mm\n\nImprimante 3D (PLA recommandé)\n\nLogiciel de tranchage (OrcaSlicer)\n\nColle forte pour fixer l’aimant\n\nCiseaux ou cutter pour appliquer l’autocollant\n\n\n\n\n\n\nLe design a été réalisé avec Tinkercad et OnShape.\n\n\n\n\nLes fichiers STL sont disponibles ici :\n- Télécharger la partie 1\n- Télécharger la partie 2 - Télécharger la partie 3 - Télécharger la partie 4\nLe dossier complet : Télécharger en groupe\n\n\n\nL’impression est recommandée en PLA avec une résolution de 0.24mm.\n- Temps d’impression estimé : 6 heures\n- Remplissage recommandé : 15%\n\n\n\nImage de l’impression\n\n\n\n\n\n\nAssembler la partie supérieure avec la partie inférieure.\n\nFixer l’aimant avec de la colle forte.\n\nAppliquer l’autocollant avec le logo SheInventor.\n\n\n\n\nAssemblage\n\n\n\n\n\n\n\nTélécharger les fichiers CAD et STL\n\n\n\n\n\nPossibilité de changer la couleur de l’étui en utilisant différents filaments.\n\nAjout d’un autocollant personnalisé avec un logo différent.\n\n\n\n\nCet étui améliore la portabilité et l’utilisation du DJI Mic 2 lors des tournages en extérieur. Il peut être adapté pour d’autres microphones de dimensions similaires.\n\n\n\n\nConception 3D : SheInventor\n\nInspiration : Microphones de reportage traditionnels\n\n\n\n\n#Impression3D #STEAM #Électronique #Makers\n\n\n\nSi vous avez des questions ou des suggestions, laissez un commentaire ci-dessous ! PROXIMAMENTE"
+    "text": "Microphone"
   },
   {
     "objectID": "fr/projects/01-Microphone.html#matériaux-outils-et-machines",
     "href": "fr/projects/01-Microphone.html#matériaux-outils-et-machines",
     "title": "Microphone",
-    "section": "",
-    "text": "1 aimant 6mm x 3mm\n\nImprimante 3D (PLA recommandé)\n\nLogiciel de tranchage (OrcaSlicer)\n\nColle forte pour fixer l’aimant\n\nCiseaux ou cutter pour appliquer l’autocollant"
+    "section": "🔧 Matériaux, Outils et machines",
+    "text": "🔧 Matériaux, Outils et machines\n\n1 aimant 6mm x 3mm\n\nImprimante 3D (PLA recommandé)\n\nLogiciel de tranchage (OrcaSlicer)\n\nColle forte pour fixer l’aimant\n\nCiseaux ou cutter pour appliquer l’autocollant"
   },
   {
     "objectID": "fr/projects/01-Microphone.html#étapes-de-fabrication",
     "href": "fr/projects/01-Microphone.html#étapes-de-fabrication",
     "title": "Microphone",
-    "section": "",
-    "text": "Le design a été réalisé avec Tinkercad et OnShape.\n\n\n\n\nLes fichiers STL sont disponibles ici :\n- Télécharger la partie 1\n- Télécharger la partie 2 - Télécharger la partie 3 - Télécharger la partie 4\nLe dossier complet : Télécharger en groupe\n\n\n\nL’impression est recommandée en PLA avec une résolution de 0.24mm.\n- Temps d’impression estimé : 6 heures\n- Remplissage recommandé : 15%\n\n\n\nImage de l’impression\n\n\n\n\n\n\nAssembler la partie supérieure avec la partie inférieure.\n\nFixer l’aimant avec de la colle forte.\n\nAppliquer l’autocollant avec le logo SheInventor.\n\n\n\n\nAssemblage"
+    "section": "🏗️ Étapes de Fabrication",
+    "text": "🏗️ Étapes de Fabrication\n\n1️⃣ Conception du Projet\nLe design a été réalisé avec Tinkercad et OnShape.\n\n\n\n🏗️ Pièces imprimées en 3D\nLes fichiers STL sont disponibles ici :\n- Télécharger la partie 1\n- Télécharger la partie 2 - Télécharger la partie 3 - Télécharger la partie 4\nLe dossier complet : Télécharger en groupe\n\n\n2️⃣ Impression 3D\nL’impression est recommandée en PLA avec une résolution de 0.24mm.\n- Temps d’impression estimé : 6 heures\n- Remplissage recommandé : 15%\n\n\n\nImage de l’impression\n\n\n\n\n3️⃣ Assemblage\n\nAssembler la partie supérieure avec la partie inférieure.\n\nFixer l’aimant avec de la colle forte.\n\nAppliquer l’autocollant avec le logo SheInventor.\n\n\n\n\nAssemblage"
   },
   {
     "objectID": "fr/projects/01-Microphone.html#schémas-et-fichiers-cad",
     "href": "fr/projects/01-Microphone.html#schémas-et-fichiers-cad",
     "title": "Microphone",
-    "section": "",
-    "text": "Télécharger les fichiers CAD et STL"
+    "section": "📜 Schémas et Fichiers CAD",
+    "text": "📜 Schémas et Fichiers CAD\n\nTélécharger les fichiers CAD et STL"
   },
   {
     "objectID": "fr/projects/01-Microphone.html#personnalisation",
     "href": "fr/projects/01-Microphone.html#personnalisation",
     "title": "Microphone",
-    "section": "",
-    "text": "Possibilité de changer la couleur de l’étui en utilisant différents filaments.\n\nAjout d’un autocollant personnalisé avec un logo différent."
+    "section": "🎨 Personnalisation",
+    "text": "🎨 Personnalisation\n\nPossibilité de changer la couleur de l’étui en utilisant différents filaments.\n\nAjout d’un autocollant personnalisé avec un logo différent."
   },
   {
     "objectID": "fr/projects/01-Microphone.html#conclusion",
     "href": "fr/projects/01-Microphone.html#conclusion",
     "title": "Microphone",
-    "section": "",
-    "text": "Cet étui améliore la portabilité et l’utilisation du DJI Mic 2 lors des tournages en extérieur. Il peut être adapté pour d’autres microphones de dimensions similaires."
+    "section": "🏁 Conclusion",
+    "text": "🏁 Conclusion\nCet étui améliore la portabilité et l’utilisation du DJI Mic 2 lors des tournages en extérieur. Il peut être adapté pour d’autres microphones de dimensions similaires."
   },
   {
     "objectID": "fr/projects/01-Microphone.html#crédits",
     "href": "fr/projects/01-Microphone.html#crédits",
     "title": "Microphone",
-    "section": "",
-    "text": "Conception 3D : SheInventor\n\nInspiration : Microphones de reportage traditionnels"
+    "section": "🏆 Crédits",
+    "text": "🏆 Crédits\n\nConception 3D : SheInventor\n\nInspiration : Microphones de reportage traditionnels"
   },
   {
     "objectID": "fr/projects/01-Microphone.html#tags",
     "href": "fr/projects/01-Microphone.html#tags",
     "title": "Microphone",
-    "section": "",
-    "text": "#Impression3D #STEAM #Électronique #Makers\n\n\n\nSi vous avez des questions ou des suggestions, laissez un commentaire ci-dessous ! PROXIMAMENTE"
+    "section": "🏷️ Tags",
+    "text": "🏷️ Tags\n#Impression3D #STEAM #Électronique #Makers\n\n\n💬 Commentaires\nSi vous avez des questions ou des suggestions, laissez un commentaire ci-dessous ! PROXIMAMENTE"
   },
   {
     "objectID": "fr/index.html",
     "href": "fr/index.html",
     "title": "Listing of tutorials",
     "section": "",
-    "text": "comics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nTutoriales\n\n\n\n\n\n\n\n\nTutoriel d’utilisation :\n\n\n\n\n\n\nPaola\n\n\n\n\n\n\n\n\n\n\n\n\nUtilisation de OrcaSlicer avec Forge Adventurer M5 Pro\n\n\n\n\n\n\nPaola\n\n\nJun 1, 2027\n\n\n\n\n\n\n\n\n\n\n\n\nImpression 3D\n\n\n\n\n\n\nPaola\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\nMicrophone\n\n\n\n\n\n\nPaola VAZQUEZ\n\n\nJun 11, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "comics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nTutoriales\n\n\n\n\n\n\n\n\nImpression 3D avec Flashforge Adventurer 5M Pro :\n\n\n\n\n\n\nPaola\n\n\n\n\n\n\n\n\n\n\n\n\nUtilisation de OrcaSlicer avec Forge Adventurer M5 Pro\n\n\n\n\n\n\nPaola\n\n\nJun 1, 2027\n\n\n\n\n\n\n\n\n\n\n\n\nImpression 3D\n\n\n\n\n\n\nPaola\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\nMicrophone\n\n\n\n\n\n\nPaola VAZQUEZ\n\n\nJun 11, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "fr/tutorials/00-introduction.html#but-pédagogique-de-ce-tutorial",
@@ -1041,5 +1041,285 @@
     "title": "Bienvenida a Sheinventor",
     "section": "",
     "text": "Selecciona tu idioma\n\nEnglish Español Français"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html",
+    "href": "en/tutorials/00-flashforge.html",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "title: “3D Printing with Flashforge Adventurer 5M Pro:” subtitle: “User Tutorial” email: “paola-del-pilar.vazquez-barba3@etu.univ-lorraine.fr” institute: “Université de Lorraine | ENSGSI” author: - “Paola” last_update: 01-12-2025 format: revealjs: footer: ‘Tutorial 1: How to Use a 3D Printer’ header: ‘3D Printing’"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#educational-goal-of-this-tutorial",
+    "href": "en/tutorials/00-flashforge.html#educational-goal-of-this-tutorial",
+    "title": "How to 3D Print?",
+    "section": "Educational Goal of This Tutorial",
+    "text": "Educational Goal of This Tutorial\n\n🧠 Knowledge:\n\n3D Printing Domain\n\n🔨 Skills:\n\nUsing the Flashforge Adventurer 5M Pro 3D printer\n\n✍ Competences:\n\nBe able to print an object at LF2L"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#how-to-3d-print-1",
+    "href": "en/tutorials/00-flashforge.html#how-to-3d-print-1",
+    "title": "How to 3D Print?",
+    "section": "How to 3D Print?",
+    "text": "How to 3D Print?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThere are three steps:\n1) CAD Model → 2) ‘Slicing’ Process → 3) .Gcode File"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#cad-model",
+    "href": "en/tutorials/00-flashforge.html#cad-model",
+    "title": "How to 3D Print?",
+    "section": "CAD Model",
+    "text": "CAD Model\n\n\n\n\n\n\nGoal\n\n\n\nObtain the CAD model useful for 3D printing.\n\n\n\nObtaining a CAD Model\n\n\n\n\n\n\nCAD Software\n\n\nIt can be designed using 3D modeling software:\n\n\n\n\n\nFusion 360\nBlender\n⚠️ Onshape\n\n\n\n\n\n\n\n\n\n\n\n\nModel Libraries\nDownload models from websites such as:\n\nThingiverse\nPrintables\nMakerWorld\n\n\n\n\n\n\n\n:::\n\n\nObtaining a Model → Onshape CAD\nThe goal is to obtain the CAD model in .STL file format."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#slicing-process",
+    "href": "en/tutorials/00-flashforge.html#slicing-process",
+    "title": "How to 3D Print?",
+    "section": "Slicing Process",
+    "text": "Slicing Process\n\n\n\n\n\n\nGoal\n\n\n\nConvert the .STL model into a .GCODE machine file\n\n\n\n\nThis 3D model needs to be converted into a G-Code file, with all the correct printer settings, so we use a compatible slicer like OrcaSlicer.\n\n\n\n\n\nFor a more detailed tutorial, click here: link"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-1",
+    "href": "en/tutorials/00-flashforge.html#section-1",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Save the file (G-code format) onto a compatible USB drive.\n\n\n\n\n\nAt LF2L, USB drives are provided next to the printers."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-2",
+    "href": "en/tutorials/00-flashforge.html#section-2",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Make sure the printer is clean, with no filament residue on the nozzle or the print bed."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-3",
+    "href": "en/tutorials/00-flashforge.html#section-3",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Clean the print bed with a paper towel and isopropyl alcohol."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-4",
+    "href": "en/tutorials/00-flashforge.html#section-4",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Ensure the printer is connected to a power socket.\nPress the power button located at the back, then the one at the front."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-5",
+    "href": "en/tutorials/00-flashforge.html#section-5",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Wait for the system to fully initialize before continuing."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-6",
+    "href": "en/tutorials/00-flashforge.html#section-6",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "The printer is on when this screen appears."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-7",
+    "href": "en/tutorials/00-flashforge.html#section-7",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Place the filament at the back of the printer."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-8",
+    "href": "en/tutorials/00-flashforge.html#section-8",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Open the top door."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#place-the-end-of-the-filament-in-the-white-tube-and-push-until-it-comes-out-on-the-other-side.",
+    "href": "en/tutorials/00-flashforge.html#place-the-end-of-the-filament-in-the-white-tube-and-push-until-it-comes-out-on-the-other-side.",
+    "title": "How to 3D Print?",
+    "section": "Place the end of the filament in the white tube and push until it comes out on the other side.",
+    "text": "Place the end of the filament in the white tube and push until it comes out on the other side."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-9",
+    "href": "en/tutorials/00-flashforge.html#section-9",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Go to the menu via the touch screen and select the “Filament” option.\nChoose the “Change Filament” option."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#wait-until-the-temperature-reaches-220-c",
+    "href": "en/tutorials/00-flashforge.html#wait-until-the-temperature-reaches-220-c",
+    "title": "How to 3D Print?",
+    "section": "Wait until the temperature reaches 220 °C",
+    "text": "Wait until the temperature reaches 220 °C"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-10",
+    "href": "en/tutorials/00-flashforge.html#section-10",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Insert the filament into the extruder as shown in the image. If done correctly, the printer will detect it and start extruding."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#the-printer-will-extrude-filament-for-a-while-to-clean-out-any-remnants-of-the-previous-filament.",
+    "href": "en/tutorials/00-flashforge.html#the-printer-will-extrude-filament-for-a-while-to-clean-out-any-remnants-of-the-previous-filament.",
+    "title": "How to 3D Print?",
+    "section": "The printer will extrude filament for a while to clean out any remnants of the previous filament.",
+    "text": "The printer will extrude filament for a while to clean out any remnants of the previous filament."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-11",
+    "href": "en/tutorials/00-flashforge.html#section-11",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Remove the printed filament."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-12",
+    "href": "en/tutorials/00-flashforge.html#section-12",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Open the top door."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-13",
+    "href": "en/tutorials/00-flashforge.html#section-13",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Remove the white tube and cut the old filament with pliers.\n\n\n\n\n\nNote: Pliers are available next to the printers. If not, ask the FabManagers."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-14",
+    "href": "en/tutorials/00-flashforge.html#section-14",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Remove the filament from the white tube by gently pulling with the spool, then secure its end to prevent it from unwinding."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-15",
+    "href": "en/tutorials/00-flashforge.html#section-15",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Place the new filament on the base at the back of the printer."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#place-the-end-of-the-filament-in-the-white-tube-and-push-until-it-comes-out-on-the-other-side.-1",
+    "href": "en/tutorials/00-flashforge.html#place-the-end-of-the-filament-in-the-white-tube-and-push-until-it-comes-out-on-the-other-side.-1",
+    "title": "How to 3D Print?",
+    "section": "Place the end of the filament in the white tube and push until it comes out on the other side.",
+    "text": "Place the end of the filament in the white tube and push until it comes out on the other side."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-16",
+    "href": "en/tutorials/00-flashforge.html#section-16",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Go to the menu via the touch screen and select the “Filament” option.\nChoose the “Change Filament” option and “Start.”"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#wait-until-the-temperature-reaches-220-c.",
+    "href": "en/tutorials/00-flashforge.html#wait-until-the-temperature-reaches-220-c.",
+    "title": "How to 3D Print?",
+    "section": "Wait until the temperature reaches 220 °C.",
+    "text": "Wait until the temperature reaches 220 °C."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-17",
+    "href": "en/tutorials/00-flashforge.html#section-17",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Insert the filament into the extruder as shown in the image. If done correctly, the printer will detect it and start extruding."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#the-printer-will-extrude-for-a-moment-to-clean-out-the-previous-filament.-check-the-extrusion-if-necessary-restart-the-process.",
+    "href": "en/tutorials/00-flashforge.html#the-printer-will-extrude-for-a-moment-to-clean-out-the-previous-filament.-check-the-extrusion-if-necessary-restart-the-process.",
+    "title": "How to 3D Print?",
+    "section": "The printer will extrude for a moment to clean out the previous filament. Check the extrusion; if necessary, restart the process.",
+    "text": "The printer will extrude for a moment to clean out the previous filament. Check the extrusion; if necessary, restart the process."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-18",
+    "href": "en/tutorials/00-flashforge.html#section-18",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Remove the printed filament."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-19",
+    "href": "en/tutorials/00-flashforge.html#section-19",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Insert the USB drive containing the G-code file into the printer’s USB port."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-20",
+    "href": "en/tutorials/00-flashforge.html#section-20",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "From the main menu, select “Print” and navigate to the file saved on the USB drive."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-21",
+    "href": "en/tutorials/00-flashforge.html#section-21",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "IMPORTANT: Before starting the print, select the “Calibrate” option to adjust the bed."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-22",
+    "href": "en/tutorials/00-flashforge.html#section-22",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Press the “Print” button and confirm your selection."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#the-printer-will-take-time-to-print-due-to-the-need-to-heat-the-bed.",
+    "href": "en/tutorials/00-flashforge.html#the-printer-will-take-time-to-print-due-to-the-need-to-heat-the-bed.",
+    "title": "How to 3D Print?",
+    "section": "The printer will take time to print due to the need to heat the bed.",
+    "text": "The printer will take time to print due to the need to heat the bed."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-23",
+    "href": "en/tutorials/00-flashforge.html#section-23",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Observe the printing of the first layer:"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-24",
+    "href": "en/tutorials/00-flashforge.html#section-24",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Ensure the filament adheres properly to the print bed."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-25",
+    "href": "en/tutorials/00-flashforge.html#section-25",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "If there’s an issue (poor adhesion, irregular lines, etc.), stop the print to recalibrate or adjust the settings."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-26",
+    "href": "en/tutorials/00-flashforge.html#section-26",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Once the print is complete, wait for the bed to cool down to avoid damage."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-27",
+    "href": "en/tutorials/00-flashforge.html#section-27",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Grab the gray handle of the print bed and apply slight pressure upwards."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-28",
+    "href": "en/tutorials/00-flashforge.html#section-28",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "While holding the plate by two sides, twist it slightly to detach the print. If necessary, rotate it 90 degrees and repeat on the other sides."
   }
 ]

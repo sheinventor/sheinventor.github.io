@@ -1,6 +1,6 @@
 ---
-title: "Tutoriel d'utilisation :"
-subtitle: "Impression 3D avec Flashforge Adventurer 5M Pro"  
+title: "Impression 3D avec Flashforge Adventurer 5M Pro :"
+subtitle: "Tutoriel d'utilisation"  
 email: "paola-del-pilar.vazquez-barba3@etu.univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
 author: 

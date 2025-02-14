@@ -1,0 +1,503 @@
+title: "3D Printing with Flashforge Adventurer 5M Pro:"
+subtitle: "User Tutorial"
+email: "paola-del-pilar.vazquez-barba3@etu.univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "Paola"
+last_update: 01-12-2025
+format:
+  revealjs:
+    footer: 'Tutorial 1: How to Use a 3D Printer'
+    header: '3D Printing'
+---
+
+## Educational Goal of This Tutorial
+
+1. 🧠 **Knowledge**:
+   - 3D Printing Domain
+2. 🔨 **Skills**:
+   - Using the Flashforge Adventurer 5M Pro 3D printer
+3. ✍ **Competences**:
+   - Be able to print an object at LF2L
+
+# How to 3D Print?
+
+## How to 3D Print?
+
+:::{layout="[35,68]"}
+:::{}
+![](../images/tuto-1/IMGforge/1.webp){width="40%" fig-align="center"}
+:::
+
+:::{}
+![](../images/tuto-1/IMGforge/2.webp){width="40%" fig-align="center"}
+
+There are three steps:
+
+**1) CAD Model → 2) 'Slicing' Process → 3) `.Gcode` File**
+:::
+:::
+
+## CAD Model
+
+::: {.callout-tip title="Goal"}
+**Obtain the CAD model useful for 3D printing.**
+:::
+
+### Obtaining a CAD Model
+
+:::{layout="[40,60]"}
+
+**CAD Software**
+
+It can be designed using 3D modeling software:
+
+- Fusion 360
+- Blender
+- ⚠️ **Onshape**
+
+![](../images/tuto-1/IMGforge/3.webp){width="30%" fig-align="center"}
+
+:::
+
+:::{}
+**Model Libraries**
+
+Download models from websites such as:
+
+- [Thingiverse](https://www.thingiverse.com)
+- [Printables](https://www.printables.com)
+- [MakerWorld](https://makerworld.com)
+
+![](../images/tuto-1/IMGforge/4.webp){width="30%" fig-align="center"}
+
+:::
+:::
+
+### Obtaining a Model → Onshape CAD
+
+The goal is to obtain the CAD model in `.STL` file format.
+
+## Slicing Process
+
+::: {.callout-tip title="Goal"}
+**Convert the `.STL` model into a `.GCODE` machine file**
+:::
+
+### 
+This 3D model needs to be converted into a G-Code file, with all the correct printer settings, so we use a compatible slicer like OrcaSlicer.
+
+![](../images/tuto-1/IMGforge/5.webp){width="30%" fig-align="center"}
+
+For a more detailed tutorial, click here: link 
+
+##
+
+Save the file (G-code format) onto a compatible USB drive.
+
+![](../images/tuto-1/IMGforge/6.webp){width="30%" fig-align="center"}
+
+At LF2L, USB drives are provided next to the printers.
+
+# Check Printer Status
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Make sure the printer is clean, with no filament residue on the nozzle or the print bed.
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGforge/7.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../images/tuto-1/IMGforge/8.webp){width="95%" fig-align="center"}
+
+:::
+
+:::{}
+
+Clean the print bed with a paper towel and isopropyl alcohol.
+
+:::
+:::
+
+
+# How to Turn On the Printer
+
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Ensure the printer is connected to a power socket.
+
+Press the power button located at the back, then the one at the front.
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGforge/9.webp){width="95%" fig-align="center"}
+:::
+:::
+
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Wait for the system to fully initialize before continuing.
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGforge/10.webp){width="95%" fig-align="center"}
+:::
+:::
+
+##
+
+The printer is on when this screen appears.
+![](../images/tuto-1/IMGforge/11.webp){width="95%" fig-align="center"}
+
+
+# How to Load Filament (If No Filament Is Present)
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Place the filament at the back of the printer.
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGforge/12.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Open the top door.
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGforge/13.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## Place the end of the filament in the white tube and push until it comes out on the other side.
+
+![](../images/tuto-1/IMGforge/14.webp){width="95%" fig-align="center"}
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Go to the menu via the touch screen and select the "Filament" option.
+
+Choose the "Change Filament" option.
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGforge/15.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## Wait until the temperature reaches 220 °C 
+
+![](../images/tuto-1/IMGforge/16.webp){width="95%" fig-align="center"}
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Insert the filament into the extruder as shown in the image. If done correctly, the printer will detect it and start extruding.
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGforge/17.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## The printer will extrude filament for a while to clean out any remnants of the previous filament.
+
+![](../images/tuto-1/IMGforge/18.webp){width="95%" fig-align="center"}
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../images/tuto-1/IMGforge/19.webp){width="95%" fig-align="center"}
+
+:::
+
+:::{}
+
+Remove the printed filament.
+
+:::
+:::
+
+
+# How to Change the Filament (by Removing the Old Filament):
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Open the top door.
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGforge/20.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## 
+
+Remove the white tube and cut the old filament with pliers.
+
+![](../images/tuto-1/IMGforge/21.webp){width="95%" fig-align="center"}
+
+Note: Pliers are available next to the printers. If not, ask the FabManagers.
+
+## 
+
+Remove the filament from the white tube by gently pulling with the spool, then secure its end to prevent it from unwinding.
+
+![](../images/tuto-1/IMGforge/22.webp){width="95%" fig-align="center"}
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Place the new filament on the base at the back of the printer.
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGforge/23.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## Place the end of the filament in the white tube and push until it comes out on the other side.
+![](../images/tuto-1/IMGforge/24.webp){width="95%" fig-align="center"}
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Go to the menu via the touch screen and select the "Filament" option.
+
+Choose the "Change Filament" option and "Start."
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGforge/25.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## Wait until the temperature reaches 220 °C.
+
+![](../images/tuto-1/IMGforge/26.webp){width="95%" fig-align="center"}
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Insert the filament into the extruder as shown in the image. If done correctly, the printer will detect it and start extruding.
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGforge/27.webp){width="95%" fig-align="center"}
+:::
+:::
+
+## The printer will extrude for a moment to clean out the previous filament. Check the extrusion; if necessary, restart the process.
+
+![](../images/tuto-1/IMGforge/28.webp){width="95%" fig-align="center"}
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../images/tuto-1/IMGforge/29.webp){width="95%" fig-align="center"}
+
+:::
+
+:::{}
+
+Remove the printed filament.
+
+:::
+:::
+
+
+# How to Select the File to Print
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../images/tuto-1/IMGforge/30.webp){width="95%" fig-align="center"}
+
+:::
+
+:::{}
+
+Insert the USB drive containing the G-code file into the printer’s USB port.
+
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../images/tuto-1/IMGforge/31.webp){width="95%" fig-align="center"}
+
+:::
+
+:::{}
+
+From the main menu, select "Print" and navigate to the file saved on the USB drive.
+
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../images/tuto-1/IMGforge/32.webp){width="95%" fig-align="center"}
+
+:::
+
+:::{}
+
+IMPORTANT: Before starting the print, select the "Calibrate" option to adjust the bed.
+
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../images/tuto-1/IMGforge/33.webp){width="95%" fig-align="center"}
+
+:::
+
+:::{}
+
+Press the "Print" button and confirm your selection.
+
+:::
+:::
+
+## The printer will take time to print due to the need to heat the bed.
+
+
+# How to Monitor the Initial Print:
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../images/tuto-1/IMGforge/34.webp){width="95%" fig-align="center"}
+
+:::
+
+:::{}
+
+Observe the printing of the first layer:
+
+:::
+:::
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+Ensure the filament adheres properly to the print bed.
+
+:::
+
+:::{}
+
+![](../images/tuto-1/IMGforge/35.webp){width="95%" fig-align="center"}
+
+:::
+:::
+
+## 
+
+![](../images/tuto-1/IMGforge/36.webp){width="95%" fig-align="center"}
+
+If there’s an issue (poor adhesion, irregular lines, etc.), stop the print to recalibrate or adjust the settings.
+
+# Removing the Model
+
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../images/tuto-1/IMGforge/37.webp){width="95%" fig-align="center"}
+
+:::
+
+:::{}
+
+Once the print is complete, wait for the bed to cool down to avoid damage.
+
+:::
+:::
+
+## 
+
+![](../images/tuto-1/IMGforge/38.webp){width="95%" fig-align="center"}
+
+Grab the gray handle of the print bed and apply slight pressure upwards.
+
+## 
+
+![](../images/tuto-1/IMGforge/39.webp){width="95%" fig-align="center"}
+
+While holding the plate by two sides, twist it slightly to detach the print. If necessary, rotate it 90 degrees and repeat on the other sides.
