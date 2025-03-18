@@ -27,7 +27,7 @@ listing:
 ---
 
 # comics
-
+[Enlace a comics](/Comics/index.html)
 ::: {#comics}
 :::
 

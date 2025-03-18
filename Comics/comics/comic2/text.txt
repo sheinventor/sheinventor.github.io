@@ -1,4 +1,4 @@
-1|en|550|550|I was used to loose flowers in my garden
+1|en|0|0|I was used to loose flowers in my garden
 1|fr|550|550|J'avais l'habitude de perdre des fleurs dans mon jardin
 1|es|550|550|Estaba acostumbrado a perder flores en mi jardín
 
@@ -18,6 +18,6 @@
 5|fr|550|550|Il y a des gens qui les apprécieront et vous aideront à les faire pousser
 5|es|550|550|Hay personas que las apreciarán y te ayudarán a cultivarlas
 
-5|en|600|300|flower food
-5|fr|600|300|nourriture pour fleurs
-5|es|600|300|comida para flores
+5|en|600|800|flower food
+5|fr|600|600|nourriture pour fleurs
+5|es|600|500|comida para flores

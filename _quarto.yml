@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: "docs"
+  resources:
+    - "comics/"
 
 website:
   title: "SheInventor"
@@ -40,3 +42,4 @@ website:
           href: comics/index.html
 
 css: css/styles.css
+
