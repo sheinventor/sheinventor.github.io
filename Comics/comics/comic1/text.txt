@@ -1,0 +1,6 @@
+1|es|100|200|Hola|3rmo8F54jFF8OgYsqTxm5d
+1|en|100|200|Hello
+1|fr|100|200|Bonjour
+2|es|150|250|¡Bienvenido!
+2|en|150|250|Welcome!
+2|fr|150|250|Bienvenue!

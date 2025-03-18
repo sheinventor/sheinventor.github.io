@@ -1,0 +1,21 @@
+---
+title: "Introducción a los Cómics"
+author: "Paola"
+format: html
+---
+
+# Bienvenido al Mundo de los Cómics
+
+Los cómics son una forma de expresión artística que combinan imágenes y texto para contar historias. En esta página, exploraremos la historia de los cómics, sus géneros y su influencia en la cultura pop.
+
+## ¿Qué son los Cómics?
+
+Los cómics son una secuencia de imágenes organizadas en paneles que cuentan una historia. A menudo, se acompañan de texto en globos de diálogo, descripciones o pensamientos. Desde sus inicios en las tiras cómicas en periódicos hasta las modernas novelas gráficas, los cómics han sido una forma única de narrar historias visuales.
+
+## Explora Nuestros Cómics
+
+Si estás listo para sumergirte en algunas historias fascinantes, te invitamos a explorar nuestra colección de cómics. Puedes verlos a través del siguiente enlace:
+
+[Explorar los Cómics](../comics)
+
+¡Disfruta de la lectura!

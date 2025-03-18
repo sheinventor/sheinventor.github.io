@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visor de Cómics</title>
+    <style>
+        body { font-family: 'Roboto', sans-serif; text-align: center; background: #f4f4f4; }
+        #comic-container { position: relative; display: inline-block; }
+        #comic-img { width: 100%; max-width: 1080px; }
+        .text-overlay {
+            position: absolute;
+            color: white;
+            background: rgba(0, 0, 0, 0.5);
+            padding: 2px 5px;
+            border-radius: 5px;
+        }
+        .controls { margin-top: 10px; }
+        .recent-comics { margin-top: 20px; }
+        button { padding: 10px; margin: 5px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>Visor de Cómics</h1>
+    <select id="language">
+        <option value="es">Español</option>
+        <option value="en">Inglés</option>
+        <option value="fr">Francés</option>
+    </select>
+    <button onclick="loadComic()">Cargar Cómic</button>
+    <div id="comic-container">
+        <img id="comic-img" src="" alt="Cómic" />
+    </div>
+    <div class="controls">
+        <button onclick="previousPage()">Anterior</button>
+        <button onclick="goHome()">Inicio</button>
+        <button onclick="nextPage()">Siguiente</button>
+        
+    </div>
+    <div class="recent-comics">
+        <h2>Cómics Recientes</h2>
+        <ul id="recent-list"></ul>
+    </div>
+    <script>
+        let currentPage = 1;
+        let totalPages = 5; // Ajustar según el cómic
+        let comicName = "comic1"; // Carpeta del cómic
+        let language = "es";
+
+        document.getElementById("language").addEventListener("change", function() {
+            language = this.value;
+            loadText();
+        });
+
+        function loadComic() {
+            document.getElementById("comic-img").src = `comics/${comicName}/${currentPage}.jpg`;
+            loadText();
+        }
+
+        function loadText() {
+            fetch(`comics/${comicName}/text.txt`)
+                .then(response => response.text())
+                .then(data => {
+                    document.querySelectorAll('.text-overlay').forEach(e => e.remove());
+                    let lines = data.split('\n');
+                    let filteredLines = lines.filter(line => line.includes(`|${language}|`));
+                    filteredLines.forEach(line => {
+                        let [page, lang, x, y, text] = line.split('|');
+                        if (parseInt(page) === currentPage) {
+                            let span = document.createElement("span");
+                            span.className = "text-overlay";
+                            span.innerText = text;
+                            span.style.left = `${x}px`;
+                            span.style.top = `${y}px`;
+                            document.getElementById("comic-container").appendChild(span);
+                        }
+                    });
+                });
+        }
+
+        function previousPage() {
+            if (currentPage > 1) {
+                currentPage--;
+                loadComic();
+            }
+        }
+
+        function nextPage() {
+            if (currentPage < totalPages) {
+                currentPage++;
+                loadComic();
+            }
+        }
+
+        function goHome() {
+            window.location.reload();
+        }
+
+        function loadRecentComics() {
+            let recentComics = ["comic1", "comic2", "comic3"]; // Lista de cómics recientes
+            let list = document.getElementById("recent-list");
+            list.innerHTML = "";
+            recentComics.forEach(comic => {
+                let li = document.createElement("li");
+                li.innerHTML = `<a href="#" onclick="changeComic('${comic}')">${comic}</a>`;
+                list.appendChild(li);
+            });
+        }
+
+        function changeComic(newComic) {
+            comicName = newComic;
+            currentPage = 1;
+            loadComic();
+        }
+
+        loadRecentComics();
+    </script>
+</body>
+</html>

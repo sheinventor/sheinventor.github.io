@@ -21,7 +21,7 @@ website:
         - text: "Tutoriales"
           href: es\tutorials\index.qmd
         - text: "Comics"
-          href: es\comics\index.qmd
+          href: comics/index.html
       - text: "English"
         menu:
         - text: "Introduccion"
@@ -37,6 +37,6 @@ website:
         - text: "Tutoriels"
           href: fr\tutorials\index.qmd
         - text: "Bandes desinées"
-          href: fr\comics\index.qmd
+          href: comics/index.html
 
 css: css/styles.css

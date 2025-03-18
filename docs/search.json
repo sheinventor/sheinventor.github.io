@@ -707,6 +707,307 @@
     "text": "🏷️ Tags\n#Impression3D #STEAM #Électronique #Makers\n\n\n💬 Commentaires\nSi vous avez des questions ou des suggestions, laissez un commentaire ci-dessous ! PROXIMAMENTE"
   },
   {
+    "objectID": "en/tutorials/00-flashforge.html",
+    "href": "en/tutorials/00-flashforge.html",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "title: “3D Printing with Flashforge Adventurer 5M Pro:” subtitle: “User Tutorial” email: “paola-del-pilar.vazquez-barba3@etu.univ-lorraine.fr” institute: “Université de Lorraine | ENSGSI” author: - “Paola” last_update: 01-12-2025 format: revealjs: footer: ‘Tutorial 1: How to Use a 3D Printer’ header: ‘3D Printing’"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#educational-goal-of-this-tutorial",
+    "href": "en/tutorials/00-flashforge.html#educational-goal-of-this-tutorial",
+    "title": "How to 3D Print?",
+    "section": "Educational Goal of This Tutorial",
+    "text": "Educational Goal of This Tutorial\n\n🧠 Knowledge:\n\n3D Printing Domain\n\n🔨 Skills:\n\nUsing the Flashforge Adventurer 5M Pro 3D printer\n\n✍ Competences:\n\nBe able to print an object at LF2L"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#how-to-3d-print-1",
+    "href": "en/tutorials/00-flashforge.html#how-to-3d-print-1",
+    "title": "How to 3D Print?",
+    "section": "How to 3D Print?",
+    "text": "How to 3D Print?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThere are three steps:\n1) CAD Model → 2) ‘Slicing’ Process → 3) .Gcode File"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#cad-model",
+    "href": "en/tutorials/00-flashforge.html#cad-model",
+    "title": "How to 3D Print?",
+    "section": "CAD Model",
+    "text": "CAD Model\n\n\n\n\n\n\nGoal\n\n\n\nObtain the CAD model useful for 3D printing.\n\n\n\nObtaining a CAD Model\n\n\n\n\n\n\nCAD Software\n\n\nIt can be designed using 3D modeling software:\n\n\n\n\n\nFusion 360\nBlender\n⚠️ Onshape\n\n\n\n\n\n\n\n\n\n\n\n\nModel Libraries\nDownload models from websites such as:\n\nThingiverse\nPrintables\nMakerWorld\n\n\n\n\n\n\n\n:::\n\n\nObtaining a Model → Onshape CAD\nThe goal is to obtain the CAD model in .STL file format."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#slicing-process",
+    "href": "en/tutorials/00-flashforge.html#slicing-process",
+    "title": "How to 3D Print?",
+    "section": "Slicing Process",
+    "text": "Slicing Process\n\n\n\n\n\n\nGoal\n\n\n\nConvert the .STL model into a .GCODE machine file\n\n\n\n\nThis 3D model needs to be converted into a G-Code file, with all the correct printer settings, so we use a compatible slicer like OrcaSlicer.\n\n\n\n\n\nFor a more detailed tutorial, click here: link"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-1",
+    "href": "en/tutorials/00-flashforge.html#section-1",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Save the file (G-code format) onto a compatible USB drive.\n\n\n\n\n\nAt LF2L, USB drives are provided next to the printers."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-2",
+    "href": "en/tutorials/00-flashforge.html#section-2",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Make sure the printer is clean, with no filament residue on the nozzle or the print bed."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-3",
+    "href": "en/tutorials/00-flashforge.html#section-3",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Clean the print bed with a paper towel and isopropyl alcohol."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-4",
+    "href": "en/tutorials/00-flashforge.html#section-4",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Ensure the printer is connected to a power socket.\nPress the power button located at the back, then the one at the front."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-5",
+    "href": "en/tutorials/00-flashforge.html#section-5",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Wait for the system to fully initialize before continuing."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-6",
+    "href": "en/tutorials/00-flashforge.html#section-6",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "The printer is on when this screen appears."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-7",
+    "href": "en/tutorials/00-flashforge.html#section-7",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Place the filament at the back of the printer."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-8",
+    "href": "en/tutorials/00-flashforge.html#section-8",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Open the top door."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#place-the-end-of-the-filament-in-the-white-tube-and-push-until-it-comes-out-on-the-other-side.",
+    "href": "en/tutorials/00-flashforge.html#place-the-end-of-the-filament-in-the-white-tube-and-push-until-it-comes-out-on-the-other-side.",
+    "title": "How to 3D Print?",
+    "section": "Place the end of the filament in the white tube and push until it comes out on the other side.",
+    "text": "Place the end of the filament in the white tube and push until it comes out on the other side."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-9",
+    "href": "en/tutorials/00-flashforge.html#section-9",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Go to the menu via the touch screen and select the “Filament” option.\nChoose the “Change Filament” option."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#wait-until-the-temperature-reaches-220-c",
+    "href": "en/tutorials/00-flashforge.html#wait-until-the-temperature-reaches-220-c",
+    "title": "How to 3D Print?",
+    "section": "Wait until the temperature reaches 220 °C",
+    "text": "Wait until the temperature reaches 220 °C"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-10",
+    "href": "en/tutorials/00-flashforge.html#section-10",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Insert the filament into the extruder as shown in the image. If done correctly, the printer will detect it and start extruding."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#the-printer-will-extrude-filament-for-a-while-to-clean-out-any-remnants-of-the-previous-filament.",
+    "href": "en/tutorials/00-flashforge.html#the-printer-will-extrude-filament-for-a-while-to-clean-out-any-remnants-of-the-previous-filament.",
+    "title": "How to 3D Print?",
+    "section": "The printer will extrude filament for a while to clean out any remnants of the previous filament.",
+    "text": "The printer will extrude filament for a while to clean out any remnants of the previous filament."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-11",
+    "href": "en/tutorials/00-flashforge.html#section-11",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Remove the printed filament."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-12",
+    "href": "en/tutorials/00-flashforge.html#section-12",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Open the top door."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-13",
+    "href": "en/tutorials/00-flashforge.html#section-13",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Remove the white tube and cut the old filament with pliers.\n\n\n\n\n\nNote: Pliers are available next to the printers. If not, ask the FabManagers."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-14",
+    "href": "en/tutorials/00-flashforge.html#section-14",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Remove the filament from the white tube by gently pulling with the spool, then secure its end to prevent it from unwinding."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-15",
+    "href": "en/tutorials/00-flashforge.html#section-15",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Place the new filament on the base at the back of the printer."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#place-the-end-of-the-filament-in-the-white-tube-and-push-until-it-comes-out-on-the-other-side.-1",
+    "href": "en/tutorials/00-flashforge.html#place-the-end-of-the-filament-in-the-white-tube-and-push-until-it-comes-out-on-the-other-side.-1",
+    "title": "How to 3D Print?",
+    "section": "Place the end of the filament in the white tube and push until it comes out on the other side.",
+    "text": "Place the end of the filament in the white tube and push until it comes out on the other side."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-16",
+    "href": "en/tutorials/00-flashforge.html#section-16",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Go to the menu via the touch screen and select the “Filament” option.\nChoose the “Change Filament” option and “Start.”"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#wait-until-the-temperature-reaches-220-c.",
+    "href": "en/tutorials/00-flashforge.html#wait-until-the-temperature-reaches-220-c.",
+    "title": "How to 3D Print?",
+    "section": "Wait until the temperature reaches 220 °C.",
+    "text": "Wait until the temperature reaches 220 °C."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-17",
+    "href": "en/tutorials/00-flashforge.html#section-17",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Insert the filament into the extruder as shown in the image. If done correctly, the printer will detect it and start extruding."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#the-printer-will-extrude-for-a-moment-to-clean-out-the-previous-filament.-check-the-extrusion-if-necessary-restart-the-process.",
+    "href": "en/tutorials/00-flashforge.html#the-printer-will-extrude-for-a-moment-to-clean-out-the-previous-filament.-check-the-extrusion-if-necessary-restart-the-process.",
+    "title": "How to 3D Print?",
+    "section": "The printer will extrude for a moment to clean out the previous filament. Check the extrusion; if necessary, restart the process.",
+    "text": "The printer will extrude for a moment to clean out the previous filament. Check the extrusion; if necessary, restart the process."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-18",
+    "href": "en/tutorials/00-flashforge.html#section-18",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Remove the printed filament."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-19",
+    "href": "en/tutorials/00-flashforge.html#section-19",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Insert the USB drive containing the G-code file into the printer’s USB port."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-20",
+    "href": "en/tutorials/00-flashforge.html#section-20",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "From the main menu, select “Print” and navigate to the file saved on the USB drive."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-21",
+    "href": "en/tutorials/00-flashforge.html#section-21",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "IMPORTANT: Before starting the print, select the “Calibrate” option to adjust the bed."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-22",
+    "href": "en/tutorials/00-flashforge.html#section-22",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Press the “Print” button and confirm your selection."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#the-printer-will-take-time-to-print-due-to-the-need-to-heat-the-bed.",
+    "href": "en/tutorials/00-flashforge.html#the-printer-will-take-time-to-print-due-to-the-need-to-heat-the-bed.",
+    "title": "How to 3D Print?",
+    "section": "The printer will take time to print due to the need to heat the bed.",
+    "text": "The printer will take time to print due to the need to heat the bed."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-23",
+    "href": "en/tutorials/00-flashforge.html#section-23",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Observe the printing of the first layer:"
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-24",
+    "href": "en/tutorials/00-flashforge.html#section-24",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Ensure the filament adheres properly to the print bed."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-25",
+    "href": "en/tutorials/00-flashforge.html#section-25",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "If there’s an issue (poor adhesion, irregular lines, etc.), stop the print to recalibrate or adjust the settings."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-26",
+    "href": "en/tutorials/00-flashforge.html#section-26",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Once the print is complete, wait for the bed to cool down to avoid damage."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-27",
+    "href": "en/tutorials/00-flashforge.html#section-27",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "Grab the gray handle of the print bed and apply slight pressure upwards."
+  },
+  {
+    "objectID": "en/tutorials/00-flashforge.html#section-28",
+    "href": "en/tutorials/00-flashforge.html#section-28",
+    "title": "How to 3D Print?",
+    "section": "",
+    "text": "While holding the plate by two sides, twist it slightly to detach the print. If necessary, rotate it 90 degrees and repeat on the other sides."
+  },
+  {
+    "objectID": "es/index.html",
+    "href": "es/index.html",
+    "title": "Introducción a los Cómics",
+    "section": "",
+    "text": "Los cómics son una forma de expresión artística que combinan imágenes y texto para contar historias. En esta página, exploraremos la historia de los cómics, sus géneros y su influencia en la cultura pop.\n\n\nLos cómics son una secuencia de imágenes organizadas en paneles que cuentan una historia. A menudo, se acompañan de texto en globos de diálogo, descripciones o pensamientos. Desde sus inicios en las tiras cómicas en periódicos hasta las modernas novelas gráficas, los cómics han sido una forma única de narrar historias visuales.\n\n\n\nSi estás listo para sumergirte en algunas historias fascinantes, te invitamos a explorar nuestra colección de cómics. Puedes verlos a través del siguiente enlace:\nExplorar los Cómics\n¡Disfruta de la lectura!"
+  },
+  {
+    "objectID": "es/index.html#qué-son-los-cómics",
+    "href": "es/index.html#qué-son-los-cómics",
+    "title": "Introducción a los Cómics",
+    "section": "",
+    "text": "Los cómics son una secuencia de imágenes organizadas en paneles que cuentan una historia. A menudo, se acompañan de texto en globos de diálogo, descripciones o pensamientos. Desde sus inicios en las tiras cómicas en periódicos hasta las modernas novelas gráficas, los cómics han sido una forma única de narrar historias visuales."
+  },
+  {
+    "objectID": "es/index.html#explora-nuestros-cómics",
+    "href": "es/index.html#explora-nuestros-cómics",
+    "title": "Introducción a los Cómics",
+    "section": "",
+    "text": "Si estás listo para sumergirte en algunas historias fascinantes, te invitamos a explorar nuestra colección de cómics. Puedes verlos a través del siguiente enlace:\nExplorar los Cómics\n¡Disfruta de la lectura!"
+  },
+  {
     "objectID": "fr/index.html",
     "href": "fr/index.html",
     "title": "Listing of tutorials",
@@ -1041,285 +1342,5 @@
     "title": "Bienvenida a Sheinventor",
     "section": "",
     "text": "Selecciona tu idioma\n\nEnglish Español Français"
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html",
-    "href": "en/tutorials/00-flashforge.html",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "title: “3D Printing with Flashforge Adventurer 5M Pro:” subtitle: “User Tutorial” email: “paola-del-pilar.vazquez-barba3@etu.univ-lorraine.fr” institute: “Université de Lorraine | ENSGSI” author: - “Paola” last_update: 01-12-2025 format: revealjs: footer: ‘Tutorial 1: How to Use a 3D Printer’ header: ‘3D Printing’"
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#educational-goal-of-this-tutorial",
-    "href": "en/tutorials/00-flashforge.html#educational-goal-of-this-tutorial",
-    "title": "How to 3D Print?",
-    "section": "Educational Goal of This Tutorial",
-    "text": "Educational Goal of This Tutorial\n\n🧠 Knowledge:\n\n3D Printing Domain\n\n🔨 Skills:\n\nUsing the Flashforge Adventurer 5M Pro 3D printer\n\n✍ Competences:\n\nBe able to print an object at LF2L"
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#how-to-3d-print-1",
-    "href": "en/tutorials/00-flashforge.html#how-to-3d-print-1",
-    "title": "How to 3D Print?",
-    "section": "How to 3D Print?",
-    "text": "How to 3D Print?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThere are three steps:\n1) CAD Model → 2) ‘Slicing’ Process → 3) .Gcode File"
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#cad-model",
-    "href": "en/tutorials/00-flashforge.html#cad-model",
-    "title": "How to 3D Print?",
-    "section": "CAD Model",
-    "text": "CAD Model\n\n\n\n\n\n\nGoal\n\n\n\nObtain the CAD model useful for 3D printing.\n\n\n\nObtaining a CAD Model\n\n\n\n\n\n\nCAD Software\n\n\nIt can be designed using 3D modeling software:\n\n\n\n\n\nFusion 360\nBlender\n⚠️ Onshape\n\n\n\n\n\n\n\n\n\n\n\n\nModel Libraries\nDownload models from websites such as:\n\nThingiverse\nPrintables\nMakerWorld\n\n\n\n\n\n\n\n:::\n\n\nObtaining a Model → Onshape CAD\nThe goal is to obtain the CAD model in .STL file format."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#slicing-process",
-    "href": "en/tutorials/00-flashforge.html#slicing-process",
-    "title": "How to 3D Print?",
-    "section": "Slicing Process",
-    "text": "Slicing Process\n\n\n\n\n\n\nGoal\n\n\n\nConvert the .STL model into a .GCODE machine file\n\n\n\n\nThis 3D model needs to be converted into a G-Code file, with all the correct printer settings, so we use a compatible slicer like OrcaSlicer.\n\n\n\n\n\nFor a more detailed tutorial, click here: link"
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-1",
-    "href": "en/tutorials/00-flashforge.html#section-1",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Save the file (G-code format) onto a compatible USB drive.\n\n\n\n\n\nAt LF2L, USB drives are provided next to the printers."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-2",
-    "href": "en/tutorials/00-flashforge.html#section-2",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Make sure the printer is clean, with no filament residue on the nozzle or the print bed."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-3",
-    "href": "en/tutorials/00-flashforge.html#section-3",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Clean the print bed with a paper towel and isopropyl alcohol."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-4",
-    "href": "en/tutorials/00-flashforge.html#section-4",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Ensure the printer is connected to a power socket.\nPress the power button located at the back, then the one at the front."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-5",
-    "href": "en/tutorials/00-flashforge.html#section-5",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Wait for the system to fully initialize before continuing."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-6",
-    "href": "en/tutorials/00-flashforge.html#section-6",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "The printer is on when this screen appears."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-7",
-    "href": "en/tutorials/00-flashforge.html#section-7",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Place the filament at the back of the printer."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-8",
-    "href": "en/tutorials/00-flashforge.html#section-8",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Open the top door."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#place-the-end-of-the-filament-in-the-white-tube-and-push-until-it-comes-out-on-the-other-side.",
-    "href": "en/tutorials/00-flashforge.html#place-the-end-of-the-filament-in-the-white-tube-and-push-until-it-comes-out-on-the-other-side.",
-    "title": "How to 3D Print?",
-    "section": "Place the end of the filament in the white tube and push until it comes out on the other side.",
-    "text": "Place the end of the filament in the white tube and push until it comes out on the other side."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-9",
-    "href": "en/tutorials/00-flashforge.html#section-9",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Go to the menu via the touch screen and select the “Filament” option.\nChoose the “Change Filament” option."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#wait-until-the-temperature-reaches-220-c",
-    "href": "en/tutorials/00-flashforge.html#wait-until-the-temperature-reaches-220-c",
-    "title": "How to 3D Print?",
-    "section": "Wait until the temperature reaches 220 °C",
-    "text": "Wait until the temperature reaches 220 °C"
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-10",
-    "href": "en/tutorials/00-flashforge.html#section-10",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Insert the filament into the extruder as shown in the image. If done correctly, the printer will detect it and start extruding."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#the-printer-will-extrude-filament-for-a-while-to-clean-out-any-remnants-of-the-previous-filament.",
-    "href": "en/tutorials/00-flashforge.html#the-printer-will-extrude-filament-for-a-while-to-clean-out-any-remnants-of-the-previous-filament.",
-    "title": "How to 3D Print?",
-    "section": "The printer will extrude filament for a while to clean out any remnants of the previous filament.",
-    "text": "The printer will extrude filament for a while to clean out any remnants of the previous filament."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-11",
-    "href": "en/tutorials/00-flashforge.html#section-11",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Remove the printed filament."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-12",
-    "href": "en/tutorials/00-flashforge.html#section-12",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Open the top door."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-13",
-    "href": "en/tutorials/00-flashforge.html#section-13",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Remove the white tube and cut the old filament with pliers.\n\n\n\n\n\nNote: Pliers are available next to the printers. If not, ask the FabManagers."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-14",
-    "href": "en/tutorials/00-flashforge.html#section-14",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Remove the filament from the white tube by gently pulling with the spool, then secure its end to prevent it from unwinding."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-15",
-    "href": "en/tutorials/00-flashforge.html#section-15",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Place the new filament on the base at the back of the printer."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#place-the-end-of-the-filament-in-the-white-tube-and-push-until-it-comes-out-on-the-other-side.-1",
-    "href": "en/tutorials/00-flashforge.html#place-the-end-of-the-filament-in-the-white-tube-and-push-until-it-comes-out-on-the-other-side.-1",
-    "title": "How to 3D Print?",
-    "section": "Place the end of the filament in the white tube and push until it comes out on the other side.",
-    "text": "Place the end of the filament in the white tube and push until it comes out on the other side."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-16",
-    "href": "en/tutorials/00-flashforge.html#section-16",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Go to the menu via the touch screen and select the “Filament” option.\nChoose the “Change Filament” option and “Start.”"
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#wait-until-the-temperature-reaches-220-c.",
-    "href": "en/tutorials/00-flashforge.html#wait-until-the-temperature-reaches-220-c.",
-    "title": "How to 3D Print?",
-    "section": "Wait until the temperature reaches 220 °C.",
-    "text": "Wait until the temperature reaches 220 °C."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-17",
-    "href": "en/tutorials/00-flashforge.html#section-17",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Insert the filament into the extruder as shown in the image. If done correctly, the printer will detect it and start extruding."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#the-printer-will-extrude-for-a-moment-to-clean-out-the-previous-filament.-check-the-extrusion-if-necessary-restart-the-process.",
-    "href": "en/tutorials/00-flashforge.html#the-printer-will-extrude-for-a-moment-to-clean-out-the-previous-filament.-check-the-extrusion-if-necessary-restart-the-process.",
-    "title": "How to 3D Print?",
-    "section": "The printer will extrude for a moment to clean out the previous filament. Check the extrusion; if necessary, restart the process.",
-    "text": "The printer will extrude for a moment to clean out the previous filament. Check the extrusion; if necessary, restart the process."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-18",
-    "href": "en/tutorials/00-flashforge.html#section-18",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Remove the printed filament."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-19",
-    "href": "en/tutorials/00-flashforge.html#section-19",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Insert the USB drive containing the G-code file into the printer’s USB port."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-20",
-    "href": "en/tutorials/00-flashforge.html#section-20",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "From the main menu, select “Print” and navigate to the file saved on the USB drive."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-21",
-    "href": "en/tutorials/00-flashforge.html#section-21",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "IMPORTANT: Before starting the print, select the “Calibrate” option to adjust the bed."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-22",
-    "href": "en/tutorials/00-flashforge.html#section-22",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Press the “Print” button and confirm your selection."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#the-printer-will-take-time-to-print-due-to-the-need-to-heat-the-bed.",
-    "href": "en/tutorials/00-flashforge.html#the-printer-will-take-time-to-print-due-to-the-need-to-heat-the-bed.",
-    "title": "How to 3D Print?",
-    "section": "The printer will take time to print due to the need to heat the bed.",
-    "text": "The printer will take time to print due to the need to heat the bed."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-23",
-    "href": "en/tutorials/00-flashforge.html#section-23",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Observe the printing of the first layer:"
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-24",
-    "href": "en/tutorials/00-flashforge.html#section-24",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Ensure the filament adheres properly to the print bed."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-25",
-    "href": "en/tutorials/00-flashforge.html#section-25",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "If there’s an issue (poor adhesion, irregular lines, etc.), stop the print to recalibrate or adjust the settings."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-26",
-    "href": "en/tutorials/00-flashforge.html#section-26",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Once the print is complete, wait for the bed to cool down to avoid damage."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-27",
-    "href": "en/tutorials/00-flashforge.html#section-27",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "Grab the gray handle of the print bed and apply slight pressure upwards."
-  },
-  {
-    "objectID": "en/tutorials/00-flashforge.html#section-28",
-    "href": "en/tutorials/00-flashforge.html#section-28",
-    "title": "How to 3D Print?",
-    "section": "",
-    "text": "While holding the plate by two sides, twist it slightly to detach the print. If necessary, rotate it 90 degrees and repeat on the other sides."
   }
 ]
