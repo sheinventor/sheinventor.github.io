@@ -1,23 +1,23 @@
-1|en|0|0|I was used to loose flowers in my garden
-1|fr|550|550|J'avais l'habitude de perdre des fleurs dans mon jardin
-1|es|550|550|Estaba acostumbrado a perder flores en mi jardín
+1|en|50|150|I was used to loose flowers in my garden
+1|fr|50|150|J'avais l'habitude de perdre des fleurs dans mon jardin
+1|es|50|150|Estaba acostumbrado a perder flores en mi jardín
 
-2|en|550|550|I didn't care much they were often rejected
-2|fr|550|550|Je me souciais peu qu'elles soient souvent rejetées
-2|es|550|550|No me importaba mucho que fueran a menudo rechazadas
+2|en|50|150|I didn't care much they were often rejected
+2|fr|50|150|Je me souciais peu qu'elles soient souvent rejetées
+2|es|50|150|No me importaba mucho que fueran a menudo rechazadas
 
-3|en|550|550|But then, a short anomaly happened
-3|fr|550|550|Mais ensuite, une petite anomalie s'est produite
-3|es|550|550|Pero luego, ocurrió una pequeña anomalía
+3|en|50|150|But then, a short anomaly happened
+3|fr|50|150|Mais ensuite, une petite anomalie s'est produite
+3|es|50|150|Pero luego, ocurrió una pequeña anomalía
 
-4|en|550|550|I discovered that not everyone will take your flowers
-4|fr|550|550|J'ai découvert que tout le monde ne prendra pas vos fleurs
-4|es|550|550|Descubrí que no todo el mundo tomará tus flores
+4|en|50|150|I discovered that not everyone will take your flowers
+4|fr|50|150|J'ai découvert que tout le monde ne prendra pas vos fleurs
+4|es|50|150|Descubrí que no todo el mundo tomará tus flores
 
-5|en|550|550|There are people that will appreciate them and help you grow them
-5|fr|550|550|Il y a des gens qui les apprécieront et vous aideront à les faire pousser
-5|es|550|550|Hay personas que las apreciarán y te ayudarán a cultivarlas
+5|en|50|150|There are people that will appreciate them and help you grow them
+5|fr|50|150|Il y a des gens qui les apprécieront et vous aideront à les faire pousser
+5|es|50|150|Hay personas que las apreciarán y te ayudarán a cultivarlas
 
-5|en|600|800|flower food
-5|fr|600|600|nourriture pour fleurs
-5|es|600|500|comida para flores
+5|en|600|500|flower food
+5|fr|600|500|nourriture pour fleurs
+5|es|600|400|comida para flores
