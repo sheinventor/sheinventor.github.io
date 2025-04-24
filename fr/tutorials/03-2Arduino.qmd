@@ -1,0 +1,167 @@
+---
+title: "Arduino : Installation et projet de base"
+subtitle: "[Liste de tutoriels](/)"  
+email: "xxx@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "Paola"
+date: 06-12-2024
+
+format:
+  revealjs:
+    footer: 'Tutoriel 2: Comment utiliser une carte Arduino'
+    header: 'Arduino'
+---
+
+# But du Tutoriel
+
+## Objectifs pédagogiques
+
+1. 🧠 **Connaissances** : 
+   - Comprendre le fonctionnement d’une carte Arduino
+
+2. 🔧 **Savoir-faire** : 
+   - Écrire, téléverser et tester un programme sur Arduino
+
+3. ✍ **Compétences** : 
+   - Réaliser un projet avec LED, bouton, servo et moteurs
+
+---
+
+# Installation de l'IDE Arduino
+
+:::{layout="[60,40]"}
+:::{}
+
+1. Aller sur [arduino.cc/software](https://arduino.cc/software)  
+2. Télécharger et installer pour Windows, Mac ou Linux  
+3. Ouvrir l'IDE après installation  
+:::
+
+::: {}
+![](figures/arduino-ide.png){width="100%" fig-align="center"}
+:::
+:::
+
+---
+
+# Connexion de la carte Arduino
+
+:::{layout="[50,50]"}
+:::{}
+
+- Branchez la carte avec un câble USB  
+- Dans l'IDE :  
+  - **Outils > Type de carte > Arduino Nano**  
+  - **Outils > Port > COM3** *(ou selon le système)*
+
+::: {.callout-note}
+💡 Sous Windows, utilisez le **Gestionnaire de périphériques** pour identifier le port.
+:::
+:::
+
+::: {}
+![](figures/7.png){width="100%" fig-align="center"}
+:::
+:::
+
+---
+
+# Pilotes et bibliothèques nécessaires
+
+## Pilote CH340 (pour clones)
+
+- [Télécharger ici (Windows)](https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip)  
+- [Télécharger pour Mac](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver)
+
+---
+
+## Ajouter des bibliothèques dans l’IDE
+
+1. Menu : **Croquis > Inclure une bibliothèque > Gérer les bibliothèques...**  
+2. Rechercher et installer **Servo**
+
+---
+
+# Matériel Nécessaire
+
+:::{layout="[60,40]"}
+:::{}
+
+| Élément             | Qté |
+|---------------------|-----|
+| Arduino Nano        | 1   |
+| Câble USB           | 1   |
+| Breadboard          | 1   |
+| Câbles Dupont       | ~20 |
+| LED + Résistance    | 1   |
+| Bouton + 10kΩ       | 1   |
+| Servo SG90          | 1   |
+| Moteur DC           | 2   |
+| Module L298N        | 1   |
+| Batterie (2x 3.7V)  | 1   |
+
+:::
+
+::: {}
+![](figures/materiel.png){width="100%" fig-align="center"}
+:::
+:::
+
+---
+
+# Schéma de connexion
+
+### LED  
+- + → Résistance → D2  
+- – → GND
+
+### Bouton  
+- 1 patte → 5V  
+- 1 patte → D3 + résistance → GND  
+
+### Servo SG90  
+- Marron → GND  
+- Rouge → 5V  
+- Orange → D9  
+
+### L298N  
+- IN1 → D5  
+- IN2 → D6  
+- GND → GND Arduino  
+- Alim → 9V batterie
+
+---
+
+# Code Arduino
+
+```cpp
+#include <Servo.h>
+
+Servo monServo;
+int bouton = 3;
+int led = 2;
+int moteur1 = 5;
+int moteur2 = 6;
+
+void setup() {
+  pinMode(bouton, INPUT);
+  pinMode(led, OUTPUT);
+  pinMode(moteur1, OUTPUT);
+  pinMode(moteur2, OUTPUT);
+  monServo.attach(9);
+}
+
+void loop() {
+  if (digitalRead(bouton) == HIGH) {
+    digitalWrite(led, HIGH);
+    digitalWrite(moteur1, HIGH);
+    digitalWrite(moteur2, LOW);
+    monServo.write(90);
+    delay(1000);
+    digitalWrite(led, LOW);
+    digitalWrite(moteur1, LOW);
+    digitalWrite(moteur2, LOW);
+    monServo.write(0);
+  }
+}

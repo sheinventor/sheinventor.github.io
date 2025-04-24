@@ -1,0 +1,138 @@
+---
+title: "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro"
+subtitle: "Tutoriel pour l'impression 3D avec PLA"
+email: "e2583u@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "Paola"
+date: 30-01-2025
+
+format:
+  revealjs:
+    footer: 'Tutoriel 1: Comment utiliser OrcaSlicer'
+    header: 'Utilisation OrcaSlicer pour Forge Adventurer M5 Pro'
+
+---
+
+# ⚙️ Installer le logiciel Arduino (IDE)
+
+1. Va sur le site officiel : [arduino.cc/software](https://www.arduino.cc/en/software)  
+2. Télécharge la version pour ton système (Windows, Mac, Linux)  
+3. Installe et accepte les drivers  
+4. Ouvre le logiciel Arduino  
+
+---
+
+# 🔌 Connecter la carte Arduino
+
+1. Branche la carte avec un câble USB  
+2. Dans Arduino IDE :
+   - **Outils > Type de carte > Arduino Nano**
+   - **Outils > Port > COM3** (ou autre selon l’appareil)
+
+::: {.callout-note}
+**💡 Astuce :**
+Pour identifier le bon port COM :
+- Windows + X > *Gestionnaire de périphériques*
+- Regarde sous *Ports (COM & LPT)*
+- Nom comme **USB-SERIAL CH340**
+:::
+
+![](figures/7.png)
+
+---
+
+# 🧩 Installer le driver CH340
+
+Pour clones Arduino :
+
+- Windows : [Télécharger](https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip)  
+- Mac : [GitHub driver](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver)
+
+---
+
+# 🧱 Installer les bibliothèques
+
+1. **Croquis > Inclure une bibliothèque > Gérer les bibliothèques...**  
+2. Rechercher **Servo** et installer la bibliothèque officielle
+
+---
+
+# 🔧 Matériel nécessaire
+
+| Élément                  | Quantité | Notes                      |
+|--------------------------|----------|----------------------------|
+| Carte Arduino Nano       | 1        | Compatible IDE             |
+| Câble USB-A > USB-B      | 1        | Connexion Arduino          |
+| Breadboard               | 1        | Connexion facile           |
+| Câbles Dupont M-M        | ~20      | Liaison Arduino-breadboard |
+| LED                      | 1        |                            |
+| Résistance 220Ω          | 1        | Protection LED             |
+| Bouton-poussoir          | 1        | Déclencheur                |
+| Résistance 10kΩ          | 1        | Pull-down pour le bouton   |
+| Moteurs DC (5V)          | 2        |                            |
+| Module L298N             | 1        | Contrôle moteurs           |
+| Servomoteur MG995        | 1        | 5V                         |
+| Piles lithium 3.7V x2    | 1        | Alimentation externe       |
+| Alim. optionnelle (AA x6)| 1        | Bloc ou pack piles         |
+
+---
+
+# ⚡ Connexion des composants
+
+### ✅ LED  
+- + → Résistance 220Ω → D2  
+- – → GND
+
+### ✅ Bouton  
+- Une patte → 5V  
+- Autre → D3 + Résistance 10kΩ → GND
+
+### ✅ Servomoteur SG90  
+- Marron → GND  
+- Rouge → 5V  
+- Orange → D9
+
+### ✅ Moteurs via L298N  
+- IN1 → D5  
+- IN2 → D6  
+- ENA/ENB → 5V  
+- GND L298N → GND Arduino  
+- VIN L298N : 9V
+
+---
+
+# 💻 Exemple de Code Arduino
+
+✔️ LED clignote, moteur tourne, servo pivote avec un bouton :
+
+```cpp
+#include <Servo.h>
+
+Servo monServo;
+int bouton = 3;
+int led = 2;
+int moteur1 = 5;
+int moteur2 = 6;
+
+void setup() {
+  pinMode(bouton, INPUT);
+  pinMode(led, OUTPUT);
+  pinMode(moteur1, OUTPUT);
+  pinMode(moteur2, OUTPUT);
+  monServo.attach(9);
+}
+
+void loop() {
+  if (digitalRead(bouton) == HIGH) {
+    digitalWrite(led, HIGH);
+    digitalWrite(moteur1, HIGH);
+    digitalWrite(moteur2, LOW);
+    monServo.write(90);
+    delay(1000);
+    digitalWrite(led, LOW);
+    digitalWrite(moteur1, LOW);
+    digitalWrite(moteur2, LOW);
+    monServo.write(0);
+  }
+}

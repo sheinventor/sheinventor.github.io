@@ -1012,7 +1012,7 @@
     "href": "fr/index.html",
     "title": "Listing of tutorials",
     "section": "",
-    "text": "comics\nEnlace a comics ::: {#comics} :::\n\n\nTutoriales\n\n\n\n\n\n\n\n\nImpression 3D avec Flashforge Adventurer 5M Pro :\n\n\n\n\n\n\nPaola\n\n\n\n\n\n\n\n\n\n\n\n\nUtilisation de OrcaSlicer avec Forge Adventurer M5 Pro\n\n\n\n\n\n\nPaola\n\n\nJun 1, 2027\n\n\n\n\n\n\n\n\n\n\n\n\nImpression 3D\n\n\n\n\n\n\nPaola\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\nMicrophone\n\n\n\n\n\n\nPaola VAZQUEZ\n\n\nJun 11, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "comics\nEnlace a comics ::: {#comics} :::\n\n\nTutoriales\n\n\n\n\n\n\n\n\nImpression 3D avec Flashforge Adventurer 5M Pro :\n\n\n\n\n\n\nPaola\n\n\n\n\n\n\n\n\n\n\n\n\nUtilisation de OrcaSlicer avec Forge Adventurer M5 Pro\n\n\n\n\n\n\nPaola\n\n\nJun 1, 2027\n\n\n\n\n\n\n\n\n\n\n\n\nUtilisation de OrcaSlicer avec Forge Adventurer M5 Pro\n\n\n\n\n\n\nPaola\n\n\nJun 1, 2027\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\nMicrophone\n\n\n\n\n\n\nPaola VAZQUEZ\n\n\nJun 11, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "fr/tutorials/00-introduction.html#but-pédagogique-de-ce-tutorial",
@@ -1342,5 +1342,26 @@
     "title": "Bienvenida a Sheinventor",
     "section": "",
     "text": "Selecciona tu idioma\n\nEnglish Español Français"
+  },
+  {
+    "objectID": "fr/tutorials/03-2Arduino.html#objectifs-pédagogiques",
+    "href": "fr/tutorials/03-2Arduino.html#objectifs-pédagogiques",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Objectifs pédagogiques",
+    "text": "Objectifs pédagogiques\n\n🧠 Connaissances :\n\nComprendre le fonctionnement d’une carte Arduino\n\n🔧 Savoir-faire :\n\nÉcrire, téléverser et tester un programme sur Arduino\n\n✍ Compétences :\n\nRéaliser un projet avec LED, bouton, servo et moteurs"
+  },
+  {
+    "objectID": "fr/tutorials/03-2Arduino.html#pilote-ch340-pour-clones",
+    "href": "fr/tutorials/03-2Arduino.html#pilote-ch340-pour-clones",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Pilote CH340 (pour clones)",
+    "text": "Pilote CH340 (pour clones)\n\nTélécharger ici (Windows)\n\nTélécharger pour Mac"
+  },
+  {
+    "objectID": "fr/tutorials/03-2Arduino.html#ajouter-des-bibliothèques-dans-lide",
+    "href": "fr/tutorials/03-2Arduino.html#ajouter-des-bibliothèques-dans-lide",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Ajouter des bibliothèques dans l’IDE",
+    "text": "Ajouter des bibliothèques dans l’IDE\n\nMenu : Croquis &gt; Inclure une bibliothèque &gt; Gérer les bibliothèques…\n\nRechercher et installer Servo"
   }
 ]
